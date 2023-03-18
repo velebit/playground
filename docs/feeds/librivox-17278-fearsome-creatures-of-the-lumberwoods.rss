@@ -1,0 +1,277 @@
+<?xml version="1.0" ?><rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+  <title><![CDATA[Fearsome Creatures of the Lumberwoods by William T. Cox (1878 - 1961)]]></title>
+  <link><![CDATA[https://librivox.org/fearsome-creatures-of-the-lumberwoods-by-william-t-cox/]]></link>
+  <atom:link rel="self" href="https://librivox.org/rss/17278" />
+  <description><![CDATA[A limbless reptilian monster that propels itself through the swamps with a propellor-tipped tail? A creature so ashamed of its monstrous appearance that it dissolves into tears when captured? Learn about the snoligoster, the squonk and many other 'fearsome critters' in this field guide written and illustrated by two North American foresters who know them well. Listeners who suspect that these creatures are the stuff of tall tales, will nevertheless do well to look out for slide-rock bolters when vacationing in the Colorado mountains.   - Summary by Phil Benson]]></description>
+  <!--<genre>project element=Genre</genre>-->
+  <!--<language>project element=lang.code</language>-->
+  <itunes:type>serial</itunes:type>
+  <itunes:author>LibriVox</itunes:author>
+  <itunes:summary><![CDATA[A limbless reptilian monster that propels itself through the swamps with a propellor-tipped tail? A creature so ashamed of its monstrous appearance that it dissolves into tears when captured? Learn about the snoligoster, the squonk and many other 'fearsome critters' in this field guide written and illustrated by two North American foresters who know them well. Listeners who suspect that these creatures are the stuff of tall tales, will nevertheless do well to look out for slide-rock bolters when vacationing in the Colorado mountains.   - Summary by Phil Benson]]></itunes:summary>
+  <itunes:owner>
+    <itunes:name>LibriVox</itunes:name>
+    <itunes:email>info@librivox.org</itunes:email>
+  </itunes:owner>
+  <itunes:category text="Arts">
+    <itunes:category text="Literature" />
+  </itunes:category>
+  <image><url>https://archive.org/download/fearsome_creatures_2111_librivox/fearsome_2111.jpg</url></image>
+  <itunes:image href="https://archive.org/download/fearsome_creatures_2111_librivox/fearsome_2111.jpg"/>
+  <itunes:explicit>no</itunes:explicit>
+  <!-- file loop -->
+    <item>
+    <title><![CDATA[Introduction]]></title>
+    <itunes:episode><![CDATA[0]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/fearsome-creatures-of-the-lumberwoods-by-william-t-cox/]]></link>
+            <enclosure url="https://www.archive.org/download/fearsome_creatures_2111_librivox/fearsomecreatures_00_cox_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 20 Nov 2021 00:00:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/fearsome_creatures_2111_librivox/fearsomecreatures_00_cox_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Hugag]]></title>
+    <itunes:episode><![CDATA[1]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/fearsome-creatures-of-the-lumberwoods-by-william-t-cox/]]></link>
+            <enclosure url="https://www.archive.org/download/fearsome_creatures_2111_librivox/fearsomecreatures_01_cox_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 20 Nov 2021 00:01:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/fearsome_creatures_2111_librivox/fearsomecreatures_01_cox_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Gumberoo]]></title>
+    <itunes:episode><![CDATA[2]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/fearsome-creatures-of-the-lumberwoods-by-william-t-cox/]]></link>
+            <enclosure url="https://www.archive.org/download/fearsome_creatures_2111_librivox/fearsomecreatures_02_cox_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 20 Nov 2021 00:02:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/fearsome_creatures_2111_librivox/fearsomecreatures_02_cox_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Roperite]]></title>
+    <itunes:episode><![CDATA[3]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/fearsome-creatures-of-the-lumberwoods-by-william-t-cox/]]></link>
+            <enclosure url="https://www.archive.org/download/fearsome_creatures_2111_librivox/fearsomecreatures_03_cox_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 20 Nov 2021 00:03:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/fearsome_creatures_2111_librivox/fearsomecreatures_03_cox_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Snoligoster]]></title>
+    <itunes:episode><![CDATA[4]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/fearsome-creatures-of-the-lumberwoods-by-william-t-cox/]]></link>
+            <enclosure url="https://www.archive.org/download/fearsome_creatures_2111_librivox/fearsomecreatures_04_cox_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 20 Nov 2021 00:04:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/fearsome_creatures_2111_librivox/fearsomecreatures_04_cox_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Leprocaun]]></title>
+    <itunes:episode><![CDATA[5]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/fearsome-creatures-of-the-lumberwoods-by-william-t-cox/]]></link>
+            <enclosure url="https://www.archive.org/download/fearsome_creatures_2111_librivox/fearsomecreatures_05_cox_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 20 Nov 2021 00:05:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/fearsome_creatures_2111_librivox/fearsomecreatures_05_cox_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Funeral Mountain Terrashot]]></title>
+    <itunes:episode><![CDATA[6]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/fearsome-creatures-of-the-lumberwoods-by-william-t-cox/]]></link>
+            <enclosure url="https://www.archive.org/download/fearsome_creatures_2111_librivox/fearsomecreatures_06_cox_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 20 Nov 2021 00:06:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/fearsome_creatures_2111_librivox/fearsomecreatures_06_cox_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Slide-rock Bolter]]></title>
+    <itunes:episode><![CDATA[7]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/fearsome-creatures-of-the-lumberwoods-by-william-t-cox/]]></link>
+            <enclosure url="https://www.archive.org/download/fearsome_creatures_2111_librivox/fearsomecreatures_07_cox_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 20 Nov 2021 00:07:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/fearsome_creatures_2111_librivox/fearsomecreatures_07_cox_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Tote-road Shagamaw]]></title>
+    <itunes:episode><![CDATA[8]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/fearsome-creatures-of-the-lumberwoods-by-william-t-cox/]]></link>
+            <enclosure url="https://www.archive.org/download/fearsome_creatures_2111_librivox/fearsomecreatures_08_cox_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 20 Nov 2021 00:08:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/fearsome_creatures_2111_librivox/fearsomecreatures_08_cox_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Wapaloosie]]></title>
+    <itunes:episode><![CDATA[9]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/fearsome-creatures-of-the-lumberwoods-by-william-t-cox/]]></link>
+            <enclosure url="https://www.archive.org/download/fearsome_creatures_2111_librivox/fearsomecreatures_09_cox_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 20 Nov 2021 00:09:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/fearsome_creatures_2111_librivox/fearsomecreatures_09_cox_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Cactus Cat]]></title>
+    <itunes:episode><![CDATA[10]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/fearsome-creatures-of-the-lumberwoods-by-william-t-cox/]]></link>
+            <enclosure url="https://www.archive.org/download/fearsome_creatures_2111_librivox/fearsomecreatures_10_cox_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 20 Nov 2021 00:10:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/fearsome_creatures_2111_librivox/fearsomecreatures_10_cox_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Hodag]]></title>
+    <itunes:episode><![CDATA[11]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/fearsome-creatures-of-the-lumberwoods-by-william-t-cox/]]></link>
+            <enclosure url="https://www.archive.org/download/fearsome_creatures_2111_librivox/fearsomecreatures_11_cox_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 20 Nov 2021 00:11:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/fearsome_creatures_2111_librivox/fearsomecreatures_11_cox_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Squonk]]></title>
+    <itunes:episode><![CDATA[12]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/fearsome-creatures-of-the-lumberwoods-by-william-t-cox/]]></link>
+            <enclosure url="https://www.archive.org/download/fearsome_creatures_2111_librivox/fearsomecreatures_12_cox_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 20 Nov 2021 00:12:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/fearsome_creatures_2111_librivox/fearsomecreatures_12_cox_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Whirling Whimpus]]></title>
+    <itunes:episode><![CDATA[13]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/fearsome-creatures-of-the-lumberwoods-by-william-t-cox/]]></link>
+            <enclosure url="https://www.archive.org/download/fearsome_creatures_2111_librivox/fearsomecreatures_13_cox_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 20 Nov 2021 00:13:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/fearsome_creatures_2111_librivox/fearsomecreatures_13_cox_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Agropelter]]></title>
+    <itunes:episode><![CDATA[14]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/fearsome-creatures-of-the-lumberwoods-by-william-t-cox/]]></link>
+            <enclosure url="https://www.archive.org/download/fearsome_creatures_2111_librivox/fearsomecreatures_14_cox_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 20 Nov 2021 00:14:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/fearsome_creatures_2111_librivox/fearsomecreatures_14_cox_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Splinter Cat]]></title>
+    <itunes:episode><![CDATA[15]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/fearsome-creatures-of-the-lumberwoods-by-william-t-cox/]]></link>
+            <enclosure url="https://www.archive.org/download/fearsome_creatures_2111_librivox/fearsomecreatures_15_cox_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 20 Nov 2021 00:15:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/fearsome_creatures_2111_librivox/fearsomecreatures_15_cox_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Snow Wasset]]></title>
+    <itunes:episode><![CDATA[16]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/fearsome-creatures-of-the-lumberwoods-by-william-t-cox/]]></link>
+            <enclosure url="https://www.archive.org/download/fearsome_creatures_2111_librivox/fearsomecreatures_16_cox_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 20 Nov 2021 00:16:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/fearsome_creatures_2111_librivox/fearsomecreatures_16_cox_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Central American Whintosser]]></title>
+    <itunes:episode><![CDATA[17]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/fearsome-creatures-of-the-lumberwoods-by-william-t-cox/]]></link>
+            <enclosure url="https://www.archive.org/download/fearsome_creatures_2111_librivox/fearsomecreatures_17_cox_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 20 Nov 2021 00:17:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/fearsome_creatures_2111_librivox/fearsomecreatures_17_cox_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Billdad]]></title>
+    <itunes:episode><![CDATA[18]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/fearsome-creatures-of-the-lumberwoods-by-william-t-cox/]]></link>
+            <enclosure url="https://www.archive.org/download/fearsome_creatures_2111_librivox/fearsomecreatures_18_cox_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 20 Nov 2021 00:18:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/fearsome_creatures_2111_librivox/fearsomecreatures_18_cox_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Tripodero]]></title>
+    <itunes:episode><![CDATA[19]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/fearsome-creatures-of-the-lumberwoods-by-william-t-cox/]]></link>
+            <enclosure url="https://www.archive.org/download/fearsome_creatures_2111_librivox/fearsomecreatures_19_cox_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 20 Nov 2021 00:19:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/fearsome_creatures_2111_librivox/fearsomecreatures_19_cox_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Hyampom Hog Bear]]></title>
+    <itunes:episode><![CDATA[20]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/fearsome-creatures-of-the-lumberwoods-by-william-t-cox/]]></link>
+            <enclosure url="https://www.archive.org/download/fearsome_creatures_2111_librivox/fearsomecreatures_20_cox_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 20 Nov 2021 00:20:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/fearsome_creatures_2111_librivox/fearsomecreatures_20_cox_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <!-- end file loop -->
+</channel>
+</rss>

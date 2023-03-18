@@ -1,0 +1,649 @@
+<?xml version="1.0" ?><rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+  <title><![CDATA[Arabian Nights Entertainments, Volume 04, The by Anonymous]]></title>
+  <link><![CDATA[https://librivox.org/the-arabian-nights-entertainments-volume-04-by-anonymous/]]></link>
+  <atom:link rel="self" href="https://librivox.org/rss/14739" />
+  <description><![CDATA[The fourth and final volume of Middle Eastern tales, originally written in Arabic. Scheherazade tries to prolong her husband's interest in her - and therefore her life - by telling her tales in installments.  - Summary by Gillian Hendrie]]></description>
+  <!--<genre>project element=Genre</genre>-->
+  <!--<language>project element=lang.code</language>-->
+  <itunes:type>serial</itunes:type>
+  <itunes:author>LibriVox</itunes:author>
+  <itunes:summary><![CDATA[The fourth and final volume of Middle Eastern tales, originally written in Arabic. Scheherazade tries to prolong her husband's interest in her - and therefore her life - by telling her tales in installments.  - Summary by Gillian Hendrie]]></itunes:summary>
+  <itunes:owner>
+    <itunes:name>LibriVox</itunes:name>
+    <itunes:email>info@librivox.org</itunes:email>
+  </itunes:owner>
+  <itunes:category text="Arts">
+    <itunes:category text="Literature" />
+  </itunes:category>
+  <image><url>https://archive.org/download/arabiannightsentertainmentsvolume04_2102_librivox/arabian_nights4_2102.jpg</url></image>
+  <itunes:image href="https://archive.org/download/arabiannightsentertainmentsvolume04_2102_librivox/arabian_nights4_2102.jpg"/>
+  <itunes:explicit>no</itunes:explicit>
+  <!-- file loop -->
+    <item>
+    <title><![CDATA[The Story of the Enchanted Horse, part 1]]></title>
+    <itunes:episode><![CDATA[1]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-arabian-nights-entertainments-volume-04-by-anonymous/]]></link>
+            <enclosure url="https://www.archive.org/download/arabiannightsentertainmentsvolume04_2102_librivox/arabiannights04_01_anonymous_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 15 Feb 2021 00:00:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/arabiannightsentertainmentsvolume04_2102_librivox/arabiannights04_01_anonymous_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Story of the Enchanted Horse, part 2]]></title>
+    <itunes:episode><![CDATA[2]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-arabian-nights-entertainments-volume-04-by-anonymous/]]></link>
+            <enclosure url="https://www.archive.org/download/arabiannightsentertainmentsvolume04_2102_librivox/arabiannights04_02_anonymous_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 15 Feb 2021 00:01:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/arabiannightsentertainmentsvolume04_2102_librivox/arabiannights04_02_anonymous_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Story of the Enchanted Horse, part 3]]></title>
+    <itunes:episode><![CDATA[3]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-arabian-nights-entertainments-volume-04-by-anonymous/]]></link>
+            <enclosure url="https://www.archive.org/download/arabiannightsentertainmentsvolume04_2102_librivox/arabiannights04_03_anonymous_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 15 Feb 2021 00:02:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/arabiannightsentertainmentsvolume04_2102_librivox/arabiannights04_03_anonymous_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Story of Prince Ahmed, and the Fairy Perie Banou, part 1]]></title>
+    <itunes:episode><![CDATA[4]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-arabian-nights-entertainments-volume-04-by-anonymous/]]></link>
+            <enclosure url="https://www.archive.org/download/arabiannightsentertainmentsvolume04_2102_librivox/arabiannights04_04_anonymous_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 15 Feb 2021 00:03:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/arabiannightsentertainmentsvolume04_2102_librivox/arabiannights04_04_anonymous_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Story of Prince Ahmed, and the Fairy Perie Banou, part 2]]></title>
+    <itunes:episode><![CDATA[5]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-arabian-nights-entertainments-volume-04-by-anonymous/]]></link>
+            <enclosure url="https://www.archive.org/download/arabiannightsentertainmentsvolume04_2102_librivox/arabiannights04_05_anonymous_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 15 Feb 2021 00:04:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/arabiannightsentertainmentsvolume04_2102_librivox/arabiannights04_05_anonymous_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Story of Prince Ahmed, and the Fairy Perie Banou, part 3]]></title>
+    <itunes:episode><![CDATA[6]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-arabian-nights-entertainments-volume-04-by-anonymous/]]></link>
+            <enclosure url="https://www.archive.org/download/arabiannightsentertainmentsvolume04_2102_librivox/arabiannights04_06_anonymous_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 15 Feb 2021 00:05:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/arabiannightsentertainmentsvolume04_2102_librivox/arabiannights04_06_anonymous_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Story of Prince Ahmed, and the Fairy Perie Banou, part 4]]></title>
+    <itunes:episode><![CDATA[7]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-arabian-nights-entertainments-volume-04-by-anonymous/]]></link>
+            <enclosure url="https://www.archive.org/download/arabiannightsentertainmentsvolume04_2102_librivox/arabiannights04_07_anonymous_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 15 Feb 2021 00:06:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/arabiannightsentertainmentsvolume04_2102_librivox/arabiannights04_07_anonymous_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Story of Prince Ahmed, and the Fairy Perie Banou, part 5]]></title>
+    <itunes:episode><![CDATA[8]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-arabian-nights-entertainments-volume-04-by-anonymous/]]></link>
+            <enclosure url="https://www.archive.org/download/arabiannightsentertainmentsvolume04_2102_librivox/arabiannights04_08_anonymous_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 15 Feb 2021 00:07:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/arabiannightsentertainmentsvolume04_2102_librivox/arabiannights04_08_anonymous_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Story of the Sisters Who Envied Their Younger Sister, part 1]]></title>
+    <itunes:episode><![CDATA[9]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-arabian-nights-entertainments-volume-04-by-anonymous/]]></link>
+            <enclosure url="https://www.archive.org/download/arabiannightsentertainmentsvolume04_2102_librivox/arabiannights04_09_anonymous_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 15 Feb 2021 00:08:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/arabiannightsentertainmentsvolume04_2102_librivox/arabiannights04_09_anonymous_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Story of the Sisters Who Envied Their Younger Sister, part 2]]></title>
+    <itunes:episode><![CDATA[10]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-arabian-nights-entertainments-volume-04-by-anonymous/]]></link>
+            <enclosure url="https://www.archive.org/download/arabiannightsentertainmentsvolume04_2102_librivox/arabiannights04_10_anonymous_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 15 Feb 2021 00:09:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/arabiannightsentertainmentsvolume04_2102_librivox/arabiannights04_10_anonymous_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Story of the Sisters Who Envied Their Younger Sister, part 3]]></title>
+    <itunes:episode><![CDATA[11]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-arabian-nights-entertainments-volume-04-by-anonymous/]]></link>
+            <enclosure url="https://www.archive.org/download/arabiannightsentertainmentsvolume04_2102_librivox/arabiannights04_11_anonymous_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 15 Feb 2021 00:10:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/arabiannightsentertainmentsvolume04_2102_librivox/arabiannights04_11_anonymous_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Story of the Sisters Who Envied Their Younger Sister, part 4]]></title>
+    <itunes:episode><![CDATA[12]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-arabian-nights-entertainments-volume-04-by-anonymous/]]></link>
+            <enclosure url="https://www.archive.org/download/arabiannightsentertainmentsvolume04_2102_librivox/arabiannights04_12_anonymous_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 15 Feb 2021 00:11:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/arabiannightsentertainmentsvolume04_2102_librivox/arabiannights04_12_anonymous_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Story of the Sultan of Yemen and His Three Sons]]></title>
+    <itunes:episode><![CDATA[13]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-arabian-nights-entertainments-volume-04-by-anonymous/]]></link>
+            <enclosure url="https://www.archive.org/download/arabiannightsentertainmentsvolume04_2102_librivox/arabiannights04_13_anonymous_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 15 Feb 2021 00:12:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/arabiannightsentertainmentsvolume04_2102_librivox/arabiannights04_13_anonymous_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Story of the Three Sharpers and the Sultan]]></title>
+    <itunes:episode><![CDATA[14]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-arabian-nights-entertainments-volume-04-by-anonymous/]]></link>
+            <enclosure url="https://www.archive.org/download/arabiannightsentertainmentsvolume04_2102_librivox/arabiannights04_14_anonymous_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 15 Feb 2021 00:13:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/arabiannightsentertainmentsvolume04_2102_librivox/arabiannights04_14_anonymous_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Adventures of the Abdicated Sultan]]></title>
+    <itunes:episode><![CDATA[15]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-arabian-nights-entertainments-volume-04-by-anonymous/]]></link>
+            <enclosure url="https://www.archive.org/download/arabiannightsentertainmentsvolume04_2102_librivox/arabiannights04_15_anonymous_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 15 Feb 2021 00:14:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/arabiannightsentertainmentsvolume04_2102_librivox/arabiannights04_15_anonymous_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[History of Mahummud, Sultan of Cairo]]></title>
+    <itunes:episode><![CDATA[16]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-arabian-nights-entertainments-volume-04-by-anonymous/]]></link>
+            <enclosure url="https://www.archive.org/download/arabiannightsentertainmentsvolume04_2102_librivox/arabiannights04_16_anonymous_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 15 Feb 2021 00:15:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/arabiannightsentertainmentsvolume04_2102_librivox/arabiannights04_16_anonymous_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Story of the First Lunatic]]></title>
+    <itunes:episode><![CDATA[17]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-arabian-nights-entertainments-volume-04-by-anonymous/]]></link>
+            <enclosure url="https://www.archive.org/download/arabiannightsentertainmentsvolume04_2102_librivox/arabiannights04_17_anonymous_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 15 Feb 2021 00:16:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/arabiannightsentertainmentsvolume04_2102_librivox/arabiannights04_17_anonymous_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Story of the Second Lunatic]]></title>
+    <itunes:episode><![CDATA[18]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-arabian-nights-entertainments-volume-04-by-anonymous/]]></link>
+            <enclosure url="https://www.archive.org/download/arabiannightsentertainmentsvolume04_2102_librivox/arabiannights04_18_anonymous_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 15 Feb 2021 00:17:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/arabiannightsentertainmentsvolume04_2102_librivox/arabiannights04_18_anonymous_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Story of the Retired Sage and His Pupil, Related to the           Sultan by the Second Lunatic]]></title>
+    <itunes:episode><![CDATA[19]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-arabian-nights-entertainments-volume-04-by-anonymous/]]></link>
+            <enclosure url="https://www.archive.org/download/arabiannightsentertainmentsvolume04_2102_librivox/arabiannights04_19_anonymous_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 15 Feb 2021 00:18:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/arabiannightsentertainmentsvolume04_2102_librivox/arabiannights04_19_anonymous_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Story of the Broken-backed Schoolmaster]]></title>
+    <itunes:episode><![CDATA[20]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-arabian-nights-entertainments-volume-04-by-anonymous/]]></link>
+            <enclosure url="https://www.archive.org/download/arabiannightsentertainmentsvolume04_2102_librivox/arabiannights04_20_anonymous_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 15 Feb 2021 00:19:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/arabiannightsentertainmentsvolume04_2102_librivox/arabiannights04_20_anonymous_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Story of the Wry-mouthed Schoolmaster]]></title>
+    <itunes:episode><![CDATA[21]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-arabian-nights-entertainments-volume-04-by-anonymous/]]></link>
+            <enclosure url="https://www.archive.org/download/arabiannightsentertainmentsvolume04_2102_librivox/arabiannights04_21_anonymous_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 15 Feb 2021 00:20:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/arabiannightsentertainmentsvolume04_2102_librivox/arabiannights04_21_anonymous_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Story of the Sisters and the Sultana Their Mother, part 1]]></title>
+    <itunes:episode><![CDATA[22]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-arabian-nights-entertainments-volume-04-by-anonymous/]]></link>
+            <enclosure url="https://www.archive.org/download/arabiannightsentertainmentsvolume04_2102_librivox/arabiannights04_22_anonymous_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 15 Feb 2021 00:21:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/arabiannightsentertainmentsvolume04_2102_librivox/arabiannights04_22_anonymous_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Story of the Sisters and the Sultana Their Mother, part 2]]></title>
+    <itunes:episode><![CDATA[23]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-arabian-nights-entertainments-volume-04-by-anonymous/]]></link>
+            <enclosure url="https://www.archive.org/download/arabiannightsentertainmentsvolume04_2102_librivox/arabiannights04_23_anonymous_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 15 Feb 2021 00:22:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/arabiannightsentertainmentsvolume04_2102_librivox/arabiannights04_23_anonymous_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Story of the Bang-eater and the Cauzee]]></title>
+    <itunes:episode><![CDATA[24]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-arabian-nights-entertainments-volume-04-by-anonymous/]]></link>
+            <enclosure url="https://www.archive.org/download/arabiannightsentertainmentsvolume04_2102_librivox/arabiannights04_24_anonymous_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 15 Feb 2021 00:23:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/arabiannightsentertainmentsvolume04_2102_librivox/arabiannights04_24_anonymous_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Story of the Bang-eater and His Wife]]></title>
+    <itunes:episode><![CDATA[25]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-arabian-nights-entertainments-volume-04-by-anonymous/]]></link>
+            <enclosure url="https://www.archive.org/download/arabiannightsentertainmentsvolume04_2102_librivox/arabiannights04_25_anonymous_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 15 Feb 2021 00:24:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/arabiannightsentertainmentsvolume04_2102_librivox/arabiannights04_25_anonymous_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Sultan and the Traveller Mhamood Al Hyjemmee]]></title>
+    <itunes:episode><![CDATA[26]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-arabian-nights-entertainments-volume-04-by-anonymous/]]></link>
+            <enclosure url="https://www.archive.org/download/arabiannightsentertainmentsvolume04_2102_librivox/arabiannights04_26_anonymous_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 15 Feb 2021 00:25:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/arabiannightsentertainmentsvolume04_2102_librivox/arabiannights04_26_anonymous_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Koord Robber]]></title>
+    <itunes:episode><![CDATA[27]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-arabian-nights-entertainments-volume-04-by-anonymous/]]></link>
+            <enclosure url="https://www.archive.org/download/arabiannightsentertainmentsvolume04_2102_librivox/arabiannights04_27_anonymous_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 15 Feb 2021 00:26:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/arabiannightsentertainmentsvolume04_2102_librivox/arabiannights04_27_anonymous_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Story of the Husbandman]]></title>
+    <itunes:episode><![CDATA[28]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-arabian-nights-entertainments-volume-04-by-anonymous/]]></link>
+            <enclosure url="https://www.archive.org/download/arabiannightsentertainmentsvolume04_2102_librivox/arabiannights04_28_anonymous_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 15 Feb 2021 00:27:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/arabiannightsentertainmentsvolume04_2102_librivox/arabiannights04_28_anonymous_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Story of the Three Princes and Enchanting Bird]]></title>
+    <itunes:episode><![CDATA[29]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-arabian-nights-entertainments-volume-04-by-anonymous/]]></link>
+            <enclosure url="https://www.archive.org/download/arabiannightsentertainmentsvolume04_2102_librivox/arabiannights04_29_anonymous_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 15 Feb 2021 00:28:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/arabiannightsentertainmentsvolume04_2102_librivox/arabiannights04_29_anonymous_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Story of a Sultan of Yemen and His Three Sons]]></title>
+    <itunes:episode><![CDATA[30]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-arabian-nights-entertainments-volume-04-by-anonymous/]]></link>
+            <enclosure url="https://www.archive.org/download/arabiannightsentertainmentsvolume04_2102_librivox/arabiannights04_30_anonymous_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 15 Feb 2021 00:29:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/arabiannightsentertainmentsvolume04_2102_librivox/arabiannights04_30_anonymous_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Story of the First Sharper in the Cave]]></title>
+    <itunes:episode><![CDATA[31]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-arabian-nights-entertainments-volume-04-by-anonymous/]]></link>
+            <enclosure url="https://www.archive.org/download/arabiannightsentertainmentsvolume04_2102_librivox/arabiannights04_31_anonymous_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 15 Feb 2021 00:30:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/arabiannightsentertainmentsvolume04_2102_librivox/arabiannights04_31_anonymous_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[History of the Sultan of Hind]]></title>
+    <itunes:episode><![CDATA[32]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-arabian-nights-entertainments-volume-04-by-anonymous/]]></link>
+            <enclosure url="https://www.archive.org/download/arabiannightsentertainmentsvolume04_2102_librivox/arabiannights04_32_anonymous_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 15 Feb 2021 00:31:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/arabiannightsentertainmentsvolume04_2102_librivox/arabiannights04_32_anonymous_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Story of the Fisherman's Son]]></title>
+    <itunes:episode><![CDATA[33]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-arabian-nights-entertainments-volume-04-by-anonymous/]]></link>
+            <enclosure url="https://www.archive.org/download/arabiannightsentertainmentsvolume04_2102_librivox/arabiannights04_33_anonymous_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 15 Feb 2021 00:32:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/arabiannightsentertainmentsvolume04_2102_librivox/arabiannights04_33_anonymous_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Story of Abou Neeut and Abou Neeuteen; Or, the Well-intentioned      and the Double-minded]]></title>
+    <itunes:episode><![CDATA[34]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-arabian-nights-entertainments-volume-04-by-anonymous/]]></link>
+            <enclosure url="https://www.archive.org/download/arabiannightsentertainmentsvolume04_2102_librivox/arabiannights04_34_anonymous_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 15 Feb 2021 00:33:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/arabiannightsentertainmentsvolume04_2102_librivox/arabiannights04_34_anonymous_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Adventure of a Courtier, Related by Himself to His Parton, an      Ameer of Egypt]]></title>
+    <itunes:episode><![CDATA[35]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-arabian-nights-entertainments-volume-04-by-anonymous/]]></link>
+            <enclosure url="https://www.archive.org/download/arabiannightsentertainmentsvolume04_2102_librivox/arabiannights04_35_anonymous_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 15 Feb 2021 00:34:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/arabiannightsentertainmentsvolume04_2102_librivox/arabiannights04_35_anonymous_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Story of the Prince of Sind, and Fatima, Daughter of Amir Bin Naomaun]]></title>
+    <itunes:episode><![CDATA[36]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-arabian-nights-entertainments-volume-04-by-anonymous/]]></link>
+            <enclosure url="https://www.archive.org/download/arabiannightsentertainmentsvolume04_2102_librivox/arabiannights04_36_anonymous_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 15 Feb 2021 00:35:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/arabiannightsentertainmentsvolume04_2102_librivox/arabiannights04_36_anonymous_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Story of the Lovers of Syria; Or, the Heroine]]></title>
+    <itunes:episode><![CDATA[37]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-arabian-nights-entertainments-volume-04-by-anonymous/]]></link>
+            <enclosure url="https://www.archive.org/download/arabiannightsentertainmentsvolume04_2102_librivox/arabiannights04_37_anonymous_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 15 Feb 2021 00:36:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/arabiannightsentertainmentsvolume04_2102_librivox/arabiannights04_37_anonymous_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Story of Hyjauje, the Tyrannical Governor of Coufeh, and the Young Syed]]></title>
+    <itunes:episode><![CDATA[38]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-arabian-nights-entertainments-volume-04-by-anonymous/]]></link>
+            <enclosure url="https://www.archive.org/download/arabiannightsentertainmentsvolume04_2102_librivox/arabiannights04_38_anonymous_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 15 Feb 2021 00:37:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/arabiannightsentertainmentsvolume04_2102_librivox/arabiannights04_38_anonymous_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Story of Ins Al Wujjood and Wird Al Ikmaun, Daughter of Ibrahim,      Vizier to Sultan Shamikh]]></title>
+    <itunes:episode><![CDATA[39]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-arabian-nights-entertainments-volume-04-by-anonymous/]]></link>
+            <enclosure url="https://www.archive.org/download/arabiannightsentertainmentsvolume04_2102_librivox/arabiannights04_39_anonymous_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 15 Feb 2021 00:38:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/arabiannightsentertainmentsvolume04_2102_librivox/arabiannights04_39_anonymous_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Adventures of Mazin of Khorassaun, part 1]]></title>
+    <itunes:episode><![CDATA[40]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-arabian-nights-entertainments-volume-04-by-anonymous/]]></link>
+            <enclosure url="https://www.archive.org/download/arabiannightsentertainmentsvolume04_2102_librivox/arabiannights04_40_anonymous_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 15 Feb 2021 00:39:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/arabiannightsentertainmentsvolume04_2102_librivox/arabiannights04_40_anonymous_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Adventures of Mazin of Khorassaun, part 2]]></title>
+    <itunes:episode><![CDATA[41]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-arabian-nights-entertainments-volume-04-by-anonymous/]]></link>
+            <enclosure url="https://www.archive.org/download/arabiannightsentertainmentsvolume04_2102_librivox/arabiannights04_41_anonymous_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 15 Feb 2021 00:40:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/arabiannightsentertainmentsvolume04_2102_librivox/arabiannights04_41_anonymous_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Adventures of Mazin of Khorassaun, part 3]]></title>
+    <itunes:episode><![CDATA[42]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-arabian-nights-entertainments-volume-04-by-anonymous/]]></link>
+            <enclosure url="https://www.archive.org/download/arabiannightsentertainmentsvolume04_2102_librivox/arabiannights04_42_anonymous_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 15 Feb 2021 00:41:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/arabiannightsentertainmentsvolume04_2102_librivox/arabiannights04_42_anonymous_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Story of the Sultan, the Dervish, and the Barber's Son]]></title>
+    <itunes:episode><![CDATA[43]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-arabian-nights-entertainments-volume-04-by-anonymous/]]></link>
+            <enclosure url="https://www.archive.org/download/arabiannightsentertainmentsvolume04_2102_librivox/arabiannights04_43_anonymous_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 15 Feb 2021 00:42:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/arabiannightsentertainmentsvolume04_2102_librivox/arabiannights04_43_anonymous_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Adventures of Aleefa Daughter of Mherejaun Sultan of Hind, and      Eusuff, Son of Sohul, Sultan of Sind]]></title>
+    <itunes:episode><![CDATA[44]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-arabian-nights-entertainments-volume-04-by-anonymous/]]></link>
+            <enclosure url="https://www.archive.org/download/arabiannightsentertainmentsvolume04_2102_librivox/arabiannights04_44_anonymous_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 15 Feb 2021 00:43:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/arabiannightsentertainmentsvolume04_2102_librivox/arabiannights04_44_anonymous_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Adventures of the Three Princes, Sons of the Sultan of China]]></title>
+    <itunes:episode><![CDATA[45]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-arabian-nights-entertainments-volume-04-by-anonymous/]]></link>
+            <enclosure url="https://www.archive.org/download/arabiannightsentertainmentsvolume04_2102_librivox/arabiannights04_45_anonymous_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 15 Feb 2021 00:44:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/arabiannightsentertainmentsvolume04_2102_librivox/arabiannights04_45_anonymous_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Story of the Good Vizier Unjustly Imprisoned]]></title>
+    <itunes:episode><![CDATA[46]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-arabian-nights-entertainments-volume-04-by-anonymous/]]></link>
+            <enclosure url="https://www.archive.org/download/arabiannightsentertainmentsvolume04_2102_librivox/arabiannights04_46_anonymous_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 15 Feb 2021 00:45:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/arabiannightsentertainmentsvolume04_2102_librivox/arabiannights04_46_anonymous_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Story of the Lady of Cairo and Her Four Gallants]]></title>
+    <itunes:episode><![CDATA[47]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-arabian-nights-entertainments-volume-04-by-anonymous/]]></link>
+            <enclosure url="https://www.archive.org/download/arabiannightsentertainmentsvolume04_2102_librivox/arabiannights04_47_anonymous_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 15 Feb 2021 00:46:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/arabiannightsentertainmentsvolume04_2102_librivox/arabiannights04_47_anonymous_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Cauzee's Story]]></title>
+    <itunes:episode><![CDATA[48]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-arabian-nights-entertainments-volume-04-by-anonymous/]]></link>
+            <enclosure url="https://www.archive.org/download/arabiannightsentertainmentsvolume04_2102_librivox/arabiannights04_48_anonymous_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 15 Feb 2021 00:47:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/arabiannightsentertainmentsvolume04_2102_librivox/arabiannights04_48_anonymous_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Story of the Merchant, His Daughter, and the Prince of Eerauk]]></title>
+    <itunes:episode><![CDATA[49]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-arabian-nights-entertainments-volume-04-by-anonymous/]]></link>
+            <enclosure url="https://www.archive.org/download/arabiannightsentertainmentsvolume04_2102_librivox/arabiannights04_49_anonymous_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 15 Feb 2021 00:48:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/arabiannightsentertainmentsvolume04_2102_librivox/arabiannights04_49_anonymous_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Adventures of the Cauzee, His Wife, &c]]></title>
+    <itunes:episode><![CDATA[50]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-arabian-nights-entertainments-volume-04-by-anonymous/]]></link>
+            <enclosure url="https://www.archive.org/download/arabiannightsentertainmentsvolume04_2102_librivox/arabiannights04_50_anonymous_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 15 Feb 2021 00:49:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/arabiannightsentertainmentsvolume04_2102_librivox/arabiannights04_50_anonymous_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Sultan's Story of Himself]]></title>
+    <itunes:episode><![CDATA[51]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-arabian-nights-entertainments-volume-04-by-anonymous/]]></link>
+            <enclosure url="https://www.archive.org/download/arabiannightsentertainmentsvolume04_2102_librivox/arabiannights04_51_anonymous_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 15 Feb 2021 00:50:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/arabiannightsentertainmentsvolume04_2102_librivox/arabiannights04_51_anonymous_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Conclusion]]></title>
+    <itunes:episode><![CDATA[52]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-arabian-nights-entertainments-volume-04-by-anonymous/]]></link>
+            <enclosure url="https://www.archive.org/download/arabiannightsentertainmentsvolume04_2102_librivox/arabiannights04_52_anonymous_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 15 Feb 2021 00:51:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/arabiannightsentertainmentsvolume04_2102_librivox/arabiannights04_52_anonymous_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <!-- end file loop -->
+</channel>
+</rss>

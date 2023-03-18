@@ -1,0 +1,73 @@
+<?xml version="1.0" ?><rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+  <title><![CDATA[Mongan's Frenzy by James Stephens (1882 - 1950)]]></title>
+  <link><![CDATA[https://librivox.org/mongans-frenzy-by-james-stephens/]]></link>
+  <atom:link rel="self" href="https://librivox.org/rss/17346" />
+  <description><![CDATA[James Stephens is famous for his retellings of Irish myths and fairy tales. This tale is about 1.5 hours in length, full of magical lore and you will spend some considerable time in Faery. It is funny, quirky, fast paced, full of surprises, and sometimes sarcastic, as only James Stephens can be. Stephens also wrote several original novels (The Charwoman's Daughter, The Crock of Gold, Etched in Moonlight, Deirdra, Demi-Gods) also loosely based on Irish fairy tales. Enjoy! (Summary by Michele Fry, soloist; DPL Kitty, January 2022)]]></description>
+  <!--<genre>project element=Genre</genre>-->
+  <!--<language>project element=lang.code</language>-->
+  <itunes:type>serial</itunes:type>
+  <itunes:author>LibriVox</itunes:author>
+  <itunes:summary><![CDATA[James Stephens is famous for his retellings of Irish myths and fairy tales. This tale is about 1.5 hours in length, full of magical lore and you will spend some considerable time in Faery. It is funny, quirky, fast paced, full of surprises, and sometimes sarcastic, as only James Stephens can be. Stephens also wrote several original novels (The Charwoman's Daughter, The Crock of Gold, Etched in Moonlight, Deirdra, Demi-Gods) also loosely based on Irish fairy tales. Enjoy! (Summary by Michele Fry, soloist; DPL Kitty, January 2022)]]></itunes:summary>
+  <itunes:owner>
+    <itunes:name>LibriVox</itunes:name>
+    <itunes:email>info@librivox.org</itunes:email>
+  </itunes:owner>
+  <itunes:category text="Arts">
+    <itunes:category text="Literature" />
+  </itunes:category>
+  <image><url>https://archive.org/download/mongans_frenzy_2201_librivox/mongansfrenzy_2201.jpg</url></image>
+  <itunes:image href="https://archive.org/download/mongans_frenzy_2201_librivox/mongansfrenzy_2201.jpg"/>
+  <itunes:explicit>no</itunes:explicit>
+  <!-- file loop -->
+    <item>
+    <title><![CDATA[I. Chapters 1-6]]></title>
+    <itunes:episode><![CDATA[1]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/mongans-frenzy-by-james-stephens/]]></link>
+            <enclosure url="https://www.archive.org/download/mongans_frenzy_2201_librivox/mongansfrenzy_01_stephens_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 23 Jan 2022 00:00:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/mongans_frenzy_2201_librivox/mongansfrenzy_01_stephens_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[II. Chapters 7-12]]></title>
+    <itunes:episode><![CDATA[2]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/mongans-frenzy-by-james-stephens/]]></link>
+            <enclosure url="https://www.archive.org/download/mongans_frenzy_2201_librivox/mongansfrenzy_02_stephens_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 23 Jan 2022 00:01:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/mongans_frenzy_2201_librivox/mongansfrenzy_02_stephens_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[III. Chapters 13-17]]></title>
+    <itunes:episode><![CDATA[3]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/mongans-frenzy-by-james-stephens/]]></link>
+            <enclosure url="https://www.archive.org/download/mongans_frenzy_2201_librivox/mongansfrenzy_03_stephens_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 23 Jan 2022 00:02:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/mongans_frenzy_2201_librivox/mongansfrenzy_03_stephens_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[IV.  Chapters 18-20]]></title>
+    <itunes:episode><![CDATA[4]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/mongans-frenzy-by-james-stephens/]]></link>
+            <enclosure url="https://www.archive.org/download/mongans_frenzy_2201_librivox/mongansfrenzy_04_stephens_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 23 Jan 2022 00:03:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/mongans_frenzy_2201_librivox/mongansfrenzy_04_stephens_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <!-- end file loop -->
+</channel>
+</rss>

@@ -1,0 +1,201 @@
+<?xml version="1.0" ?><rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+  <title><![CDATA[Asgard Stories: Tales from Norse Mythology by Mary H. Foster and Mabel H. Cummings]]></title>
+  <link><![CDATA[https://librivox.org/asgard-stories-tales-from-norse-mythology-by-mary-h-foster/]]></link>
+  <atom:link rel="self" href="https://librivox.org/rss/17028" />
+  <description><![CDATA[Asgard Stories - Tales from Norse Mythology. To all our Children who have loved the hearing of these Asgard Stories. This little volume is the outcome of several years experience in telling to classes of children the classic myths, both southern and northern. 
+
+"A broad simplicity, so very different from the light gracefulness of the old Greek paganism, distinguishes this Norse system. It is thought, the genuine thought of deep, rude, earnest minds, fairly opened to the things about them, - a face-to-face and heart-to-heart inspection of things, - the first characteristic of all good thought in all times." wrote Carlyle. 
+
+Anderson, the author of “Norse Mythology,” wrote: “In the Norse mythology the centralizing idea is its peculiar feature; in it lies its strength and beauty. The one myth and the one divinity is inextricably in communion with the other; and thus also the idea of unity, centralization, is a prominent feature and one of the chief characteristics of the Teutonic nations."]]></description>
+  <!--<genre>project element=Genre</genre>-->
+  <!--<language>project element=lang.code</language>-->
+  <itunes:type>serial</itunes:type>
+  <itunes:author>LibriVox</itunes:author>
+  <itunes:summary><![CDATA[Asgard Stories - Tales from Norse Mythology. To all our Children who have loved the hearing of these Asgard Stories. This little volume is the outcome of several years experience in telling to classes of children the classic myths, both southern and northern. 
+
+"A broad simplicity, so very different from the light gracefulness of the old Greek paganism, distinguishes this Norse system. It is thought, the genuine thought of deep, rude, earnest minds, fairly opened to the things about them, - a face-to-face and heart-to-heart inspection of things, - the first characteristic of all good thought in all times." wrote Carlyle. 
+
+Anderson, the author of “Norse Mythology,” wrote: “In the Norse mythology the centralizing idea is its peculiar feature; in it lies its strength and beauty. The one myth and the one divinity is inextricably in communion with the other; and thus also the idea of unity, centralization, is a prominent feature and one of the chief characteristics of the Teutonic nations."]]></itunes:summary>
+  <itunes:owner>
+    <itunes:name>LibriVox</itunes:name>
+    <itunes:email>info@librivox.org</itunes:email>
+  </itunes:owner>
+  <itunes:category text="Arts">
+    <itunes:category text="Literature" />
+  </itunes:category>
+  <image><url>https://archive.org/download/asgardstories_2110_librivox/asgard_2110.jpg</url></image>
+  <itunes:image href="https://archive.org/download/asgardstories_2110_librivox/asgard_2110.jpg"/>
+  <itunes:explicit>no</itunes:explicit>
+  <!-- file loop -->
+    <item>
+    <title><![CDATA[The Story of the Beginning]]></title>
+    <itunes:episode><![CDATA[1]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/asgard-stories-tales-from-norse-mythology-by-mary-h-foster/]]></link>
+            <enclosure url="https://www.archive.org/download/asgardstories_2110_librivox/asgardstories_01_foster_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Wed, 13 Oct 2021 00:00:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/asgardstories_2110_librivox/asgardstories_01_foster_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Odin’s Reward]]></title>
+    <itunes:episode><![CDATA[2]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/asgard-stories-tales-from-norse-mythology-by-mary-h-foster/]]></link>
+            <enclosure url="https://www.archive.org/download/asgardstories_2110_librivox/asgardstories_02_foster_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Wed, 13 Oct 2021 00:01:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/asgardstories_2110_librivox/asgardstories_02_foster_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Tyr and the Wolf]]></title>
+    <itunes:episode><![CDATA[3]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/asgard-stories-tales-from-norse-mythology-by-mary-h-foster/]]></link>
+            <enclosure url="https://www.archive.org/download/asgardstories_2110_librivox/asgardstories_03_foster_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Wed, 13 Oct 2021 00:02:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/asgardstories_2110_librivox/asgardstories_03_foster_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Freyja's Necklace]]></title>
+    <itunes:episode><![CDATA[4]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/asgard-stories-tales-from-norse-mythology-by-mary-h-foster/]]></link>
+            <enclosure url="https://www.archive.org/download/asgardstories_2110_librivox/asgardstories_04_foster_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Wed, 13 Oct 2021 00:03:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/asgardstories_2110_librivox/asgardstories_04_foster_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Hammer of Thor]]></title>
+    <itunes:episode><![CDATA[5]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/asgard-stories-tales-from-norse-mythology-by-mary-h-foster/]]></link>
+            <enclosure url="https://www.archive.org/download/asgardstories_2110_librivox/asgardstories_05_foster_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Wed, 13 Oct 2021 00:04:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/asgardstories_2110_librivox/asgardstories_05_foster_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Thor's Wonderful Journey]]></title>
+    <itunes:episode><![CDATA[6]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/asgard-stories-tales-from-norse-mythology-by-mary-h-foster/]]></link>
+            <enclosure url="https://www.archive.org/download/asgardstories_2110_librivox/asgardstories_06_foster_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Wed, 13 Oct 2021 00:05:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/asgardstories_2110_librivox/asgardstories_06_foster_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[How Thor Lost His Hammer]]></title>
+    <itunes:episode><![CDATA[7]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/asgard-stories-tales-from-norse-mythology-by-mary-h-foster/]]></link>
+            <enclosure url="https://www.archive.org/download/asgardstories_2110_librivox/asgardstories_07_foster_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Wed, 13 Oct 2021 00:06:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/asgardstories_2110_librivox/asgardstories_07_foster_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[A Gift from Frigga]]></title>
+    <itunes:episode><![CDATA[8]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/asgard-stories-tales-from-norse-mythology-by-mary-h-foster/]]></link>
+            <enclosure url="https://www.archive.org/download/asgardstories_2110_librivox/asgardstories_08_foster_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Wed, 13 Oct 2021 00:07:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/asgardstories_2110_librivox/asgardstories_08_foster_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Stealing of Iduna]]></title>
+    <itunes:episode><![CDATA[9]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/asgard-stories-tales-from-norse-mythology-by-mary-h-foster/]]></link>
+            <enclosure url="https://www.archive.org/download/asgardstories_2110_librivox/asgardstories_09_foster_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Wed, 13 Oct 2021 00:08:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/asgardstories_2110_librivox/asgardstories_09_foster_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Skadi]]></title>
+    <itunes:episode><![CDATA[10]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/asgard-stories-tales-from-norse-mythology-by-mary-h-foster/]]></link>
+            <enclosure url="https://www.archive.org/download/asgardstories_2110_librivox/asgardstories_10_foster_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Wed, 13 Oct 2021 00:09:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/asgardstories_2110_librivox/asgardstories_10_foster_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Baldur]]></title>
+    <itunes:episode><![CDATA[11]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/asgard-stories-tales-from-norse-mythology-by-mary-h-foster/]]></link>
+            <enclosure url="https://www.archive.org/download/asgardstories_2110_librivox/asgardstories_11_foster_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Wed, 13 Oct 2021 00:10:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/asgardstories_2110_librivox/asgardstories_11_foster_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Aegir's Feast]]></title>
+    <itunes:episode><![CDATA[12]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/asgard-stories-tales-from-norse-mythology-by-mary-h-foster/]]></link>
+            <enclosure url="https://www.archive.org/download/asgardstories_2110_librivox/asgardstories_12_foster_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Wed, 13 Oct 2021 00:11:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/asgardstories_2110_librivox/asgardstories_12_foster_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Punishment of Loki]]></title>
+    <itunes:episode><![CDATA[13]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/asgard-stories-tales-from-norse-mythology-by-mary-h-foster/]]></link>
+            <enclosure url="https://www.archive.org/download/asgardstories_2110_librivox/asgardstories_13_foster_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Wed, 13 Oct 2021 00:12:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/asgardstories_2110_librivox/asgardstories_13_foster_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Twilight of the Gods]]></title>
+    <itunes:episode><![CDATA[14]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/asgard-stories-tales-from-norse-mythology-by-mary-h-foster/]]></link>
+            <enclosure url="https://www.archive.org/download/asgardstories_2110_librivox/asgardstories_14_foster_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Wed, 13 Oct 2021 00:13:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/asgardstories_2110_librivox/asgardstories_14_foster_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <!-- end file loop -->
+</channel>
+</rss>

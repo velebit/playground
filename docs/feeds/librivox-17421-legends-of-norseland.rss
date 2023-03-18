@@ -1,0 +1,289 @@
+<?xml version="1.0" ?><rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+  <title><![CDATA[Legends of Norseland by Mara L. Pratt]]></title>
+  <link><![CDATA[https://librivox.org/legends-of-norseland-by-mara-l-pratt/]]></link>
+  <atom:link rel="self" href="https://librivox.org/rss/17421" />
+  <description><![CDATA[Collection of tales from the Norse legends, from the beginning of the golden kingdom of the Aesir, to it's end within the flames of Ragnarok. (Summary by Ryan Williams)]]></description>
+  <!--<genre>project element=Genre</genre>-->
+  <!--<language>project element=lang.code</language>-->
+  <itunes:type>serial</itunes:type>
+  <itunes:author>LibriVox</itunes:author>
+  <itunes:summary><![CDATA[Collection of tales from the Norse legends, from the beginning of the golden kingdom of the Aesir, to it's end within the flames of Ragnarok. (Summary by Ryan Williams)]]></itunes:summary>
+  <itunes:owner>
+    <itunes:name>LibriVox</itunes:name>
+    <itunes:email>info@librivox.org</itunes:email>
+  </itunes:owner>
+  <itunes:category text="Arts">
+    <itunes:category text="Literature" />
+  </itunes:category>
+  <image><url>https://archive.org/download/legends_of_norseland_2202_librivox/legendsofnorseland_2203.jpg</url></image>
+  <itunes:image href="https://archive.org/download/legends_of_norseland_2202_librivox/legendsofnorseland_2203.jpg"/>
+  <itunes:explicit>no</itunes:explicit>
+  <!-- file loop -->
+    <item>
+    <title><![CDATA[The Beginning]]></title>
+    <itunes:episode><![CDATA[1]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/legends-of-norseland-by-mara-l-pratt/]]></link>
+            <enclosure url="https://www.archive.org/download/legends_of_norseland_2202_librivox/legendsnorseland_01_pratt_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 25 Feb 2022 00:00:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/legends_of_norseland_2202_librivox/legendsnorseland_01_pratt_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Ygdrasil]]></title>
+    <itunes:episode><![CDATA[2]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/legends-of-norseland-by-mara-l-pratt/]]></link>
+            <enclosure url="https://www.archive.org/download/legends_of_norseland_2202_librivox/legendsnorseland_02_pratt_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 25 Feb 2022 00:01:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/legends_of_norseland_2202_librivox/legendsnorseland_02_pratt_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Odin at the Well of Wisdom]]></title>
+    <itunes:episode><![CDATA[3]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/legends-of-norseland-by-mara-l-pratt/]]></link>
+            <enclosure url="https://www.archive.org/download/legends_of_norseland_2202_librivox/legendsnorseland_03_pratt_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 25 Feb 2022 00:02:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/legends_of_norseland_2202_librivox/legendsnorseland_03_pratt_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Odin and the All-wise Giant]]></title>
+    <itunes:episode><![CDATA[4]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/legends-of-norseland-by-mara-l-pratt/]]></link>
+            <enclosure url="https://www.archive.org/download/legends_of_norseland_2202_librivox/legendsnorseland_04_pratt_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 25 Feb 2022 00:03:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/legends_of_norseland_2202_librivox/legendsnorseland_04_pratt_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Stolen Wine Part 1]]></title>
+    <itunes:episode><![CDATA[5]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/legends-of-norseland-by-mara-l-pratt/]]></link>
+            <enclosure url="https://www.archive.org/download/legends_of_norseland_2202_librivox/legendsnorseland_05_pratt_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 25 Feb 2022 00:04:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/legends_of_norseland_2202_librivox/legendsnorseland_05_pratt_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Stolen Wine Part 2]]></title>
+    <itunes:episode><![CDATA[6]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/legends-of-norseland-by-mara-l-pratt/]]></link>
+            <enclosure url="https://www.archive.org/download/legends_of_norseland_2202_librivox/legendsnorseland_06_pratt_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 25 Feb 2022 00:05:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/legends_of_norseland_2202_librivox/legendsnorseland_06_pratt_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Loke's Theft]]></title>
+    <itunes:episode><![CDATA[7]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/legends-of-norseland-by-mara-l-pratt/]]></link>
+            <enclosure url="https://www.archive.org/download/legends_of_norseland_2202_librivox/legendsnorseland_07_pratt_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 25 Feb 2022 00:06:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/legends_of_norseland_2202_librivox/legendsnorseland_07_pratt_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Thor's Hammer]]></title>
+    <itunes:episode><![CDATA[8]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/legends-of-norseland-by-mara-l-pratt/]]></link>
+            <enclosure url="https://www.archive.org/download/legends_of_norseland_2202_librivox/legendsnorseland_08_pratt_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 25 Feb 2022 00:07:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/legends_of_norseland_2202_librivox/legendsnorseland_08_pratt_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Theft of the Hammer]]></title>
+    <itunes:episode><![CDATA[9]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/legends-of-norseland-by-mara-l-pratt/]]></link>
+            <enclosure url="https://www.archive.org/download/legends_of_norseland_2202_librivox/legendsnorseland_09_pratt_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 25 Feb 2022 00:08:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/legends_of_norseland_2202_librivox/legendsnorseland_09_pratt_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Finding of the Hammer]]></title>
+    <itunes:episode><![CDATA[10]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/legends-of-norseland-by-mara-l-pratt/]]></link>
+            <enclosure url="https://www.archive.org/download/legends_of_norseland_2202_librivox/legendsnorseland_10_pratt_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 25 Feb 2022 00:09:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/legends_of_norseland_2202_librivox/legendsnorseland_10_pratt_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Apples of Life Part 1]]></title>
+    <itunes:episode><![CDATA[11]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/legends-of-norseland-by-mara-l-pratt/]]></link>
+            <enclosure url="https://www.archive.org/download/legends_of_norseland_2202_librivox/legendsnorseland_11_pratt_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 25 Feb 2022 00:10:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/legends_of_norseland_2202_librivox/legendsnorseland_11_pratt_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Apples of Life Part 2]]></title>
+    <itunes:episode><![CDATA[12]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/legends-of-norseland-by-mara-l-pratt/]]></link>
+            <enclosure url="https://www.archive.org/download/legends_of_norseland_2202_librivox/legendsnorseland_12_pratt_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 25 Feb 2022 00:11:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/legends_of_norseland_2202_librivox/legendsnorseland_12_pratt_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Loke's Wolf]]></title>
+    <itunes:episode><![CDATA[13]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/legends-of-norseland-by-mara-l-pratt/]]></link>
+            <enclosure url="https://www.archive.org/download/legends_of_norseland_2202_librivox/legendsnorseland_13_pratt_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 25 Feb 2022 00:12:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/legends_of_norseland_2202_librivox/legendsnorseland_13_pratt_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Fenris Wolf]]></title>
+    <itunes:episode><![CDATA[14]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/legends-of-norseland-by-mara-l-pratt/]]></link>
+            <enclosure url="https://www.archive.org/download/legends_of_norseland_2202_librivox/legendsnorseland_14_pratt_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 25 Feb 2022 00:13:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/legends_of_norseland_2202_librivox/legendsnorseland_14_pratt_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Defeat of Hrungner]]></title>
+    <itunes:episode><![CDATA[15]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/legends-of-norseland-by-mara-l-pratt/]]></link>
+            <enclosure url="https://www.archive.org/download/legends_of_norseland_2202_librivox/legendsnorseland_15_pratt_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 25 Feb 2022 00:14:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/legends_of_norseland_2202_librivox/legendsnorseland_15_pratt_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Thor and Skrymer]]></title>
+    <itunes:episode><![CDATA[16]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/legends-of-norseland-by-mara-l-pratt/]]></link>
+            <enclosure url="https://www.archive.org/download/legends_of_norseland_2202_librivox/legendsnorseland_16_pratt_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 25 Feb 2022 00:15:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/legends_of_norseland_2202_librivox/legendsnorseland_16_pratt_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Thor and the Utgard-King]]></title>
+    <itunes:episode><![CDATA[17]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/legends-of-norseland-by-mara-l-pratt/]]></link>
+            <enclosure url="https://www.archive.org/download/legends_of_norseland_2202_librivox/legendsnorseland_17_pratt_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 25 Feb 2022 00:16:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/legends_of_norseland_2202_librivox/legendsnorseland_17_pratt_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Thor and the Midgard Serpent]]></title>
+    <itunes:episode><![CDATA[18]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/legends-of-norseland-by-mara-l-pratt/]]></link>
+            <enclosure url="https://www.archive.org/download/legends_of_norseland_2202_librivox/legendsnorseland_18_pratt_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 25 Feb 2022 00:17:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/legends_of_norseland_2202_librivox/legendsnorseland_18_pratt_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Valkyrie's Song]]></title>
+    <itunes:episode><![CDATA[19]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/legends-of-norseland-by-mara-l-pratt/]]></link>
+            <enclosure url="https://www.archive.org/download/legends_of_norseland_2202_librivox/legendsnorseland_19_pratt_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 25 Feb 2022 00:18:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/legends_of_norseland_2202_librivox/legendsnorseland_19_pratt_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Dying Baldur]]></title>
+    <itunes:episode><![CDATA[20]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/legends-of-norseland-by-mara-l-pratt/]]></link>
+            <enclosure url="https://www.archive.org/download/legends_of_norseland_2202_librivox/legendsnorseland_20_pratt_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 25 Feb 2022 00:19:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/legends_of_norseland_2202_librivox/legendsnorseland_20_pratt_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Punishment of Loke]]></title>
+    <itunes:episode><![CDATA[21]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/legends-of-norseland-by-mara-l-pratt/]]></link>
+            <enclosure url="https://www.archive.org/download/legends_of_norseland_2202_librivox/legendsnorseland_21_pratt_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 25 Feb 2022 00:20:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/legends_of_norseland_2202_librivox/legendsnorseland_21_pratt_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Darkness that Fell on Asgard]]></title>
+    <itunes:episode><![CDATA[22]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/legends-of-norseland-by-mara-l-pratt/]]></link>
+            <enclosure url="https://www.archive.org/download/legends_of_norseland_2202_librivox/legendsnorseland_22_pratt_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 25 Feb 2022 00:21:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/legends_of_norseland_2202_librivox/legendsnorseland_22_pratt_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <!-- end file loop -->
+</channel>
+</rss>

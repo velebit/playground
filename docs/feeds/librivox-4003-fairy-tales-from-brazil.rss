@@ -1,0 +1,253 @@
+<?xml version="1.0" ?><rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+  <title><![CDATA[Fairy Tales from Brazil by Elsie Spicer Eells (1880 - 1963)]]></title>
+  <link><![CDATA[https://librivox.org/fairy-tales-from-brazil-by-elsie-spicer-eells/]]></link>
+  <atom:link rel="self" href="https://librivox.org/rss/4003" />
+  <description><![CDATA[This book, subtitled "How and Why Tales from Brazilian Folk-Lore", is a collection of short stories, most of them etiologial myths from Brazilian Indian Folklore. (Summary by Leni)]]></description>
+  <!--<genre>project element=Genre</genre>-->
+  <!--<language>project element=lang.code</language>-->
+  <itunes:type>serial</itunes:type>
+  <itunes:author>LibriVox</itunes:author>
+  <itunes:summary><![CDATA[This book, subtitled "How and Why Tales from Brazilian Folk-Lore", is a collection of short stories, most of them etiologial myths from Brazilian Indian Folklore. (Summary by Leni)]]></itunes:summary>
+  <itunes:owner>
+    <itunes:name>LibriVox</itunes:name>
+    <itunes:email>info@librivox.org</itunes:email>
+  </itunes:owner>
+  <itunes:category text="Arts">
+    <itunes:category text="Literature" />
+  </itunes:category>
+  <image><url>https://www.archive.org/download/LibrivoxCdCoverArt6/fairy_tales_from_brazil_1101.jpg</url></image>
+  <itunes:image href="https://www.archive.org/download/LibrivoxCdCoverArt6/fairy_tales_from_brazil_1101.jpg"/>
+  <itunes:explicit>no</itunes:explicit>
+  <!-- file loop -->
+    <item>
+    <title><![CDATA[00 - Preface]]></title>
+    <itunes:episode><![CDATA[0]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/fairy-tales-from-brazil-by-elsie-spicer-eells/]]></link>
+            <enclosure url="https://www.archive.org/download/fairy_tales_brazil_1006_librivox/fairytalesfrombrazil_00_eells_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:02:31]]></itunes:duration>
+  <pubDate>Fri, 04 Jun 2010 00:00:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/fairy_tales_brazil_1006_librivox/fairytalesfrombrazil_00_eells_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[01 - How the Night Came]]></title>
+    <itunes:episode><![CDATA[1]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/fairy-tales-from-brazil-by-elsie-spicer-eells/]]></link>
+            <enclosure url="https://www.archive.org/download/fairy_tales_brazil_1006_librivox/fairytalesfrombrazil_01_eells_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:07:43]]></itunes:duration>
+  <pubDate>Fri, 04 Jun 2010 00:01:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/fairy_tales_brazil_1006_librivox/fairytalesfrombrazil_01_eells_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[02 -  	How the Rabbit Lost His Tail]]></title>
+    <itunes:episode><![CDATA[2]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/fairy-tales-from-brazil-by-elsie-spicer-eells/]]></link>
+            <enclosure url="https://www.archive.org/download/fairy_tales_brazil_1006_librivox/fairytalesfrombrazil_02_eells_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:05:12]]></itunes:duration>
+  <pubDate>Fri, 04 Jun 2010 00:02:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/fairy_tales_brazil_1006_librivox/fairytalesfrombrazil_02_eells_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[03 - How the Toad Got His Bruises]]></title>
+    <itunes:episode><![CDATA[3]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/fairy-tales-from-brazil-by-elsie-spicer-eells/]]></link>
+            <enclosure url="https://www.archive.org/download/fairy_tales_brazil_1006_librivox/fairytalesfrombrazil_03_eells_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:05:35]]></itunes:duration>
+  <pubDate>Fri, 04 Jun 2010 00:03:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/fairy_tales_brazil_1006_librivox/fairytalesfrombrazil_03_eells_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[04 - How the Tiger Got His Stripes]]></title>
+    <itunes:episode><![CDATA[4]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/fairy-tales-from-brazil-by-elsie-spicer-eells/]]></link>
+            <enclosure url="https://www.archive.org/download/fairy_tales_brazil_1006_librivox/fairytalesfrombrazil_04_eells_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:10:34]]></itunes:duration>
+  <pubDate>Fri, 04 Jun 2010 00:04:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/fairy_tales_brazil_1006_librivox/fairytalesfrombrazil_04_eells_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[05 - Why the Lamb Is Meek]]></title>
+    <itunes:episode><![CDATA[5]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/fairy-tales-from-brazil-by-elsie-spicer-eells/]]></link>
+            <enclosure url="https://www.archive.org/download/fairy_tales_brazil_1006_librivox/fairytalesfrombrazil_05_eells_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:08:13]]></itunes:duration>
+  <pubDate>Fri, 04 Jun 2010 00:05:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/fairy_tales_brazil_1006_librivox/fairytalesfrombrazil_05_eells_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[06 - Why the Tiger and the Stag Fear Each Other]]></title>
+    <itunes:episode><![CDATA[6]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/fairy-tales-from-brazil-by-elsie-spicer-eells/]]></link>
+            <enclosure url="https://www.archive.org/download/fairy_tales_brazil_1006_librivox/fairytalesfrombrazil_06_eells_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:07:41]]></itunes:duration>
+  <pubDate>Fri, 04 Jun 2010 00:06:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/fairy_tales_brazil_1006_librivox/fairytalesfrombrazil_06_eells_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[07 -  	How the Speckled Hen Got Her Speckles]]></title>
+    <itunes:episode><![CDATA[7]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/fairy-tales-from-brazil-by-elsie-spicer-eells/]]></link>
+            <enclosure url="https://www.archive.org/download/fairy_tales_brazil_1006_librivox/fairytalesfrombrazil_07_eells_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:09:39]]></itunes:duration>
+  <pubDate>Fri, 04 Jun 2010 00:07:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/fairy_tales_brazil_1006_librivox/fairytalesfrombrazil_07_eells_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[08 - How the Monkey Became a Trickster]]></title>
+    <itunes:episode><![CDATA[8]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/fairy-tales-from-brazil-by-elsie-spicer-eells/]]></link>
+            <enclosure url="https://www.archive.org/download/fairy_tales_brazil_1006_librivox/fairytalesfrombrazil_08_eells_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:03:38]]></itunes:duration>
+  <pubDate>Fri, 04 Jun 2010 00:08:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/fairy_tales_brazil_1006_librivox/fairytalesfrombrazil_08_eells_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[09 - How the Monkey and the Goat Earned Their Reputations]]></title>
+    <itunes:episode><![CDATA[9]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/fairy-tales-from-brazil-by-elsie-spicer-eells/]]></link>
+            <enclosure url="https://www.archive.org/download/fairy_tales_brazil_1006_librivox/fairytalesfrombrazil_09_eells_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:06:34]]></itunes:duration>
+  <pubDate>Fri, 04 Jun 2010 00:09:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/fairy_tales_brazil_1006_librivox/fairytalesfrombrazil_09_eells_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[10 - How the Monkey Got a Drink When He Was Thirsty]]></title>
+    <itunes:episode><![CDATA[10]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/fairy-tales-from-brazil-by-elsie-spicer-eells/]]></link>
+            <enclosure url="https://www.archive.org/download/fairy_tales_brazil_1006_librivox/fairytalesfrombrazil_10_eells_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:05:07]]></itunes:duration>
+  <pubDate>Fri, 04 Jun 2010 00:10:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/fairy_tales_brazil_1006_librivox/fairytalesfrombrazil_10_eells_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[11 - How the Monkey Got Food When He Was Hungry]]></title>
+    <itunes:episode><![CDATA[11]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/fairy-tales-from-brazil-by-elsie-spicer-eells/]]></link>
+            <enclosure url="https://www.archive.org/download/fairy_tales_brazil_1006_librivox/fairytalesfrombrazil_11_eells_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:03:34]]></itunes:duration>
+  <pubDate>Fri, 04 Jun 2010 00:11:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/fairy_tales_brazil_1006_librivox/fairytalesfrombrazil_11_eells_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[12 -  	Why the Bananas Belong to the Monkey]]></title>
+    <itunes:episode><![CDATA[12]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/fairy-tales-from-brazil-by-elsie-spicer-eells/]]></link>
+            <enclosure url="https://www.archive.org/download/fairy_tales_brazil_1006_librivox/fairytalesfrombrazil_12_eells_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:06:50]]></itunes:duration>
+  <pubDate>Fri, 04 Jun 2010 00:12:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/fairy_tales_brazil_1006_librivox/fairytalesfrombrazil_12_eells_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[13 - How the Monkey Escaped Being Eaten]]></title>
+    <itunes:episode><![CDATA[13]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/fairy-tales-from-brazil-by-elsie-spicer-eells/]]></link>
+            <enclosure url="https://www.archive.org/download/fairy_tales_brazil_1006_librivox/fairytalesfrombrazil_13_eells_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:06:24]]></itunes:duration>
+  <pubDate>Fri, 04 Jun 2010 00:13:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/fairy_tales_brazil_1006_librivox/fairytalesfrombrazil_13_eells_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[14 - Why the Monkey Still Has a Tail]]></title>
+    <itunes:episode><![CDATA[14]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/fairy-tales-from-brazil-by-elsie-spicer-eells/]]></link>
+            <enclosure url="https://www.archive.org/download/fairy_tales_brazil_1006_librivox/fairytalesfrombrazil_14_eells_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:05:28]]></itunes:duration>
+  <pubDate>Fri, 04 Jun 2010 00:14:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/fairy_tales_brazil_1006_librivox/fairytalesfrombrazil_14_eells_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[15 - How Black Became White]]></title>
+    <itunes:episode><![CDATA[15]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/fairy-tales-from-brazil-by-elsie-spicer-eells/]]></link>
+            <enclosure url="https://www.archive.org/download/fairy_tales_brazil_1006_librivox/fairytalesfrombrazil_15_eells_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:06:33]]></itunes:duration>
+  <pubDate>Fri, 04 Jun 2010 00:15:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/fairy_tales_brazil_1006_librivox/fairytalesfrombrazil_15_eells_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[16 -  	How the Pigeon Became a Tame Bird]]></title>
+    <itunes:episode><![CDATA[16]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/fairy-tales-from-brazil-by-elsie-spicer-eells/]]></link>
+            <enclosure url="https://www.archive.org/download/fairy_tales_brazil_1006_librivox/fairytalesfrombrazil_16_eells_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:08:11]]></itunes:duration>
+  <pubDate>Fri, 04 Jun 2010 00:16:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/fairy_tales_brazil_1006_librivox/fairytalesfrombrazil_16_eells_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[17 - Why the Sea Moans]]></title>
+    <itunes:episode><![CDATA[17]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/fairy-tales-from-brazil-by-elsie-spicer-eells/]]></link>
+            <enclosure url="https://www.archive.org/download/fairy_tales_brazil_1006_librivox/fairytalesfrombrazil_17_eells_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:16:47]]></itunes:duration>
+  <pubDate>Fri, 04 Jun 2010 00:17:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/fairy_tales_brazil_1006_librivox/fairytalesfrombrazil_17_eells_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[18 - How the Brazilian Beetles Got Their Gorgeous Coats]]></title>
+    <itunes:episode><![CDATA[18]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/fairy-tales-from-brazil-by-elsie-spicer-eells/]]></link>
+            <enclosure url="https://www.archive.org/download/fairy_tales_brazil_1006_librivox/fairytalesfrombrazil_18_eells_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:08:17]]></itunes:duration>
+  <pubDate>Fri, 04 Jun 2010 00:18:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/fairy_tales_brazil_1006_librivox/fairytalesfrombrazil_18_eells_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <!-- end file loop -->
+</channel>
+</rss>

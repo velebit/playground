@@ -1,0 +1,325 @@
+<?xml version="1.0" ?><rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+  <title><![CDATA[Hans Christian Andersen Fairy Tale Collection by Hans Christian Andersen (1805 - 1875)]]></title>
+  <link><![CDATA[https://librivox.org/hans-christian-andersen-fairy-tale-collection-by-hans-christian-andersen/]]></link>
+  <atom:link rel="self" href="https://librivox.org/rss/3324" />
+  <description><![CDATA[These are 25 fairy tales written by Hans Christian Andersen - A collection of something for everyone - the very popular stories, the less well-known stories and favorites, that both children and grownups can enjoy.(Summary by Neeru Iyer)]]></description>
+  <!--<genre>project element=Genre</genre>-->
+  <!--<language>project element=lang.code</language>-->
+  <itunes:type>serial</itunes:type>
+  <itunes:author>LibriVox</itunes:author>
+  <itunes:summary><![CDATA[These are 25 fairy tales written by Hans Christian Andersen - A collection of something for everyone - the very popular stories, the less well-known stories and favorites, that both children and grownups can enjoy.(Summary by Neeru Iyer)]]></itunes:summary>
+  <itunes:owner>
+    <itunes:name>LibriVox</itunes:name>
+    <itunes:email>info@librivox.org</itunes:email>
+  </itunes:owner>
+  <itunes:category text="Arts">
+    <itunes:category text="Literature" />
+  </itunes:category>
+  <image><url>https://www.archive.org/download/librivox_cd_covers/fairytales_andersen.jpg</url></image>
+  <itunes:image href="https://www.archive.org/download/librivox_cd_covers/fairytales_andersen.jpg"/>
+  <itunes:explicit>no</itunes:explicit>
+  <!-- file loop -->
+    <item>
+    <title><![CDATA[In A Thousand Years]]></title>
+    <itunes:episode><![CDATA[1]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/hans-christian-andersen-fairy-tale-collection-by-hans-christian-andersen/]]></link>
+            <enclosure url="https://www.archive.org/download/andersen_fairy_tale_collection_0907_librivox/andersen_01_inathousandyears_lkp_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Wed, 29 Jul 2009 00:00:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/andersen_fairy_tale_collection_0907_librivox/andersen_01_inathousandyears_lkp_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Tinderbox]]></title>
+    <itunes:episode><![CDATA[2]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/hans-christian-andersen-fairy-tale-collection-by-hans-christian-andersen/]]></link>
+            <enclosure url="https://www.archive.org/download/andersen_fairy_tale_collection_0907_librivox/andersen_02_thetinderbox_mme_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Wed, 29 Jul 2009 00:01:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/andersen_fairy_tale_collection_0907_librivox/andersen_02_thetinderbox_mme_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Little Match-Seller]]></title>
+    <itunes:episode><![CDATA[3]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/hans-christian-andersen-fairy-tale-collection-by-hans-christian-andersen/]]></link>
+            <enclosure url="https://www.archive.org/download/andersen_fairy_tale_collection_0907_librivox/andersen_03_littlematchseller_ezwa_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Wed, 29 Jul 2009 00:02:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/andersen_fairy_tale_collection_0907_librivox/andersen_03_littlematchseller_ezwa_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Brave Tin Soldier]]></title>
+    <itunes:episode><![CDATA[4]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/hans-christian-andersen-fairy-tale-collection-by-hans-christian-andersen/]]></link>
+            <enclosure url="https://www.archive.org/download/andersen_fairy_tale_collection_0907_librivox/andersen_04_bravetinsoldier_py_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Wed, 29 Jul 2009 00:03:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/andersen_fairy_tale_collection_0907_librivox/andersen_04_bravetinsoldier_py_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Princess and the Pea]]></title>
+    <itunes:episode><![CDATA[5]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/hans-christian-andersen-fairy-tale-collection-by-hans-christian-andersen/]]></link>
+            <enclosure url="https://www.archive.org/download/andersen_fairy_tale_collection_0907_librivox/andersen_05_princessandthepea_avk_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Wed, 29 Jul 2009 00:04:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/andersen_fairy_tale_collection_0907_librivox/andersen_05_princessandthepea_avk_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Ugly Duckling]]></title>
+    <itunes:episode><![CDATA[6]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/hans-christian-andersen-fairy-tale-collection-by-hans-christian-andersen/]]></link>
+            <enclosure url="https://www.archive.org/download/andersen_fairy_tale_collection_0907_librivox/andersen_06_uglyduckling_ezwa_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Wed, 29 Jul 2009 00:05:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/andersen_fairy_tale_collection_0907_librivox/andersen_06_uglyduckling_ezwa_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Emperor's New Clothes]]></title>
+    <itunes:episode><![CDATA[7]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/hans-christian-andersen-fairy-tale-collection-by-hans-christian-andersen/]]></link>
+            <enclosure url="https://www.archive.org/download/andersen_fairy_tale_collection_0907_librivox/andersen_07_theemperorsnewsuit_eep_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Wed, 29 Jul 2009 00:06:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/andersen_fairy_tale_collection_0907_librivox/andersen_07_theemperorsnewsuit_eep_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Red Shoes]]></title>
+    <itunes:episode><![CDATA[8]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/hans-christian-andersen-fairy-tale-collection-by-hans-christian-andersen/]]></link>
+            <enclosure url="https://www.archive.org/download/andersen_fairy_tale_collection_0907_librivox/andersen_08_theredshoes_ae_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Wed, 29 Jul 2009 00:07:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/andersen_fairy_tale_collection_0907_librivox/andersen_08_theredshoes_ae_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Two Maidens]]></title>
+    <itunes:episode><![CDATA[9]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/hans-christian-andersen-fairy-tale-collection-by-hans-christian-andersen/]]></link>
+            <enclosure url="https://www.archive.org/download/andersen_fairy_tale_collection_0907_librivox/andersen_09_twomaidens_meg_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Wed, 29 Jul 2009 00:08:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/andersen_fairy_tale_collection_0907_librivox/andersen_09_twomaidens_meg_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[A Leaf from Heaven]]></title>
+    <itunes:episode><![CDATA[10]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/hans-christian-andersen-fairy-tale-collection-by-hans-christian-andersen/]]></link>
+            <enclosure url="https://www.archive.org/download/andersen_fairy_tale_collection_0907_librivox/andersen_10_leaffromheaven_bt_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Wed, 29 Jul 2009 00:09:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/andersen_fairy_tale_collection_0907_librivox/andersen_10_leaffromheaven_bt_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[In the Uttermost Parts of the Sea]]></title>
+    <itunes:episode><![CDATA[11]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/hans-christian-andersen-fairy-tale-collection-by-hans-christian-andersen/]]></link>
+            <enclosure url="https://www.archive.org/download/andersen_fairy_tale_collection_0907_librivox/andersen_11_intheuttermostpartsofthesea_meg_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Wed, 29 Jul 2009 00:10:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/andersen_fairy_tale_collection_0907_librivox/andersen_11_intheuttermostpartsofthesea_meg_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Saucy Boy]]></title>
+    <itunes:episode><![CDATA[12]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/hans-christian-andersen-fairy-tale-collection-by-hans-christian-andersen/]]></link>
+            <enclosure url="https://www.archive.org/download/andersen_fairy_tale_collection_0907_librivox/andersen_12_thesaucyboy_meg_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Wed, 29 Jul 2009 00:11:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/andersen_fairy_tale_collection_0907_librivox/andersen_12_thesaucyboy_meg_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Great Claus and Little Claus]]></title>
+    <itunes:episode><![CDATA[13]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/hans-christian-andersen-fairy-tale-collection-by-hans-christian-andersen/]]></link>
+            <enclosure url="https://www.archive.org/download/andersen_fairy_tale_collection_0907_librivox/andersen_13_greatclausandlittleclaus_mme_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Wed, 29 Jul 2009 00:12:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/andersen_fairy_tale_collection_0907_librivox/andersen_13_greatclausandlittleclaus_mme_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Daisy]]></title>
+    <itunes:episode><![CDATA[14]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/hans-christian-andersen-fairy-tale-collection-by-hans-christian-andersen/]]></link>
+            <enclosure url="https://www.archive.org/download/andersen_fairy_tale_collection_0907_librivox/andersen_14_daisy_bt_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Wed, 29 Jul 2009 00:13:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/andersen_fairy_tale_collection_0907_librivox/andersen_14_daisy_bt_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Girl Who Trod on the Loaf]]></title>
+    <itunes:episode><![CDATA[15]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/hans-christian-andersen-fairy-tale-collection-by-hans-christian-andersen/]]></link>
+            <enclosure url="https://www.archive.org/download/andersen_fairy_tale_collection_0907_librivox/andersen_15_girlwhotrod_etk_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Wed, 29 Jul 2009 00:14:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/andersen_fairy_tale_collection_0907_librivox/andersen_15_girlwhotrod_etk_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Angel]]></title>
+    <itunes:episode><![CDATA[16]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/hans-christian-andersen-fairy-tale-collection-by-hans-christian-andersen/]]></link>
+            <enclosure url="https://www.archive.org/download/andersen_fairy_tale_collection_0907_librivox/andersen_16_angel_lf_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Wed, 29 Jul 2009 00:15:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/andersen_fairy_tale_collection_0907_librivox/andersen_16_angel_lf_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Buckwheat]]></title>
+    <itunes:episode><![CDATA[17]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/hans-christian-andersen-fairy-tale-collection-by-hans-christian-andersen/]]></link>
+            <enclosure url="https://www.archive.org/download/andersen_fairy_tale_collection_0907_librivox/andersen_17_buckwheat_lf_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Wed, 29 Jul 2009 00:16:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/andersen_fairy_tale_collection_0907_librivox/andersen_17_buckwheat_lf_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Darning-needle]]></title>
+    <itunes:episode><![CDATA[18]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/hans-christian-andersen-fairy-tale-collection-by-hans-christian-andersen/]]></link>
+            <enclosure url="https://www.archive.org/download/andersen_fairy_tale_collection_0907_librivox/andersen_18_darningneedle_ezwa_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Wed, 29 Jul 2009 00:17:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/andersen_fairy_tale_collection_0907_librivox/andersen_18_darningneedle_ezwa_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Bell-Deep]]></title>
+    <itunes:episode><![CDATA[19]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/hans-christian-andersen-fairy-tale-collection-by-hans-christian-andersen/]]></link>
+            <enclosure url="https://www.archive.org/download/andersen_fairy_tale_collection_0907_librivox/andersen_19_thebelldeep_mme_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Wed, 29 Jul 2009 00:18:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/andersen_fairy_tale_collection_0907_librivox/andersen_19_thebelldeep_mme_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Elf of the Rose]]></title>
+    <itunes:episode><![CDATA[20]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/hans-christian-andersen-fairy-tale-collection-by-hans-christian-andersen/]]></link>
+            <enclosure url="https://www.archive.org/download/andersen_fairy_tale_collection_0907_librivox/andersen_20_theelfoftherose_cpac_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Wed, 29 Jul 2009 00:19:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/andersen_fairy_tale_collection_0907_librivox/andersen_20_theelfoftherose_cpac_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Beetle Who Went On His Travels]]></title>
+    <itunes:episode><![CDATA[21]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/hans-christian-andersen-fairy-tale-collection-by-hans-christian-andersen/]]></link>
+            <enclosure url="https://www.archive.org/download/andersen_fairy_tale_collection_0907_librivox/andersen_21_thebeetlewhowentonhistravels_jp_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Wed, 29 Jul 2009 00:20:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/andersen_fairy_tale_collection_0907_librivox/andersen_21_thebeetlewhowentonhistravels_jp_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Pea Blossom]]></title>
+    <itunes:episode><![CDATA[22]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/hans-christian-andersen-fairy-tale-collection-by-hans-christian-andersen/]]></link>
+            <enclosure url="https://www.archive.org/download/andersen_fairy_tale_collection_0907_librivox/andersen_22_thepeablossom_ab_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:09:37]]></itunes:duration>
+  <pubDate>Wed, 29 Jul 2009 00:21:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/andersen_fairy_tale_collection_0907_librivox/andersen_22_thepeablossom_ab_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Fir Tree]]></title>
+    <itunes:episode><![CDATA[23]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/hans-christian-andersen-fairy-tale-collection-by-hans-christian-andersen/]]></link>
+            <enclosure url="https://www.archive.org/download/andersen_fairy_tale_collection_0907_librivox/andersen_23_thefirtree_jp_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Wed, 29 Jul 2009 00:22:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/andersen_fairy_tale_collection_0907_librivox/andersen_23_thefirtree_jp_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[What the Old Man Does Is Always Right]]></title>
+    <itunes:episode><![CDATA[24]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/hans-christian-andersen-fairy-tale-collection-by-hans-christian-andersen/]]></link>
+            <enclosure url="https://www.archive.org/download/andersen_fairy_tale_collection_0907_librivox/andersen_24_alwaysright_bdl_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Wed, 29 Jul 2009 00:23:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/andersen_fairy_tale_collection_0907_librivox/andersen_24_alwaysright_bdl_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Butterfly]]></title>
+    <itunes:episode><![CDATA[25]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/hans-christian-andersen-fairy-tale-collection-by-hans-christian-andersen/]]></link>
+            <enclosure url="https://www.archive.org/download/andersen_fairy_tale_collection_0907_librivox/andersen_25_butterfly_hok_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Wed, 29 Jul 2009 00:24:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/andersen_fairy_tale_collection_0907_librivox/andersen_25_butterfly_hok_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <!-- end file loop -->
+</channel>
+</rss>
