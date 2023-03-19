@@ -1,0 +1,229 @@
+<?xml version="1.0" ?><rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+  <title><![CDATA[Three Hundred Aesop's Fables by Aesop (c. 620 BCE - 564)]]></title>
+  <link><![CDATA[https://librivox.org/300-aesops-fables-by-george-fyler-townsend/]]></link>
+  <atom:link rel="self" href="https://librivox.org/rss/6451" />
+  <description><![CDATA[Aesop's Fables or the Aesopica are a collection of fables credited to Aesop, a slave and story-teller believed to have lived in ancient Greece between 620 and 560 BCE. The fables remain a popular choice for moral education of children today. Many of the stories, such as The Fox and the Grapes (from which the idiom "sour grapes" derives), The Tortoise and the Hare, The North Wind and the Sun, The Boy Who Cried Wolf and The Ant and the Grasshopper are well-known throughout the world. (Summary by Wikipedia)]]></description>
+  <!--<genre>project element=Genre</genre>-->
+  <!--<language>project element=lang.code</language>-->
+  <itunes:type>serial</itunes:type>
+  <itunes:author>LibriVox</itunes:author>
+  <itunes:summary><![CDATA[Aesop's Fables or the Aesopica are a collection of fables credited to Aesop, a slave and story-teller believed to have lived in ancient Greece between 620 and 560 BCE. The fables remain a popular choice for moral education of children today. Many of the stories, such as The Fox and the Grapes (from which the idiom "sour grapes" derives), The Tortoise and the Hare, The North Wind and the Sun, The Boy Who Cried Wolf and The Ant and the Grasshopper are well-known throughout the world. (Summary by Wikipedia)]]></itunes:summary>
+  <itunes:owner>
+    <itunes:name>LibriVox</itunes:name>
+    <itunes:email>info@librivox.org</itunes:email>
+  </itunes:owner>
+  <itunes:category text="Arts">
+    <itunes:category text="Literature" />
+  </itunes:category>
+  <image><url>https://archive.org/download/LibrivoxCdCoverArt20/Three_Hundred_Aesops_Fables_1206.jpg</url></image>
+  <itunes:image href="https://archive.org/download/LibrivoxCdCoverArt20/Three_Hundred_Aesops_Fables_1206.jpg"/>
+  <itunes:explicit>no</itunes:explicit>
+  <!-- file loop -->
+    <item>
+    <title><![CDATA[00 - Preface]]></title>
+    <itunes:episode><![CDATA[0]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/300-aesops-fables-by-george-fyler-townsend/]]></link>
+            <enclosure url="https://www.archive.org/download/300aesopsfables_ma_librivox/threehundredaesopsfables_00_townsend_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:35:59]]></itunes:duration>
+  <pubDate>Fri, 29 Jun 2012 00:00:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/300aesopsfables_ma_librivox/threehundredaesopsfables_00_townsend_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[01 - Fables 1-20]]></title>
+    <itunes:episode><![CDATA[1]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/300-aesops-fables-by-george-fyler-townsend/]]></link>
+            <enclosure url="https://www.archive.org/download/300aesopsfables_ma_librivox/threehundredaesopsfables_01_townsend_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:18:18]]></itunes:duration>
+  <pubDate>Fri, 29 Jun 2012 00:01:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/300aesopsfables_ma_librivox/threehundredaesopsfables_01_townsend_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[02 - Fables 21-40]]></title>
+    <itunes:episode><![CDATA[2]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/300-aesops-fables-by-george-fyler-townsend/]]></link>
+            <enclosure url="https://www.archive.org/download/300aesopsfables_ma_librivox/threehundredaesopsfables_02_townsend_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:19:55]]></itunes:duration>
+  <pubDate>Fri, 29 Jun 2012 00:02:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/300aesopsfables_ma_librivox/threehundredaesopsfables_02_townsend_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[03 - Fables 41-60]]></title>
+    <itunes:episode><![CDATA[3]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/300-aesops-fables-by-george-fyler-townsend/]]></link>
+            <enclosure url="https://www.archive.org/download/300aesopsfables_ma_librivox/threehundredaesopsfables_03_townsend_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:24:37]]></itunes:duration>
+  <pubDate>Fri, 29 Jun 2012 00:03:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/300aesopsfables_ma_librivox/threehundredaesopsfables_03_townsend_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[04 - Fables 61 - 80]]></title>
+    <itunes:episode><![CDATA[4]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/300-aesops-fables-by-george-fyler-townsend/]]></link>
+            <enclosure url="https://www.archive.org/download/300aesopsfables_ma_librivox/threehundredaesopsfables_04_townsend_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:20:43]]></itunes:duration>
+  <pubDate>Fri, 29 Jun 2012 00:04:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/300aesopsfables_ma_librivox/threehundredaesopsfables_04_townsend_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[05 - Fables 81-100]]></title>
+    <itunes:episode><![CDATA[5]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/300-aesops-fables-by-george-fyler-townsend/]]></link>
+            <enclosure url="https://www.archive.org/download/300aesopsfables_ma_librivox/threehundredaesopsfables_05_townsend_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:20:51]]></itunes:duration>
+  <pubDate>Fri, 29 Jun 2012 00:05:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/300aesopsfables_ma_librivox/threehundredaesopsfables_05_townsend_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[06 - Fables 101 - 120]]></title>
+    <itunes:episode><![CDATA[6]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/300-aesops-fables-by-george-fyler-townsend/]]></link>
+            <enclosure url="https://www.archive.org/download/300aesopsfables_ma_librivox/threehundredaesopsfables_06_townsend_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:16:54]]></itunes:duration>
+  <pubDate>Fri, 29 Jun 2012 00:06:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/300aesopsfables_ma_librivox/threehundredaesopsfables_06_townsend_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[07 - Fables 121 - 140]]></title>
+    <itunes:episode><![CDATA[7]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/300-aesops-fables-by-george-fyler-townsend/]]></link>
+            <enclosure url="https://www.archive.org/download/300aesopsfables_ma_librivox/threehundredaesopsfables_07_townsend_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:19:53]]></itunes:duration>
+  <pubDate>Fri, 29 Jun 2012 00:07:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/300aesopsfables_ma_librivox/threehundredaesopsfables_07_townsend_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[08 - Fables 141 - 160]]></title>
+    <itunes:episode><![CDATA[8]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/300-aesops-fables-by-george-fyler-townsend/]]></link>
+            <enclosure url="https://www.archive.org/download/300aesopsfables_ma_librivox/threehundredaesopsfables_08_townsend_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:17:05]]></itunes:duration>
+  <pubDate>Fri, 29 Jun 2012 00:08:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/300aesopsfables_ma_librivox/threehundredaesopsfables_08_townsend_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[09 - Fables 161-180]]></title>
+    <itunes:episode><![CDATA[9]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/300-aesops-fables-by-george-fyler-townsend/]]></link>
+            <enclosure url="https://www.archive.org/download/300aesopsfables_ma_librivox/threehundredaesopsfables_09_townsend_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:16:45]]></itunes:duration>
+  <pubDate>Fri, 29 Jun 2012 00:09:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/300aesopsfables_ma_librivox/threehundredaesopsfables_09_townsend_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[10 - Fables 181 - 200]]></title>
+    <itunes:episode><![CDATA[10]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/300-aesops-fables-by-george-fyler-townsend/]]></link>
+            <enclosure url="https://www.archive.org/download/300aesopsfables_ma_librivox/threehundredaesopsfables_10_townsend_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:23:57]]></itunes:duration>
+  <pubDate>Fri, 29 Jun 2012 00:10:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/300aesopsfables_ma_librivox/threehundredaesopsfables_10_townsend_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[11 - Fables 201 - 220]]></title>
+    <itunes:episode><![CDATA[11]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/300-aesops-fables-by-george-fyler-townsend/]]></link>
+            <enclosure url="https://www.archive.org/download/300aesopsfables_ma_librivox/threehundredaesopsfables_11_townsend_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:20:25]]></itunes:duration>
+  <pubDate>Fri, 29 Jun 2012 00:11:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/300aesopsfables_ma_librivox/threehundredaesopsfables_11_townsend_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[12 - Fables 221 - 240]]></title>
+    <itunes:episode><![CDATA[12]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/300-aesops-fables-by-george-fyler-townsend/]]></link>
+            <enclosure url="https://www.archive.org/download/300aesopsfables_ma_librivox/threehundredaesopsfables_12_townsend_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:19:36]]></itunes:duration>
+  <pubDate>Fri, 29 Jun 2012 00:12:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/300aesopsfables_ma_librivox/threehundredaesopsfables_12_townsend_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[13 - Fables 241 - 260]]></title>
+    <itunes:episode><![CDATA[13]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/300-aesops-fables-by-george-fyler-townsend/]]></link>
+            <enclosure url="https://www.archive.org/download/300aesopsfables_ma_librivox/threehundredaesopsfables_13_townsend_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:23:30]]></itunes:duration>
+  <pubDate>Fri, 29 Jun 2012 00:13:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/300aesopsfables_ma_librivox/threehundredaesopsfables_13_townsend_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[14 - Fables 261 - 280]]></title>
+    <itunes:episode><![CDATA[14]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/300-aesops-fables-by-george-fyler-townsend/]]></link>
+            <enclosure url="https://www.archive.org/download/300aesopsfables_ma_librivox/threehundredaesopsfables_14_townsend_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:22:00]]></itunes:duration>
+  <pubDate>Fri, 29 Jun 2012 00:14:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/300aesopsfables_ma_librivox/threehundredaesopsfables_14_townsend_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[15 - Fables 281 - 300]]></title>
+    <itunes:episode><![CDATA[15]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/300-aesops-fables-by-george-fyler-townsend/]]></link>
+            <enclosure url="https://www.archive.org/download/300aesopsfables_ma_librivox/threehundredaesopsfables_15_townsend_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:21:27]]></itunes:duration>
+  <pubDate>Fri, 29 Jun 2012 00:15:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/300aesopsfables_ma_librivox/threehundredaesopsfables_15_townsend_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[16- Fables 301 - 312]]></title>
+    <itunes:episode><![CDATA[16]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/300-aesops-fables-by-george-fyler-townsend/]]></link>
+            <enclosure url="https://www.archive.org/download/300aesopsfables_ma_librivox/threehundredaesopsfables_16_townsend_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:12:19]]></itunes:duration>
+  <pubDate>Fri, 29 Jun 2012 00:16:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/300aesopsfables_ma_librivox/threehundredaesopsfables_16_townsend_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <!-- end file loop -->
+</channel>
+</rss>

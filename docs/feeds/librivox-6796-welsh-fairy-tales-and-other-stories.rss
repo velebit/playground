@@ -1,0 +1,313 @@
+<?xml version="1.0" ?><rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+  <title><![CDATA[Welsh Fairy Tales and Other Stories by P. H. Emerson (1856 - 1936)]]></title>
+  <link><![CDATA[https://librivox.org/welsh-fairy-tales-and-other-stories-by-p-h-emerson/]]></link>
+  <atom:link rel="self" href="https://librivox.org/rss/6796" />
+  <description><![CDATA[A collection of Welsh Fairy tales.  These tales were collected by me whilst living in Anglesea during the winter 1891-2. With the exception of the French story, they were told me and I took them down at the time. In most cases I have done but little "editing", preferring to give the stories as told. P. H. Emerson, April 1894. (Summary from Author's Note)]]></description>
+  <!--<genre>project element=Genre</genre>-->
+  <!--<language>project element=lang.code</language>-->
+  <itunes:type>serial</itunes:type>
+  <itunes:author>LibriVox</itunes:author>
+  <itunes:summary><![CDATA[A collection of Welsh Fairy tales.  These tales were collected by me whilst living in Anglesea during the winter 1891-2. With the exception of the French story, they were told me and I took them down at the time. In most cases I have done but little "editing", preferring to give the stories as told. P. H. Emerson, April 1894. (Summary from Author's Note)]]></itunes:summary>
+  <itunes:owner>
+    <itunes:name>LibriVox</itunes:name>
+    <itunes:email>info@librivox.org</itunes:email>
+  </itunes:owner>
+  <itunes:category text="Arts">
+    <itunes:category text="Literature" />
+  </itunes:category>
+  <image><url> http://archive.org/download/LibrivoxCdCoverArt32/welsh_fairy_tales_1307.jpg</url></image>
+  <itunes:image href=" http://archive.org/download/LibrivoxCdCoverArt32/welsh_fairy_tales_1307.jpg"/>
+  <itunes:explicit>no</itunes:explicit>
+  <!-- file loop -->
+    <item>
+    <title><![CDATA[The Fairies of Caragonann]]></title>
+    <itunes:episode><![CDATA[1]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/welsh-fairy-tales-and-other-stories-by-p-h-emerson/]]></link>
+            <enclosure url="https://www.archive.org/download/welchfairytales_1306_librivox/welshfairytalesandotherstories_01_emerson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:09:33]]></itunes:duration>
+  <pubDate>Sun, 30 Jun 2013 00:00:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/welchfairytales_1306_librivox/welshfairytalesandotherstories_01_emerson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Craig-y-Don Blacksmith]]></title>
+    <itunes:episode><![CDATA[2]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/welsh-fairy-tales-and-other-stories-by-p-h-emerson/]]></link>
+            <enclosure url="https://www.archive.org/download/welchfairytales_1306_librivox/welshfairytalesandotherstories_02_emerson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:02:11]]></itunes:duration>
+  <pubDate>Sun, 30 Jun 2013 00:01:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/welchfairytales_1306_librivox/welshfairytalesandotherstories_02_emerson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Old Gwilym]]></title>
+    <itunes:episode><![CDATA[3]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/welsh-fairy-tales-and-other-stories-by-p-h-emerson/]]></link>
+            <enclosure url="https://www.archive.org/download/welchfairytales_1306_librivox/welshfairytalesandotherstories_03_emerson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:02:48]]></itunes:duration>
+  <pubDate>Sun, 30 Jun 2013 00:02:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/welchfairytales_1306_librivox/welshfairytalesandotherstories_03_emerson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Baby-Farmer]]></title>
+    <itunes:episode><![CDATA[4]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/welsh-fairy-tales-and-other-stories-by-p-h-emerson/]]></link>
+            <enclosure url="https://www.archive.org/download/welchfairytales_1306_librivox/welshfairytalesandotherstories_04_emerson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:01:33]]></itunes:duration>
+  <pubDate>Sun, 30 Jun 2013 00:03:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/welchfairytales_1306_librivox/welshfairytalesandotherstories_04_emerson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Old Man and the Fairies]]></title>
+    <itunes:episode><![CDATA[5]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/welsh-fairy-tales-and-other-stories-by-p-h-emerson/]]></link>
+            <enclosure url="https://www.archive.org/download/welchfairytales_1306_librivox/welshfairytalesandotherstories_05_emerson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:02:36]]></itunes:duration>
+  <pubDate>Sun, 30 Jun 2013 00:04:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/welchfairytales_1306_librivox/welshfairytalesandotherstories_05_emerson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Tommy Pritchard]]></title>
+    <itunes:episode><![CDATA[6]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/welsh-fairy-tales-and-other-stories-by-p-h-emerson/]]></link>
+            <enclosure url="https://www.archive.org/download/welchfairytales_1306_librivox/welshfairytalesandotherstories_06_emerson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:01:19]]></itunes:duration>
+  <pubDate>Sun, 30 Jun 2013 00:05:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/welchfairytales_1306_librivox/welshfairytalesandotherstories_06_emerson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Kaddy's luck]]></title>
+    <itunes:episode><![CDATA[7]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/welsh-fairy-tales-and-other-stories-by-p-h-emerson/]]></link>
+            <enclosure url="https://www.archive.org/download/welchfairytales_1306_librivox/welshfairytalesandotherstories_07_emerson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:01:24]]></itunes:duration>
+  <pubDate>Sun, 30 Jun 2013 00:06:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/welchfairytales_1306_librivox/welshfairytalesandotherstories_07_emerson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The story of Gelert]]></title>
+    <itunes:episode><![CDATA[8]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/welsh-fairy-tales-and-other-stories-by-p-h-emerson/]]></link>
+            <enclosure url="https://www.archive.org/download/welchfairytales_1306_librivox/welshfairytalesandotherstories_08_emerson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:03:55]]></itunes:duration>
+  <pubDate>Sun, 30 Jun 2013 00:07:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/welchfairytales_1306_librivox/welshfairytalesandotherstories_08_emerson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Origin of the Welsh]]></title>
+    <itunes:episode><![CDATA[9]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/welsh-fairy-tales-and-other-stories-by-p-h-emerson/]]></link>
+            <enclosure url="https://www.archive.org/download/welchfairytales_1306_librivox/welshfairytalesandotherstories_09_emerson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:08:34]]></itunes:duration>
+  <pubDate>Sun, 30 Jun 2013 00:08:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/welchfairytales_1306_librivox/welshfairytalesandotherstories_09_emerson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Crows]]></title>
+    <itunes:episode><![CDATA[10]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/welsh-fairy-tales-and-other-stories-by-p-h-emerson/]]></link>
+            <enclosure url="https://www.archive.org/download/welchfairytales_1306_librivox/welshfairytalesandotherstories_10_emerson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:04:50]]></itunes:duration>
+  <pubDate>Sun, 30 Jun 2013 00:09:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/welchfairytales_1306_librivox/welshfairytalesandotherstories_10_emerson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Robert and the Fairies]]></title>
+    <itunes:episode><![CDATA[11]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/welsh-fairy-tales-and-other-stories-by-p-h-emerson/]]></link>
+            <enclosure url="https://www.archive.org/download/welchfairytales_1306_librivox/welshfairytalesandotherstories_11_emerson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:01:43]]></itunes:duration>
+  <pubDate>Sun, 30 Jun 2013 00:10:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/welchfairytales_1306_librivox/welshfairytalesandotherstories_11_emerson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Fairy of the Dell]]></title>
+    <itunes:episode><![CDATA[12]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/welsh-fairy-tales-and-other-stories-by-p-h-emerson/]]></link>
+            <enclosure url="https://www.archive.org/download/welchfairytales_1306_librivox/welshfairytalesandotherstories_12_emerson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:11:13]]></itunes:duration>
+  <pubDate>Sun, 30 Jun 2013 00:11:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/welchfairytales_1306_librivox/welshfairytalesandotherstories_12_emerson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Ellen's Luck]]></title>
+    <itunes:episode><![CDATA[13]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/welsh-fairy-tales-and-other-stories-by-p-h-emerson/]]></link>
+            <enclosure url="https://www.archive.org/download/welchfairytales_1306_librivox/welshfairytalesandotherstories_13_emerson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:01:01]]></itunes:duration>
+  <pubDate>Sun, 30 Jun 2013 00:12:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/welchfairytales_1306_librivox/welshfairytalesandotherstories_13_emerson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Fairies' Mint]]></title>
+    <itunes:episode><![CDATA[14]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/welsh-fairy-tales-and-other-stories-by-p-h-emerson/]]></link>
+            <enclosure url="https://www.archive.org/download/welchfairytales_1306_librivox/welshfairytalesandotherstories_14_emerson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:01:57]]></itunes:duration>
+  <pubDate>Sun, 30 Jun 2013 00:13:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/welchfairytales_1306_librivox/welshfairytalesandotherstories_14_emerson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Pellings]]></title>
+    <itunes:episode><![CDATA[15]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/welsh-fairy-tales-and-other-stories-by-p-h-emerson/]]></link>
+            <enclosure url="https://www.archive.org/download/welchfairytales_1306_librivox/welshfairytalesandotherstories_15_emerson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:03:13]]></itunes:duration>
+  <pubDate>Sun, 30 Jun 2013 00:14:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/welchfairytales_1306_librivox/welshfairytalesandotherstories_15_emerson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Long-Lived Ancestors]]></title>
+    <itunes:episode><![CDATA[16]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/welsh-fairy-tales-and-other-stories-by-p-h-emerson/]]></link>
+            <enclosure url="https://www.archive.org/download/welchfairytales_1306_librivox/welshfairytalesandotherstories_16_emerson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:03:49]]></itunes:duration>
+  <pubDate>Sun, 30 Jun 2013 00:15:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/welchfairytales_1306_librivox/welshfairytalesandotherstories_16_emerson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Giantess's Apron-Full]]></title>
+    <itunes:episode><![CDATA[17]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/welsh-fairy-tales-and-other-stories-by-p-h-emerson/]]></link>
+            <enclosure url="https://www.archive.org/download/welchfairytales_1306_librivox/welshfairytalesandotherstories_17_emerson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:01:31]]></itunes:duration>
+  <pubDate>Sun, 30 Jun 2013 00:16:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/welchfairytales_1306_librivox/welshfairytalesandotherstories_17_emerson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[A Fable]]></title>
+    <itunes:episode><![CDATA[18]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/welsh-fairy-tales-and-other-stories-by-p-h-emerson/]]></link>
+            <enclosure url="https://www.archive.org/download/welchfairytales_1306_librivox/welshfairytalesandotherstories_18_emerson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:01:36]]></itunes:duration>
+  <pubDate>Sun, 30 Jun 2013 00:17:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/welchfairytales_1306_librivox/welshfairytalesandotherstories_18_emerson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Story of the Pig-Trough]]></title>
+    <itunes:episode><![CDATA[19]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/welsh-fairy-tales-and-other-stories-by-p-h-emerson/]]></link>
+            <enclosure url="https://www.archive.org/download/welchfairytales_1306_librivox/welshfairytalesandotherstories_19_emerson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:03:00]]></itunes:duration>
+  <pubDate>Sun, 30 Jun 2013 00:18:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/welchfairytales_1306_librivox/welshfairytalesandotherstories_19_emerson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Billy Duffy and the Devil]]></title>
+    <itunes:episode><![CDATA[20]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/welsh-fairy-tales-and-other-stories-by-p-h-emerson/]]></link>
+            <enclosure url="https://www.archive.org/download/welchfairytales_1306_librivox/welshfairytalesandotherstories_20_emerson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:09:18]]></itunes:duration>
+  <pubDate>Sun, 30 Jun 2013 00:19:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/welchfairytales_1306_librivox/welshfairytalesandotherstories_20_emerson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[John O'Groats]]></title>
+    <itunes:episode><![CDATA[21]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/welsh-fairy-tales-and-other-stories-by-p-h-emerson/]]></link>
+            <enclosure url="https://www.archive.org/download/welchfairytales_1306_librivox/welshfairytalesandotherstories_21_emerson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:08:24]]></itunes:duration>
+  <pubDate>Sun, 30 Jun 2013 00:20:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/welchfairytales_1306_librivox/welshfairytalesandotherstories_21_emerson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Eva's Luck]]></title>
+    <itunes:episode><![CDATA[22]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/welsh-fairy-tales-and-other-stories-by-p-h-emerson/]]></link>
+            <enclosure url="https://www.archive.org/download/welchfairytales_1306_librivox/welshfairytalesandotherstories_22_emerson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:01:56]]></itunes:duration>
+  <pubDate>Sun, 30 Jun 2013 00:21:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/welchfairytales_1306_librivox/welshfairytalesandotherstories_22_emerson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Fisherman of Shetland]]></title>
+    <itunes:episode><![CDATA[23]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/welsh-fairy-tales-and-other-stories-by-p-h-emerson/]]></link>
+            <enclosure url="https://www.archive.org/download/welchfairytales_1306_librivox/welshfairytalesandotherstories_23_emerson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:08:35]]></itunes:duration>
+  <pubDate>Sun, 30 Jun 2013 00:22:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/welchfairytales_1306_librivox/welshfairytalesandotherstories_23_emerson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Pastor's Nurse]]></title>
+    <itunes:episode><![CDATA[24]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/welsh-fairy-tales-and-other-stories-by-p-h-emerson/]]></link>
+            <enclosure url="https://www.archive.org/download/welchfairytales_1306_librivox/welshfairytalesandotherstories_24_emerson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:06:53]]></itunes:duration>
+  <pubDate>Sun, 30 Jun 2013 00:23:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/welchfairytales_1306_librivox/welshfairytalesandotherstories_24_emerson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <!-- end file loop -->
+</channel>
+</rss>

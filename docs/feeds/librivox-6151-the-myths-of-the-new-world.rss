@@ -1,0 +1,385 @@
+<?xml version="1.0" ?><rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+  <title><![CDATA[Myths of the New World, The by Daniel Garrison Brinton (1837 - 1899)]]></title>
+  <link><![CDATA[https://librivox.org/the-myths-of-the-new-world-by-daniel-g-brinton/]]></link>
+  <atom:link rel="self" href="https://librivox.org/rss/6151" />
+  <description><![CDATA[The Myths of the New World's full title describes it as.. " a treatise on the Symbolism and Mythology of the Red Race of America", an attempt to analyse and correlate scientifically, the mythology of the American Indians. Note: Brinton advocated theories of scientific racism that were pervasive at that time. (Summary adapted from Wikipedia)]]></description>
+  <!--<genre>project element=Genre</genre>-->
+  <!--<language>project element=lang.code</language>-->
+  <itunes:type>serial</itunes:type>
+  <itunes:author>LibriVox</itunes:author>
+  <itunes:summary><![CDATA[The Myths of the New World's full title describes it as.. " a treatise on the Symbolism and Mythology of the Red Race of America", an attempt to analyse and correlate scientifically, the mythology of the American Indians. Note: Brinton advocated theories of scientific racism that were pervasive at that time. (Summary adapted from Wikipedia)]]></itunes:summary>
+  <itunes:owner>
+    <itunes:name>LibriVox</itunes:name>
+    <itunes:email>info@librivox.org</itunes:email>
+  </itunes:owner>
+  <itunes:category text="Arts">
+    <itunes:category text="Literature" />
+  </itunes:category>
+  <image><url>https://archive.org/download/LibrivoxCdCoverArt23/Myths_New_World_1210.jpg</url></image>
+  <itunes:image href="https://archive.org/download/LibrivoxCdCoverArt23/Myths_New_World_1210.jpg"/>
+  <itunes:explicit>no</itunes:explicit>
+  <!-- file loop -->
+    <item>
+    <title><![CDATA[00-Preface]]></title>
+    <itunes:episode><![CDATA[0]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-myths-of-the-new-world-by-daniel-g-brinton/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_new_world_1209_librivox/mythsofthenewworld_00_brinton_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:01:46]]></itunes:duration>
+  <pubDate>Wed, 26 Sep 2012 00:00:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_new_world_1209_librivox/mythsofthenewworld_00_brinton_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[01-Chapter 1. Part 1]]></title>
+    <itunes:episode><![CDATA[1]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-myths-of-the-new-world-by-daniel-g-brinton/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_new_world_1209_librivox/mythsofthenewworld_01_brinton_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:17:23]]></itunes:duration>
+  <pubDate>Wed, 26 Sep 2012 00:01:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_new_world_1209_librivox/mythsofthenewworld_01_brinton_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[02-Chapter 1. Part 2]]></title>
+    <itunes:episode><![CDATA[2]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-myths-of-the-new-world-by-daniel-g-brinton/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_new_world_1209_librivox/mythsofthenewworld_02_brinton_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:16:06]]></itunes:duration>
+  <pubDate>Wed, 26 Sep 2012 00:02:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_new_world_1209_librivox/mythsofthenewworld_02_brinton_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[03-Chapter 1. Part 3]]></title>
+    <itunes:episode><![CDATA[3]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-myths-of-the-new-world-by-daniel-g-brinton/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_new_world_1209_librivox/mythsofthenewworld_03_brinton_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:18:27]]></itunes:duration>
+  <pubDate>Wed, 26 Sep 2012 00:03:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_new_world_1209_librivox/mythsofthenewworld_03_brinton_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[04-Chapter 1. Part 4]]></title>
+    <itunes:episode><![CDATA[4]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-myths-of-the-new-world-by-daniel-g-brinton/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_new_world_1209_librivox/mythsofthenewworld_04_brinton_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:10:08]]></itunes:duration>
+  <pubDate>Wed, 26 Sep 2012 00:04:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_new_world_1209_librivox/mythsofthenewworld_04_brinton_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[05-Chapter 2. Part 1]]></title>
+    <itunes:episode><![CDATA[5]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-myths-of-the-new-world-by-daniel-g-brinton/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_new_world_1209_librivox/mythsofthenewworld_05_brinton_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:17:29]]></itunes:duration>
+  <pubDate>Wed, 26 Sep 2012 00:05:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_new_world_1209_librivox/mythsofthenewworld_05_brinton_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[06-Chapter 2. Part 2]]></title>
+    <itunes:episode><![CDATA[6]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-myths-of-the-new-world-by-daniel-g-brinton/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_new_world_1209_librivox/mythsofthenewworld_06_brinton_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:21:06]]></itunes:duration>
+  <pubDate>Wed, 26 Sep 2012 00:06:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_new_world_1209_librivox/mythsofthenewworld_06_brinton_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[07-Chapter 3. Part 1]]></title>
+    <itunes:episode><![CDATA[7]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-myths-of-the-new-world-by-daniel-g-brinton/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_new_world_1209_librivox/mythsofthenewworld_07_brinton_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:20:49]]></itunes:duration>
+  <pubDate>Wed, 26 Sep 2012 00:07:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_new_world_1209_librivox/mythsofthenewworld_07_brinton_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[08-Chapter 3. Part 2]]></title>
+    <itunes:episode><![CDATA[8]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-myths-of-the-new-world-by-daniel-g-brinton/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_new_world_1209_librivox/mythsofthenewworld_08_brinton_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:16:05]]></itunes:duration>
+  <pubDate>Wed, 26 Sep 2012 00:08:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_new_world_1209_librivox/mythsofthenewworld_08_brinton_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[09-Chapter 3. Part 3]]></title>
+    <itunes:episode><![CDATA[9]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-myths-of-the-new-world-by-daniel-g-brinton/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_new_world_1209_librivox/mythsofthenewworld_09_brinton_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:19:13]]></itunes:duration>
+  <pubDate>Wed, 26 Sep 2012 00:09:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_new_world_1209_librivox/mythsofthenewworld_09_brinton_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[10-Chapter 4. Part 1]]></title>
+    <itunes:episode><![CDATA[10]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-myths-of-the-new-world-by-daniel-g-brinton/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_new_world_1209_librivox/mythsofthenewworld_10_brinton_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:19:27]]></itunes:duration>
+  <pubDate>Wed, 26 Sep 2012 00:10:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_new_world_1209_librivox/mythsofthenewworld_10_brinton_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[11-Chapter 4. Part 2]]></title>
+    <itunes:episode><![CDATA[11]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-myths-of-the-new-world-by-daniel-g-brinton/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_new_world_1209_librivox/mythsofthenewworld_11_brinton_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:16:03]]></itunes:duration>
+  <pubDate>Wed, 26 Sep 2012 00:11:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_new_world_1209_librivox/mythsofthenewworld_11_brinton_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[12-Chapter 5. Part 1]]></title>
+    <itunes:episode><![CDATA[12]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-myths-of-the-new-world-by-daniel-g-brinton/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_new_world_1209_librivox/mythsofthenewworld_12_brinton_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:16:31]]></itunes:duration>
+  <pubDate>Wed, 26 Sep 2012 00:12:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_new_world_1209_librivox/mythsofthenewworld_12_brinton_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[13-Chapter 5. Part 2]]></title>
+    <itunes:episode><![CDATA[13]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-myths-of-the-new-world-by-daniel-g-brinton/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_new_world_1209_librivox/mythsofthenewworld_13_brinton_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:12:11]]></itunes:duration>
+  <pubDate>Wed, 26 Sep 2012 00:13:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_new_world_1209_librivox/mythsofthenewworld_13_brinton_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[14-Chapter 5. Part 3]]></title>
+    <itunes:episode><![CDATA[14]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-myths-of-the-new-world-by-daniel-g-brinton/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_new_world_1209_librivox/mythsofthenewworld_14_brinton_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:14:45]]></itunes:duration>
+  <pubDate>Wed, 26 Sep 2012 00:14:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_new_world_1209_librivox/mythsofthenewworld_14_brinton_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[15-Chapter 5. Part 4]]></title>
+    <itunes:episode><![CDATA[15]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-myths-of-the-new-world-by-daniel-g-brinton/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_new_world_1209_librivox/mythsofthenewworld_15_brinton_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:12:00]]></itunes:duration>
+  <pubDate>Wed, 26 Sep 2012 00:15:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_new_world_1209_librivox/mythsofthenewworld_15_brinton_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[16-Chapter 6.  Part 1]]></title>
+    <itunes:episode><![CDATA[16]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-myths-of-the-new-world-by-daniel-g-brinton/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_new_world_1209_librivox/mythsofthenewworld_16_brinton_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:17:15]]></itunes:duration>
+  <pubDate>Wed, 26 Sep 2012 00:16:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_new_world_1209_librivox/mythsofthenewworld_16_brinton_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[17-Chapter 6. Part 2]]></title>
+    <itunes:episode><![CDATA[17]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-myths-of-the-new-world-by-daniel-g-brinton/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_new_world_1209_librivox/mythsofthenewworld_17_brinton_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:21:22]]></itunes:duration>
+  <pubDate>Wed, 26 Sep 2012 00:17:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_new_world_1209_librivox/mythsofthenewworld_17_brinton_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[18-Chapter 6. Part 3]]></title>
+    <itunes:episode><![CDATA[18]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-myths-of-the-new-world-by-daniel-g-brinton/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_new_world_1209_librivox/mythsofthenewworld_18_brinton_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:13:11]]></itunes:duration>
+  <pubDate>Wed, 26 Sep 2012 00:18:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_new_world_1209_librivox/mythsofthenewworld_18_brinton_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[19-Chapter 7. Part 1]]></title>
+    <itunes:episode><![CDATA[19]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-myths-of-the-new-world-by-daniel-g-brinton/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_new_world_1209_librivox/mythsofthenewworld_19_brinton_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:19:24]]></itunes:duration>
+  <pubDate>Wed, 26 Sep 2012 00:19:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_new_world_1209_librivox/mythsofthenewworld_19_brinton_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[20-Chapter 7. Part 2]]></title>
+    <itunes:episode><![CDATA[20]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-myths-of-the-new-world-by-daniel-g-brinton/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_new_world_1209_librivox/mythsofthenewworld_20_brinton_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:18:20]]></itunes:duration>
+  <pubDate>Wed, 26 Sep 2012 00:20:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_new_world_1209_librivox/mythsofthenewworld_20_brinton_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[21-Chapter 7. Part 3]]></title>
+    <itunes:episode><![CDATA[21]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-myths-of-the-new-world-by-daniel-g-brinton/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_new_world_1209_librivox/mythsofthenewworld_21_brinton_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:19:32]]></itunes:duration>
+  <pubDate>Wed, 26 Sep 2012 00:21:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_new_world_1209_librivox/mythsofthenewworld_21_brinton_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[22-Chapter 8.]]></title>
+    <itunes:episode><![CDATA[22]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-myths-of-the-new-world-by-daniel-g-brinton/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_new_world_1209_librivox/mythsofthenewworld_22_brinton_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:19:46]]></itunes:duration>
+  <pubDate>Wed, 26 Sep 2012 00:22:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_new_world_1209_librivox/mythsofthenewworld_22_brinton_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[23-Chapter 9. Part 1]]></title>
+    <itunes:episode><![CDATA[23]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-myths-of-the-new-world-by-daniel-g-brinton/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_new_world_1209_librivox/mythsofthenewworld_23_brinton_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:18:28]]></itunes:duration>
+  <pubDate>Wed, 26 Sep 2012 00:23:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_new_world_1209_librivox/mythsofthenewworld_23_brinton_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[24-Chapter 9. Part 2]]></title>
+    <itunes:episode><![CDATA[24]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-myths-of-the-new-world-by-daniel-g-brinton/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_new_world_1209_librivox/mythsofthenewworld_24_brinton_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:19:06]]></itunes:duration>
+  <pubDate>Wed, 26 Sep 2012 00:24:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_new_world_1209_librivox/mythsofthenewworld_24_brinton_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[25-Chapter 9. Part 3]]></title>
+    <itunes:episode><![CDATA[25]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-myths-of-the-new-world-by-daniel-g-brinton/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_new_world_1209_librivox/mythsofthenewworld_25_brinton_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:19:00]]></itunes:duration>
+  <pubDate>Wed, 26 Sep 2012 00:25:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_new_world_1209_librivox/mythsofthenewworld_25_brinton_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[26-Chapter 10. Part 1]]></title>
+    <itunes:episode><![CDATA[26]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-myths-of-the-new-world-by-daniel-g-brinton/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_new_world_1209_librivox/mythsofthenewworld_26_brinton_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:15:07]]></itunes:duration>
+  <pubDate>Wed, 26 Sep 2012 00:26:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_new_world_1209_librivox/mythsofthenewworld_26_brinton_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[27-Chapter 10. Part 2]]></title>
+    <itunes:episode><![CDATA[27]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-myths-of-the-new-world-by-daniel-g-brinton/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_new_world_1209_librivox/mythsofthenewworld_27_brinton_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:23:59]]></itunes:duration>
+  <pubDate>Wed, 26 Sep 2012 00:27:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_new_world_1209_librivox/mythsofthenewworld_27_brinton_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[28-Chapter 11. Part 1]]></title>
+    <itunes:episode><![CDATA[28]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-myths-of-the-new-world-by-daniel-g-brinton/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_new_world_1209_librivox/mythsofthenewworld_28_brinton_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:14:56]]></itunes:duration>
+  <pubDate>Wed, 26 Sep 2012 00:28:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_new_world_1209_librivox/mythsofthenewworld_28_brinton_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[29-Chapter 11. Part 2]]></title>
+    <itunes:episode><![CDATA[29]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-myths-of-the-new-world-by-daniel-g-brinton/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_new_world_1209_librivox/mythsofthenewworld_29_brinton_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:13:08]]></itunes:duration>
+  <pubDate>Wed, 26 Sep 2012 00:29:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_new_world_1209_librivox/mythsofthenewworld_29_brinton_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <!-- end file loop -->
+</channel>
+</rss>

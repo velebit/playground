@@ -1,0 +1,481 @@
+<?xml version="1.0" ?><rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+  <title><![CDATA[Norwegian Fairy Book, The by Klara Stroebe (1887 - 1932)]]></title>
+  <link><![CDATA[https://librivox.org/norwegian-fairy-book-by-klara-stroebe/]]></link>
+  <atom:link rel="self" href="https://librivox.org/rss/15966" />
+  <description><![CDATA[These Norwegian tales of elemental mountain, forest and sea spirits, have been handed down by hinds and huntsmen, wood choppers and fisher folk. They are men who led a hard and lonely life amid primitive surroundings. The Norwegian Fairy Book has an appeal for one and all, since it is a book in which the mirror of fairy-tale reflects human yearnings and aspirations, human loves, ambitions and disillusionments, in an imaginatively glamored, yet not distorted form. [from the book's preface]]]></description>
+  <!--<genre>project element=Genre</genre>-->
+  <!--<language>project element=lang.code</language>-->
+  <itunes:type>serial</itunes:type>
+  <itunes:author>LibriVox</itunes:author>
+  <itunes:summary><![CDATA[These Norwegian tales of elemental mountain, forest and sea spirits, have been handed down by hinds and huntsmen, wood choppers and fisher folk. They are men who led a hard and lonely life amid primitive surroundings. The Norwegian Fairy Book has an appeal for one and all, since it is a book in which the mirror of fairy-tale reflects human yearnings and aspirations, human loves, ambitions and disillusionments, in an imaginatively glamored, yet not distorted form. [from the book's preface]]]></itunes:summary>
+  <itunes:owner>
+    <itunes:name>LibriVox</itunes:name>
+    <itunes:email>info@librivox.org</itunes:email>
+  </itunes:owner>
+  <itunes:category text="Arts">
+    <itunes:category text="Literature" />
+  </itunes:category>
+  <image><url>https://archive.org/download/norwegian_fairy_book_2012_librivox/norwegianfairybook_2012.jpg</url></image>
+  <itunes:image href="https://archive.org/download/norwegian_fairy_book_2012_librivox/norwegianfairybook_2012.jpg"/>
+  <itunes:explicit>no</itunes:explicit>
+  <!-- file loop -->
+    <item>
+    <title><![CDATA[Preface]]></title>
+    <itunes:episode><![CDATA[0]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/norwegian-fairy-book-by-klara-stroebe/]]></link>
+            <enclosure url="https://www.archive.org/download/norwegian_fairy_book_2012_librivox/norwegianfairybook_00_stroebe_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Thu, 17 Dec 2020 00:00:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/norwegian_fairy_book_2012_librivox/norwegianfairybook_00_stroebe_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Per Gynt]]></title>
+    <itunes:episode><![CDATA[1]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/norwegian-fairy-book-by-klara-stroebe/]]></link>
+            <enclosure url="https://www.archive.org/download/norwegian_fairy_book_2012_librivox/norwegianfairybook_01_stroebe_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Thu, 17 Dec 2020 00:01:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/norwegian_fairy_book_2012_librivox/norwegianfairybook_01_stroebe_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Isle of Udröst]]></title>
+    <itunes:episode><![CDATA[2]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/norwegian-fairy-book-by-klara-stroebe/]]></link>
+            <enclosure url="https://www.archive.org/download/norwegian_fairy_book_2012_librivox/norwegianfairybook_02_stroebe_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Thu, 17 Dec 2020 00:02:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/norwegian_fairy_book_2012_librivox/norwegianfairybook_02_stroebe_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Three Lemons]]></title>
+    <itunes:episode><![CDATA[3]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/norwegian-fairy-book-by-klara-stroebe/]]></link>
+            <enclosure url="https://www.archive.org/download/norwegian_fairy_book_2012_librivox/norwegianfairybook_03_stroebe_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Thu, 17 Dec 2020 00:03:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/norwegian_fairy_book_2012_librivox/norwegianfairybook_03_stroebe_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Neighbor Underground]]></title>
+    <itunes:episode><![CDATA[4]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/norwegian-fairy-book-by-klara-stroebe/]]></link>
+            <enclosure url="https://www.archive.org/download/norwegian_fairy_book_2012_librivox/norwegianfairybook_04_stroebe_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Thu, 17 Dec 2020 00:04:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/norwegian_fairy_book_2012_librivox/norwegianfairybook_04_stroebe_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Secret Church]]></title>
+    <itunes:episode><![CDATA[5]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/norwegian-fairy-book-by-klara-stroebe/]]></link>
+            <enclosure url="https://www.archive.org/download/norwegian_fairy_book_2012_librivox/norwegianfairybook_05_stroebe_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Thu, 17 Dec 2020 00:05:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/norwegian_fairy_book_2012_librivox/norwegianfairybook_05_stroebe_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Comrade]]></title>
+    <itunes:episode><![CDATA[6]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/norwegian-fairy-book-by-klara-stroebe/]]></link>
+            <enclosure url="https://www.archive.org/download/norwegian_fairy_book_2012_librivox/norwegianfairybook_06_stroebe_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Thu, 17 Dec 2020 00:06:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/norwegian_fairy_book_2012_librivox/norwegianfairybook_06_stroebe_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Aspenclog]]></title>
+    <itunes:episode><![CDATA[7]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/norwegian-fairy-book-by-klara-stroebe/]]></link>
+            <enclosure url="https://www.archive.org/download/norwegian_fairy_book_2012_librivox/norwegianfairybook_07_stroebe_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Thu, 17 Dec 2020 00:07:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/norwegian_fairy_book_2012_librivox/norwegianfairybook_07_stroebe_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Troll Wedding]]></title>
+    <itunes:episode><![CDATA[8]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/norwegian-fairy-book-by-klara-stroebe/]]></link>
+            <enclosure url="https://www.archive.org/download/norwegian_fairy_book_2012_librivox/norwegianfairybook_08_stroebe_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Thu, 17 Dec 2020 00:08:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/norwegian_fairy_book_2012_librivox/norwegianfairybook_08_stroebe_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Hat of the Huldres]]></title>
+    <itunes:episode><![CDATA[9]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/norwegian-fairy-book-by-klara-stroebe/]]></link>
+            <enclosure url="https://www.archive.org/download/norwegian_fairy_book_2012_librivox/norwegianfairybook_09_stroebe_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Thu, 17 Dec 2020 00:09:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/norwegian_fairy_book_2012_librivox/norwegianfairybook_09_stroebe_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Child of Mary]]></title>
+    <itunes:episode><![CDATA[10]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/norwegian-fairy-book-by-klara-stroebe/]]></link>
+            <enclosure url="https://www.archive.org/download/norwegian_fairy_book_2012_librivox/norwegianfairybook_10_stroebe_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Thu, 17 Dec 2020 00:10:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/norwegian_fairy_book_2012_librivox/norwegianfairybook_10_stroebe_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Storm Magic]]></title>
+    <itunes:episode><![CDATA[11]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/norwegian-fairy-book-by-klara-stroebe/]]></link>
+            <enclosure url="https://www.archive.org/download/norwegian_fairy_book_2012_librivox/norwegianfairybook_11_stroebe_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Thu, 17 Dec 2020 00:11:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/norwegian_fairy_book_2012_librivox/norwegianfairybook_11_stroebe_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Four-shilling Piece]]></title>
+    <itunes:episode><![CDATA[12]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/norwegian-fairy-book-by-klara-stroebe/]]></link>
+            <enclosure url="https://www.archive.org/download/norwegian_fairy_book_2012_librivox/norwegianfairybook_12_stroebe_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Thu, 17 Dec 2020 00:12:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/norwegian_fairy_book_2012_librivox/norwegianfairybook_12_stroebe_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Magic Apples]]></title>
+    <itunes:episode><![CDATA[13]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/norwegian-fairy-book-by-klara-stroebe/]]></link>
+            <enclosure url="https://www.archive.org/download/norwegian_fairy_book_2012_librivox/norwegianfairybook_13_stroebe_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Thu, 17 Dec 2020 00:13:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/norwegian_fairy_book_2012_librivox/norwegianfairybook_13_stroebe_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Self Did It]]></title>
+    <itunes:episode><![CDATA[14]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/norwegian-fairy-book-by-klara-stroebe/]]></link>
+            <enclosure url="https://www.archive.org/download/norwegian_fairy_book_2012_librivox/norwegianfairybook_14_stroebe_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Thu, 17 Dec 2020 00:14:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/norwegian_fairy_book_2012_librivox/norwegianfairybook_14_stroebe_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Master Girl]]></title>
+    <itunes:episode><![CDATA[15]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/norwegian-fairy-book-by-klara-stroebe/]]></link>
+            <enclosure url="https://www.archive.org/download/norwegian_fairy_book_2012_librivox/norwegianfairybook_15_stroebe_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Thu, 17 Dec 2020 00:15:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/norwegian_fairy_book_2012_librivox/norwegianfairybook_15_stroebe_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Anent the Giant Who Did Not Have His Heart About Him]]></title>
+    <itunes:episode><![CDATA[16]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/norwegian-fairy-book-by-klara-stroebe/]]></link>
+            <enclosure url="https://www.archive.org/download/norwegian_fairy_book_2012_librivox/norwegianfairybook_16_stroebe_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Thu, 17 Dec 2020 00:16:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/norwegian_fairy_book_2012_librivox/norwegianfairybook_16_stroebe_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Three Princesses in Whiteland]]></title>
+    <itunes:episode><![CDATA[17]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/norwegian-fairy-book-by-klara-stroebe/]]></link>
+            <enclosure url="https://www.archive.org/download/norwegian_fairy_book_2012_librivox/norwegianfairybook_17_stroebe_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Thu, 17 Dec 2020 00:17:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/norwegian_fairy_book_2012_librivox/norwegianfairybook_17_stroebe_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Trouble and Care]]></title>
+    <itunes:episode><![CDATA[18]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/norwegian-fairy-book-by-klara-stroebe/]]></link>
+            <enclosure url="https://www.archive.org/download/norwegian_fairy_book_2012_librivox/norwegianfairybook_18_stroebe_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Thu, 17 Dec 2020 00:18:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/norwegian_fairy_book_2012_librivox/norwegianfairybook_18_stroebe_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Kari Woodencoat]]></title>
+    <itunes:episode><![CDATA[19]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/norwegian-fairy-book-by-klara-stroebe/]]></link>
+            <enclosure url="https://www.archive.org/download/norwegian_fairy_book_2012_librivox/norwegianfairybook_19_stroebe_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Thu, 17 Dec 2020 00:19:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/norwegian_fairy_book_2012_librivox/norwegianfairybook_19_stroebe_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Ola Storbaekkjen]]></title>
+    <itunes:episode><![CDATA[20]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/norwegian-fairy-book-by-klara-stroebe/]]></link>
+            <enclosure url="https://www.archive.org/download/norwegian_fairy_book_2012_librivox/norwegianfairybook_20_stroebe_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Thu, 17 Dec 2020 00:20:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/norwegian_fairy_book_2012_librivox/norwegianfairybook_20_stroebe_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Cat Who Could Eat So Much]]></title>
+    <itunes:episode><![CDATA[21]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/norwegian-fairy-book-by-klara-stroebe/]]></link>
+            <enclosure url="https://www.archive.org/download/norwegian_fairy_book_2012_librivox/norwegianfairybook_21_stroebe_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Thu, 17 Dec 2020 00:21:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/norwegian_fairy_book_2012_librivox/norwegianfairybook_21_stroebe_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[East of the Sun and West of the Moon]]></title>
+    <itunes:episode><![CDATA[22]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/norwegian-fairy-book-by-klara-stroebe/]]></link>
+            <enclosure url="https://www.archive.org/download/norwegian_fairy_book_2012_librivox/norwegianfairybook_22_stroebe_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Thu, 17 Dec 2020 00:22:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/norwegian_fairy_book_2012_librivox/norwegianfairybook_22_stroebe_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Murmur Goose-egg]]></title>
+    <itunes:episode><![CDATA[23]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/norwegian-fairy-book-by-klara-stroebe/]]></link>
+            <enclosure url="https://www.archive.org/download/norwegian_fairy_book_2012_librivox/norwegianfairybook_23_stroebe_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Thu, 17 Dec 2020 00:23:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/norwegian_fairy_book_2012_librivox/norwegianfairybook_23_stroebe_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Troll-Wife]]></title>
+    <itunes:episode><![CDATA[24]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/norwegian-fairy-book-by-klara-stroebe/]]></link>
+            <enclosure url="https://www.archive.org/download/norwegian_fairy_book_2012_librivox/norwegianfairybook_24_stroebe_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Thu, 17 Dec 2020 00:24:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/norwegian_fairy_book_2012_librivox/norwegianfairybook_24_stroebe_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The King’s Hares]]></title>
+    <itunes:episode><![CDATA[25]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/norwegian-fairy-book-by-klara-stroebe/]]></link>
+            <enclosure url="https://www.archive.org/download/norwegian_fairy_book_2012_librivox/norwegianfairybook_25_stroebe_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Thu, 17 Dec 2020 00:25:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/norwegian_fairy_book_2012_librivox/norwegianfairybook_25_stroebe_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Helge-Hal in the Blue Hill]]></title>
+    <itunes:episode><![CDATA[26]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/norwegian-fairy-book-by-klara-stroebe/]]></link>
+            <enclosure url="https://www.archive.org/download/norwegian_fairy_book_2012_librivox/norwegianfairybook_26_stroebe_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Thu, 17 Dec 2020 00:26:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/norwegian_fairy_book_2012_librivox/norwegianfairybook_26_stroebe_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Lord of the Hill and John Blessom]]></title>
+    <itunes:episode><![CDATA[27]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/norwegian-fairy-book-by-klara-stroebe/]]></link>
+            <enclosure url="https://www.archive.org/download/norwegian_fairy_book_2012_librivox/norwegianfairybook_27_stroebe_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Thu, 17 Dec 2020 00:27:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/norwegian_fairy_book_2012_librivox/norwegianfairybook_27_stroebe_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Young Fellow and the Devil]]></title>
+    <itunes:episode><![CDATA[28]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/norwegian-fairy-book-by-klara-stroebe/]]></link>
+            <enclosure url="https://www.archive.org/download/norwegian_fairy_book_2012_librivox/norwegianfairybook_28_stroebe_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Thu, 17 Dec 2020 00:28:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/norwegian_fairy_book_2012_librivox/norwegianfairybook_28_stroebe_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Farther South Than South, and Farther North Than North, and in the Great Hill of Gold]]></title>
+    <itunes:episode><![CDATA[29]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/norwegian-fairy-book-by-klara-stroebe/]]></link>
+            <enclosure url="https://www.archive.org/download/norwegian_fairy_book_2012_librivox/norwegianfairybook_29_stroebe_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Thu, 17 Dec 2020 00:29:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/norwegian_fairy_book_2012_librivox/norwegianfairybook_29_stroebe_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Lucky Andrew]]></title>
+    <itunes:episode><![CDATA[30]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/norwegian-fairy-book-by-klara-stroebe/]]></link>
+            <enclosure url="https://www.archive.org/download/norwegian_fairy_book_2012_librivox/norwegianfairybook_30_stroebe_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Thu, 17 Dec 2020 00:30:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/norwegian_fairy_book_2012_librivox/norwegianfairybook_30_stroebe_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Pastor and the Sexton]]></title>
+    <itunes:episode><![CDATA[31]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/norwegian-fairy-book-by-klara-stroebe/]]></link>
+            <enclosure url="https://www.archive.org/download/norwegian_fairy_book_2012_librivox/norwegianfairybook_31_stroebe_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Thu, 17 Dec 2020 00:31:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/norwegian_fairy_book_2012_librivox/norwegianfairybook_31_stroebe_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Skipper and Sir Urian]]></title>
+    <itunes:episode><![CDATA[32]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/norwegian-fairy-book-by-klara-stroebe/]]></link>
+            <enclosure url="https://www.archive.org/download/norwegian_fairy_book_2012_librivox/norwegianfairybook_32_stroebe_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Thu, 17 Dec 2020 00:32:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/norwegian_fairy_book_2012_librivox/norwegianfairybook_32_stroebe_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Youth Who Was to Serve Three Years Without Pay]]></title>
+    <itunes:episode><![CDATA[33]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/norwegian-fairy-book-by-klara-stroebe/]]></link>
+            <enclosure url="https://www.archive.org/download/norwegian_fairy_book_2012_librivox/norwegianfairybook_33_stroebe_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Thu, 17 Dec 2020 00:33:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/norwegian_fairy_book_2012_librivox/norwegianfairybook_33_stroebe_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Youth Who Wanted to Win the Daughter of the Mother in the Corner]]></title>
+    <itunes:episode><![CDATA[34]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/norwegian-fairy-book-by-klara-stroebe/]]></link>
+            <enclosure url="https://www.archive.org/download/norwegian_fairy_book_2012_librivox/norwegianfairybook_34_stroebe_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Thu, 17 Dec 2020 00:34:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/norwegian_fairy_book_2012_librivox/norwegianfairybook_34_stroebe_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Chronicle of the Pancake]]></title>
+    <itunes:episode><![CDATA[35]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/norwegian-fairy-book-by-klara-stroebe/]]></link>
+            <enclosure url="https://www.archive.org/download/norwegian_fairy_book_2012_librivox/norwegianfairybook_35_stroebe_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Thu, 17 Dec 2020 00:35:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/norwegian_fairy_book_2012_librivox/norwegianfairybook_35_stroebe_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Soria-Moria Castle]]></title>
+    <itunes:episode><![CDATA[36]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/norwegian-fairy-book-by-klara-stroebe/]]></link>
+            <enclosure url="https://www.archive.org/download/norwegian_fairy_book_2012_librivox/norwegianfairybook_36_stroebe_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Thu, 17 Dec 2020 00:36:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/norwegian_fairy_book_2012_librivox/norwegianfairybook_36_stroebe_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Player on the Jew’s-harp]]></title>
+    <itunes:episode><![CDATA[37]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/norwegian-fairy-book-by-klara-stroebe/]]></link>
+            <enclosure url="https://www.archive.org/download/norwegian_fairy_book_2012_librivox/norwegianfairybook_37_stroebe_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Thu, 17 Dec 2020 00:37:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/norwegian_fairy_book_2012_librivox/norwegianfairybook_37_stroebe_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <!-- end file loop -->
+</channel>
+</rss>

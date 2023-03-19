@@ -1,0 +1,373 @@
+<?xml version="1.0" ?><rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+  <title><![CDATA[Maoriland Fairy Tales by Edith Howes (1872 - 1954)]]></title>
+  <link><![CDATA[https://librivox.org/maoriland-fairy-tales-by-edith-howes/]]></link>
+  <atom:link rel="self" href="https://librivox.org/rss/6021" />
+  <description><![CDATA[Most of the tales have some basis in history. It is an oral language so all histories have to be remembered and retold. To help with this memory retelling the carvings all have relative information and prompts, stories of Atua (sort of gods) and other people (pakeha) that have been encountered are all blended into the stories.
+One of the amazing things to listen to is a person's whakapapa (family line). My son's father can tell his whakapapa right back to first landing in the canoe Aotea. It takes hours with the stories of battles, moving and resettling and then the invasion of British soldiers and settlers. Those pale fairies in one of the recent stories would most probably have been Malaysian or Portugese fishermen/explorers.
+The Tikanga (way to behave/live) is quite strict and the stories support keeping people in line. This strictness is a kind of policing I think because it doesn't matter what time in history or what country, human nature doesn't change. There are greedy, silly, great and strong leaders and followers throughout time.
+A Taniwha is often found in a tapu (sacred or restricted place) That might be a dangerous bend in a river, a place where currents catch people and drag the out to sea or a place in the forest that is sacred so the elders don't want people wandering around in there. There taniwha could be from a spirit of someone or put there by the Atua as a guardian. A taniwha can also be friendly it depends on the place and it's history.
+
+It is interesting to think about the origins and reasons behind these stories. Some like Hatupatu are based on fact but also retold to tell people about abuse of power and underestimating people. Maori are great strategists. If you can find the DVDs 'The Maori Wars' you will see the difficulty the British had when trying to beat these mighty warriors. Tha'ts why they finally had to sign the Waitangi Treaty (as ambiguous as it is) because they just couldn't beat them.
+(Summary by mareab) ]]></description>
+  <!--<genre>project element=Genre</genre>-->
+  <!--<language>project element=lang.code</language>-->
+  <itunes:type>serial</itunes:type>
+  <itunes:author>LibriVox</itunes:author>
+  <itunes:summary><![CDATA[Most of the tales have some basis in history. It is an oral language so all histories have to be remembered and retold. To help with this memory retelling the carvings all have relative information and prompts, stories of Atua (sort of gods) and other people (pakeha) that have been encountered are all blended into the stories.
+One of the amazing things to listen to is a person's whakapapa (family line). My son's father can tell his whakapapa right back to first landing in the canoe Aotea. It takes hours with the stories of battles, moving and resettling and then the invasion of British soldiers and settlers. Those pale fairies in one of the recent stories would most probably have been Malaysian or Portugese fishermen/explorers.
+The Tikanga (way to behave/live) is quite strict and the stories support keeping people in line. This strictness is a kind of policing I think because it doesn't matter what time in history or what country, human nature doesn't change. There are greedy, silly, great and strong leaders and followers throughout time.
+A Taniwha is often found in a tapu (sacred or restricted place) That might be a dangerous bend in a river, a place where currents catch people and drag the out to sea or a place in the forest that is sacred so the elders don't want people wandering around in there. There taniwha could be from a spirit of someone or put there by the Atua as a guardian. A taniwha can also be friendly it depends on the place and it's history.
+
+It is interesting to think about the origins and reasons behind these stories. Some like Hatupatu are based on fact but also retold to tell people about abuse of power and underestimating people. Maori are great strategists. If you can find the DVDs 'The Maori Wars' you will see the difficulty the British had when trying to beat these mighty warriors. Tha'ts why they finally had to sign the Waitangi Treaty (as ambiguous as it is) because they just couldn't beat them.
+(Summary by mareab) ]]></itunes:summary>
+  <itunes:owner>
+    <itunes:name>LibriVox</itunes:name>
+    <itunes:email>info@librivox.org</itunes:email>
+  </itunes:owner>
+  <itunes:category text="Arts">
+    <itunes:category text="Literature" />
+  </itunes:category>
+  <image><url>https://archive.org/download/LibrivoxCdCoverArt18/maorilandfairytales_1205.jpg</url></image>
+  <itunes:image href="https://archive.org/download/LibrivoxCdCoverArt18/maorilandfairytales_1205.jpg"/>
+  <itunes:explicit>no</itunes:explicit>
+  <!-- file loop -->
+    <item>
+    <title><![CDATA[01 - The Wanderers]]></title>
+    <itunes:episode><![CDATA[1]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/maoriland-fairy-tales-by-edith-howes/]]></link>
+            <enclosure url="https://www.archive.org/download/maoriland_fairy_tales_1205_librivox/maorilandfairytales_01_howes_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:08:55]]></itunes:duration>
+  <pubDate>Tue, 15 May 2012 00:00:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/maoriland_fairy_tales_1205_librivox/maorilandfairytales_01_howes_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[02 - The Six Brothers]]></title>
+    <itunes:episode><![CDATA[2]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/maoriland-fairy-tales-by-edith-howes/]]></link>
+            <enclosure url="https://www.archive.org/download/maoriland_fairy_tales_1205_librivox/maorilandfairytales_02_howes_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:10:21]]></itunes:duration>
+  <pubDate>Tue, 15 May 2012 00:01:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/maoriland_fairy_tales_1205_librivox/maorilandfairytales_02_howes_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[03 - Tiki]]></title>
+    <itunes:episode><![CDATA[3]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/maoriland-fairy-tales-by-edith-howes/]]></link>
+            <enclosure url="https://www.archive.org/download/maoriland_fairy_tales_1205_librivox/maorilandfairytales_03_howes_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:03:17]]></itunes:duration>
+  <pubDate>Tue, 15 May 2012 00:02:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/maoriland_fairy_tales_1205_librivox/maorilandfairytales_03_howes_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[04 - Tawhaki's Climb]]></title>
+    <itunes:episode><![CDATA[4]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/maoriland-fairy-tales-by-edith-howes/]]></link>
+            <enclosure url="https://www.archive.org/download/maoriland_fairy_tales_1205_librivox/maorilandfairytales_04_howes_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:15:55]]></itunes:duration>
+  <pubDate>Tue, 15 May 2012 00:03:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/maoriland_fairy_tales_1205_librivox/maorilandfairytales_04_howes_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[05 - How the Moon was Made]]></title>
+    <itunes:episode><![CDATA[5]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/maoriland-fairy-tales-by-edith-howes/]]></link>
+            <enclosure url="https://www.archive.org/download/maoriland_fairy_tales_1205_librivox/maorilandfairytales_05_howes_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:13:40]]></itunes:duration>
+  <pubDate>Tue, 15 May 2012 00:04:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/maoriland_fairy_tales_1205_librivox/maorilandfairytales_05_howes_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[06 - Brother and Sister]]></title>
+    <itunes:episode><![CDATA[6]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/maoriland-fairy-tales-by-edith-howes/]]></link>
+            <enclosure url="https://www.archive.org/download/maoriland_fairy_tales_1205_librivox/maorilandfairytales_06_howes_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:06:24]]></itunes:duration>
+  <pubDate>Tue, 15 May 2012 00:05:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/maoriland_fairy_tales_1205_librivox/maorilandfairytales_06_howes_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[07 - The Sea King's Victory]]></title>
+    <itunes:episode><![CDATA[7]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/maoriland-fairy-tales-by-edith-howes/]]></link>
+            <enclosure url="https://www.archive.org/download/maoriland_fairy_tales_1205_librivox/maorilandfairytales_07_howes_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:09:27]]></itunes:duration>
+  <pubDate>Tue, 15 May 2012 00:06:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/maoriland_fairy_tales_1205_librivox/maorilandfairytales_07_howes_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[08 - The Magician's Magic]]></title>
+    <itunes:episode><![CDATA[8]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/maoriland-fairy-tales-by-edith-howes/]]></link>
+            <enclosure url="https://www.archive.org/download/maoriland_fairy_tales_1205_librivox/maorilandfairytales_08_howes_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:08:02]]></itunes:duration>
+  <pubDate>Tue, 15 May 2012 00:07:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/maoriland_fairy_tales_1205_librivox/maorilandfairytales_08_howes_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[09 - Maui]]></title>
+    <itunes:episode><![CDATA[9]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/maoriland-fairy-tales-by-edith-howes/]]></link>
+            <enclosure url="https://www.archive.org/download/maoriland_fairy_tales_1205_librivox/maorilandfairytales_09_howes_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:11:32]]></itunes:duration>
+  <pubDate>Tue, 15 May 2012 00:08:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/maoriland_fairy_tales_1205_librivox/maorilandfairytales_09_howes_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[10 - More about Maui]]></title>
+    <itunes:episode><![CDATA[10]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/maoriland-fairy-tales-by-edith-howes/]]></link>
+            <enclosure url="https://www.archive.org/download/maoriland_fairy_tales_1205_librivox/maorilandfairytales_10_howes_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:13:44]]></itunes:duration>
+  <pubDate>Tue, 15 May 2012 00:09:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/maoriland_fairy_tales_1205_librivox/maorilandfairytales_10_howes_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[11 - The King and the Fairies]]></title>
+    <itunes:episode><![CDATA[11]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/maoriland-fairy-tales-by-edith-howes/]]></link>
+            <enclosure url="https://www.archive.org/download/maoriland_fairy_tales_1205_librivox/maorilandfairytales_11_howes_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:10:26]]></itunes:duration>
+  <pubDate>Tue, 15 May 2012 00:10:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/maoriland_fairy_tales_1205_librivox/maorilandfairytales_11_howes_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[12 - Hatupatu]]></title>
+    <itunes:episode><![CDATA[12]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/maoriland-fairy-tales-by-edith-howes/]]></link>
+            <enclosure url="https://www.archive.org/download/maoriland_fairy_tales_1205_librivox/maorilandfairytales_12_howes_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:14:30]]></itunes:duration>
+  <pubDate>Tue, 15 May 2012 00:11:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/maoriland_fairy_tales_1205_librivox/maorilandfairytales_12_howes_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[13 - The Star Hunt]]></title>
+    <itunes:episode><![CDATA[13]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/maoriland-fairy-tales-by-edith-howes/]]></link>
+            <enclosure url="https://www.archive.org/download/maoriland_fairy_tales_1205_librivox/maorilandfairytales_13_howes_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:09:08]]></itunes:duration>
+  <pubDate>Tue, 15 May 2012 00:12:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/maoriland_fairy_tales_1205_librivox/maorilandfairytales_13_howes_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[14 - The Pet Whale]]></title>
+    <itunes:episode><![CDATA[14]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/maoriland-fairy-tales-by-edith-howes/]]></link>
+            <enclosure url="https://www.archive.org/download/maoriland_fairy_tales_1205_librivox/maorilandfairytales_14_howes_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:08:39]]></itunes:duration>
+  <pubDate>Tue, 15 May 2012 00:13:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/maoriland_fairy_tales_1205_librivox/maorilandfairytales_14_howes_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[15 - On the Moon]]></title>
+    <itunes:episode><![CDATA[15]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/maoriland-fairy-tales-by-edith-howes/]]></link>
+            <enclosure url="https://www.archive.org/download/maoriland_fairy_tales_1205_librivox/maorilandfairytales_15_howes_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:09:54]]></itunes:duration>
+  <pubDate>Tue, 15 May 2012 00:14:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/maoriland_fairy_tales_1205_librivox/maorilandfairytales_15_howes_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[16 - The Wooden Head]]></title>
+    <itunes:episode><![CDATA[16]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/maoriland-fairy-tales-by-edith-howes/]]></link>
+            <enclosure url="https://www.archive.org/download/maoriland_fairy_tales_1205_librivox/maorilandfairytales_16_howes_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:05:33]]></itunes:duration>
+  <pubDate>Tue, 15 May 2012 00:15:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/maoriland_fairy_tales_1205_librivox/maorilandfairytales_16_howes_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[17 - The Fountain of Fish]]></title>
+    <itunes:episode><![CDATA[17]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/maoriland-fairy-tales-by-edith-howes/]]></link>
+            <enclosure url="https://www.archive.org/download/maoriland_fairy_tales_1205_librivox/maorilandfairytales_17_howes_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:05:16]]></itunes:duration>
+  <pubDate>Tue, 15 May 2012 00:16:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/maoriland_fairy_tales_1205_librivox/maorilandfairytales_17_howes_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[18 - Rata]]></title>
+    <itunes:episode><![CDATA[18]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/maoriland-fairy-tales-by-edith-howes/]]></link>
+            <enclosure url="https://www.archive.org/download/maoriland_fairy_tales_1205_librivox/maorilandfairytales_18_howes_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:14:25]]></itunes:duration>
+  <pubDate>Tue, 15 May 2012 00:17:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/maoriland_fairy_tales_1205_librivox/maorilandfairytales_18_howes_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[19 - The Island and the Taniwha]]></title>
+    <itunes:episode><![CDATA[19]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/maoriland-fairy-tales-by-edith-howes/]]></link>
+            <enclosure url="https://www.archive.org/download/maoriland_fairy_tales_1205_librivox/maorilandfairytales_19_howes_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:09:41]]></itunes:duration>
+  <pubDate>Tue, 15 May 2012 00:18:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/maoriland_fairy_tales_1205_librivox/maorilandfairytales_19_howes_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[20 - The Most Beautiful Maiden in the World]]></title>
+    <itunes:episode><![CDATA[20]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/maoriland-fairy-tales-by-edith-howes/]]></link>
+            <enclosure url="https://www.archive.org/download/maoriland_fairy_tales_1205_librivox/maorilandfairytales_20_howes_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:09:04]]></itunes:duration>
+  <pubDate>Tue, 15 May 2012 00:19:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/maoriland_fairy_tales_1205_librivox/maorilandfairytales_20_howes_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[21 - The Giant in the Cave]]></title>
+    <itunes:episode><![CDATA[21]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/maoriland-fairy-tales-by-edith-howes/]]></link>
+            <enclosure url="https://www.archive.org/download/maoriland_fairy_tales_1205_librivox/maorilandfairytales_21_howes_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:07:33]]></itunes:duration>
+  <pubDate>Tue, 15 May 2012 00:20:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/maoriland_fairy_tales_1205_librivox/maorilandfairytales_21_howes_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[22 - Tama and His Brother]]></title>
+    <itunes:episode><![CDATA[22]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/maoriland-fairy-tales-by-edith-howes/]]></link>
+            <enclosure url="https://www.archive.org/download/maoriland_fairy_tales_1205_librivox/maorilandfairytales_22_howes_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:06:37]]></itunes:duration>
+  <pubDate>Tue, 15 May 2012 00:21:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/maoriland_fairy_tales_1205_librivox/maorilandfairytales_22_howes_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[23 - Tama and His Wife]]></title>
+    <itunes:episode><![CDATA[23]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/maoriland-fairy-tales-by-edith-howes/]]></link>
+            <enclosure url="https://www.archive.org/download/maoriland_fairy_tales_1205_librivox/maorilandfairytales_23_howes_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:09:31]]></itunes:duration>
+  <pubDate>Tue, 15 May 2012 00:22:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/maoriland_fairy_tales_1205_librivox/maorilandfairytales_23_howes_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[24 - Sea Goblins]]></title>
+    <itunes:episode><![CDATA[24]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/maoriland-fairy-tales-by-edith-howes/]]></link>
+            <enclosure url="https://www.archive.org/download/maoriland_fairy_tales_1205_librivox/maorilandfairytales_24_howes_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:10:00]]></itunes:duration>
+  <pubDate>Tue, 15 May 2012 00:23:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/maoriland_fairy_tales_1205_librivox/maorilandfairytales_24_howes_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[25 - The Great Bird of the Hills]]></title>
+    <itunes:episode><![CDATA[25]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/maoriland-fairy-tales-by-edith-howes/]]></link>
+            <enclosure url="https://www.archive.org/download/maoriland_fairy_tales_1205_librivox/maorilandfairytales_25_howes_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:08:33]]></itunes:duration>
+  <pubDate>Tue, 15 May 2012 00:24:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/maoriland_fairy_tales_1205_librivox/maorilandfairytales_25_howes_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[26 - The Floating Island]]></title>
+    <itunes:episode><![CDATA[26]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/maoriland-fairy-tales-by-edith-howes/]]></link>
+            <enclosure url="https://www.archive.org/download/maoriland_fairy_tales_1205_librivox/maorilandfairytales_26_howes_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:07:57]]></itunes:duration>
+  <pubDate>Tue, 15 May 2012 00:25:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/maoriland_fairy_tales_1205_librivox/maorilandfairytales_26_howes_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[27 - The Princess and the Giant]]></title>
+    <itunes:episode><![CDATA[27]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/maoriland-fairy-tales-by-edith-howes/]]></link>
+            <enclosure url="https://www.archive.org/download/maoriland_fairy_tales_1205_librivox/maorilandfairytales_27_howes_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:07:07]]></itunes:duration>
+  <pubDate>Tue, 15 May 2012 00:26:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/maoriland_fairy_tales_1205_librivox/maorilandfairytales_27_howes_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[28 - Hinemoa's Swim]]></title>
+    <itunes:episode><![CDATA[28]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/maoriland-fairy-tales-by-edith-howes/]]></link>
+            <enclosure url="https://www.archive.org/download/maoriland_fairy_tales_1205_librivox/maorilandfairytales_28_howes_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:07:45]]></itunes:duration>
+  <pubDate>Tue, 15 May 2012 00:27:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/maoriland_fairy_tales_1205_librivox/maorilandfairytales_28_howes_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <!-- end file loop -->
+</channel>
+</rss>

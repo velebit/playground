@@ -1,0 +1,317 @@
+<?xml version="1.0" ?><rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+  <title><![CDATA[Twenty Two Goblins by Anonymous]]></title>
+  <link><![CDATA[https://librivox.org/twenty-two-goblins-by-dandin/]]></link>
+  <atom:link rel="self" href="https://librivox.org/rss/6631" />
+  <description><![CDATA[These 22 stories are told by the Goblin to the King Vikram. King Vikram faces many difficulties in bringing the vetala to the tantric. Each time Vikram tries to capture the vetala, it tells a story that ends with a riddle. If Vikram cannot answer the question correctly, the vampire consents to remain in captivity. If the king answers the question correctly, the vampire would escape and return to his tree. In some variations, the king is required to speak if he knows the answer, else his head will burst. 
+
+This work is taken from baital pachisi and one of its oldest recensions is found incorporated in the Kathā-Sarit-Sāgara ("Ocean of the Streams of Story"), a work in Sanskrit compiled in the 11th century by Somadeva. (Wikipedia)]]></description>
+  <!--<genre>project element=Genre</genre>-->
+  <!--<language>project element=lang.code</language>-->
+  <itunes:type>serial</itunes:type>
+  <itunes:author>LibriVox</itunes:author>
+  <itunes:summary><![CDATA[These 22 stories are told by the Goblin to the King Vikram. King Vikram faces many difficulties in bringing the vetala to the tantric. Each time Vikram tries to capture the vetala, it tells a story that ends with a riddle. If Vikram cannot answer the question correctly, the vampire consents to remain in captivity. If the king answers the question correctly, the vampire would escape and return to his tree. In some variations, the king is required to speak if he knows the answer, else his head will burst. 
+
+This work is taken from baital pachisi and one of its oldest recensions is found incorporated in the Kathā-Sarit-Sāgara ("Ocean of the Streams of Story"), a work in Sanskrit compiled in the 11th century by Somadeva. (Wikipedia)]]></itunes:summary>
+  <itunes:owner>
+    <itunes:name>LibriVox</itunes:name>
+    <itunes:email>info@librivox.org</itunes:email>
+  </itunes:owner>
+  <itunes:category text="Arts">
+    <itunes:category text="Literature" />
+  </itunes:category>
+  <image><url>https://archive.org/download/LibrivoxCdCoverArt29/22goblins_1302.jpg</url></image>
+  <itunes:image href="https://archive.org/download/LibrivoxCdCoverArt29/22goblins_1302.jpg"/>
+  <itunes:explicit>no</itunes:explicit>
+  <!-- file loop -->
+    <item>
+    <title><![CDATA[00 - Introduction]]></title>
+    <itunes:episode><![CDATA[0]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/twenty-two-goblins-by-dandin/]]></link>
+            <enclosure url="https://www.archive.org/download/twenty_two_goblins_1205_librivox/twentytwogoblins_00_somadeva_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:04:42]]></itunes:duration>
+  <pubDate>Fri, 25 May 2012 00:00:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/twenty_two_goblins_1205_librivox/twentytwogoblins_00_somadeva_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[01 - Chapter 1 - First Goblin]]></title>
+    <itunes:episode><![CDATA[1]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/twenty-two-goblins-by-dandin/]]></link>
+            <enclosure url="https://www.archive.org/download/twenty_two_goblins_1205_librivox/twentytwogoblins_01_somadeva_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:15:48]]></itunes:duration>
+  <pubDate>Fri, 25 May 2012 00:01:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/twenty_two_goblins_1205_librivox/twentytwogoblins_01_somadeva_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[02 - Chapter 2 - Second Goblin]]></title>
+    <itunes:episode><![CDATA[2]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/twenty-two-goblins-by-dandin/]]></link>
+            <enclosure url="https://www.archive.org/download/twenty_two_goblins_1205_librivox/twentytwogoblins_02_somadeva_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:05:29]]></itunes:duration>
+  <pubDate>Fri, 25 May 2012 00:02:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/twenty_two_goblins_1205_librivox/twentytwogoblins_02_somadeva_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[03 - Chapter 3 - Third Goblin]]></title>
+    <itunes:episode><![CDATA[3]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/twenty-two-goblins-by-dandin/]]></link>
+            <enclosure url="https://www.archive.org/download/twenty_two_goblins_1205_librivox/twentytwogoblins_03_somadeva_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:11:27]]></itunes:duration>
+  <pubDate>Fri, 25 May 2012 00:03:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/twenty_two_goblins_1205_librivox/twentytwogoblins_03_somadeva_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[04 - Chapter 4 - Fourth Goblin]]></title>
+    <itunes:episode><![CDATA[4]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/twenty-two-goblins-by-dandin/]]></link>
+            <enclosure url="https://www.archive.org/download/twenty_two_goblins_1205_librivox/twentytwogoblins_04_somadeva_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:14:13]]></itunes:duration>
+  <pubDate>Fri, 25 May 2012 00:04:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/twenty_two_goblins_1205_librivox/twentytwogoblins_04_somadeva_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[05 - Chapter 5 - Fifth Goblin]]></title>
+    <itunes:episode><![CDATA[5]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/twenty-two-goblins-by-dandin/]]></link>
+            <enclosure url="https://www.archive.org/download/twenty_two_goblins_1205_librivox/twentytwogoblins_05_somadeva_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:06:05]]></itunes:duration>
+  <pubDate>Fri, 25 May 2012 00:05:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/twenty_two_goblins_1205_librivox/twentytwogoblins_05_somadeva_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[06 - Chapter 6 - Sixth Goblin]]></title>
+    <itunes:episode><![CDATA[6]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/twenty-two-goblins-by-dandin/]]></link>
+            <enclosure url="https://www.archive.org/download/twenty_two_goblins_1205_librivox/twentytwogoblins_06_somadeva_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:06:22]]></itunes:duration>
+  <pubDate>Fri, 25 May 2012 00:06:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/twenty_two_goblins_1205_librivox/twentytwogoblins_06_somadeva_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[07 - Chapter 7 - Seventh Goblin]]></title>
+    <itunes:episode><![CDATA[7]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/twenty-two-goblins-by-dandin/]]></link>
+            <enclosure url="https://www.archive.org/download/twenty_two_goblins_1205_librivox/twentytwogoblins_07_somadeva_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:13:07]]></itunes:duration>
+  <pubDate>Fri, 25 May 2012 00:07:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/twenty_two_goblins_1205_librivox/twentytwogoblins_07_somadeva_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[08 - Chapter 8 - Eighth Goblin]]></title>
+    <itunes:episode><![CDATA[8]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/twenty-two-goblins-by-dandin/]]></link>
+            <enclosure url="https://www.archive.org/download/twenty_two_goblins_1205_librivox/twentytwogoblins_08_somadeva_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:06:49]]></itunes:duration>
+  <pubDate>Fri, 25 May 2012 00:08:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/twenty_two_goblins_1205_librivox/twentytwogoblins_08_somadeva_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[09 - Chapter 9 - Ninth Goblin]]></title>
+    <itunes:episode><![CDATA[9]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/twenty-two-goblins-by-dandin/]]></link>
+            <enclosure url="https://www.archive.org/download/twenty_two_goblins_1205_librivox/twentytwogoblins_09_somadeva_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:04:43]]></itunes:duration>
+  <pubDate>Fri, 25 May 2012 00:09:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/twenty_two_goblins_1205_librivox/twentytwogoblins_09_somadeva_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[10 - Chapter 10 - Tenth Goblin]]></title>
+    <itunes:episode><![CDATA[10]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/twenty-two-goblins-by-dandin/]]></link>
+            <enclosure url="https://www.archive.org/download/twenty_two_goblins_1205_librivox/twentytwogoblins_10_somadeva_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:04:25]]></itunes:duration>
+  <pubDate>Fri, 25 May 2012 00:10:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/twenty_two_goblins_1205_librivox/twentytwogoblins_10_somadeva_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[11 - Chapter 11 - Eleventh Goblin]]></title>
+    <itunes:episode><![CDATA[11]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/twenty-two-goblins-by-dandin/]]></link>
+            <enclosure url="https://www.archive.org/download/twenty_two_goblins_1205_librivox/twentytwogoblins_11_somadeva_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:18:41]]></itunes:duration>
+  <pubDate>Fri, 25 May 2012 00:11:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/twenty_two_goblins_1205_librivox/twentytwogoblins_11_somadeva_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[12 - Chapter 12 - Twelfth Goblin]]></title>
+    <itunes:episode><![CDATA[12]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/twenty-two-goblins-by-dandin/]]></link>
+            <enclosure url="https://www.archive.org/download/twenty_two_goblins_1205_librivox/twentytwogoblins_12_somadeva_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:07:11]]></itunes:duration>
+  <pubDate>Fri, 25 May 2012 00:12:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/twenty_two_goblins_1205_librivox/twentytwogoblins_12_somadeva_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[13 - Chapter 13 - Thirteenth Goblin]]></title>
+    <itunes:episode><![CDATA[13]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/twenty-two-goblins-by-dandin/]]></link>
+            <enclosure url="https://www.archive.org/download/twenty_two_goblins_1205_librivox/twentytwogoblins_13_somadeva_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:07:17]]></itunes:duration>
+  <pubDate>Fri, 25 May 2012 00:13:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/twenty_two_goblins_1205_librivox/twentytwogoblins_13_somadeva_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[14 - Chapter 14 - Fourteenth Goblin]]></title>
+    <itunes:episode><![CDATA[14]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/twenty-two-goblins-by-dandin/]]></link>
+            <enclosure url="https://www.archive.org/download/twenty_two_goblins_1205_librivox/twentytwogoblins_14_somadeva_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:10:43]]></itunes:duration>
+  <pubDate>Fri, 25 May 2012 00:14:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/twenty_two_goblins_1205_librivox/twentytwogoblins_14_somadeva_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[15 - Chapter 15 - Fifteenth Goblin]]></title>
+    <itunes:episode><![CDATA[15]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/twenty-two-goblins-by-dandin/]]></link>
+            <enclosure url="https://www.archive.org/download/twenty_two_goblins_1205_librivox/twentytwogoblins_15_somadeva_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:23:25]]></itunes:duration>
+  <pubDate>Fri, 25 May 2012 00:15:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/twenty_two_goblins_1205_librivox/twentytwogoblins_15_somadeva_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[16 - Chapter 16 - Sixteenth Goblin]]></title>
+    <itunes:episode><![CDATA[16]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/twenty-two-goblins-by-dandin/]]></link>
+            <enclosure url="https://www.archive.org/download/twenty_two_goblins_1205_librivox/twentytwogoblins_16_somadeva_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:06:17]]></itunes:duration>
+  <pubDate>Fri, 25 May 2012 00:16:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/twenty_two_goblins_1205_librivox/twentytwogoblins_16_somadeva_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[17 - Chapter 17 - Seventeenth Goblin]]></title>
+    <itunes:episode><![CDATA[17]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/twenty-two-goblins-by-dandin/]]></link>
+            <enclosure url="https://www.archive.org/download/twenty_two_goblins_1205_librivox/twentytwogoblins_17_somadeva_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:10:48]]></itunes:duration>
+  <pubDate>Fri, 25 May 2012 00:17:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/twenty_two_goblins_1205_librivox/twentytwogoblins_17_somadeva_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[18 - Chapter 18 - Eighteenth Goblin]]></title>
+    <itunes:episode><![CDATA[18]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/twenty-two-goblins-by-dandin/]]></link>
+            <enclosure url="https://www.archive.org/download/twenty_two_goblins_1205_librivox/twentytwogoblins_18_somadeva_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:14:12]]></itunes:duration>
+  <pubDate>Fri, 25 May 2012 00:18:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/twenty_two_goblins_1205_librivox/twentytwogoblins_18_somadeva_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[19 - Chapter 19 - Nineteenth Goblin]]></title>
+    <itunes:episode><![CDATA[19]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/twenty-two-goblins-by-dandin/]]></link>
+            <enclosure url="https://www.archive.org/download/twenty_two_goblins_1205_librivox/twentytwogoblins_19_somadeva_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:11:02]]></itunes:duration>
+  <pubDate>Fri, 25 May 2012 00:19:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/twenty_two_goblins_1205_librivox/twentytwogoblins_19_somadeva_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[20 - Chapter 20 - Twentieth Goblin]]></title>
+    <itunes:episode><![CDATA[20]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/twenty-two-goblins-by-dandin/]]></link>
+            <enclosure url="https://www.archive.org/download/twenty_two_goblins_1205_librivox/twentytwogoblins_20_somadeva_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:06:05]]></itunes:duration>
+  <pubDate>Fri, 25 May 2012 00:20:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/twenty_two_goblins_1205_librivox/twentytwogoblins_20_somadeva_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[21 - Chapter 21 - Twentyfirst Goblin]]></title>
+    <itunes:episode><![CDATA[21]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/twenty-two-goblins-by-dandin/]]></link>
+            <enclosure url="https://www.archive.org/download/twenty_two_goblins_1205_librivox/twentytwogoblins_21_somadeva_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:05:46]]></itunes:duration>
+  <pubDate>Fri, 25 May 2012 00:21:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/twenty_two_goblins_1205_librivox/twentytwogoblins_21_somadeva_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[22 - Chapter 22 - Twentysecond Goblin]]></title>
+    <itunes:episode><![CDATA[22]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/twenty-two-goblins-by-dandin/]]></link>
+            <enclosure url="https://www.archive.org/download/twenty_two_goblins_1205_librivox/twentytwogoblins_22_somadeva_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:08:33]]></itunes:duration>
+  <pubDate>Fri, 25 May 2012 00:22:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/twenty_two_goblins_1205_librivox/twentytwogoblins_22_somadeva_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[23 - Conclusion]]></title>
+    <itunes:episode><![CDATA[23]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/twenty-two-goblins-by-dandin/]]></link>
+            <enclosure url="https://www.archive.org/download/twenty_two_goblins_1205_librivox/twentytwogoblins_23_somadeva_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:04:13]]></itunes:duration>
+  <pubDate>Fri, 25 May 2012 00:23:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/twenty_two_goblins_1205_librivox/twentytwogoblins_23_somadeva_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <!-- end file loop -->
+</channel>
+</rss>

@@ -1,0 +1,205 @@
+<?xml version="1.0" ?><rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+  <title><![CDATA[Curious Myths of the Middle Ages by Sabine Baring-Gould (1834 - 1924)]]></title>
+  <link><![CDATA[https://librivox.org/curious-myths-of-the-middle-ages-by-sabine-baring-gould/]]></link>
+  <atom:link rel="self" href="https://librivox.org/rss/7078" />
+  <description><![CDATA[This volume is an example of Sabine Baring-Gould's extensive research into the middle ages. This volume of 12 curiosities was one of Baring-Gould's most successful publications. (Summary by Carolin)]]></description>
+  <!--<genre>project element=Genre</genre>-->
+  <!--<language>project element=lang.code</language>-->
+  <itunes:type>serial</itunes:type>
+  <itunes:author>LibriVox</itunes:author>
+  <itunes:summary><![CDATA[This volume is an example of Sabine Baring-Gould's extensive research into the middle ages. This volume of 12 curiosities was one of Baring-Gould's most successful publications. (Summary by Carolin)]]></itunes:summary>
+  <itunes:owner>
+    <itunes:name>LibriVox</itunes:name>
+    <itunes:email>info@librivox.org</itunes:email>
+  </itunes:owner>
+  <itunes:category text="Arts">
+    <itunes:category text="Literature" />
+  </itunes:category>
+  <image><url>https://archive.org/download/LibrivoxCdCoverArt32/curious_myths_1308.jpg</url></image>
+  <itunes:image href="https://archive.org/download/LibrivoxCdCoverArt32/curious_myths_1308.jpg"/>
+  <itunes:explicit>no</itunes:explicit>
+  <!-- file loop -->
+    <item>
+    <title><![CDATA[The Wandering Jew, Part 1]]></title>
+    <itunes:episode><![CDATA[1]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/curious-myths-of-the-middle-ages-by-sabine-baring-gould/]]></link>
+            <enclosure url="https://www.archive.org/download/curiousmyths_middleages_1306_librivox/curiousmythsofthemiddleages_01_baring-gould_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:14:17]]></itunes:duration>
+  <pubDate>Sun, 23 Jun 2013 00:00:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/curiousmyths_middleages_1306_librivox/curiousmythsofthemiddleages_01_baring-gould_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Wandering Jew, Part 2]]></title>
+    <itunes:episode><![CDATA[2]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/curious-myths-of-the-middle-ages-by-sabine-baring-gould/]]></link>
+            <enclosure url="https://www.archive.org/download/curiousmyths_middleages_1306_librivox/curiousmythsofthemiddleages_02_baring-gould_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:23:14]]></itunes:duration>
+  <pubDate>Sun, 23 Jun 2013 00:01:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/curiousmyths_middleages_1306_librivox/curiousmythsofthemiddleages_02_baring-gould_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Prester John]]></title>
+    <itunes:episode><![CDATA[3]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/curious-myths-of-the-middle-ages-by-sabine-baring-gould/]]></link>
+            <enclosure url="https://www.archive.org/download/curiousmyths_middleages_1306_librivox/curiousmythsofthemiddleages_03_baring-gould_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:37:47]]></itunes:duration>
+  <pubDate>Sun, 23 Jun 2013 00:02:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/curiousmyths_middleages_1306_librivox/curiousmythsofthemiddleages_03_baring-gould_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Divining Rod, Part 1]]></title>
+    <itunes:episode><![CDATA[4]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/curious-myths-of-the-middle-ages-by-sabine-baring-gould/]]></link>
+            <enclosure url="https://www.archive.org/download/curiousmyths_middleages_1306_librivox/curiousmythsofthemiddleages_04_baring-gould_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:21:31]]></itunes:duration>
+  <pubDate>Sun, 23 Jun 2013 00:03:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/curiousmyths_middleages_1306_librivox/curiousmythsofthemiddleages_04_baring-gould_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Divining Rod, Part 2]]></title>
+    <itunes:episode><![CDATA[5]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/curious-myths-of-the-middle-ages-by-sabine-baring-gould/]]></link>
+            <enclosure url="https://www.archive.org/download/curiousmyths_middleages_1306_librivox/curiousmythsofthemiddleages_05_baring-gould_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:24:04]]></itunes:duration>
+  <pubDate>Sun, 23 Jun 2013 00:04:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/curiousmyths_middleages_1306_librivox/curiousmythsofthemiddleages_05_baring-gould_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Seven Sleepers of Ephesus]]></title>
+    <itunes:episode><![CDATA[6]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/curious-myths-of-the-middle-ages-by-sabine-baring-gould/]]></link>
+            <enclosure url="https://www.archive.org/download/curiousmyths_middleages_1306_librivox/curiousmythsofthemiddleages_06_baring-gould_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:21:27]]></itunes:duration>
+  <pubDate>Sun, 23 Jun 2013 00:05:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/curiousmyths_middleages_1306_librivox/curiousmythsofthemiddleages_06_baring-gould_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[William Tell]]></title>
+    <itunes:episode><![CDATA[7]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/curious-myths-of-the-middle-ages-by-sabine-baring-gould/]]></link>
+            <enclosure url="https://www.archive.org/download/curiousmyths_middleages_1306_librivox/curiousmythsofthemiddleages_07_baring-gould_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:25:01]]></itunes:duration>
+  <pubDate>Sun, 23 Jun 2013 00:06:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/curiousmyths_middleages_1306_librivox/curiousmythsofthemiddleages_07_baring-gould_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Dog Gellert]]></title>
+    <itunes:episode><![CDATA[8]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/curious-myths-of-the-middle-ages-by-sabine-baring-gould/]]></link>
+            <enclosure url="https://www.archive.org/download/curiousmyths_middleages_1306_librivox/curiousmythsofthemiddleages_08_baring-gould_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:17:19]]></itunes:duration>
+  <pubDate>Sun, 23 Jun 2013 00:07:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/curiousmyths_middleages_1306_librivox/curiousmythsofthemiddleages_08_baring-gould_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Tailed Men]]></title>
+    <itunes:episode><![CDATA[9]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/curious-myths-of-the-middle-ages-by-sabine-baring-gould/]]></link>
+            <enclosure url="https://www.archive.org/download/curiousmyths_middleages_1306_librivox/curiousmythsofthemiddleages_09_baring-gould_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:21:12]]></itunes:duration>
+  <pubDate>Sun, 23 Jun 2013 00:08:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/curiousmyths_middleages_1306_librivox/curiousmythsofthemiddleages_09_baring-gould_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Antichrist and Pope Joan, Part 1]]></title>
+    <itunes:episode><![CDATA[10]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/curious-myths-of-the-middle-ages-by-sabine-baring-gould/]]></link>
+            <enclosure url="https://www.archive.org/download/curiousmyths_middleages_1306_librivox/curiousmythsofthemiddleages_10_baring-gould_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:23:21]]></itunes:duration>
+  <pubDate>Sun, 23 Jun 2013 00:09:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/curiousmyths_middleages_1306_librivox/curiousmythsofthemiddleages_10_baring-gould_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Antichrist and Pope Joan, Part 2]]></title>
+    <itunes:episode><![CDATA[11]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/curious-myths-of-the-middle-ages-by-sabine-baring-gould/]]></link>
+            <enclosure url="https://www.archive.org/download/curiousmyths_middleages_1306_librivox/curiousmythsofthemiddleages_11_baring-gould_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:15:58]]></itunes:duration>
+  <pubDate>Sun, 23 Jun 2013 00:10:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/curiousmyths_middleages_1306_librivox/curiousmythsofthemiddleages_11_baring-gould_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Man in the Moon]]></title>
+    <itunes:episode><![CDATA[12]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/curious-myths-of-the-middle-ages-by-sabine-baring-gould/]]></link>
+            <enclosure url="https://www.archive.org/download/curiousmyths_middleages_1306_librivox/curiousmythsofthemiddleages_12_baring-gould_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:17:20]]></itunes:duration>
+  <pubDate>Sun, 23 Jun 2013 00:11:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/curiousmyths_middleages_1306_librivox/curiousmythsofthemiddleages_12_baring-gould_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Mountain of Venus]]></title>
+    <itunes:episode><![CDATA[13]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/curious-myths-of-the-middle-ages-by-sabine-baring-gould/]]></link>
+            <enclosure url="https://www.archive.org/download/curiousmyths_middleages_1306_librivox/curiousmythsofthemiddleages_13_baring-gould_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:19:52]]></itunes:duration>
+  <pubDate>Sun, 23 Jun 2013 00:12:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/curiousmyths_middleages_1306_librivox/curiousmythsofthemiddleages_13_baring-gould_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Fatality of Numbers]]></title>
+    <itunes:episode><![CDATA[14]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/curious-myths-of-the-middle-ages-by-sabine-baring-gould/]]></link>
+            <enclosure url="https://www.archive.org/download/curiousmyths_middleages_1306_librivox/curiousmythsofthemiddleages_14_baring-gould_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:34:44]]></itunes:duration>
+  <pubDate>Sun, 23 Jun 2013 00:13:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/curiousmyths_middleages_1306_librivox/curiousmythsofthemiddleages_14_baring-gould_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Terrestrial Paradise]]></title>
+    <itunes:episode><![CDATA[15]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/curious-myths-of-the-middle-ages-by-sabine-baring-gould/]]></link>
+            <enclosure url="https://www.archive.org/download/curiousmyths_middleages_1306_librivox/curiousmythsofthemiddleages_15_baring-gould_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:20:57]]></itunes:duration>
+  <pubDate>Sun, 23 Jun 2013 00:14:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/curiousmyths_middleages_1306_librivox/curiousmythsofthemiddleages_15_baring-gould_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <!-- end file loop -->
+</channel>
+</rss>

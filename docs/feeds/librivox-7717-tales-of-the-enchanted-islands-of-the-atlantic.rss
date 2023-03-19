@@ -1,0 +1,277 @@
+<?xml version="1.0" ?><rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+  <title><![CDATA[Tales of the Enchanted Islands of the Atlantic by  Thomas Wentworth Higginson (1823 - 1911)]]></title>
+  <link><![CDATA[https://librivox.org/tales-of-the-enchanted-islands-of-the-atlantic-by-thomas-wentworth-higginson/]]></link>
+  <atom:link rel="self" href="https://librivox.org/rss/7717" />
+  <description><![CDATA[The sea has always been, by the mystery of its horizon, the fury of its storms, and the variableness of the atmosphere above it, the foreordained land of romance. In all ages and with all sea-going races there has always been something especially fascinating about an island amid the ocean. It's very existence has for all explorers an air of magic. The order of the tales in the present work follows roughly the order of development, giving first the legends which kept near the European shore, and then those which, like St. Brandan's or Antillia, were assigned to the open sea or, like Norumbega or the Isle of Demons, to the very coast of America. Every tale in this book bears reference to some actual legend, followed more or less closely, and the authorities for each will be found carefully given in the appendix for such readers as may care to follow the subject further. (Summary by Arnieh)]]></description>
+  <!--<genre>project element=Genre</genre>-->
+  <!--<language>project element=lang.code</language>-->
+  <itunes:type>serial</itunes:type>
+  <itunes:author>LibriVox</itunes:author>
+  <itunes:summary><![CDATA[The sea has always been, by the mystery of its horizon, the fury of its storms, and the variableness of the atmosphere above it, the foreordained land of romance. In all ages and with all sea-going races there has always been something especially fascinating about an island amid the ocean. It's very existence has for all explorers an air of magic. The order of the tales in the present work follows roughly the order of development, giving first the legends which kept near the European shore, and then those which, like St. Brandan's or Antillia, were assigned to the open sea or, like Norumbega or the Isle of Demons, to the very coast of America. Every tale in this book bears reference to some actual legend, followed more or less closely, and the authorities for each will be found carefully given in the appendix for such readers as may care to follow the subject further. (Summary by Arnieh)]]></itunes:summary>
+  <itunes:owner>
+    <itunes:name>LibriVox</itunes:name>
+    <itunes:email>info@librivox.org</itunes:email>
+  </itunes:owner>
+  <itunes:category text="Arts">
+    <itunes:category text="Literature" />
+  </itunes:category>
+  <image><url>https://archive.org/download/LibrivoxCdCoverArt32/tales_enchanted_islands_1307.jpg</url></image>
+  <itunes:image href="https://archive.org/download/LibrivoxCdCoverArt32/tales_enchanted_islands_1307.jpg"/>
+  <itunes:explicit>no</itunes:explicit>
+  <!-- file loop -->
+    <item>
+    <title><![CDATA[00 - Preface]]></title>
+    <itunes:episode><![CDATA[0]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/tales-of-the-enchanted-islands-of-the-atlantic-by-thomas-wentworth-higginson/]]></link>
+            <enclosure url="https://www.archive.org/download/enchanted_islands_atlantic_1306_librivox/talesenchantedislandsatlantic_00_higginson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:09:08]]></itunes:duration>
+  <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/enchanted_islands_atlantic_1306_librivox/talesenchantedislandsatlantic_00_higginson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[01 - Chapter I: The Story of Atlantis ]]></title>
+    <itunes:episode><![CDATA[1]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/tales-of-the-enchanted-islands-of-the-atlantic-by-thomas-wentworth-higginson/]]></link>
+            <enclosure url="https://www.archive.org/download/enchanted_islands_atlantic_1306_librivox/talesenchantedislandsatlantic_01_higginson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:05:08]]></itunes:duration>
+  <pubDate>Mon, 01 Jul 2013 00:01:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/enchanted_islands_atlantic_1306_librivox/talesenchantedislandsatlantic_01_higginson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[02 - Chapter II: Taliessin of the Radiant Brow]]></title>
+    <itunes:episode><![CDATA[2]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/tales-of-the-enchanted-islands-of-the-atlantic-by-thomas-wentworth-higginson/]]></link>
+            <enclosure url="https://www.archive.org/download/enchanted_islands_atlantic_1306_librivox/talesenchantedislandsatlantic_02_higginson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:13:28]]></itunes:duration>
+  <pubDate>Mon, 01 Jul 2013 00:02:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/enchanted_islands_atlantic_1306_librivox/talesenchantedislandsatlantic_02_higginson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[03 - Chapter III: The Swan-Children of Lir ]]></title>
+    <itunes:episode><![CDATA[3]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/tales-of-the-enchanted-islands-of-the-atlantic-by-thomas-wentworth-higginson/]]></link>
+            <enclosure url="https://www.archive.org/download/enchanted_islands_atlantic_1306_librivox/talesenchantedislandsatlantic_03_higginson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:09:19]]></itunes:duration>
+  <pubDate>Mon, 01 Jul 2013 00:03:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/enchanted_islands_atlantic_1306_librivox/talesenchantedislandsatlantic_03_higginson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[04 - Chapter IV: Usheen in the Island of Youth]]></title>
+    <itunes:episode><![CDATA[4]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/tales-of-the-enchanted-islands-of-the-atlantic-by-thomas-wentworth-higginson/]]></link>
+            <enclosure url="https://www.archive.org/download/enchanted_islands_atlantic_1306_librivox/talesenchantedislandsatlantic_04_higginson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:09:47]]></itunes:duration>
+  <pubDate>Mon, 01 Jul 2013 00:04:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/enchanted_islands_atlantic_1306_librivox/talesenchantedislandsatlantic_04_higginson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[05 - Chapter V:  Bran the Blessed]]></title>
+    <itunes:episode><![CDATA[5]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/tales-of-the-enchanted-islands-of-the-atlantic-by-thomas-wentworth-higginson/]]></link>
+            <enclosure url="https://www.archive.org/download/enchanted_islands_atlantic_1306_librivox/talesenchantedislandsatlantic_05_higginson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:08:56]]></itunes:duration>
+  <pubDate>Mon, 01 Jul 2013 00:05:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/enchanted_islands_atlantic_1306_librivox/talesenchantedislandsatlantic_05_higginson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[06 - Chapter VI: The Castle of the Active Door]]></title>
+    <itunes:episode><![CDATA[6]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/tales-of-the-enchanted-islands-of-the-atlantic-by-thomas-wentworth-higginson/]]></link>
+            <enclosure url="https://www.archive.org/download/enchanted_islands_atlantic_1306_librivox/talesenchantedislandsatlantic_06_higginson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:10:24]]></itunes:duration>
+  <pubDate>Mon, 01 Jul 2013 00:06:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/enchanted_islands_atlantic_1306_librivox/talesenchantedislandsatlantic_06_higginson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[07 - Chapter VII: Merlin the Enchanter ]]></title>
+    <itunes:episode><![CDATA[7]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/tales-of-the-enchanted-islands-of-the-atlantic-by-thomas-wentworth-higginson/]]></link>
+            <enclosure url="https://www.archive.org/download/enchanted_islands_atlantic_1306_librivox/talesenchantedislandsatlantic_07_higginson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:18:20]]></itunes:duration>
+  <pubDate>Mon, 01 Jul 2013 00:07:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/enchanted_islands_atlantic_1306_librivox/talesenchantedislandsatlantic_07_higginson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[08 - Chapter VIII: Sir Lancelot of the Lake]]></title>
+    <itunes:episode><![CDATA[8]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/tales-of-the-enchanted-islands-of-the-atlantic-by-thomas-wentworth-higginson/]]></link>
+            <enclosure url="https://www.archive.org/download/enchanted_islands_atlantic_1306_librivox/talesenchantedislandsatlantic_08_higginson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:13:06]]></itunes:duration>
+  <pubDate>Mon, 01 Jul 2013 00:08:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/enchanted_islands_atlantic_1306_librivox/talesenchantedislandsatlantic_08_higginson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[09 - Chapter IX: The Half-Man]]></title>
+    <itunes:episode><![CDATA[9]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/tales-of-the-enchanted-islands-of-the-atlantic-by-thomas-wentworth-higginson/]]></link>
+            <enclosure url="https://www.archive.org/download/enchanted_islands_atlantic_1306_librivox/talesenchantedislandsatlantic_09_higginson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:10:32]]></itunes:duration>
+  <pubDate>Mon, 01 Jul 2013 00:09:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/enchanted_islands_atlantic_1306_librivox/talesenchantedislandsatlantic_09_higginson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[10 - Chapter X:  King Arthur at Avalon ]]></title>
+    <itunes:episode><![CDATA[10]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/tales-of-the-enchanted-islands-of-the-atlantic-by-thomas-wentworth-higginson/]]></link>
+            <enclosure url="https://www.archive.org/download/enchanted_islands_atlantic_1306_librivox/talesenchantedislandsatlantic_10_higginson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:17:03]]></itunes:duration>
+  <pubDate>Mon, 01 Jul 2013 00:10:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/enchanted_islands_atlantic_1306_librivox/talesenchantedislandsatlantic_10_higginson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[11 - Chapter XI: Maelduin's Voyage]]></title>
+    <itunes:episode><![CDATA[11]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/tales-of-the-enchanted-islands-of-the-atlantic-by-thomas-wentworth-higginson/]]></link>
+            <enclosure url="https://www.archive.org/download/enchanted_islands_atlantic_1306_librivox/talesenchantedislandsatlantic_11_higginson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:16:05]]></itunes:duration>
+  <pubDate>Mon, 01 Jul 2013 00:11:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/enchanted_islands_atlantic_1306_librivox/talesenchantedislandsatlantic_11_higginson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[12 - Chapter XII: The Voyage of St. Brandan]]></title>
+    <itunes:episode><![CDATA[12]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/tales-of-the-enchanted-islands-of-the-atlantic-by-thomas-wentworth-higginson/]]></link>
+            <enclosure url="https://www.archive.org/download/enchanted_islands_atlantic_1306_librivox/talesenchantedislandsatlantic_12_higginson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:22:12]]></itunes:duration>
+  <pubDate>Mon, 01 Jul 2013 00:12:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/enchanted_islands_atlantic_1306_librivox/talesenchantedislandsatlantic_12_higginson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[13 - Chapter XIII: Kirwan's Search for Hy-Brasail]]></title>
+    <itunes:episode><![CDATA[13]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/tales-of-the-enchanted-islands-of-the-atlantic-by-thomas-wentworth-higginson/]]></link>
+            <enclosure url="https://www.archive.org/download/enchanted_islands_atlantic_1306_librivox/talesenchantedislandsatlantic_13_higginson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:11:45]]></itunes:duration>
+  <pubDate>Mon, 01 Jul 2013 00:13:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/enchanted_islands_atlantic_1306_librivox/talesenchantedislandsatlantic_13_higginson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[14 - Chapter XIV: The Isle of Satan's Hand]]></title>
+    <itunes:episode><![CDATA[14]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/tales-of-the-enchanted-islands-of-the-atlantic-by-thomas-wentworth-higginson/]]></link>
+            <enclosure url="https://www.archive.org/download/enchanted_islands_atlantic_1306_librivox/talesenchantedislandsatlantic_14_higginson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:11:17]]></itunes:duration>
+  <pubDate>Mon, 01 Jul 2013 00:14:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/enchanted_islands_atlantic_1306_librivox/talesenchantedislandsatlantic_14_higginson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[15 - Chapter XV: Antillia, the Island of the Seven Cities]]></title>
+    <itunes:episode><![CDATA[15]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/tales-of-the-enchanted-islands-of-the-atlantic-by-thomas-wentworth-higginson/]]></link>
+            <enclosure url="https://www.archive.org/download/enchanted_islands_atlantic_1306_librivox/talesenchantedislandsatlantic_15_higginson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:24:38]]></itunes:duration>
+  <pubDate>Mon, 01 Jul 2013 00:15:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/enchanted_islands_atlantic_1306_librivox/talesenchantedislandsatlantic_15_higginson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[16 - Chapter XVI: Harald the Viking]]></title>
+    <itunes:episode><![CDATA[16]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/tales-of-the-enchanted-islands-of-the-atlantic-by-thomas-wentworth-higginson/]]></link>
+            <enclosure url="https://www.archive.org/download/enchanted_islands_atlantic_1306_librivox/talesenchantedislandsatlantic_16_higginson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:20:47]]></itunes:duration>
+  <pubDate>Mon, 01 Jul 2013 00:16:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/enchanted_islands_atlantic_1306_librivox/talesenchantedislandsatlantic_16_higginson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[17 - Chapter XVII: The Search for Norumbega]]></title>
+    <itunes:episode><![CDATA[17]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/tales-of-the-enchanted-islands-of-the-atlantic-by-thomas-wentworth-higginson/]]></link>
+            <enclosure url="https://www.archive.org/download/enchanted_islands_atlantic_1306_librivox/talesenchantedislandsatlantic_17_higginson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:12:38]]></itunes:duration>
+  <pubDate>Mon, 01 Jul 2013 00:17:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/enchanted_islands_atlantic_1306_librivox/talesenchantedislandsatlantic_17_higginson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[18 - Chapter XVIII: The Guardians of the St. Lawrence ]]></title>
+    <itunes:episode><![CDATA[18]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/tales-of-the-enchanted-islands-of-the-atlantic-by-thomas-wentworth-higginson/]]></link>
+            <enclosure url="https://www.archive.org/download/enchanted_islands_atlantic_1306_librivox/talesenchantedislandsatlantic_18_higginson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:11:01]]></itunes:duration>
+  <pubDate>Mon, 01 Jul 2013 00:18:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/enchanted_islands_atlantic_1306_librivox/talesenchantedislandsatlantic_18_higginson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[19 - Chapter XIX: The Island of Demons ]]></title>
+    <itunes:episode><![CDATA[19]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/tales-of-the-enchanted-islands-of-the-atlantic-by-thomas-wentworth-higginson/]]></link>
+            <enclosure url="https://www.archive.org/download/enchanted_islands_atlantic_1306_librivox/talesenchantedislandsatlantic_19_higginson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:20:02]]></itunes:duration>
+  <pubDate>Mon, 01 Jul 2013 00:19:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/enchanted_islands_atlantic_1306_librivox/talesenchantedislandsatlantic_19_higginson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[20 - Chapter XX: Bimini and the Fountain of Youth]]></title>
+    <itunes:episode><![CDATA[20]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/tales-of-the-enchanted-islands-of-the-atlantic-by-thomas-wentworth-higginson/]]></link>
+            <enclosure url="https://www.archive.org/download/enchanted_islands_atlantic_1306_librivox/talesenchantedislandsatlantic_20_higginson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:10:32]]></itunes:duration>
+  <pubDate>Mon, 01 Jul 2013 00:20:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/enchanted_islands_atlantic_1306_librivox/talesenchantedislandsatlantic_20_higginson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <!-- end file loop -->
+</channel>
+</rss>

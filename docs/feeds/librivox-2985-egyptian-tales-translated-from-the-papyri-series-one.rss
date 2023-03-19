@@ -1,0 +1,85 @@
+<?xml version="1.0" ?><rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+  <title><![CDATA[Egyptian Tales, translated from the Papyri, Series One by William Matthew Flinders Petrie (1853 - 1942)]]></title>
+  <link><![CDATA[https://librivox.org/egyptian-tales-translated-from-the-papyri-series-one-by-w-m-flinders-petrie/]]></link>
+  <atom:link rel="self" href="https://librivox.org/rss/2985" />
+  <description><![CDATA[Brief, and in some cases incomplete, stories of magic from ancient Egypt. (Summary by Timothy Ferguson)]]></description>
+  <!--<genre>project element=Genre</genre>-->
+  <!--<language>project element=lang.code</language>-->
+  <itunes:type>serial</itunes:type>
+  <itunes:author>LibriVox</itunes:author>
+  <itunes:summary><![CDATA[Brief, and in some cases incomplete, stories of magic from ancient Egypt. (Summary by Timothy Ferguson)]]></itunes:summary>
+  <itunes:owner>
+    <itunes:name>LibriVox</itunes:name>
+    <itunes:email>info@librivox.org</itunes:email>
+  </itunes:owner>
+  <itunes:category text="Arts">
+    <itunes:category text="Literature" />
+  </itunes:category>
+  <image><url>https://www.archive.org/download/LibrivoxCdCoverArt15/Egyptian_Tales_Papyri_Series_One_1203.jpg</url></image>
+  <itunes:image href="https://www.archive.org/download/LibrivoxCdCoverArt15/Egyptian_Tales_Papyri_Series_One_1203.jpg"/>
+  <itunes:explicit>no</itunes:explicit>
+  <!-- file loop -->
+    <item>
+    <title><![CDATA[Introduction]]></title>
+    <itunes:episode><![CDATA[0]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/egyptian-tales-translated-from-the-papyri-series-one-by-w-m-flinders-petrie/]]></link>
+            <enclosure url="https://www.archive.org/download/egyptian_tales_one_0904_librivox/egyptiantalesone_00_petrie_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:07:37]]></itunes:duration>
+  <pubDate>Tue, 07 Apr 2009 00:00:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/egyptian_tales_one_0904_librivox/egyptiantalesone_00_petrie_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Tales of the Magicians]]></title>
+    <itunes:episode><![CDATA[1]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/egyptian-tales-translated-from-the-papyri-series-one-by-w-m-flinders-petrie/]]></link>
+            <enclosure url="https://www.archive.org/download/egyptian_tales_one_0904_librivox/egyptiantalesone_01_petrie_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:38:31]]></itunes:duration>
+  <pubDate>Tue, 07 Apr 2009 00:01:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/egyptian_tales_one_0904_librivox/egyptiantalesone_01_petrie_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Peasant and the Workman]]></title>
+    <itunes:episode><![CDATA[2]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/egyptian-tales-translated-from-the-papyri-series-one-by-w-m-flinders-petrie/]]></link>
+            <enclosure url="https://www.archive.org/download/egyptian_tales_one_0904_librivox/egyptiantalesone_02_petrie_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:15:17]]></itunes:duration>
+  <pubDate>Tue, 07 Apr 2009 00:02:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/egyptian_tales_one_0904_librivox/egyptiantalesone_02_petrie_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Shipwrecked Sailor]]></title>
+    <itunes:episode><![CDATA[3]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/egyptian-tales-translated-from-the-papyri-series-one-by-w-m-flinders-petrie/]]></link>
+            <enclosure url="https://www.archive.org/download/egyptian_tales_one_0904_librivox/egyptiantalesone_03_petrie_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:13:10]]></itunes:duration>
+  <pubDate>Tue, 07 Apr 2009 00:03:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/egyptian_tales_one_0904_librivox/egyptiantalesone_03_petrie_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Adventures of Sanehat]]></title>
+    <itunes:episode><![CDATA[4]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/egyptian-tales-translated-from-the-papyri-series-one-by-w-m-flinders-petrie/]]></link>
+            <enclosure url="https://www.archive.org/download/egyptian_tales_one_0904_librivox/egyptiantalesone_04_petrie_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:40:47]]></itunes:duration>
+  <pubDate>Tue, 07 Apr 2009 00:04:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/egyptian_tales_one_0904_librivox/egyptiantalesone_04_petrie_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <!-- end file loop -->
+</channel>
+</rss>

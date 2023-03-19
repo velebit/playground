@@ -1,0 +1,589 @@
+<?xml version="1.0" ?><rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+  <title><![CDATA[Jātaka Tales by H. T. Francis (1837 - 1924) and E. J. Thomas (1869 - 1958)]]></title>
+  <link><![CDATA[https://librivox.org/jataka-tales-by-h-t-francis/]]></link>
+  <atom:link rel="self" href="https://librivox.org/rss/16810" />
+  <description><![CDATA[Jātaka tales are ancient Indian folktales that form a part of Buddhist teaching, telling stories of the Buddha’s past lives. Akin to Aesop’s fables, some strikingly similar, they urge the listener to moral behavior and often, more than that, point a way to real insight. - Summary by Scotty Smith]]></description>
+  <!--<genre>project element=Genre</genre>-->
+  <!--<language>project element=lang.code</language>-->
+  <itunes:type>serial</itunes:type>
+  <itunes:author>LibriVox</itunes:author>
+  <itunes:summary><![CDATA[Jātaka tales are ancient Indian folktales that form a part of Buddhist teaching, telling stories of the Buddha’s past lives. Akin to Aesop’s fables, some strikingly similar, they urge the listener to moral behavior and often, more than that, point a way to real insight. - Summary by Scotty Smith]]></itunes:summary>
+  <itunes:owner>
+    <itunes:name>LibriVox</itunes:name>
+    <itunes:email>info@librivox.org</itunes:email>
+  </itunes:owner>
+  <itunes:category text="Arts">
+    <itunes:category text="Literature" />
+  </itunes:category>
+  <image><url>https://archive.org/download/jatakatales_2108_librivox/jataka_2109.jpg</url></image>
+  <itunes:image href="https://archive.org/download/jatakatales_2108_librivox/jataka_2109.jpg"/>
+  <itunes:explicit>no</itunes:explicit>
+  <!-- file loop -->
+    <item>
+    <title><![CDATA[INTRODUCTION]]></title>
+    <itunes:episode><![CDATA[1]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/jataka-tales-by-h-t-francis/]]></link>
+            <enclosure url="https://www.archive.org/download/jatakatales_2108_librivox/jataka_01_francis_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 08 Aug 2021 00:00:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/jatakatales_2108_librivox/jataka_01_francis_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[THE LITTLE GILDMASTER; THE KING AND THE STICK-GATHERER; KING MAKHĀDEVA’S GREY HAIRS; THE COLD HALF OF THE MONTH]]></title>
+    <itunes:episode><![CDATA[2]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/jataka-tales-by-h-t-francis/]]></link>
+            <enclosure url="https://www.archive.org/download/jatakatales_2108_librivox/jataka_02_francis_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 08 Aug 2021 00:01:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/jatakatales_2108_librivox/jataka_02_francis_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[THE FEAST OF THE DEAD; THE MONKEYS AND THE OGRE; THE GUILTY DOGS; THE DISCONTENTED OX]]></title>
+    <itunes:episode><![CDATA[3]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/jataka-tales-by-h-t-francis/]]></link>
+            <enclosure url="https://www.archive.org/download/jatakatales_2108_librivox/jataka_03_francis_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 08 Aug 2021 00:02:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/jatakatales_2108_librivox/jataka_03_francis_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[THE PEACOCK’S WOOING; THE FOWLER AND THE QUAILS; THE OLDEST OF THE ANIMALS; THE CRANE AND THE CRAB]]></title>
+    <itunes:episode><![CDATA[4]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/jataka-tales-by-h-t-francis/]]></link>
+            <enclosure url="https://www.archive.org/download/jatakatales_2108_librivox/jataka_04_francis_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 08 Aug 2021 00:03:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/jatakatales_2108_librivox/jataka_04_francis_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[THE HAUGHTY SLAVE; THE PIGEON AND THE CROW; THE FOOLISH FRIEND; THE STUPID MONKEYS]]></title>
+    <itunes:episode><![CDATA[5]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/jataka-tales-by-h-t-francis/]]></link>
+            <enclosure url="https://www.archive.org/download/jatakatales_2108_librivox/jataka_05_francis_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 08 Aug 2021 00:04:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/jatakatales_2108_librivox/jataka_05_francis_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[THE ROBBERS AND THE TREASURE; GREAT KING GOODNESS]]></title>
+    <itunes:episode><![CDATA[6]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/jataka-tales-by-h-t-francis/]]></link>
+            <enclosure url="https://www.archive.org/download/jatakatales_2108_librivox/jataka_06_francis_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 08 Aug 2021 00:05:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/jatakatales_2108_librivox/jataka_06_francis_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[PRINCE FIVE-WEAPONS; THE BRAHMIN’S SPELL]]></title>
+    <itunes:episode><![CDATA[7]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/jataka-tales-by-h-t-francis/]]></link>
+            <enclosure url="https://www.archive.org/download/jatakatales_2108_librivox/jataka_07_francis_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 08 Aug 2021 00:06:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/jatakatales_2108_librivox/jataka_07_francis_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[THE VALUE OF A BROTHER; THE GRATEFUL ANIMALS]]></title>
+    <itunes:episode><![CDATA[8]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/jataka-tales-by-h-t-francis/]]></link>
+            <enclosure url="https://www.archive.org/download/jatakatales_2108_librivox/jataka_08_francis_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 08 Aug 2021 00:07:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/jatakatales_2108_librivox/jataka_08_francis_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[THE GREAT DREAMS]]></title>
+    <itunes:episode><![CDATA[9]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/jataka-tales-by-h-t-francis/]]></link>
+            <enclosure url="https://www.archive.org/download/jatakatales_2108_librivox/jataka_09_francis_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 08 Aug 2021 00:08:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/jatakatales_2108_librivox/jataka_09_francis_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[THE CONVERTED MISER; THE VALIANT DWARF]]></title>
+    <itunes:episode><![CDATA[10]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/jataka-tales-by-h-t-francis/]]></link>
+            <enclosure url="https://www.archive.org/download/jatakatales_2108_librivox/jataka_10_francis_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 08 Aug 2021 00:09:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/jatakatales_2108_librivox/jataka_10_francis_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[THE STOLEN JEWELS; THE TOO-CLEVER MERCHANT; THE LOQUACIOUS BRAHMIN; THE THREE FISHES]]></title>
+    <itunes:episode><![CDATA[11]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/jataka-tales-by-h-t-francis/]]></link>
+            <enclosure url="https://www.archive.org/download/jatakatales_2108_librivox/jataka_11_francis_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 08 Aug 2021 00:10:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/jatakatales_2108_librivox/jataka_11_francis_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[THE LUCKY SNEEZE; THE HYPOCRITICAL JACKAL; THE GOLDEN GOOSE; THE GRATEFUL MOUSE]]></title>
+    <itunes:episode><![CDATA[12]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/jataka-tales-by-h-t-francis/]]></link>
+            <enclosure url="https://www.archive.org/download/jatakatales_2108_librivox/jataka_12_francis_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 08 Aug 2021 00:11:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/jatakatales_2108_librivox/jataka_12_francis_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[THE TREACHEROUS CHAMELEON; THE CUNNING JACKAL; THE FOOLHARDY JACKAL; THE FOOLISH CROWS]]></title>
+    <itunes:episode><![CDATA[13]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/jataka-tales-by-h-t-francis/]]></link>
+            <enclosure url="https://www.archive.org/download/jatakatales_2108_librivox/jataka_13_francis_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 08 Aug 2021 00:12:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/jatakatales_2108_librivox/jataka_13_francis_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[THE GREEDY JACKAL CAUGHT; THE RASH MAGICIAN; THE TWO GOOD KINGS]]></title>
+    <itunes:episode><![CDATA[14]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/jataka-tales-by-h-t-francis/]]></link>
+            <enclosure url="https://www.archive.org/download/jatakatales_2108_librivox/jataka_14_francis_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 08 Aug 2021 00:13:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/jatakatales_2108_librivox/jataka_14_francis_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[THE GRATEFUL ELEPHANT; THE PET ELEPHANT; THE MONGOOSE AND THE SNAKE; THE JACKAL BETRAYED BY HIS HOWL]]></title>
+    <itunes:episode><![CDATA[15]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/jataka-tales-by-h-t-francis/]]></link>
+            <enclosure url="https://www.archive.org/download/jatakatales_2108_librivox/jataka_15_francis_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 08 Aug 2021 00:14:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/jatakatales_2108_librivox/jataka_15_francis_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[THE PENNY-WISE MONKEY; THE INCOMPARABLE ARCHER; THE MAGIC TREASURES]]></title>
+    <itunes:episode><![CDATA[16]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/jataka-tales-by-h-t-francis/]]></link>
+            <enclosure url="https://www.archive.org/download/jatakatales_2108_librivox/jataka_16_francis_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 08 Aug 2021 00:15:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/jatakatales_2108_librivox/jataka_16_francis_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[THE ASS IN THE LION’S SKIN; THE PRIEST IN HORSE-TRAPPINGS; INGRATITUDE PUNISHED]]></title>
+    <itunes:episode><![CDATA[17]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/jataka-tales-by-h-t-francis/]]></link>
+            <enclosure url="https://www.archive.org/download/jatakatales_2108_librivox/jataka_17_francis_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 08 Aug 2021 00:16:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/jatakatales_2108_librivox/jataka_17_francis_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[THE GOBLIN CITY; THE TELL-TALE PARROT; THE CHOICE OF A HUSBAND; THE FOOLHARDY CROW]]></title>
+    <itunes:episode><![CDATA[18]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/jataka-tales-by-h-t-francis/]]></link>
+            <enclosure url="https://www.archive.org/download/jatakatales_2108_librivox/jataka_18_francis_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 08 Aug 2021 00:17:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/jatakatales_2108_librivox/jataka_18_francis_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[THE WOODPECKER, TORTOISE, AND ANTELOPE; THE CROCODILE AND THE MONKEY; THE BRAHMIN AND THE ACROBAT; THE TORTOISE AND THE GEESE]]></title>
+    <itunes:episode><![CDATA[19]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/jataka-tales-by-h-t-francis/]]></link>
+            <enclosure url="https://www.archive.org/download/jatakatales_2108_librivox/jataka_19_francis_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 08 Aug 2021 00:18:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/jatakatales_2108_librivox/jataka_19_francis_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[THE STOLEN PLOUGHSHARES; THE HERO’S TASKS]]></title>
+    <itunes:episode><![CDATA[20]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/jataka-tales-by-h-t-francis/]]></link>
+            <enclosure url="https://www.archive.org/download/jatakatales_2108_librivox/jataka_20_francis_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 08 Aug 2021 00:19:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/jatakatales_2108_librivox/jataka_20_francis_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[DEFEATING THE KING OF DEATH; THE JACKAL’S SPELL; THE JUDAS-TREE]]></title>
+    <itunes:episode><![CDATA[21]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/jataka-tales-by-h-t-francis/]]></link>
+            <enclosure url="https://www.archive.org/download/jatakatales_2108_librivox/jataka_21_francis_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 08 Aug 2021 00:20:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/jatakatales_2108_librivox/jataka_21_francis_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[THE JUDGEMENTS OF KING MIRROR-FACE]]></title>
+    <itunes:episode><![CDATA[22]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/jataka-tales-by-h-t-francis/]]></link>
+            <enclosure url="https://www.archive.org/download/jatakatales_2108_librivox/jataka_22_francis_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 08 Aug 2021 00:21:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/jatakatales_2108_librivox/jataka_22_francis_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[THE CRAB AND THE ELEPHANT; THE OWL AS KING; THE ELEPHANT-TRAINER’S LUCK; THE WISHING CUP]]></title>
+    <itunes:episode><![CDATA[23]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/jataka-tales-by-h-t-francis/]]></link>
+            <enclosure url="https://www.archive.org/download/jatakatales_2108_librivox/jataka_23_francis_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 08 Aug 2021 00:22:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/jatakatales_2108_librivox/jataka_23_francis_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[THE JACKAL AND THE CROW; THE WOLF’S SABBATH; THE KING AND THE FRUIT-GIRL; THE WOODPECKER AND THE LION]]></title>
+    <itunes:episode><![CDATA[24]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/jataka-tales-by-h-t-francis/]]></link>
+            <enclosure url="https://www.archive.org/download/jatakatales_2108_librivox/jataka_24_francis_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 08 Aug 2021 00:23:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/jatakatales_2108_librivox/jataka_24_francis_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[THE HARE’S SELF-SACRIFICE; UNASKED-FOR ADVICE; THE FLIGHT OF THE BEASTS; THE CONCEITED MENDICANT]]></title>
+    <itunes:episode><![CDATA[25]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/jataka-tales-by-h-t-francis/]]></link>
+            <enclosure url="https://www.archive.org/download/jatakatales_2108_librivox/jataka_25_francis_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 08 Aug 2021 00:24:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/jatakatales_2108_librivox/jataka_25_francis_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[THE IMPERMANENCE OF WORLDLY JOYS; THE TESTING OF VIRTUE; A KING’S LIFE SAVED BY SPELLS]]></title>
+    <itunes:episode><![CDATA[26]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/jataka-tales-by-h-t-francis/]]></link>
+            <enclosure url="https://www.archive.org/download/jatakatales_2108_librivox/jataka_26_francis_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 08 Aug 2021 00:25:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/jatakatales_2108_librivox/jataka_26_francis_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[THE HERON’S REVENGE; THE LION AND THE BULL; THE QUAIL’S FRIENDS; QUEEN SUSONDĪ]]></title>
+    <itunes:episode><![CDATA[27]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/jataka-tales-by-h-t-francis/]]></link>
+            <enclosure url="https://www.archive.org/download/jatakatales_2108_librivox/jataka_27_francis_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 08 Aug 2021 00:26:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/jatakatales_2108_librivox/jataka_27_francis_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[THE BETRAYER BETRAYED; THE CAT AND THE COCK; THE LANGUAGE OF ANIMALS]]></title>
+    <itunes:episode><![CDATA[28]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/jataka-tales-by-h-t-francis/]]></link>
+            <enclosure url="https://www.archive.org/download/jatakatales_2108_librivox/jataka_28_francis_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 08 Aug 2021 00:27:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/jatakatales_2108_librivox/jataka_28_francis_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[THE THEFT OF A SMELL; THE LION IN BAD COMPANY; THE OTTERS AND THE JACKAL]]></title>
+    <itunes:episode><![CDATA[29]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/jataka-tales-by-h-t-francis/]]></link>
+            <enclosure url="https://www.archive.org/download/jatakatales_2108_librivox/jataka_29_francis_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 08 Aug 2021 00:28:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/jatakatales_2108_librivox/jataka_29_francis_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[THE BRAHMIN AND THE SNAKE; THE BRAHMIN’S REVENGE ON THE MONKEYS]]></title>
+    <itunes:episode><![CDATA[30]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/jataka-tales-by-h-t-francis/]]></link>
+            <enclosure url="https://www.archive.org/download/jatakatales_2108_librivox/jataka_30_francis_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 08 Aug 2021 00:29:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/jatakatales_2108_librivox/jataka_30_francis_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[THE MONKEY’S HEROIC SELF-SACRIFICE; THE ADVENTURES OF THE PRINCE AND HIS BROTHER]]></title>
+    <itunes:episode><![CDATA[31]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/jataka-tales-by-h-t-francis/]]></link>
+            <enclosure url="https://www.archive.org/download/jatakatales_2108_librivox/jataka_31_francis_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 08 Aug 2021 00:30:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/jatakatales_2108_librivox/jataka_31_francis_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[THE PANTHER AND THE GOAT; THE GRATEFUL PARROT]]></title>
+    <itunes:episode><![CDATA[32]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/jataka-tales-by-h-t-francis/]]></link>
+            <enclosure url="https://www.archive.org/download/jatakatales_2108_librivox/jataka_32_francis_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 08 Aug 2021 00:31:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/jatakatales_2108_librivox/jataka_32_francis_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[THE GOBLIN’S GIFT]]></title>
+    <itunes:episode><![CDATA[33]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/jataka-tales-by-h-t-francis/]]></link>
+            <enclosure url="https://www.archive.org/download/jatakatales_2108_librivox/jataka_33_francis_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 08 Aug 2021 00:32:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/jatakatales_2108_librivox/jataka_33_francis_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[THE WISE GOAT AND THE JACKAL; THE UNGRATEFUL SON]]></title>
+    <itunes:episode><![CDATA[34]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/jataka-tales-by-h-t-francis/]]></link>
+            <enclosure url="https://www.archive.org/download/jatakatales_2108_librivox/jataka_34_francis_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 08 Aug 2021 00:33:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/jatakatales_2108_librivox/jataka_34_francis_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[THE TEN SLAVE-BRETHREN]]></title>
+    <itunes:episode><![CDATA[35]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/jataka-tales-by-h-t-francis/]]></link>
+            <enclosure url="https://www.archive.org/download/jatakatales_2108_librivox/jataka_35_francis_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 08 Aug 2021 00:34:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/jatakatales_2108_librivox/jataka_35_francis_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[RĀMA AND SĪTĀ; THE WICKED STEP-MOTHER]]></title>
+    <itunes:episode><![CDATA[36]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/jataka-tales-by-h-t-francis/]]></link>
+            <enclosure url="https://www.archive.org/download/jatakatales_2108_librivox/jataka_36_francis_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 08 Aug 2021 00:35:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/jatakatales_2108_librivox/jataka_36_francis_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[THE LOST CHARM; THE PRINCE’S WOOING AND THE THRONE OF THE BUDDHAS]]></title>
+    <itunes:episode><![CDATA[37]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/jataka-tales-by-h-t-francis/]]></link>
+            <enclosure url="https://www.archive.org/download/jatakatales_2108_librivox/jataka_37_francis_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 08 Aug 2021 00:36:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/jatakatales_2108_librivox/jataka_37_francis_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[THE FOLLY OF GARRULITY; THE HAWKS AND THEIR FRIENDS]]></title>
+    <itunes:episode><![CDATA[38]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/jataka-tales-by-h-t-francis/]]></link>
+            <enclosure url="https://www.archive.org/download/jatakatales_2108_librivox/jataka_38_francis_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 08 Aug 2021 00:37:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/jatakatales_2108_librivox/jataka_38_francis_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[THE PRINCE WHO COULD NOT LAUGH]]></title>
+    <itunes:episode><![CDATA[39]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/jataka-tales-by-h-t-francis/]]></link>
+            <enclosure url="https://www.archive.org/download/jatakatales_2108_librivox/jataka_39_francis_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 08 Aug 2021 00:38:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/jatakatales_2108_librivox/jataka_39_francis_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[A LOST FRIEND FOUND BY A SONG]]></title>
+    <itunes:episode><![CDATA[40]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/jataka-tales-by-h-t-francis/]]></link>
+            <enclosure url="https://www.archive.org/download/jatakatales_2108_librivox/jataka_40_francis_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 08 Aug 2021 00:39:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/jatakatales_2108_librivox/jataka_40_francis_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[KING SIVI]]></title>
+    <itunes:episode><![CDATA[41]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/jataka-tales-by-h-t-francis/]]></link>
+            <enclosure url="https://www.archive.org/download/jatakatales_2108_librivox/jataka_41_francis_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 08 Aug 2021 00:40:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/jatakatales_2108_librivox/jataka_41_francis_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[THE EVILS OF STRONG DRINK]]></title>
+    <itunes:episode><![CDATA[42]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/jataka-tales-by-h-t-francis/]]></link>
+            <enclosure url="https://www.archive.org/download/jatakatales_2108_librivox/jataka_42_francis_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 08 Aug 2021 00:41:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/jatakatales_2108_librivox/jataka_42_francis_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[THE WHITE SIX-TUSKED ELEPHANT]]></title>
+    <itunes:episode><![CDATA[43]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/jataka-tales-by-h-t-francis/]]></link>
+            <enclosure url="https://www.archive.org/download/jatakatales_2108_librivox/jataka_43_francis_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 08 Aug 2021 00:42:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/jatakatales_2108_librivox/jataka_43_francis_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[THE THREE WISE BIRDS]]></title>
+    <itunes:episode><![CDATA[44]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/jataka-tales-by-h-t-francis/]]></link>
+            <enclosure url="https://www.archive.org/download/jatakatales_2108_librivox/jataka_44_francis_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 08 Aug 2021 00:43:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/jatakatales_2108_librivox/jataka_44_francis_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[A KING FINDS HIS FRIEND THROUGH A SONG]]></title>
+    <itunes:episode><![CDATA[45]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/jataka-tales-by-h-t-francis/]]></link>
+            <enclosure url="https://www.archive.org/download/jatakatales_2108_librivox/jataka_45_francis_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 08 Aug 2021 00:44:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/jatakatales_2108_librivox/jataka_45_francis_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[THE UGLY BRIDEGROOM]]></title>
+    <itunes:episode><![CDATA[46]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/jataka-tales-by-h-t-francis/]]></link>
+            <enclosure url="https://www.archive.org/download/jatakatales_2108_librivox/jataka_46_francis_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 08 Aug 2021 00:45:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/jatakatales_2108_librivox/jataka_46_francis_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[THE NINETEEN PROBLEMS]]></title>
+    <itunes:episode><![CDATA[47]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/jataka-tales-by-h-t-francis/]]></link>
+            <enclosure url="https://www.archive.org/download/jatakatales_2108_librivox/jataka_47_francis_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 08 Aug 2021 00:46:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/jatakatales_2108_librivox/jataka_47_francis_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <!-- end file loop -->
+</channel>
+</rss>

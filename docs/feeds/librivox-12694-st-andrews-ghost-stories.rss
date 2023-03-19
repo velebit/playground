@@ -1,0 +1,121 @@
+<?xml version="1.0" ?><rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+  <title><![CDATA[St Andrews Ghost Stories by William Thomas Linskill (1855 - 1929)]]></title>
+  <link><![CDATA[https://librivox.org/st-andrews-ghost-stories-by-william-thomas-linskill/]]></link>
+  <atom:link rel="self" href="https://librivox.org/rss/12694" />
+  <description><![CDATA[Seventeen ghost stories (fourth edition published 1921) centered around the ruined medieval cathedral of Saint Andrew in the Scots city of that name. The author was famous in his time for his interest in ghostly apparitions. ( David Wales) ]]></description>
+  <!--<genre>project element=Genre</genre>-->
+  <!--<language>project element=lang.code</language>-->
+  <itunes:type>serial</itunes:type>
+  <itunes:author>LibriVox</itunes:author>
+  <itunes:summary><![CDATA[Seventeen ghost stories (fourth edition published 1921) centered around the ruined medieval cathedral of Saint Andrew in the Scots city of that name. The author was famous in his time for his interest in ghostly apparitions. ( David Wales) ]]></itunes:summary>
+  <itunes:owner>
+    <itunes:name>LibriVox</itunes:name>
+    <itunes:email>info@librivox.org</itunes:email>
+  </itunes:owner>
+  <itunes:category text="Arts">
+    <itunes:category text="Literature" />
+  </itunes:category>
+  <image><url>https://archive.org/download/st_andrews_ghost_stories_1801_librivox/standrewsghoststories_1801.jpg</url></image>
+  <itunes:image href="https://archive.org/download/st_andrews_ghost_stories_1801_librivox/standrewsghoststories_1801.jpg"/>
+  <itunes:explicit>no</itunes:explicit>
+  <!-- file loop -->
+    <item>
+    <title><![CDATA[The Beckoning Monk; The Hauntings And Mysteries Of Lausdree Castle]]></title>
+    <itunes:episode><![CDATA[1]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/st-andrews-ghost-stories-by-william-thomas-linskill/]]></link>
+            <enclosure url="https://www.archive.org/download/st_andrews_ghost_stories_1801_librivox/standrewsghoststories_01_linskill_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Tue, 30 Jan 2018 00:00:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/st_andrews_ghost_stories_1801_librivox/standrewsghoststories_01_linskill_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[A Haunted Manor House And The Duel At St Andrews; The Apparition Of The Prior Of Pittenweem]]></title>
+    <itunes:episode><![CDATA[2]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/st-andrews-ghost-stories-by-william-thomas-linskill/]]></link>
+            <enclosure url="https://www.archive.org/download/st_andrews_ghost_stories_1801_librivox/standrewsghoststories_02_linskill_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Tue, 30 Jan 2018 00:01:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/st_andrews_ghost_stories_1801_librivox/standrewsghoststories_02_linskill_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[A True Tale Of The Phantom Coach; The Veiled Nun Of St Leonards]]></title>
+    <itunes:episode><![CDATA[3]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/st-andrews-ghost-stories-by-william-thomas-linskill/]]></link>
+            <enclosure url="https://www.archive.org/download/st_andrews_ghost_stories_1801_librivox/standrewsghoststories_03_linskill_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Tue, 30 Jan 2018 00:02:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/st_andrews_ghost_stories_1801_librivox/standrewsghoststories_03_linskill_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Monk Of St Rule's Tower; Related By Captain ChesterRelated By Captain Chester]]></title>
+    <itunes:episode><![CDATA[4]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/st-andrews-ghost-stories-by-william-thomas-linskill/]]></link>
+            <enclosure url="https://www.archive.org/download/st_andrews_ghost_stories_1801_librivox/standrewsghoststories_04_linskill_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Tue, 30 Jan 2018 00:03:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/st_andrews_ghost_stories_1801_librivox/standrewsghoststories_04_linskill_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Screaming Skull Of Greyfriars; The Spectre Of The Castle]]></title>
+    <itunes:episode><![CDATA[5]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/st-andrews-ghost-stories-by-william-thomas-linskill/]]></link>
+            <enclosure url="https://www.archive.org/download/st_andrews_ghost_stories_1801_librivox/standrewsghoststories_05_linskill_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Tue, 30 Jan 2018 00:04:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/st_andrews_ghost_stories_1801_librivox/standrewsghoststories_05_linskill_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Smothered Piper Of The West Cliffs; The Beautiful Lady Of The Haunted Tower]]></title>
+    <itunes:episode><![CDATA[6]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/st-andrews-ghost-stories-by-william-thomas-linskill/]]></link>
+            <enclosure url="https://www.archive.org/download/st_andrews_ghost_stories_1801_librivox/standrewsghoststories_06_linskell_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Tue, 30 Jan 2018 00:05:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/st_andrews_ghost_stories_1801_librivox/standrewsghoststories_06_linskell_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Concerning More Appearances Of The White Lady; A Spiritualistic Seance]]></title>
+    <itunes:episode><![CDATA[7]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/st-andrews-ghost-stories-by-william-thomas-linskill/]]></link>
+            <enclosure url="https://www.archive.org/download/st_andrews_ghost_stories_1801_librivox/standrewsghoststories_07_linskill_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Tue, 30 Jan 2018 00:06:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/st_andrews_ghost_stories_1801_librivox/standrewsghoststories_07_linskill_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Apparition Of Sir Rodger De Wanklyn; The Bewitched Ermentrude; A Very Peculiar House]]></title>
+    <itunes:episode><![CDATA[8]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/st-andrews-ghost-stories-by-william-thomas-linskill/]]></link>
+            <enclosure url="https://www.archive.org/download/st_andrews_ghost_stories_1801_librivox/standrewsghoststories_08_linskill_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Tue, 30 Jan 2018 00:07:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/st_andrews_ghost_stories_1801_librivox/standrewsghoststories_08_linskill_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <!-- end file loop -->
+</channel>
+</rss>

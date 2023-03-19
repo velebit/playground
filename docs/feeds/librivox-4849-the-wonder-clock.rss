@@ -1,0 +1,313 @@
+<?xml version="1.0" ?><rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+  <title><![CDATA[Wonder Clock, The by Howard Pyle (1853 - 1911)]]></title>
+  <link><![CDATA[https://librivox.org/the-wonder-clock-by-howard-pyle/]]></link>
+  <atom:link rel="self" href="https://librivox.org/rss/4849" />
+  <description><![CDATA["Four and twenty marvellous tales, one for each hour of the day," retold in a novel and entertaining manner by a master of the form. While drawing on German, English, and Scandinavian folk literature for many of his characters and plots, Pyle reworks the material in an imaginative way, crafting the tales in his own inimitable style. Equally engaging are the numerous woodcuts that accompany the stories and enliven the narrative.  Read along and see the illustrations (Summary from mainlesson.com)]]></description>
+  <!--<genre>project element=Genre</genre>-->
+  <!--<language>project element=lang.code</language>-->
+  <itunes:type>serial</itunes:type>
+  <itunes:author>LibriVox</itunes:author>
+  <itunes:summary><![CDATA["Four and twenty marvellous tales, one for each hour of the day," retold in a novel and entertaining manner by a master of the form. While drawing on German, English, and Scandinavian folk literature for many of his characters and plots, Pyle reworks the material in an imaginative way, crafting the tales in his own inimitable style. Equally engaging are the numerous woodcuts that accompany the stories and enliven the narrative.  Read along and see the illustrations (Summary from mainlesson.com)]]></itunes:summary>
+  <itunes:owner>
+    <itunes:name>LibriVox</itunes:name>
+    <itunes:email>info@librivox.org</itunes:email>
+  </itunes:owner>
+  <itunes:category text="Arts">
+    <itunes:category text="Literature" />
+  </itunes:category>
+  <image><url>https://archive.org/download/wonderclock_1309_librivox/Wonder_Clock_1309.jpg</url></image>
+  <itunes:image href="https://archive.org/download/wonderclock_1309_librivox/Wonder_Clock_1309.jpg"/>
+  <itunes:explicit>no</itunes:explicit>
+  <!-- file loop -->
+    <item>
+    <title><![CDATA[Preface and Bearskin]]></title>
+    <itunes:episode><![CDATA[1]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-wonder-clock-by-howard-pyle/]]></link>
+            <enclosure url="https://www.archive.org/download/wonderclock_1309_librivox/wonderclock_01_pyle_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Tue, 17 Sep 2013 00:00:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/wonderclock_1309_librivox/wonderclock_01_pyle_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Water of Life]]></title>
+    <itunes:episode><![CDATA[2]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-wonder-clock-by-howard-pyle/]]></link>
+            <enclosure url="https://www.archive.org/download/wonderclock_1309_librivox/wonderclock_02_pyle_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Tue, 17 Sep 2013 00:01:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/wonderclock_1309_librivox/wonderclock_02_pyle_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[How One Turned his Trouble to Some Account]]></title>
+    <itunes:episode><![CDATA[3]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-wonder-clock-by-howard-pyle/]]></link>
+            <enclosure url="https://www.archive.org/download/wonderclock_1309_librivox/wonderclock_03_pyle_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Tue, 17 Sep 2013 00:02:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/wonderclock_1309_librivox/wonderclock_03_pyle_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[How Three Went out into the Wide World]]></title>
+    <itunes:episode><![CDATA[4]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-wonder-clock-by-howard-pyle/]]></link>
+            <enclosure url="https://www.archive.org/download/wonderclock_1309_librivox/wonderclock_04_pyle_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Tue, 17 Sep 2013 00:03:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/wonderclock_1309_librivox/wonderclock_04_pyle_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Clever Student and the Master of Black Arts]]></title>
+    <itunes:episode><![CDATA[5]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-wonder-clock-by-howard-pyle/]]></link>
+            <enclosure url="https://www.archive.org/download/wonderclock_1309_librivox/wonderclock_05_pyle_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Tue, 17 Sep 2013 00:04:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/wonderclock_1309_librivox/wonderclock_05_pyle_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Princess Golden Hair and the Great Black Raven]]></title>
+    <itunes:episode><![CDATA[6]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-wonder-clock-by-howard-pyle/]]></link>
+            <enclosure url="https://www.archive.org/download/wonderclock_1309_librivox/wonderclock_06_pyle_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Tue, 17 Sep 2013 00:05:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/wonderclock_1309_librivox/wonderclock_06_pyle_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Cousin Greylegs, the Red Fox, and Grandfather Mole]]></title>
+    <itunes:episode><![CDATA[7]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-wonder-clock-by-howard-pyle/]]></link>
+            <enclosure url="https://www.archive.org/download/wonderclock_1309_librivox/wonderclock_07_pyle_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Tue, 17 Sep 2013 00:06:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/wonderclock_1309_librivox/wonderclock_07_pyle_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[One Good Turn Deserves Another]]></title>
+    <itunes:episode><![CDATA[8]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-wonder-clock-by-howard-pyle/]]></link>
+            <enclosure url="https://www.archive.org/download/wonderclock_1309_librivox/wonderclock_08_pyle_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Tue, 17 Sep 2013 00:07:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/wonderclock_1309_librivox/wonderclock_08_pyle_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The White Bird]]></title>
+    <itunes:episode><![CDATA[9]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-wonder-clock-by-howard-pyle/]]></link>
+            <enclosure url="https://www.archive.org/download/wonderclock_1309_librivox/wonderclock_09_pyle_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Tue, 17 Sep 2013 00:08:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/wonderclock_1309_librivox/wonderclock_09_pyle_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[How The Good Gifts were Used by Two]]></title>
+    <itunes:episode><![CDATA[10]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-wonder-clock-by-howard-pyle/]]></link>
+            <enclosure url="https://www.archive.org/download/wonderclock_1309_librivox/wonderclock_10_pyle_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Tue, 17 Sep 2013 00:09:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/wonderclock_1309_librivox/wonderclock_10_pyle_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[How Boots Befooled the King]]></title>
+    <itunes:episode><![CDATA[11]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-wonder-clock-by-howard-pyle/]]></link>
+            <enclosure url="https://www.archive.org/download/wonderclock_1309_librivox/wonderclock_11_pyle_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Tue, 17 Sep 2013 00:10:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/wonderclock_1309_librivox/wonderclock_11_pyle_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Step-mother]]></title>
+    <itunes:episode><![CDATA[12]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-wonder-clock-by-howard-pyle/]]></link>
+            <enclosure url="https://www.archive.org/download/wonderclock_1309_librivox/wonderclock_12_pyle_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Tue, 17 Sep 2013 00:11:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/wonderclock_1309_librivox/wonderclock_12_pyle_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Master Jacob ]]></title>
+    <itunes:episode><![CDATA[13]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-wonder-clock-by-howard-pyle/]]></link>
+            <enclosure url="https://www.archive.org/download/wonderclock_1309_librivox/wonderclock_13_pyle_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Tue, 17 Sep 2013 00:12:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/wonderclock_1309_librivox/wonderclock_13_pyle_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Peterkin and the Little Grey Hare ]]></title>
+    <itunes:episode><![CDATA[14]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-wonder-clock-by-howard-pyle/]]></link>
+            <enclosure url="https://www.archive.org/download/wonderclock_1309_librivox/wonderclock_14_pyle_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Tue, 17 Sep 2013 00:13:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/wonderclock_1309_librivox/wonderclock_14_pyle_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Mother Hildegarde ]]></title>
+    <itunes:episode><![CDATA[15]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-wonder-clock-by-howard-pyle/]]></link>
+            <enclosure url="https://www.archive.org/download/wonderclock_1309_librivox/wonderclock_15_pyle_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Tue, 17 Sep 2013 00:14:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/wonderclock_1309_librivox/wonderclock_15_pyle_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Which is Best ]]></title>
+    <itunes:episode><![CDATA[16]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-wonder-clock-by-howard-pyle/]]></link>
+            <enclosure url="https://www.archive.org/download/wonderclock_1309_librivox/wonderclock_16_pyle_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Tue, 17 Sep 2013 00:15:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/wonderclock_1309_librivox/wonderclock_16_pyle_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Simpleton and his Little Black Hen ]]></title>
+    <itunes:episode><![CDATA[17]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-wonder-clock-by-howard-pyle/]]></link>
+            <enclosure url="https://www.archive.org/download/wonderclock_1309_librivox/wonderclock_17_pyle_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Tue, 17 Sep 2013 00:16:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/wonderclock_1309_librivox/wonderclock_17_pyle_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Swan Maiden]]></title>
+    <itunes:episode><![CDATA[18]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-wonder-clock-by-howard-pyle/]]></link>
+            <enclosure url="https://www.archive.org/download/wonderclock_1309_librivox/wonderclock_18_pyle_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Tue, 17 Sep 2013 00:17:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/wonderclock_1309_librivox/wonderclock_18_pyle_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Three Little Pigs and the Ogre ]]></title>
+    <itunes:episode><![CDATA[19]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-wonder-clock-by-howard-pyle/]]></link>
+            <enclosure url="https://www.archive.org/download/wonderclock_1309_librivox/wonderclock_19_pyle_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Tue, 17 Sep 2013 00:18:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/wonderclock_1309_librivox/wonderclock_19_pyle_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Staff and the Fiddle ]]></title>
+    <itunes:episode><![CDATA[20]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-wonder-clock-by-howard-pyle/]]></link>
+            <enclosure url="https://www.archive.org/download/wonderclock_1309_librivox/wonderclock_20_pyle_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Tue, 17 Sep 2013 00:19:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/wonderclock_1309_librivox/wonderclock_20_pyle_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[How the Princess's Pride was Broken]]></title>
+    <itunes:episode><![CDATA[21]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-wonder-clock-by-howard-pyle/]]></link>
+            <enclosure url="https://www.archive.org/download/wonderclock_1309_librivox/wonderclock_21_pyle_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Tue, 17 Sep 2013 00:20:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/wonderclock_1309_librivox/wonderclock_21_pyle_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[How Two Went into Partnership ]]></title>
+    <itunes:episode><![CDATA[22]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-wonder-clock-by-howard-pyle/]]></link>
+            <enclosure url="https://www.archive.org/download/wonderclock_1309_librivox/wonderclock_22_pyle_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Tue, 17 Sep 2013 00:21:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/wonderclock_1309_librivox/wonderclock_22_pyle_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[King Stork ]]></title>
+    <itunes:episode><![CDATA[23]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-wonder-clock-by-howard-pyle/]]></link>
+            <enclosure url="https://www.archive.org/download/wonderclock_1309_librivox/wonderclock_23_pyle_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Tue, 17 Sep 2013 00:22:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/wonderclock_1309_librivox/wonderclock_23_pyle_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Best that Life has to Give]]></title>
+    <itunes:episode><![CDATA[24]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-wonder-clock-by-howard-pyle/]]></link>
+            <enclosure url="https://www.archive.org/download/wonderclock_1309_librivox/wonderclock_24_pyle_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Tue, 17 Sep 2013 00:23:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/wonderclock_1309_librivox/wonderclock_24_pyle_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <!-- end file loop -->
+</channel>
+</rss>

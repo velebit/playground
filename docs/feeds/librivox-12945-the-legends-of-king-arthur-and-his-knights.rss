@@ -1,0 +1,263 @@
+<?xml version="1.0" ?><rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+  <title><![CDATA[Legends of King Arthur and His Knights, The by Sir Thomas Malory (1405 - 1471) and James Knowles (1831 - 1908)]]></title>
+  <link><![CDATA[https://librivox.org/the-legends-of-king-arthur-and-his-knights-by-sir-thomas-malory/]]></link>
+  <atom:link rel="self" href="https://librivox.org/rss/12945" />
+  <description><![CDATA[The Publishers have asked me to authorise a new edition, in my own name, of this little book—now long out of print—which was written by me thirty-five years ago under the initials J.T.K.
+
+In acceding to their request I wish to say that the book as now published is merely a word-for-word reprint of my early effort to help to popularise the Arthur legends.
+
+It is little else than an abridgment of Sir Thomas Malory’s version of them as printed by Caxton—with a few additions from Geoffrey of Monmouth and other sources—and an endeavour to arrange the many tales into a more or less consecutive story.
+ - Summary by James Knowles]]></description>
+  <!--<genre>project element=Genre</genre>-->
+  <!--<language>project element=lang.code</language>-->
+  <itunes:type>serial</itunes:type>
+  <itunes:author>LibriVox</itunes:author>
+  <itunes:summary><![CDATA[The Publishers have asked me to authorise a new edition, in my own name, of this little book—now long out of print—which was written by me thirty-five years ago under the initials J.T.K.
+
+In acceding to their request I wish to say that the book as now published is merely a word-for-word reprint of my early effort to help to popularise the Arthur legends.
+
+It is little else than an abridgment of Sir Thomas Malory’s version of them as printed by Caxton—with a few additions from Geoffrey of Monmouth and other sources—and an endeavour to arrange the many tales into a more or less consecutive story.
+ - Summary by James Knowles]]></itunes:summary>
+  <itunes:owner>
+    <itunes:name>LibriVox</itunes:name>
+    <itunes:email>info@librivox.org</itunes:email>
+  </itunes:owner>
+  <itunes:category text="Arts">
+    <itunes:category text="Literature" />
+  </itunes:category>
+  <image><url>https://archive.org/download/legendsofkingarthur_1806_librivox/legends_king_arthur_1807.jpg</url></image>
+  <itunes:image href="https://archive.org/download/legendsofkingarthur_1806_librivox/legends_king_arthur_1807.jpg"/>
+  <itunes:explicit>no</itunes:explicit>
+  <!-- file loop -->
+    <item>
+    <title><![CDATA[Preface]]></title>
+    <itunes:episode><![CDATA[0]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-legends-of-king-arthur-and-his-knights-by-sir-thomas-malory/]]></link>
+            <enclosure url="https://www.archive.org/download/legendsofkingarthur_1806_librivox/legendsofkingarthur_00_malory_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/legendsofkingarthur_1806_librivox/legendsofkingarthur_00_malory_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Prophecies of Merlin and The Birth of Arthur]]></title>
+    <itunes:episode><![CDATA[1]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-legends-of-king-arthur-and-his-knights-by-sir-thomas-malory/]]></link>
+            <enclosure url="https://www.archive.org/download/legendsofkingarthur_1806_librivox/legendsofkingarthur_01_malory_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 01 Jul 2018 00:01:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/legendsofkingarthur_1806_librivox/legendsofkingarthur_01_malory_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Sword and Stone, Coronation, Excalibur, War with the Eleven Kings]]></title>
+    <itunes:episode><![CDATA[2]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-legends-of-king-arthur-and-his-knights-by-sir-thomas-malory/]]></link>
+            <enclosure url="https://www.archive.org/download/legendsofkingarthur_1806_librivox/legendsofkingarthur_02_malory_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 01 Jul 2018 00:02:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/legendsofkingarthur_1806_librivox/legendsofkingarthur_02_malory_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Adventure of the Questing Beast — King Arthur drives the Saxons from the Realm — The Battles of Celidon Forest and Badon Hill]]></title>
+    <itunes:episode><![CDATA[3]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-legends-of-king-arthur-and-his-knights-by-sir-thomas-malory/]]></link>
+            <enclosure url="https://www.archive.org/download/legendsofkingarthur_1806_librivox/legendsofkingarthur_03_malory_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 01 Jul 2018 00:03:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/legendsofkingarthur_1806_librivox/legendsofkingarthur_03_malory_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[King Arthur Conquers Ireland and Norway, Slays the Giant of St. Michael’s Mount, and Conquers Gaul , The Adventures of Sir Balin]]></title>
+    <itunes:episode><![CDATA[4]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-legends-of-king-arthur-and-his-knights-by-sir-thomas-malory/]]></link>
+            <enclosure url="https://www.archive.org/download/legendsofkingarthur_1806_librivox/legendsofkingarthur_04_malory_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 01 Jul 2018 00:04:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/legendsofkingarthur_1806_librivox/legendsofkingarthur_04_malory_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Sir Balin Smites the Dolorous Stroke, and Fights with his Brother, Sir Balan]]></title>
+    <itunes:episode><![CDATA[5]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-legends-of-king-arthur-and-his-knights-by-sir-thomas-malory/]]></link>
+            <enclosure url="https://www.archive.org/download/legendsofkingarthur_1806_librivox/legendsofkingarthur_05_malory_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 01 Jul 2018 00:05:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/legendsofkingarthur_1806_librivox/legendsofkingarthur_05_malory_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Marriage of King Arthur and Queen Guinevere, and the Founding of the Round Table, The Adventure of the Hart and Hound]]></title>
+    <itunes:episode><![CDATA[6]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-legends-of-king-arthur-and-his-knights-by-sir-thomas-malory/]]></link>
+            <enclosure url="https://www.archive.org/download/legendsofkingarthur_1806_librivox/legendsofkingarthur_06_malory_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 01 Jul 2018 00:06:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/legendsofkingarthur_1806_librivox/legendsofkingarthur_06_malory_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[King Arthur and Sir Accolon of Gaul]]></title>
+    <itunes:episode><![CDATA[7]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-legends-of-king-arthur-and-his-knights-by-sir-thomas-malory/]]></link>
+            <enclosure url="https://www.archive.org/download/legendsofkingarthur_1806_librivox/legendsofkingarthur_07_malory_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 01 Jul 2018 00:07:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/legendsofkingarthur_1806_librivox/legendsofkingarthur_07_malory_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[King Arthur conquers Rome, and is crowned Emperor]]></title>
+    <itunes:episode><![CDATA[8]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-legends-of-king-arthur-and-his-knights-by-sir-thomas-malory/]]></link>
+            <enclosure url="https://www.archive.org/download/legendsofkingarthur_1806_librivox/legendsofkingarthur_08_malory_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 01 Jul 2018 00:08:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/legendsofkingarthur_1806_librivox/legendsofkingarthur_08_malory_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Adventures of Sir Lancelot du Lake]]></title>
+    <itunes:episode><![CDATA[9]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-legends-of-king-arthur-and-his-knights-by-sir-thomas-malory/]]></link>
+            <enclosure url="https://www.archive.org/download/legendsofkingarthur_1806_librivox/legendsofkingarthur_09_malory_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 01 Jul 2018 00:09:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/legendsofkingarthur_1806_librivox/legendsofkingarthur_09_malory_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Adventures of Sir Beaumains or Sir Gareth.  Part 1.  The Quest of Sir Beaumains]]></title>
+    <itunes:episode><![CDATA[10]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-legends-of-king-arthur-and-his-knights-by-sir-thomas-malory/]]></link>
+            <enclosure url="https://www.archive.org/download/legendsofkingarthur_1806_librivox/legendsofkingarthur_10_malory_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 01 Jul 2018 00:10:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/legendsofkingarthur_1806_librivox/legendsofkingarthur_10_malory_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Adventures of Sir Beaumains or Sir Gareth.  Part 2.  The Tournament before Castle Perilous — Marriage of Sir Gareth and the Lady Lyones]]></title>
+    <itunes:episode><![CDATA[11]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-legends-of-king-arthur-and-his-knights-by-sir-thomas-malory/]]></link>
+            <enclosure url="https://www.archive.org/download/legendsofkingarthur_1806_librivox/legendsofkingarthur_11_malory_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 01 Jul 2018 00:11:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/legendsofkingarthur_1806_librivox/legendsofkingarthur_11_malory_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Adventures of Sir Tristram Part 1]]></title>
+    <itunes:episode><![CDATA[12]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-legends-of-king-arthur-and-his-knights-by-sir-thomas-malory/]]></link>
+            <enclosure url="https://www.archive.org/download/legendsofkingarthur_1806_librivox/legendsofkingarthur_12_malory_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 01 Jul 2018 00:12:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/legendsofkingarthur_1806_librivox/legendsofkingarthur_12_malory_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Adventures of Sir Tristram Part 2]]></title>
+    <itunes:episode><![CDATA[13]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-legends-of-king-arthur-and-his-knights-by-sir-thomas-malory/]]></link>
+            <enclosure url="https://www.archive.org/download/legendsofkingarthur_1806_librivox/legendsofkingarthur_13_malory_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 01 Jul 2018 00:13:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/legendsofkingarthur_1806_librivox/legendsofkingarthur_13_malory_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Quest of the Sangreal.  Part 1.  The Bewitching of Merlin.  The Knighting of Sir Galahad.  The Quest for the Sangreal Begins.]]></title>
+    <itunes:episode><![CDATA[14]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-legends-of-king-arthur-and-his-knights-by-sir-thomas-malory/]]></link>
+            <enclosure url="https://www.archive.org/download/legendsofkingarthur_1806_librivox/legendsofkingarthur_14_malory_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 01 Jul 2018 00:14:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/legendsofkingarthur_1806_librivox/legendsofkingarthur_14_malory_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Quest of the Sangreal.  Part 2.  The Adventures of Sir Lancelot, Sir Percival, and Sir Bors.]]></title>
+    <itunes:episode><![CDATA[15]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-legends-of-king-arthur-and-his-knights-by-sir-thomas-malory/]]></link>
+            <enclosure url="https://www.archive.org/download/legendsofkingarthur_1806_librivox/legendsofkingarthur_15_malory_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 01 Jul 2018 00:15:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/legendsofkingarthur_1806_librivox/legendsofkingarthur_15_malory_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Quest of the Sangreal.  Part 3.  The Sangreal is Achieved.  The Death of Sir Galahad.]]></title>
+    <itunes:episode><![CDATA[16]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-legends-of-king-arthur-and-his-knights-by-sir-thomas-malory/]]></link>
+            <enclosure url="https://www.archive.org/download/legendsofkingarthur_1806_librivox/legendsofkingarthur_16_malory_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 01 Jul 2018 00:16:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/legendsofkingarthur_1806_librivox/legendsofkingarthur_16_malory_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Sir Lancelot and the Fair Maid of Astolat]]></title>
+    <itunes:episode><![CDATA[17]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-legends-of-king-arthur-and-his-knights-by-sir-thomas-malory/]]></link>
+            <enclosure url="https://www.archive.org/download/legendsofkingarthur_1806_librivox/legendsofkingarthur_17_malory_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 01 Jul 2018 00:17:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/legendsofkingarthur_1806_librivox/legendsofkingarthur_17_malory_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The War Between King Arthur and Sir Lancelot and the Death of King Arthur]]></title>
+    <itunes:episode><![CDATA[18]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-legends-of-king-arthur-and-his-knights-by-sir-thomas-malory/]]></link>
+            <enclosure url="https://www.archive.org/download/legendsofkingarthur_1806_librivox/legendsofkingarthur_18_malory_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 01 Jul 2018 00:18:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/legendsofkingarthur_1806_librivox/legendsofkingarthur_18_malory_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <!-- end file loop -->
+</channel>
+</rss>

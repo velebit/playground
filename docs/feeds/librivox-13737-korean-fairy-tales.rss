@@ -1,0 +1,337 @@
+<?xml version="1.0" ?><rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+  <title><![CDATA[Korean Fairy Tales by William Elliot Griffis (1843 - 1928)]]></title>
+  <link><![CDATA[https://librivox.org/korean-fairy-tales-by-william-elliot-griffis/]]></link>
+  <atom:link rel="self" href="https://librivox.org/rss/13737" />
+  <description><![CDATA[Everywhere on earth the fairy world of each country is older and perhaps more enduring than the one we see and feel and tread upon. So I tell in this book the folk lore of the Korean people, and of the behavior of the particular kind of fairies that inhabit the Land of Morning Splendor. (From the Preface by William Elliot Griffis) ]]></description>
+  <!--<genre>project element=Genre</genre>-->
+  <!--<language>project element=lang.code</language>-->
+  <itunes:type>serial</itunes:type>
+  <itunes:author>LibriVox</itunes:author>
+  <itunes:summary><![CDATA[Everywhere on earth the fairy world of each country is older and perhaps more enduring than the one we see and feel and tread upon. So I tell in this book the folk lore of the Korean people, and of the behavior of the particular kind of fairies that inhabit the Land of Morning Splendor. (From the Preface by William Elliot Griffis) ]]></itunes:summary>
+  <itunes:owner>
+    <itunes:name>LibriVox</itunes:name>
+    <itunes:email>info@librivox.org</itunes:email>
+  </itunes:owner>
+  <itunes:category text="Arts">
+    <itunes:category text="Literature" />
+  </itunes:category>
+  <image><url>https://archive.org/download/librivoxcCDCoverArt35/koreanfairytales_1906.jpg</url></image>
+  <itunes:image href="https://archive.org/download/librivoxcCDCoverArt35/koreanfairytales_1906.jpg"/>
+  <itunes:explicit>no</itunes:explicit>
+  <!-- file loop -->
+    <item>
+    <title><![CDATA[The Unmannerly Tiger]]></title>
+    <itunes:episode><![CDATA[1]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/korean-fairy-tales-by-william-elliot-griffis/]]></link>
+            <enclosure url="https://www.archive.org/download/koreanfairytales_1906_librivox/koreanfairytales_01_griffis_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/koreanfairytales_1906_librivox/koreanfairytales_01_griffis_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Tokgabi and His Pranks]]></title>
+    <itunes:episode><![CDATA[2]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/korean-fairy-tales-by-william-elliot-griffis/]]></link>
+            <enclosure url="https://www.archive.org/download/koreanfairytales_1906_librivox/koreanfairytales_02_griffis_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 01 Jun 2019 00:01:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/koreanfairytales_1906_librivox/koreanfairytales_02_griffis_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[East Light and the Bridge of Fishes]]></title>
+    <itunes:episode><![CDATA[3]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/korean-fairy-tales-by-william-elliot-griffis/]]></link>
+            <enclosure url="https://www.archive.org/download/koreanfairytales_1906_librivox/koreanfairytales_03_griffis_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 01 Jun 2019 00:02:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/koreanfairytales_1906_librivox/koreanfairytales_03_griffis_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Prince Sandalwood, the Father of Korea]]></title>
+    <itunes:episode><![CDATA[4]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/korean-fairy-tales-by-william-elliot-griffis/]]></link>
+            <enclosure url="https://www.archive.org/download/koreanfairytales_1906_librivox/koreanfairytales_04_griffis_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 01 Jun 2019 00:03:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/koreanfairytales_1906_librivox/koreanfairytales_04_griffis_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Rabbit’s Eyes]]></title>
+    <itunes:episode><![CDATA[5]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/korean-fairy-tales-by-william-elliot-griffis/]]></link>
+            <enclosure url="https://www.archive.org/download/koreanfairytales_1906_librivox/koreanfairytales_05_griffis_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 01 Jun 2019 00:04:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/koreanfairytales_1906_librivox/koreanfairytales_05_griffis_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Topknots and Crockery Hats]]></title>
+    <itunes:episode><![CDATA[6]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/korean-fairy-tales-by-william-elliot-griffis/]]></link>
+            <enclosure url="https://www.archive.org/download/koreanfairytales_1906_librivox/koreanfairytales_06_griffis_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 01 Jun 2019 00:05:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/koreanfairytales_1906_librivox/koreanfairytales_06_griffis_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Fancha and the Magpie]]></title>
+    <itunes:episode><![CDATA[7]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/korean-fairy-tales-by-william-elliot-griffis/]]></link>
+            <enclosure url="https://www.archive.org/download/koreanfairytales_1906_librivox/koreanfairytales_07_griffis_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 01 Jun 2019 00:06:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/koreanfairytales_1906_librivox/koreanfairytales_07_griffis_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Sneezing Colossus]]></title>
+    <itunes:episode><![CDATA[8]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/korean-fairy-tales-by-william-elliot-griffis/]]></link>
+            <enclosure url="https://www.archive.org/download/koreanfairytales_1906_librivox/koreanfairytales_08_griffis_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 01 Jun 2019 00:07:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/koreanfairytales_1906_librivox/koreanfairytales_08_griffis_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[A Bridegroom for Miss Mole]]></title>
+    <itunes:episode><![CDATA[9]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/korean-fairy-tales-by-william-elliot-griffis/]]></link>
+            <enclosure url="https://www.archive.org/download/koreanfairytales_1906_librivox/koreanfairytales_09_griffis_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 01 Jun 2019 00:08:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/koreanfairytales_1906_librivox/koreanfairytales_09_griffis_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Old White Whiskers and Mr. Bunny]]></title>
+    <itunes:episode><![CDATA[10]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/korean-fairy-tales-by-william-elliot-griffis/]]></link>
+            <enclosure url="https://www.archive.org/download/koreanfairytales_1906_librivox/koreanfairytales_10_griffis_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 01 Jun 2019 00:09:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/koreanfairytales_1906_librivox/koreanfairytales_10_griffis_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The King of the Flowers]]></title>
+    <itunes:episode><![CDATA[11]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/korean-fairy-tales-by-william-elliot-griffis/]]></link>
+            <enclosure url="https://www.archive.org/download/koreanfairytales_1906_librivox/koreanfairytales_11_griffis_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 01 Jun 2019 00:10:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/koreanfairytales_1906_librivox/koreanfairytales_11_griffis_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Tokgabi’s Menagerie]]></title>
+    <itunes:episode><![CDATA[12]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/korean-fairy-tales-by-william-elliot-griffis/]]></link>
+            <enclosure url="https://www.archive.org/download/koreanfairytales_1906_librivox/koreanfairytales_12_griffis_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 01 Jun 2019 00:11:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/koreanfairytales_1906_librivox/koreanfairytales_12_griffis_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Cat-kin and the Queen Mother]]></title>
+    <itunes:episode><![CDATA[13]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/korean-fairy-tales-by-william-elliot-griffis/]]></link>
+            <enclosure url="https://www.archive.org/download/koreanfairytales_1906_librivox/koreanfairytales_13_griffis_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 01 Jun 2019 00:12:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/koreanfairytales_1906_librivox/koreanfairytales_13_griffis_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Magic Peach]]></title>
+    <itunes:episode><![CDATA[14]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/korean-fairy-tales-by-william-elliot-griffis/]]></link>
+            <enclosure url="https://www.archive.org/download/koreanfairytales_1906_librivox/koreanfairytales_14_griffis_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 01 Jun 2019 00:13:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/koreanfairytales_1906_librivox/koreanfairytales_14_griffis_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Great Stone Fire Eater]]></title>
+    <itunes:episode><![CDATA[15]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/korean-fairy-tales-by-william-elliot-griffis/]]></link>
+            <enclosure url="https://www.archive.org/download/koreanfairytales_1906_librivox/koreanfairytales_15_griffis_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 01 Jun 2019 00:14:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/koreanfairytales_1906_librivox/koreanfairytales_15_griffis_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Pigling and Her Proud Sister]]></title>
+    <itunes:episode><![CDATA[16]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/korean-fairy-tales-by-william-elliot-griffis/]]></link>
+            <enclosure url="https://www.archive.org/download/koreanfairytales_1906_librivox/koreanfairytales_16_griffis_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 01 Jun 2019 00:15:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/koreanfairytales_1906_librivox/koreanfairytales_16_griffis_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Mirror that Made Trouble]]></title>
+    <itunes:episode><![CDATA[17]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/korean-fairy-tales-by-william-elliot-griffis/]]></link>
+            <enclosure url="https://www.archive.org/download/koreanfairytales_1906_librivox/koreanfairytales_17_griffis_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 01 Jun 2019 00:16:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/koreanfairytales_1906_librivox/koreanfairytales_17_griffis_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Old Timber Top]]></title>
+    <itunes:episode><![CDATA[18]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/korean-fairy-tales-by-william-elliot-griffis/]]></link>
+            <enclosure url="https://www.archive.org/download/koreanfairytales_1906_librivox/koreanfairytales_18_griffis_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 01 Jun 2019 00:17:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/koreanfairytales_1906_librivox/koreanfairytales_18_griffis_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Sir One Long Body and Madame Thousand Feet]]></title>
+    <itunes:episode><![CDATA[19]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/korean-fairy-tales-by-william-elliot-griffis/]]></link>
+            <enclosure url="https://www.archive.org/download/koreanfairytales_1906_librivox/koreanfairytales_19_griffis_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 01 Jun 2019 00:18:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/koreanfairytales_1906_librivox/koreanfairytales_19_griffis_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Sky Bridge of Birds]]></title>
+    <itunes:episode><![CDATA[20]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/korean-fairy-tales-by-william-elliot-griffis/]]></link>
+            <enclosure url="https://www.archive.org/download/koreanfairytales_1906_librivox/koreanfairytales_20_griffis_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 01 Jun 2019 00:19:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/koreanfairytales_1906_librivox/koreanfairytales_20_griffis_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Longka, the Dancing Girl]]></title>
+    <itunes:episode><![CDATA[21]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/korean-fairy-tales-by-william-elliot-griffis/]]></link>
+            <enclosure url="https://www.archive.org/download/koreanfairytales_1906_librivox/koreanfairytales_21_griffis_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 01 Jun 2019 00:20:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/koreanfairytales_1906_librivox/koreanfairytales_21_griffis_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[A Frog for a Husband]]></title>
+    <itunes:episode><![CDATA[22]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/korean-fairy-tales-by-william-elliot-griffis/]]></link>
+            <enclosure url="https://www.archive.org/download/koreanfairytales_1906_librivox/koreanfairytales_22_griffis_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 01 Jun 2019 00:21:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/koreanfairytales_1906_librivox/koreanfairytales_22_griffis_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Shoes for Hats]]></title>
+    <itunes:episode><![CDATA[23]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/korean-fairy-tales-by-william-elliot-griffis/]]></link>
+            <enclosure url="https://www.archive.org/download/koreanfairytales_1906_librivox/koreanfairytales_23_griffis_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 01 Jun 2019 00:22:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/koreanfairytales_1906_librivox/koreanfairytales_23_griffis_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Voice of the Bell]]></title>
+    <itunes:episode><![CDATA[24]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/korean-fairy-tales-by-william-elliot-griffis/]]></link>
+            <enclosure url="https://www.archive.org/download/koreanfairytales_1906_librivox/koreanfairytales_24_griffis_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 01 Jun 2019 00:23:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/koreanfairytales_1906_librivox/koreanfairytales_24_griffis_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The King of the Sparrows]]></title>
+    <itunes:episode><![CDATA[25]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/korean-fairy-tales-by-william-elliot-griffis/]]></link>
+            <enclosure url="https://www.archive.org/download/koreanfairytales_1906_librivox/koreanfairytales_25_griffis_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 01 Jun 2019 00:24:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/koreanfairytales_1906_librivox/koreanfairytales_25_griffis_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Woodman and the Mountain Fairies]]></title>
+    <itunes:episode><![CDATA[26]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/korean-fairy-tales-by-william-elliot-griffis/]]></link>
+            <enclosure url="https://www.archive.org/download/koreanfairytales_1906_librivox/koreanfairytales_26_griffis_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 01 Jun 2019 00:25:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/koreanfairytales_1906_librivox/koreanfairytales_26_griffis_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <!-- end file loop -->
+</channel>
+</rss>

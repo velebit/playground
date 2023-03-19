@@ -1,0 +1,169 @@
+<?xml version="1.0" ?><rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+  <title><![CDATA[Christmas Tales Of Flanders by Andre de Ridder (1888 - 1961)]]></title>
+  <link><![CDATA[https://librivox.org/christmas-tales-of-flanders-by-andre-de-ridder/]]></link>
+  <atom:link rel="self" href="https://librivox.org/rss/16444" />
+  <description><![CDATA[“The Christmas Tales Of Flanders presented in this volume are popular fables and legends current in Flanders and Brabant, which have for centuries been told to children throughout Belgium. Their origin is doubtful, as all literature handed down by oral tradition must be. A good many of these stories are found in a different guise in the legends of other nations….  These tales occupy for the Flemish the place nursery rhymes take in England…”  (Introduction)  The book title may be a bit misleading as the stories, with two exceptions, do not concern themselves with Christmas.  Perhaps a way to think about this is that they are good stories to tell around a roaring yule fire. - Summary by Book Introduction and David Wales]]></description>
+  <!--<genre>project element=Genre</genre>-->
+  <!--<language>project element=lang.code</language>-->
+  <itunes:type>serial</itunes:type>
+  <itunes:author>LibriVox</itunes:author>
+  <itunes:summary><![CDATA[“The Christmas Tales Of Flanders presented in this volume are popular fables and legends current in Flanders and Brabant, which have for centuries been told to children throughout Belgium. Their origin is doubtful, as all literature handed down by oral tradition must be. A good many of these stories are found in a different guise in the legends of other nations….  These tales occupy for the Flemish the place nursery rhymes take in England…”  (Introduction)  The book title may be a bit misleading as the stories, with two exceptions, do not concern themselves with Christmas.  Perhaps a way to think about this is that they are good stories to tell around a roaring yule fire. - Summary by Book Introduction and David Wales]]></itunes:summary>
+  <itunes:owner>
+    <itunes:name>LibriVox</itunes:name>
+    <itunes:email>info@librivox.org</itunes:email>
+  </itunes:owner>
+  <itunes:category text="Arts">
+    <itunes:category text="Literature" />
+  </itunes:category>
+  <image><url>https://archive.org/download/christmas_tales_of_flanders_2103_librivox/christmastalesflanders_2102.jpg</url></image>
+  <itunes:image href="https://archive.org/download/christmas_tales_of_flanders_2103_librivox/christmastalesflanders_2102.jpg"/>
+  <itunes:explicit>no</itunes:explicit>
+  <!-- file loop -->
+    <item>
+    <title><![CDATA[Introduction]]></title>
+    <itunes:episode><![CDATA[0]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/christmas-tales-of-flanders-by-andre-de-ridder/]]></link>
+            <enclosure url="https://www.archive.org/download/christmas_tales_of_flanders_2103_librivox/christmastalesflanders_00_deridder_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 27 Mar 2021 00:00:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/christmas_tales_of_flanders_2103_librivox/christmastalesflanders_00_deridder_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Rich Woman And The Poor Woman; The Story of Seppy]]></title>
+    <itunes:episode><![CDATA[1]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/christmas-tales-of-flanders-by-andre-de-ridder/]]></link>
+            <enclosure url="https://www.archive.org/download/christmas_tales_of_flanders_2103_librivox/christmastalesflanders_01_deridder_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 27 Mar 2021 00:01:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/christmas_tales_of_flanders_2103_librivox/christmastalesflanders_01_deridder_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Enchanted Apple-Tree; The Convent Free From Care]]></title>
+    <itunes:episode><![CDATA[2]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/christmas-tales-of-flanders-by-andre-de-ridder/]]></link>
+            <enclosure url="https://www.archive.org/download/christmas_tales_of_flanders_2103_librivox/christmastalesflanders_02_deridder_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 27 Mar 2021 00:02:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/christmas_tales_of_flanders_2103_librivox/christmastalesflanders_02_deridder_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Witches’ Cellar; The Boy Who Always Said The Wrong Thing]]></title>
+    <itunes:episode><![CDATA[3]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/christmas-tales-of-flanders-by-andre-de-ridder/]]></link>
+            <enclosure url="https://www.archive.org/download/christmas_tales_of_flanders_2103_librivox/christmastalesflanders_03_deridder_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 27 Mar 2021 00:03:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/christmas_tales_of_flanders_2103_librivox/christmastalesflanders_03_deridder_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Hop-o-My-Thumb; The Emperor’s Parrot]]></title>
+    <itunes:episode><![CDATA[4]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/christmas-tales-of-flanders-by-andre-de-ridder/]]></link>
+            <enclosure url="https://www.archive.org/download/christmas_tales_of_flanders_2103_librivox/christmastalesflanders_04_deridder_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 27 Mar 2021 00:04:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/christmas_tales_of_flanders_2103_librivox/christmastalesflanders_04_deridder_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Little Blacksmith Verholen; Balten And The Wolf]]></title>
+    <itunes:episode><![CDATA[5]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/christmas-tales-of-flanders-by-andre-de-ridder/]]></link>
+            <enclosure url="https://www.archive.org/download/christmas_tales_of_flanders_2103_librivox/christmastalesflanders_05_deridder_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 27 Mar 2021 00:05:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/christmas_tales_of_flanders_2103_librivox/christmastalesflanders_05_deridder_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Mermaid; The Story Of The Little Hal-Cock]]></title>
+    <itunes:episode><![CDATA[6]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/christmas-tales-of-flanders-by-andre-de-ridder/]]></link>
+            <enclosure url="https://www.archive.org/download/christmas_tales_of_flanders_2103_librivox/christmastalesflanders_06_deridder_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 27 Mar 2021 00:06:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/christmas_tales_of_flanders_2103_librivox/christmastalesflanders_06_deridder_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Dwarf And The Blacksmith; Percy The Wizard Nicknamed Snail]]></title>
+    <itunes:episode><![CDATA[7]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/christmas-tales-of-flanders-by-andre-de-ridder/]]></link>
+            <enclosure url="https://www.archive.org/download/christmas_tales_of_flanders_2103_librivox/christmastalesflanders_07_deridder_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 27 Mar 2021 00:07:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/christmas_tales_of_flanders_2103_librivox/christmastalesflanders_07_deridder_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Simple John; The Two Chickens Or The Two ears]]></title>
+    <itunes:episode><![CDATA[8]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/christmas-tales-of-flanders-by-andre-de-ridder/]]></link>
+            <enclosure url="https://www.archive.org/download/christmas_tales_of_flanders_2103_librivox/christmastalesflanders_08_deridder_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 27 Mar 2021 00:08:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/christmas_tales_of_flanders_2103_librivox/christmastalesflanders_08_deridder_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Wonderful Fish; The Frying-Pan]]></title>
+    <itunes:episode><![CDATA[9]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/christmas-tales-of-flanders-by-andre-de-ridder/]]></link>
+            <enclosure url="https://www.archive.org/download/christmas_tales_of_flanders_2103_librivox/christmastalesflanders_09_deridder_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 27 Mar 2021 00:09:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/christmas_tales_of_flanders_2103_librivox/christmastalesflanders_09_deridder_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Farmer Broom Farmer Leaves And Farmer Iron; Little Lodewyk And Annie The Witch]]></title>
+    <itunes:episode><![CDATA[10]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/christmas-tales-of-flanders-by-andre-de-ridder/]]></link>
+            <enclosure url="https://www.archive.org/download/christmas_tales_of_flanders_2103_librivox/christmastalesflanders_10_deridder_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 27 Mar 2021 00:10:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/christmas_tales_of_flanders_2103_librivox/christmastalesflanders_10_deridder_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Giant Of The Causeway; The Key-Flower; The Ogre]]></title>
+    <itunes:episode><![CDATA[11]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/christmas-tales-of-flanders-by-andre-de-ridder/]]></link>
+            <enclosure url="https://www.archive.org/download/christmas_tales_of_flanders_2103_librivox/christmastalesflanders_11_deridder_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 27 Mar 2021 00:11:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/christmas_tales_of_flanders_2103_librivox/christmastalesflanders_11_deridder_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <!-- end file loop -->
+</channel>
+</rss>

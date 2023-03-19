@@ -1,0 +1,277 @@
+<?xml version="1.0" ?><rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+  <title><![CDATA[Old Peter's Russian Tales by  Arthur Ransome (1884 - 1967)]]></title>
+  <link><![CDATA[https://librivox.org/old-peters-russian-tales-by-arthur-ransome/]]></link>
+  <atom:link rel="self" href="https://librivox.org/rss/2323" />
+  <description><![CDATA[Arthur Ransome is best known for his Swallows and Amazons series of children’s books. This is the only example of his fiction in the public domain. These stories are all from Russian folklore, some comparatively well-known, others less so. Ransome spent some years in Russia as a newspaper correspondent for the Daily News and the Manchester Guardian and was peripherally involved in the revolution. In the late twenties he married Evgenia Shvelpina, Trotsky's secretary, retired from newspapers and started writing his children’s books. (Summary by AJM)]]></description>
+  <!--<genre>project element=Genre</genre>-->
+  <!--<language>project element=lang.code</language>-->
+  <itunes:type>serial</itunes:type>
+  <itunes:author>LibriVox</itunes:author>
+  <itunes:summary><![CDATA[Arthur Ransome is best known for his Swallows and Amazons series of children’s books. This is the only example of his fiction in the public domain. These stories are all from Russian folklore, some comparatively well-known, others less so. Ransome spent some years in Russia as a newspaper correspondent for the Daily News and the Manchester Guardian and was peripherally involved in the revolution. In the late twenties he married Evgenia Shvelpina, Trotsky's secretary, retired from newspapers and started writing his children’s books. (Summary by AJM)]]></itunes:summary>
+  <itunes:owner>
+    <itunes:name>LibriVox</itunes:name>
+    <itunes:email>info@librivox.org</itunes:email>
+  </itunes:owner>
+  <itunes:category text="Arts">
+    <itunes:category text="Literature" />
+  </itunes:category>
+  <image><url>https://www.archive.org/download/LibrivoxCdCoverArt/Old_Peters_Russian_Tales_1002.jpg</url></image>
+  <itunes:image href="https://www.archive.org/download/LibrivoxCdCoverArt/Old_Peters_Russian_Tales_1002.jpg"/>
+  <itunes:explicit>no</itunes:explicit>
+  <!-- file loop -->
+    <item>
+    <title><![CDATA[Introduction and The Hut in the Forest]]></title>
+    <itunes:episode><![CDATA[0]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/old-peters-russian-tales-by-arthur-ransome/]]></link>
+            <enclosure url="https://www.archive.org/download/old_peters_russian_tales_0812_librivox/old_peters_russian_tales_00_ransome_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:10:05]]></itunes:duration>
+  <pubDate>Sun, 07 Dec 2008 00:00:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/old_peters_russian_tales_0812_librivox/old_peters_russian_tales_00_ransome_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Tale of the Silver Saucer and the Transparent Apple]]></title>
+    <itunes:episode><![CDATA[1]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/old-peters-russian-tales-by-arthur-ransome/]]></link>
+            <enclosure url="https://www.archive.org/download/old_peters_russian_tales_0812_librivox/old_peters_russian_tales_01_ransome_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:32:13]]></itunes:duration>
+  <pubDate>Sun, 07 Dec 2008 00:01:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/old_peters_russian_tales_0812_librivox/old_peters_russian_tales_01_ransome_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Sadko]]></title>
+    <itunes:episode><![CDATA[2]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/old-peters-russian-tales-by-arthur-ransome/]]></link>
+            <enclosure url="https://www.archive.org/download/old_peters_russian_tales_0812_librivox/old_peters_russian_tales_02_ransome_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:21:18]]></itunes:duration>
+  <pubDate>Sun, 07 Dec 2008 00:02:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/old_peters_russian_tales_0812_librivox/old_peters_russian_tales_02_ransome_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Frost]]></title>
+    <itunes:episode><![CDATA[3]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/old-peters-russian-tales-by-arthur-ransome/]]></link>
+            <enclosure url="https://www.archive.org/download/old_peters_russian_tales_0812_librivox/old_peters_russian_tales_03_ransome_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:20:12]]></itunes:duration>
+  <pubDate>Sun, 07 Dec 2008 00:03:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/old_peters_russian_tales_0812_librivox/old_peters_russian_tales_03_ransome_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Fool of the World and the Flying Ship]]></title>
+    <itunes:episode><![CDATA[4]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/old-peters-russian-tales-by-arthur-ransome/]]></link>
+            <enclosure url="https://www.archive.org/download/old_peters_russian_tales_0812_librivox/old_peters_russian_tales_04_ransome_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:27:59]]></itunes:duration>
+  <pubDate>Sun, 07 Dec 2008 00:04:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/old_peters_russian_tales_0812_librivox/old_peters_russian_tales_04_ransome_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Baba Yaga]]></title>
+    <itunes:episode><![CDATA[5]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/old-peters-russian-tales-by-arthur-ransome/]]></link>
+            <enclosure url="https://www.archive.org/download/old_peters_russian_tales_0812_librivox/old_peters_russian_tales_05_ransome_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:29:02]]></itunes:duration>
+  <pubDate>Sun, 07 Dec 2008 00:05:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/old_peters_russian_tales_0812_librivox/old_peters_russian_tales_05_ransome_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Cat Who Became Head-Forester]]></title>
+    <itunes:episode><![CDATA[6]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/old-peters-russian-tales-by-arthur-ransome/]]></link>
+            <enclosure url="https://www.archive.org/download/old_peters_russian_tales_0812_librivox/old_peters_russian_tales_06_ransome_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:25:48]]></itunes:duration>
+  <pubDate>Sun, 07 Dec 2008 00:06:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/old_peters_russian_tales_0812_librivox/old_peters_russian_tales_06_ransome_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Spring in the Forest]]></title>
+    <itunes:episode><![CDATA[7]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/old-peters-russian-tales-by-arthur-ransome/]]></link>
+            <enclosure url="https://www.archive.org/download/old_peters_russian_tales_0812_librivox/old_peters_russian_tales_07_ransome_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:03:23]]></itunes:duration>
+  <pubDate>Sun, 07 Dec 2008 00:07:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/old_peters_russian_tales_0812_librivox/old_peters_russian_tales_07_ransome_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Little Daughter of the Snow]]></title>
+    <itunes:episode><![CDATA[8]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/old-peters-russian-tales-by-arthur-ransome/]]></link>
+            <enclosure url="https://www.archive.org/download/old_peters_russian_tales_0812_librivox/old_peters_russian_tales_08_ransome_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:22:35]]></itunes:duration>
+  <pubDate>Sun, 07 Dec 2008 00:08:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/old_peters_russian_tales_0812_librivox/old_peters_russian_tales_08_ransome_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Prince Ivan, The Witch Baby and The Little Sister of the Sun]]></title>
+    <itunes:episode><![CDATA[9]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/old-peters-russian-tales-by-arthur-ransome/]]></link>
+            <enclosure url="https://www.archive.org/download/old_peters_russian_tales_0812_librivox/old_peters_russian_tales_09_ransome_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:24:48]]></itunes:duration>
+  <pubDate>Sun, 07 Dec 2008 00:09:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/old_peters_russian_tales_0812_librivox/old_peters_russian_tales_09_ransome_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Stolen Turnips, The Magic Tablecloth, The Sneezing Coat and The Wooden Whistle]]></title>
+    <itunes:episode><![CDATA[10]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/old-peters-russian-tales-by-arthur-ransome/]]></link>
+            <enclosure url="https://www.archive.org/download/old_peters_russian_tales_0812_librivox/old_peters_russian_tales_10_ransome_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:34:49]]></itunes:duration>
+  <pubDate>Sun, 07 Dec 2008 00:10:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/old_peters_russian_tales_0812_librivox/old_peters_russian_tales_10_ransome_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Little Master Misery]]></title>
+    <itunes:episode><![CDATA[11]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/old-peters-russian-tales-by-arthur-ransome/]]></link>
+            <enclosure url="https://www.archive.org/download/old_peters_russian_tales_0812_librivox/old_peters_russian_tales_11_ransome_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:26:24]]></itunes:duration>
+  <pubDate>Sun, 07 Dec 2008 00:11:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/old_peters_russian_tales_0812_librivox/old_peters_russian_tales_11_ransome_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[A Chapter of Fish]]></title>
+    <itunes:episode><![CDATA[12]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/old-peters-russian-tales-by-arthur-ransome/]]></link>
+            <enclosure url="https://www.archive.org/download/old_peters_russian_tales_0812_librivox/old_peters_russian_tales_12_ransome_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:09:29]]></itunes:duration>
+  <pubDate>Sun, 07 Dec 2008 00:12:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/old_peters_russian_tales_0812_librivox/old_peters_russian_tales_12_ransome_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Golden Fish]]></title>
+    <itunes:episode><![CDATA[13]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/old-peters-russian-tales-by-arthur-ransome/]]></link>
+            <enclosure url="https://www.archive.org/download/old_peters_russian_tales_0812_librivox/old_peters_russian_tales_13_ransome_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:24:13]]></itunes:duration>
+  <pubDate>Sun, 07 Dec 2008 00:13:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/old_peters_russian_tales_0812_librivox/old_peters_russian_tales_13_ransome_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Who Lived in the Skull]]></title>
+    <itunes:episode><![CDATA[14]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/old-peters-russian-tales-by-arthur-ransome/]]></link>
+            <enclosure url="https://www.archive.org/download/old_peters_russian_tales_0812_librivox/old_peters_russian_tales_14_ransome_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:03:18]]></itunes:duration>
+  <pubDate>Sun, 07 Dec 2008 00:14:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/old_peters_russian_tales_0812_librivox/old_peters_russian_tales_14_ransome_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Alenoushka and her Brother]]></title>
+    <itunes:episode><![CDATA[15]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/old-peters-russian-tales-by-arthur-ransome/]]></link>
+            <enclosure url="https://www.archive.org/download/old_peters_russian_tales_0812_librivox/old_peters_russian_tales_15_ransome_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:17:08]]></itunes:duration>
+  <pubDate>Sun, 07 Dec 2008 00:15:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/old_peters_russian_tales_0812_librivox/old_peters_russian_tales_15_ransome_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Fire-Bird, The Horse of Power and The Princess Vasilissa]]></title>
+    <itunes:episode><![CDATA[16]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/old-peters-russian-tales-by-arthur-ransome/]]></link>
+            <enclosure url="https://www.archive.org/download/old_peters_russian_tales_0812_librivox/old_peters_russian_tales_16_ransome_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:27:33]]></itunes:duration>
+  <pubDate>Sun, 07 Dec 2008 00:16:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/old_peters_russian_tales_0812_librivox/old_peters_russian_tales_16_ransome_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Hunter and his Wife]]></title>
+    <itunes:episode><![CDATA[17]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/old-peters-russian-tales-by-arthur-ransome/]]></link>
+            <enclosure url="https://www.archive.org/download/old_peters_russian_tales_0812_librivox/old_peters_russian_tales_17_ransome_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:12:05]]></itunes:duration>
+  <pubDate>Sun, 07 Dec 2008 00:17:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/old_peters_russian_tales_0812_librivox/old_peters_russian_tales_17_ransome_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Three Men of Power - Evening, Midnight and Sunrise]]></title>
+    <itunes:episode><![CDATA[18]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/old-peters-russian-tales-by-arthur-ransome/]]></link>
+            <enclosure url="https://www.archive.org/download/old_peters_russian_tales_0812_librivox/old_peters_russian_tales_18_ransome_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:30:57]]></itunes:duration>
+  <pubDate>Sun, 07 Dec 2008 00:18:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/old_peters_russian_tales_0812_librivox/old_peters_russian_tales_18_ransome_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Salt]]></title>
+    <itunes:episode><![CDATA[19]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/old-peters-russian-tales-by-arthur-ransome/]]></link>
+            <enclosure url="https://www.archive.org/download/old_peters_russian_tales_0812_librivox/old_peters_russian_tales_19_ransome_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:32:56]]></itunes:duration>
+  <pubDate>Sun, 07 Dec 2008 00:19:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/old_peters_russian_tales_0812_librivox/old_peters_russian_tales_19_ransome_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Christening in the Village]]></title>
+    <itunes:episode><![CDATA[20]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/old-peters-russian-tales-by-arthur-ransome/]]></link>
+            <enclosure url="https://www.archive.org/download/old_peters_russian_tales_0812_librivox/old_peters_russian_tales_20_ransome_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:25:41]]></itunes:duration>
+  <pubDate>Sun, 07 Dec 2008 00:20:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/old_peters_russian_tales_0812_librivox/old_peters_russian_tales_20_ransome_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <!-- end file loop -->
+</channel>
+</rss>

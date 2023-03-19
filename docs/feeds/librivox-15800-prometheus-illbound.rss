@@ -1,0 +1,73 @@
+<?xml version="1.0" ?><rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+  <title><![CDATA[Prometheus Illbound by André Gide (1869 - 1951)]]></title>
+  <link><![CDATA[https://librivox.org/prometheus-illbound-by-andre-gide/]]></link>
+  <atom:link rel="self" href="https://librivox.org/rss/15800" />
+  <description><![CDATA[There is a witty and absurdist character to this contemporary setting of the plight of Prometheus, in which Zeus appears as a tremendously wealthy banker, meting out gratuitous fortune. Prometheus' troubled relationship with his liver-devouring eagle provides a means of insight for those he encounters. Rather than a myth the story has the nature of a fable. ( Peter Tucker)]]></description>
+  <!--<genre>project element=Genre</genre>-->
+  <!--<language>project element=lang.code</language>-->
+  <itunes:type>serial</itunes:type>
+  <itunes:author>LibriVox</itunes:author>
+  <itunes:summary><![CDATA[There is a witty and absurdist character to this contemporary setting of the plight of Prometheus, in which Zeus appears as a tremendously wealthy banker, meting out gratuitous fortune. Prometheus' troubled relationship with his liver-devouring eagle provides a means of insight for those he encounters. Rather than a myth the story has the nature of a fable. ( Peter Tucker)]]></itunes:summary>
+  <itunes:owner>
+    <itunes:name>LibriVox</itunes:name>
+    <itunes:email>info@librivox.org</itunes:email>
+  </itunes:owner>
+  <itunes:category text="Arts">
+    <itunes:category text="Literature" />
+  </itunes:category>
+  <image><url>https://archive.org/download/prometheus_illbound_2011_librivox/prometheusillbound_2011.jpg</url></image>
+  <itunes:image href="https://archive.org/download/prometheus_illbound_2011_librivox/prometheusillbound_2011.jpg"/>
+  <itunes:explicit>no</itunes:explicit>
+  <!-- file loop -->
+    <item>
+    <title><![CDATA[Preface by the translator]]></title>
+    <itunes:episode><![CDATA[0]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/prometheus-illbound-by-andre-gide/]]></link>
+            <enclosure url="https://www.archive.org/download/prometheus_illbound_2011_librivox/prometheusillbound_00_gide_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Wed, 11 Nov 2020 00:00:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/prometheus_illbound_2011_librivox/prometheusillbound_00_gide_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[A Chronicle of Private Morality]]></title>
+    <itunes:episode><![CDATA[1]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/prometheus-illbound-by-andre-gide/]]></link>
+            <enclosure url="https://www.archive.org/download/prometheus_illbound_2011_librivox/prometheusillbound_01_gide_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Wed, 11 Nov 2020 00:01:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/prometheus_illbound_2011_librivox/prometheusillbound_01_gide_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Imprisonment of Prometheus]]></title>
+    <itunes:episode><![CDATA[2]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/prometheus-illbound-by-andre-gide/]]></link>
+            <enclosure url="https://www.archive.org/download/prometheus_illbound_2011_librivox/prometheusillbound_02_gide_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Wed, 11 Nov 2020 00:02:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/prometheus_illbound_2011_librivox/prometheusillbound_02_gide_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Illness of Damocles]]></title>
+    <itunes:episode><![CDATA[3]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/prometheus-illbound-by-andre-gide/]]></link>
+            <enclosure url="https://www.archive.org/download/prometheus_illbound_2011_librivox/prometheusillbound_03_gide_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Wed, 11 Nov 2020 00:03:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/prometheus_illbound_2011_librivox/prometheusillbound_03_gide_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <!-- end file loop -->
+</channel>
+</rss>

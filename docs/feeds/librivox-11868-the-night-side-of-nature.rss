@@ -1,0 +1,361 @@
+<?xml version="1.0" ?><rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+  <title><![CDATA[Night-Side of Nature; Or, Ghosts and Ghost-Seers, The by Catherine Crowe (1803 - 1876)]]></title>
+  <link><![CDATA[https://librivox.org/the-night-side-of-nature-or-ghosts-and-ghost-seers-by-catherine-crowe/]]></link>
+  <atom:link rel="self" href="https://librivox.org/rss/11868" />
+  <description><![CDATA[The stories in Volume 1 centre on dreams, psychic presentiments, traces, wraiths, doppelgängers, apparitions, and imaginings of the after-life. Crowe's vivid tales, written with great energy and imagination, are classic examples of nineteenth-century spiritualist writing and strongly influenced other authors as well as providing inspiration for later adherents of ghost-seeing and psychic culture. - Summary by Cambridge University Press]]></description>
+  <!--<genre>project element=Genre</genre>-->
+  <!--<language>project element=lang.code</language>-->
+  <itunes:type>serial</itunes:type>
+  <itunes:author>LibriVox</itunes:author>
+  <itunes:summary><![CDATA[The stories in Volume 1 centre on dreams, psychic presentiments, traces, wraiths, doppelgängers, apparitions, and imaginings of the after-life. Crowe's vivid tales, written with great energy and imagination, are classic examples of nineteenth-century spiritualist writing and strongly influenced other authors as well as providing inspiration for later adherents of ghost-seeing and psychic culture. - Summary by Cambridge University Press]]></itunes:summary>
+  <itunes:owner>
+    <itunes:name>LibriVox</itunes:name>
+    <itunes:email>info@librivox.org</itunes:email>
+  </itunes:owner>
+  <itunes:category text="Arts">
+    <itunes:category text="Literature" />
+  </itunes:category>
+  <image><url>https://archive.org/download/night-side_1806_librivox/night_side_nature_1806.jpg</url></image>
+  <itunes:image href="https://archive.org/download/night-side_1806_librivox/night_side_nature_1806.jpg"/>
+  <itunes:explicit>no</itunes:explicit>
+  <!-- file loop -->
+    <item>
+    <title><![CDATA[Preface]]></title>
+    <itunes:episode><![CDATA[0]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-night-side-of-nature-or-ghosts-and-ghost-seers-by-catherine-crowe/]]></link>
+            <enclosure url="https://www.archive.org/download/night-side_1806_librivox/nightside_00_crowe_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 22 Jun 2018 00:00:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/night-side_1806_librivox/nightside_00_crowe_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Chapter 1 - Introduction]]></title>
+    <itunes:episode><![CDATA[1]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-night-side-of-nature-or-ghosts-and-ghost-seers-by-catherine-crowe/]]></link>
+            <enclosure url="https://www.archive.org/download/night-side_1806_librivox/nightside_01_crowe_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 22 Jun 2018 00:01:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/night-side_1806_librivox/nightside_01_crowe_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Chapter 2 - The Dweller in the Temple]]></title>
+    <itunes:episode><![CDATA[2]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-night-side-of-nature-or-ghosts-and-ghost-seers-by-catherine-crowe/]]></link>
+            <enclosure url="https://www.archive.org/download/night-side_1806_librivox/nightside_02_crowe_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 22 Jun 2018 00:02:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/night-side_1806_librivox/nightside_02_crowe_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Chapter 3 - Waking and Sleeping; and How The Dweller in the Temple Sometimes Looks Abroad]]></title>
+    <itunes:episode><![CDATA[3]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-night-side-of-nature-or-ghosts-and-ghost-seers-by-catherine-crowe/]]></link>
+            <enclosure url="https://www.archive.org/download/night-side_1806_librivox/nightside_03_crowe_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 22 Jun 2018 00:03:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/night-side_1806_librivox/nightside_03_crowe_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Chapter 4 - Allegorical Dreams, Presentiment, Etc.]]></title>
+    <itunes:episode><![CDATA[4]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-night-side-of-nature-or-ghosts-and-ghost-seers-by-catherine-crowe/]]></link>
+            <enclosure url="https://www.archive.org/download/night-side_1806_librivox/nightside_04_crowe_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 22 Jun 2018 00:04:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/night-side_1806_librivox/nightside_04_crowe_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Chapter 5 - Warnings (Part 1)]]></title>
+    <itunes:episode><![CDATA[5]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-night-side-of-nature-or-ghosts-and-ghost-seers-by-catherine-crowe/]]></link>
+            <enclosure url="https://www.archive.org/download/night-side_1806_librivox/nightside_05_crowe_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 22 Jun 2018 00:05:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/night-side_1806_librivox/nightside_05_crowe_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Chapter 5 - Warnings (Part 2)]]></title>
+    <itunes:episode><![CDATA[6]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-night-side-of-nature-or-ghosts-and-ghost-seers-by-catherine-crowe/]]></link>
+            <enclosure url="https://www.archive.org/download/night-side_1806_librivox/nightside_06_crowe_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 22 Jun 2018 00:06:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/night-side_1806_librivox/nightside_06_crowe_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Chapter 6 - Double-Dreaming and Trance (Part 1)]]></title>
+    <itunes:episode><![CDATA[7]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-night-side-of-nature-or-ghosts-and-ghost-seers-by-catherine-crowe/]]></link>
+            <enclosure url="https://www.archive.org/download/night-side_1806_librivox/nightside_07_crowe_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 22 Jun 2018 00:07:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/night-side_1806_librivox/nightside_07_crowe_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Chapter 6 - Double-Dreaming and Trance (Part 2)]]></title>
+    <itunes:episode><![CDATA[8]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-night-side-of-nature-or-ghosts-and-ghost-seers-by-catherine-crowe/]]></link>
+            <enclosure url="https://www.archive.org/download/night-side_1806_librivox/nightside_08_crowe_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 22 Jun 2018 00:08:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/night-side_1806_librivox/nightside_08_crowe_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Chapter 7 - Wraiths]]></title>
+    <itunes:episode><![CDATA[9]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-night-side-of-nature-or-ghosts-and-ghost-seers-by-catherine-crowe/]]></link>
+            <enclosure url="https://www.archive.org/download/night-side_1806_librivox/nightside_09_crowe_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 22 Jun 2018 00:09:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/night-side_1806_librivox/nightside_09_crowe_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Chapter 8 - Doppelgangers, or Doubles]]></title>
+    <itunes:episode><![CDATA[10]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-night-side-of-nature-or-ghosts-and-ghost-seers-by-catherine-crowe/]]></link>
+            <enclosure url="https://www.archive.org/download/night-side_1806_librivox/nightside_10_crowe_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 22 Jun 2018 00:10:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/night-side_1806_librivox/nightside_10_crowe_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Chapter 9 - Apparitions (Part 1)]]></title>
+    <itunes:episode><![CDATA[11]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-night-side-of-nature-or-ghosts-and-ghost-seers-by-catherine-crowe/]]></link>
+            <enclosure url="https://www.archive.org/download/night-side_1806_librivox/nightside_11_crowe_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 22 Jun 2018 00:11:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/night-side_1806_librivox/nightside_11_crowe_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Chapter 9 - Apparitions (Part 2)]]></title>
+    <itunes:episode><![CDATA[12]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-night-side-of-nature-or-ghosts-and-ghost-seers-by-catherine-crowe/]]></link>
+            <enclosure url="https://www.archive.org/download/night-side_1806_librivox/nightside_12_crowe_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 22 Jun 2018 00:12:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/night-side_1806_librivox/nightside_12_crowe_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Chapter 10 - The Future that Awaits Us (Part 1)]]></title>
+    <itunes:episode><![CDATA[13]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-night-side-of-nature-or-ghosts-and-ghost-seers-by-catherine-crowe/]]></link>
+            <enclosure url="https://www.archive.org/download/night-side_1806_librivox/nightside_13_crowe_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 22 Jun 2018 00:13:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/night-side_1806_librivox/nightside_13_crowe_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Chapter 10 - The Future that Awaits Us (Part 2)]]></title>
+    <itunes:episode><![CDATA[14]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-night-side-of-nature-or-ghosts-and-ghost-seers-by-catherine-crowe/]]></link>
+            <enclosure url="https://www.archive.org/download/night-side_1806_librivox/nightside_14_crowe_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 22 Jun 2018 00:14:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/night-side_1806_librivox/nightside_14_crowe_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Chapter 11 - The Power of Will]]></title>
+    <itunes:episode><![CDATA[15]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-night-side-of-nature-or-ghosts-and-ghost-seers-by-catherine-crowe/]]></link>
+            <enclosure url="https://www.archive.org/download/night-side_1806_librivox/nightside_15_crowe_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 22 Jun 2018 00:15:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/night-side_1806_librivox/nightside_15_crowe_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Chapter 12 - Troubled Spirits]]></title>
+    <itunes:episode><![CDATA[16]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-night-side-of-nature-or-ghosts-and-ghost-seers-by-catherine-crowe/]]></link>
+            <enclosure url="https://www.archive.org/download/night-side_1806_librivox/nightside_16_crowe_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 22 Jun 2018 00:16:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/night-side_1806_librivox/nightside_16_crowe_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Chapter 13 - Haunted Houses (Part 1)]]></title>
+    <itunes:episode><![CDATA[17]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-night-side-of-nature-or-ghosts-and-ghost-seers-by-catherine-crowe/]]></link>
+            <enclosure url="https://www.archive.org/download/night-side_1806_librivox/nightside_17_crowe_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 22 Jun 2018 00:17:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/night-side_1806_librivox/nightside_17_crowe_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Chapter 13 - Haunted Houses (Part 2)]]></title>
+    <itunes:episode><![CDATA[18]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-night-side-of-nature-or-ghosts-and-ghost-seers-by-catherine-crowe/]]></link>
+            <enclosure url="https://www.archive.org/download/night-side_1806_librivox/nightside_18_crowe_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 22 Jun 2018 00:18:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/night-side_1806_librivox/nightside_18_crowe_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Chapter 13 - Haunted Houses (Part 3)]]></title>
+    <itunes:episode><![CDATA[19]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-night-side-of-nature-or-ghosts-and-ghost-seers-by-catherine-crowe/]]></link>
+            <enclosure url="https://www.archive.org/download/night-side_1806_librivox/nightside_19_crowe_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 22 Jun 2018 00:19:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/night-side_1806_librivox/nightside_19_crowe_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Chapter 14 - Spectral Lights, and Apparitions Attached to Certain Families (Part 1)]]></title>
+    <itunes:episode><![CDATA[20]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-night-side-of-nature-or-ghosts-and-ghost-seers-by-catherine-crowe/]]></link>
+            <enclosure url="https://www.archive.org/download/night-side_1806_librivox/nightside_20_crowe_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 22 Jun 2018 00:20:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/night-side_1806_librivox/nightside_20_crowe_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Chapter 14 - Spectral Lights, and Apparitions Attached to Certain Families (Part 2)]]></title>
+    <itunes:episode><![CDATA[21]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-night-side-of-nature-or-ghosts-and-ghost-seers-by-catherine-crowe/]]></link>
+            <enclosure url="https://www.archive.org/download/night-side_1806_librivox/nightside_21_crowe_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 22 Jun 2018 00:21:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/night-side_1806_librivox/nightside_21_crowe_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Chapter 15 - Apparitions Seeking the Prayers of the Living (Part 1)]]></title>
+    <itunes:episode><![CDATA[22]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-night-side-of-nature-or-ghosts-and-ghost-seers-by-catherine-crowe/]]></link>
+            <enclosure url="https://www.archive.org/download/night-side_1806_librivox/nightside_22_crowe_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 22 Jun 2018 00:22:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/night-side_1806_librivox/nightside_22_crowe_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Chapter 15 - Apparitions Seeking the Prayers of the Living (Part 2)]]></title>
+    <itunes:episode><![CDATA[23]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-night-side-of-nature-or-ghosts-and-ghost-seers-by-catherine-crowe/]]></link>
+            <enclosure url="https://www.archive.org/download/night-side_1806_librivox/nightside_23_crowe_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 22 Jun 2018 00:23:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/night-side_1806_librivox/nightside_23_crowe_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Chapter 16 - The Poltergeist of the Germans, and Possession (Part 1)]]></title>
+    <itunes:episode><![CDATA[24]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-night-side-of-nature-or-ghosts-and-ghost-seers-by-catherine-crowe/]]></link>
+            <enclosure url="https://www.archive.org/download/night-side_1806_librivox/nightside_24_crowe_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 22 Jun 2018 00:24:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/night-side_1806_librivox/nightside_24_crowe_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Chapter 16 - The Poltergeist of the Germans, and Possession (Part 2)]]></title>
+    <itunes:episode><![CDATA[25]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-night-side-of-nature-or-ghosts-and-ghost-seers-by-catherine-crowe/]]></link>
+            <enclosure url="https://www.archive.org/download/night-side_1806_librivox/nightside_25_crowe_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 22 Jun 2018 00:25:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/night-side_1806_librivox/nightside_25_crowe_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Chapter 17 - Miscellaneous Phenomena]]></title>
+    <itunes:episode><![CDATA[26]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-night-side-of-nature-or-ghosts-and-ghost-seers-by-catherine-crowe/]]></link>
+            <enclosure url="https://www.archive.org/download/night-side_1806_librivox/nightside_26_crowe_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 22 Jun 2018 00:26:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/night-side_1806_librivox/nightside_26_crowe_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Chapter 18 - Conclusion]]></title>
+    <itunes:episode><![CDATA[27]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-night-side-of-nature-or-ghosts-and-ghost-seers-by-catherine-crowe/]]></link>
+            <enclosure url="https://www.archive.org/download/night-side_1806_librivox/nightside_27_crowe_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 22 Jun 2018 00:27:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/night-side_1806_librivox/nightside_27_crowe_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <!-- end file loop -->
+</channel>
+</rss>

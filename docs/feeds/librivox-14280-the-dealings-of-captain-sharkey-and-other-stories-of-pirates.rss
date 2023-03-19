@@ -1,0 +1,169 @@
+<?xml version="1.0" ?><rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+  <title><![CDATA[Dealings of Captain Sharkey and Other Stories of Pirates, The by Sir Arthur Conan Doyle (1859 - 1930)]]></title>
+  <link><![CDATA[https://librivox.org/the-dealings-of-captain-sharkey-and-other-stories-of-pirates-by-sir-arthur-conan-doyle/]]></link>
+  <atom:link rel="self" href="https://librivox.org/rss/14280" />
+  <description><![CDATA[Notorious pirates who are the scourge of the seven seas, and on land; ghost stories which scare voyagers in the jungles and the ice caps; two ships located in a fatal fight volleying broadsides as if their life depends upon it (which it does); and mysteries on land and the ocean… Sir Arthur Conan Doyle takes you on a journey with 12 tales as unique and mysterious from one another as were ever collected about those pirates we have come to love…and fear. With enough imagination, cunning and murder to entertain everyone from a salty dog to Ahab’s wife.  (Summary by Joseph DeNoia)]]></description>
+  <!--<genre>project element=Genre</genre>-->
+  <!--<language>project element=lang.code</language>-->
+  <itunes:type>serial</itunes:type>
+  <itunes:author>LibriVox</itunes:author>
+  <itunes:summary><![CDATA[Notorious pirates who are the scourge of the seven seas, and on land; ghost stories which scare voyagers in the jungles and the ice caps; two ships located in a fatal fight volleying broadsides as if their life depends upon it (which it does); and mysteries on land and the ocean… Sir Arthur Conan Doyle takes you on a journey with 12 tales as unique and mysterious from one another as were ever collected about those pirates we have come to love…and fear. With enough imagination, cunning and murder to entertain everyone from a salty dog to Ahab’s wife.  (Summary by Joseph DeNoia)]]></itunes:summary>
+  <itunes:owner>
+    <itunes:name>LibriVox</itunes:name>
+    <itunes:email>info@librivox.org</itunes:email>
+  </itunes:owner>
+  <itunes:category text="Arts">
+    <itunes:category text="Literature" />
+  </itunes:category>
+  <image><url>https://archive.org/download/captainsharkey_1908_librivox/dealings_captain_sharkey_1909.jpg</url></image>
+  <itunes:image href="https://archive.org/download/captainsharkey_1908_librivox/dealings_captain_sharkey_1909.jpg"/>
+  <itunes:explicit>no</itunes:explicit>
+  <!-- file loop -->
+    <item>
+    <title><![CDATA[CAPTAIN SHARKEY: HOW THE GOVERNOR OF SAINT KITT'S CAME HOME]]></title>
+    <itunes:episode><![CDATA[1]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-dealings-of-captain-sharkey-and-other-stories-of-pirates-by-sir-arthur-conan-doyle/]]></link>
+            <enclosure url="https://www.archive.org/download/captainsharkey_1908_librivox/captainsharkey_01_doyle_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Tue, 20 Aug 2019 00:00:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/captainsharkey_1908_librivox/captainsharkey_01_doyle_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[THE DEALINGS OF CAPTAIN SHARKEY WITH STEPHEN CRADDOCK]]></title>
+    <itunes:episode><![CDATA[2]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-dealings-of-captain-sharkey-and-other-stories-of-pirates-by-sir-arthur-conan-doyle/]]></link>
+            <enclosure url="https://www.archive.org/download/captainsharkey_1908_librivox/captainsharkey_02_doyle_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Tue, 20 Aug 2019 00:01:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/captainsharkey_1908_librivox/captainsharkey_02_doyle_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[THE BLIGHTING OF SHARKEY]]></title>
+    <itunes:episode><![CDATA[3]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-dealings-of-captain-sharkey-and-other-stories-of-pirates-by-sir-arthur-conan-doyle/]]></link>
+            <enclosure url="https://www.archive.org/download/captainsharkey_1908_librivox/captainsharkey_03_doyle_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Tue, 20 Aug 2019 00:02:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/captainsharkey_1908_librivox/captainsharkey_03_doyle_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[HOW COPLEY BANKS SLEW CAPTAIN SHARKEY]]></title>
+    <itunes:episode><![CDATA[4]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-dealings-of-captain-sharkey-and-other-stories-of-pirates-by-sir-arthur-conan-doyle/]]></link>
+            <enclosure url="https://www.archive.org/download/captainsharkey_1908_librivox/captainsharkey_04_doyle_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Tue, 20 Aug 2019 00:03:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/captainsharkey_1908_librivox/captainsharkey_04_doyle_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[THE "SLAPPING SAL"]]></title>
+    <itunes:episode><![CDATA[5]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-dealings-of-captain-sharkey-and-other-stories-of-pirates-by-sir-arthur-conan-doyle/]]></link>
+            <enclosure url="https://www.archive.org/download/captainsharkey_1908_librivox/captainsharkey_05_doyle_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Tue, 20 Aug 2019 00:04:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/captainsharkey_1908_librivox/captainsharkey_05_doyle_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[A PIRATE OF THE LAND ONE CROWDED HOUR]]></title>
+    <itunes:episode><![CDATA[6]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-dealings-of-captain-sharkey-and-other-stories-of-pirates-by-sir-arthur-conan-doyle/]]></link>
+            <enclosure url="https://www.archive.org/download/captainsharkey_1908_librivox/captainsharkey_06_doyle_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Tue, 20 Aug 2019 00:05:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/captainsharkey_1908_librivox/captainsharkey_06_doyle_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[THE STRIPED CHEST]]></title>
+    <itunes:episode><![CDATA[7]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-dealings-of-captain-sharkey-and-other-stories-of-pirates-by-sir-arthur-conan-doyle/]]></link>
+            <enclosure url="https://www.archive.org/download/captainsharkey_1908_librivox/captainsharkey_07_doyle_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Tue, 20 Aug 2019 00:06:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/captainsharkey_1908_librivox/captainsharkey_07_doyle_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[THE CAPTAIN OF THE "POLESTAR"]]></title>
+    <itunes:episode><![CDATA[8]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-dealings-of-captain-sharkey-and-other-stories-of-pirates-by-sir-arthur-conan-doyle/]]></link>
+            <enclosure url="https://www.archive.org/download/captainsharkey_1908_librivox/captainsharkey_08_doyle_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Tue, 20 Aug 2019 00:07:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/captainsharkey_1908_librivox/captainsharkey_08_doyle_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[THE FIEND OF THE COOPERAGE]]></title>
+    <itunes:episode><![CDATA[9]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-dealings-of-captain-sharkey-and-other-stories-of-pirates-by-sir-arthur-conan-doyle/]]></link>
+            <enclosure url="https://www.archive.org/download/captainsharkey_1908_librivox/captainsharkey_09_doyle_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Tue, 20 Aug 2019 00:08:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/captainsharkey_1908_librivox/captainsharkey_09_doyle_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[JELLAND'S VOYAGE]]></title>
+    <itunes:episode><![CDATA[10]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-dealings-of-captain-sharkey-and-other-stories-of-pirates-by-sir-arthur-conan-doyle/]]></link>
+            <enclosure url="https://www.archive.org/download/captainsharkey_1908_librivox/captainsharkey_10_doyle_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Tue, 20 Aug 2019 00:09:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/captainsharkey_1908_librivox/captainsharkey_10_doyle_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[J. HABAKUK JEPHSON'S STATEMENT]]></title>
+    <itunes:episode><![CDATA[11]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-dealings-of-captain-sharkey-and-other-stories-of-pirates-by-sir-arthur-conan-doyle/]]></link>
+            <enclosure url="https://www.archive.org/download/captainsharkey_1908_librivox/captainsharkey_11_doyle_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Tue, 20 Aug 2019 00:10:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/captainsharkey_1908_librivox/captainsharkey_11_doyle_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[THAT LITTLE SQUARE BOX]]></title>
+    <itunes:episode><![CDATA[12]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-dealings-of-captain-sharkey-and-other-stories-of-pirates-by-sir-arthur-conan-doyle/]]></link>
+            <enclosure url="https://www.archive.org/download/captainsharkey_1908_librivox/captainsharkey_12_doyle_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Tue, 20 Aug 2019 00:11:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/captainsharkey_1908_librivox/captainsharkey_12_doyle_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <!-- end file loop -->
+</channel>
+</rss>

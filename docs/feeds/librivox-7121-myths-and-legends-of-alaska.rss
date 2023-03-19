@@ -1,0 +1,793 @@
+<?xml version="1.0" ?><rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+  <title><![CDATA[Myths and Legends of Alaska by Katharine Berry Judson (1866 - 1929)]]></title>
+  <link><![CDATA[https://librivox.org/myths-and-legends-of-alaska-by-katharine-berry-judson/]]></link>
+  <atom:link rel="self" href="https://librivox.org/rss/7121" />
+  <description><![CDATA[Editor Katharine Berry Judson collates and presents a narrative history of Alaskan Myths. Originally gathered and recorded by government ethnologists, she paints an overall picture of Alaskan history as told by its many tribes. From the Eskimo to the Tlingit, from the Tsetsaut to the Haida, the origin of the still-wild state begins with the great Bird (often called "Raven") and branches out, through its legends, in wonderful and amazing directions. (Summary by John N. Daily)]]></description>
+  <!--<genre>project element=Genre</genre>-->
+  <!--<language>project element=lang.code</language>-->
+  <itunes:type>serial</itunes:type>
+  <itunes:author>LibriVox</itunes:author>
+  <itunes:summary><![CDATA[Editor Katharine Berry Judson collates and presents a narrative history of Alaskan Myths. Originally gathered and recorded by government ethnologists, she paints an overall picture of Alaskan history as told by its many tribes. From the Eskimo to the Tlingit, from the Tsetsaut to the Haida, the origin of the still-wild state begins with the great Bird (often called "Raven") and branches out, through its legends, in wonderful and amazing directions. (Summary by John N. Daily)]]></itunes:summary>
+  <itunes:owner>
+    <itunes:name>LibriVox</itunes:name>
+    <itunes:email>info@librivox.org</itunes:email>
+  </itunes:owner>
+  <itunes:category text="Arts">
+    <itunes:category text="Literature" />
+  </itunes:category>
+  <image><url>https://archive.org/download/librivoxcCDCoverArt35/mythsalaska_1512.jpg</url></image>
+  <itunes:image href="https://archive.org/download/librivoxcCDCoverArt35/mythsalaska_1512.jpg"/>
+  <itunes:explicit>no</itunes:explicit>
+  <!-- file loop -->
+    <item>
+    <title><![CDATA[Preface]]></title>
+    <itunes:episode><![CDATA[0]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-of-alaska-by-katharine-berry-judson/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_and_legends_of_alaska_1512_librivox/mythsofalaska_00_judson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 07 Dec 2015 00:00:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_and_legends_of_alaska_1512_librivox/mythsofalaska_00_judson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Raven Myth (Eskimo)]]></title>
+    <itunes:episode><![CDATA[1]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-of-alaska-by-katharine-berry-judson/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_and_legends_of_alaska_1512_librivox/mythsofalaska_01_judson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 07 Dec 2015 00:01:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_and_legends_of_alaska_1512_librivox/mythsofalaska_01_judson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Flood (Tlingit)]]></title>
+    <itunes:episode><![CDATA[2]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-of-alaska-by-katharine-berry-judson/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_and_legends_of_alaska_1512_librivox/mythsofalaska_02_judson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 07 Dec 2015 00:02:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_and_legends_of_alaska_1512_librivox/mythsofalaska_02_judson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Origin of the Tides (Tsetsaut)]]></title>
+    <itunes:episode><![CDATA[3]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-of-alaska-by-katharine-berry-judson/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_and_legends_of_alaska_1512_librivox/mythsofalaska_03_judson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 07 Dec 2015 00:03:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_and_legends_of_alaska_1512_librivox/mythsofalaska_03_judson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[How the Rivers were Formed (Tlingit)]]></title>
+    <itunes:episode><![CDATA[4]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-of-alaska-by-katharine-berry-judson/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_and_legends_of_alaska_1512_librivox/mythsofalaska_04_judson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 07 Dec 2015 00:04:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_and_legends_of_alaska_1512_librivox/mythsofalaska_04_judson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Origin of Fire (Tlingit)]]></title>
+    <itunes:episode><![CDATA[5]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-of-alaska-by-katharine-berry-judson/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_and_legends_of_alaska_1512_librivox/mythsofalaska_05_judson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 07 Dec 2015 00:05:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_and_legends_of_alaska_1512_librivox/mythsofalaska_05_judson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Duration of Winter (Tlingit)]]></title>
+    <itunes:episode><![CDATA[6]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-of-alaska-by-katharine-berry-judson/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_and_legends_of_alaska_1512_librivox/mythsofalaska_06_judson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 07 Dec 2015 00:06:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_and_legends_of_alaska_1512_librivox/mythsofalaska_06_judson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Raven’s Feast (Tlingit)]]></title>
+    <itunes:episode><![CDATA[7]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-of-alaska-by-katharine-berry-judson/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_and_legends_of_alaska_1512_librivox/mythsofalaska_07_judson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 07 Dec 2015 00:07:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_and_legends_of_alaska_1512_librivox/mythsofalaska_07_judson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Creation of the Porcupine (Tlingit)]]></title>
+    <itunes:episode><![CDATA[8]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-of-alaska-by-katharine-berry-judson/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_and_legends_of_alaska_1512_librivox/mythsofalaska_08_judson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 07 Dec 2015 00:08:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_and_legends_of_alaska_1512_librivox/mythsofalaska_08_judson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[How Raven Taught the Chilkats (Tlingit)]]></title>
+    <itunes:episode><![CDATA[9]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-of-alaska-by-katharine-berry-judson/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_and_legends_of_alaska_1512_librivox/mythsofalaska_09_judson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 07 Dec 2015 00:09:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_and_legends_of_alaska_1512_librivox/mythsofalaska_09_judson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Raven’s Marriage (Eskimo)]]></title>
+    <itunes:episode><![CDATA[10]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-of-alaska-by-katharine-berry-judson/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_and_legends_of_alaska_1512_librivox/mythsofalaska_10_judson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 07 Dec 2015 00:10:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_and_legends_of_alaska_1512_librivox/mythsofalaska_10_judson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Raven and the Seals (Tsimshian)]]></title>
+    <itunes:episode><![CDATA[11]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-of-alaska-by-katharine-berry-judson/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_and_legends_of_alaska_1512_librivox/mythsofalaska_11_judson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 07 Dec 2015 00:11:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_and_legends_of_alaska_1512_librivox/mythsofalaska_11_judson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Raven and Pitch (Tsimshian)]]></title>
+    <itunes:episode><![CDATA[12]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-of-alaska-by-katharine-berry-judson/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_and_legends_of_alaska_1512_librivox/mythsofalaska_12_judson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 07 Dec 2015 00:12:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_and_legends_of_alaska_1512_librivox/mythsofalaska_12_judson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Raven’s Dancing Blanket (Tsimshian)]]></title>
+    <itunes:episode><![CDATA[13]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-of-alaska-by-katharine-berry-judson/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_and_legends_of_alaska_1512_librivox/mythsofalaska_13_judson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 07 Dec 2015 00:13:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_and_legends_of_alaska_1512_librivox/mythsofalaska_13_judson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Raven and the Gulls (Tsimshian)]]></title>
+    <itunes:episode><![CDATA[14]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-of-alaska-by-katharine-berry-judson/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_and_legends_of_alaska_1512_librivox/mythsofalaska_14_judson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 07 Dec 2015 00:14:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_and_legends_of_alaska_1512_librivox/mythsofalaska_14_judson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Land Otter (Tlingit)]]></title>
+    <itunes:episode><![CDATA[15]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-of-alaska-by-katharine-berry-judson/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_and_legends_of_alaska_1512_librivox/mythsofalaska_15_judson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 07 Dec 2015 00:15:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_and_legends_of_alaska_1512_librivox/mythsofalaska_15_judson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Raven and Coot (Athapascan)]]></title>
+    <itunes:episode><![CDATA[16]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-of-alaska-by-katharine-berry-judson/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_and_legends_of_alaska_1512_librivox/mythsofalaska_16_judson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 07 Dec 2015 00:16:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_and_legends_of_alaska_1512_librivox/mythsofalaska_16_judson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Raven and Marmot (Eskimo)]]></title>
+    <itunes:episode><![CDATA[17]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-of-alaska-by-katharine-berry-judson/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_and_legends_of_alaska_1512_librivox/mythsofalaska_17_judson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 07 Dec 2015 00:17:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_and_legends_of_alaska_1512_librivox/mythsofalaska_17_judson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Bringing of the Light by Raven (Eskimo)]]></title>
+    <itunes:episode><![CDATA[18]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-of-alaska-by-katharine-berry-judson/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_and_legends_of_alaska_1512_librivox/mythsofalaska_18_judson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 07 Dec 2015 00:18:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_and_legends_of_alaska_1512_librivox/mythsofalaska_18_judson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Daylight on the Nass River (Tlingit)]]></title>
+    <itunes:episode><![CDATA[19]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-of-alaska-by-katharine-berry-judson/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_and_legends_of_alaska_1512_librivox/mythsofalaska_19_judson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 07 Dec 2015 00:19:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_and_legends_of_alaska_1512_librivox/mythsofalaska_19_judson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Naming of the Birds (Tlingit)]]></title>
+    <itunes:episode><![CDATA[20]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-of-alaska-by-katharine-berry-judson/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_and_legends_of_alaska_1512_librivox/mythsofalaska_20_judson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 07 Dec 2015 00:20:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_and_legends_of_alaska_1512_librivox/mythsofalaska_20_judson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Origin of the Winds (Tlingit)]]></title>
+    <itunes:episode><![CDATA[21]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-of-alaska-by-katharine-berry-judson/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_and_legends_of_alaska_1512_librivox/mythsofalaska_21_judson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 07 Dec 2015 00:21:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_and_legends_of_alaska_1512_librivox/mythsofalaska_21_judson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Duration of Life (Tlingit)]]></title>
+    <itunes:episode><![CDATA[22]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-of-alaska-by-katharine-berry-judson/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_and_legends_of_alaska_1512_librivox/mythsofalaska_22_judson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 07 Dec 2015 00:22:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_and_legends_of_alaska_1512_librivox/mythsofalaska_22_judson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Ghost Town (Tlingit)]]></title>
+    <itunes:episode><![CDATA[23]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-of-alaska-by-katharine-berry-judson/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_and_legends_of_alaska_1512_librivox/mythsofalaska_23_judson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 07 Dec 2015 00:23:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_and_legends_of_alaska_1512_librivox/mythsofalaska_23_judson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[How Raven Stole the Lake (Haida)]]></title>
+    <itunes:episode><![CDATA[24]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-of-alaska-by-katharine-berry-judson/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_and_legends_of_alaska_1512_librivox/mythsofalaska_24_judson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 07 Dec 2015 00:24:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_and_legends_of_alaska_1512_librivox/mythsofalaska_24_judson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Killer Whale (Haida)]]></title>
+    <itunes:episode><![CDATA[25]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-of-alaska-by-katharine-berry-judson/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_and_legends_of_alaska_1512_librivox/mythsofalaska_25_judson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 07 Dec 2015 00:25:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_and_legends_of_alaska_1512_librivox/mythsofalaska_25_judson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Origin of the Chilkat Blanket (Tsimshian)]]></title>
+    <itunes:episode><![CDATA[26]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-of-alaska-by-katharine-berry-judson/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_and_legends_of_alaska_1512_librivox/mythsofalaska_26_judson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 07 Dec 2015 00:26:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_and_legends_of_alaska_1512_librivox/mythsofalaska_26_judson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Origin of Land and People (Eskimo)]]></title>
+    <itunes:episode><![CDATA[27]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-of-alaska-by-katharine-berry-judson/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_and_legends_of_alaska_1512_librivox/mythsofalaska_27_judson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 07 Dec 2015 00:27:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_and_legends_of_alaska_1512_librivox/mythsofalaska_27_judson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Creation of the World (Athapascan)]]></title>
+    <itunes:episode><![CDATA[28]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-of-alaska-by-katharine-berry-judson/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_and_legends_of_alaska_1512_librivox/mythsofalaska_28_judson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 07 Dec 2015 00:28:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_and_legends_of_alaska_1512_librivox/mythsofalaska_28_judson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Origin of Mankind (Eskimo)]]></title>
+    <itunes:episode><![CDATA[29]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-of-alaska-by-katharine-berry-judson/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_and_legends_of_alaska_1512_librivox/mythsofalaska_29_judson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 07 Dec 2015 00:29:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_and_legends_of_alaska_1512_librivox/mythsofalaska_29_judson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The First Woman (Eskimo)]]></title>
+    <itunes:episode><![CDATA[30]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-of-alaska-by-katharine-berry-judson/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_and_legends_of_alaska_1512_librivox/mythsofalaska_30_judson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 07 Dec 2015 00:30:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_and_legends_of_alaska_1512_librivox/mythsofalaska_30_judson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The First Tears (Eskimo)]]></title>
+    <itunes:episode><![CDATA[31]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-of-alaska-by-katharine-berry-judson/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_and_legends_of_alaska_1512_librivox/mythsofalaska_31_judson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 07 Dec 2015 00:31:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_and_legends_of_alaska_1512_librivox/mythsofalaska_31_judson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Origin of the Winds (Eskimo)]]></title>
+    <itunes:episode><![CDATA[32]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-of-alaska-by-katharine-berry-judson/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_and_legends_of_alaska_1512_librivox/mythsofalaska_32_judson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 07 Dec 2015 00:32:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_and_legends_of_alaska_1512_librivox/mythsofalaska_32_judson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Origin of the Wind (Athapascan)]]></title>
+    <itunes:episode><![CDATA[33]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-of-alaska-by-katharine-berry-judson/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_and_legends_of_alaska_1512_librivox/mythsofalaska_33_judson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 07 Dec 2015 00:33:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_and_legends_of_alaska_1512_librivox/mythsofalaska_33_judson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[North Wind (Tlingit)]]></title>
+    <itunes:episode><![CDATA[34]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-of-alaska-by-katharine-berry-judson/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_and_legends_of_alaska_1512_librivox/mythsofalaska_34_judson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 07 Dec 2015 00:34:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_and_legends_of_alaska_1512_librivox/mythsofalaska_34_judson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[East Wind and North Wind (Tlingit)]]></title>
+    <itunes:episode><![CDATA[35]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-of-alaska-by-katharine-berry-judson/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_and_legends_of_alaska_1512_librivox/mythsofalaska_35_judson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 07 Dec 2015 00:35:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_and_legends_of_alaska_1512_librivox/mythsofalaska_35_judson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Creation of the Killer Whale (Tlingit)]]></title>
+    <itunes:episode><![CDATA[36]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-of-alaska-by-katharine-berry-judson/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_and_legends_of_alaska_1512_librivox/mythsofalaska_36_judson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 07 Dec 2015 00:36:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_and_legends_of_alaska_1512_librivox/mythsofalaska_36_judson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Future Life (Tlingit)]]></title>
+    <itunes:episode><![CDATA[37]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-of-alaska-by-katharine-berry-judson/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_and_legends_of_alaska_1512_librivox/mythsofalaska_37_judson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 07 Dec 2015 00:37:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_and_legends_of_alaska_1512_librivox/mythsofalaska_37_judson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Land of the Dead (Eskimo)]]></title>
+    <itunes:episode><![CDATA[38]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-of-alaska-by-katharine-berry-judson/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_and_legends_of_alaska_1512_librivox/mythsofalaska_38_judson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 07 Dec 2015 00:38:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_and_legends_of_alaska_1512_librivox/mythsofalaska_38_judson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Ghost Land (Tlingit)]]></title>
+    <itunes:episode><![CDATA[39]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-of-alaska-by-katharine-berry-judson/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_and_legends_of_alaska_1512_librivox/mythsofalaska_39_judson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 07 Dec 2015 00:39:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_and_legends_of_alaska_1512_librivox/mythsofalaska_39_judson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Sky Country (Tlingit)]]></title>
+    <itunes:episode><![CDATA[40]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-of-alaska-by-katharine-berry-judson/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_and_legends_of_alaska_1512_librivox/mythsofalaska_40_judson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 07 Dec 2015 00:40:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_and_legends_of_alaska_1512_librivox/mythsofalaska_40_judson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Lost Light (Eskimo)]]></title>
+    <itunes:episode><![CDATA[41]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-of-alaska-by-katharine-berry-judson/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_and_legends_of_alaska_1512_librivox/mythsofalaska_41_judson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 07 Dec 2015 00:41:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_and_legends_of_alaska_1512_librivox/mythsofalaska_41_judson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Chief in the Moon (Eskimo)]]></title>
+    <itunes:episode><![CDATA[42]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-of-alaska-by-katharine-berry-judson/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_and_legends_of_alaska_1512_librivox/mythsofalaska_42_judson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 07 Dec 2015 00:42:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_and_legends_of_alaska_1512_librivox/mythsofalaska_42_judson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Boy in the Moon (Eskimo)]]></title>
+    <itunes:episode><![CDATA[43]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-of-alaska-by-katharine-berry-judson/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_and_legends_of_alaska_1512_librivox/mythsofalaska_43_judson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 07 Dec 2015 00:43:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_and_legends_of_alaska_1512_librivox/mythsofalaska_43_judson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Boy in the Moon (Athapascan)]]></title>
+    <itunes:episode><![CDATA[44]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-of-alaska-by-katharine-berry-judson/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_and_legends_of_alaska_1512_librivox/mythsofalaska_44_judson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 07 Dec 2015 00:44:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_and_legends_of_alaska_1512_librivox/mythsofalaska_44_judson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Meteor(?) (Tsetsaut)]]></title>
+    <itunes:episode><![CDATA[45]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-of-alaska-by-katharine-berry-judson/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_and_legends_of_alaska_1512_librivox/mythsofalaska_45_judson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 07 Dec 2015 00:45:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_and_legends_of_alaska_1512_librivox/mythsofalaska_45_judson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Sleep House (Tlingit)]]></title>
+    <itunes:episode><![CDATA[46]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-of-alaska-by-katharine-berry-judson/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_and_legends_of_alaska_1512_librivox/mythsofalaska_46_judson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 07 Dec 2015 00:46:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_and_legends_of_alaska_1512_librivox/mythsofalaska_46_judson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Cradle Song (Koyukun)]]></title>
+    <itunes:episode><![CDATA[47]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-of-alaska-by-katharine-berry-judson/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_and_legends_of_alaska_1512_librivox/mythsofalaska_47_judson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 07 Dec 2015 00:47:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_and_legends_of_alaska_1512_librivox/mythsofalaska_47_judson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Proverbs (Tsimshian)]]></title>
+    <itunes:episode><![CDATA[48]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-of-alaska-by-katharine-berry-judson/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_and_legends_of_alaska_1512_librivox/mythsofalaska_48_judson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 07 Dec 2015 00:48:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_and_legends_of_alaska_1512_librivox/mythsofalaska_48_judson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[How the Fox became Red (Athapascan)]]></title>
+    <itunes:episode><![CDATA[49]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-of-alaska-by-katharine-berry-judson/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_and_legends_of_alaska_1512_librivox/mythsofalaska_49_judson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 07 Dec 2015 00:49:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_and_legends_of_alaska_1512_librivox/mythsofalaska_49_judson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Beaver and Porcupine (Tsimshian)]]></title>
+    <itunes:episode><![CDATA[50]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-of-alaska-by-katharine-berry-judson/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_and_legends_of_alaska_1512_librivox/mythsofalaska_50_judson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 07 Dec 2015 00:50:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_and_legends_of_alaska_1512_librivox/mythsofalaska_50_judson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Mark of the Marten (Athapascan)]]></title>
+    <itunes:episode><![CDATA[51]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-of-alaska-by-katharine-berry-judson/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_and_legends_of_alaska_1512_librivox/mythsofalaska_51_judson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 07 Dec 2015 00:51:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_and_legends_of_alaska_1512_librivox/mythsofalaska_51_judson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Wolves and the Deer (Tsimshian)]]></title>
+    <itunes:episode><![CDATA[52]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-of-alaska-by-katharine-berry-judson/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_and_legends_of_alaska_1512_librivox/mythsofalaska_52_judson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 07 Dec 2015 00:52:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_and_legends_of_alaska_1512_librivox/mythsofalaska_52_judson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Camp Robber (Athapascan)]]></title>
+    <itunes:episode><![CDATA[53]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-of-alaska-by-katharine-berry-judson/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_and_legends_of_alaska_1512_librivox/mythsofalaska_53_judson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 07 Dec 2015 00:53:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_and_legends_of_alaska_1512_librivox/mythsofalaska_53_judson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Circling of Cranes (Eskimo)]]></title>
+    <itunes:episode><![CDATA[54]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-of-alaska-by-katharine-berry-judson/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_and_legends_of_alaska_1512_librivox/mythsofalaska_54_judson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 07 Dec 2015 00:54:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_and_legends_of_alaska_1512_librivox/mythsofalaska_54_judson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Last of the Thunderbirds (Eskimo)]]></title>
+    <itunes:episode><![CDATA[55]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-of-alaska-by-katharine-berry-judson/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_and_legends_of_alaska_1512_librivox/mythsofalaska_55_judson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 07 Dec 2015 00:55:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_and_legends_of_alaska_1512_librivox/mythsofalaska_55_judson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[How the Kiksadi Clan Came to Sitka (Tlingit)]]></title>
+    <itunes:episode><![CDATA[56]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-of-alaska-by-katharine-berry-judson/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_and_legends_of_alaska_1512_librivox/mythsofalaska_56_judson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 07 Dec 2015 00:56:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_and_legends_of_alaska_1512_librivox/mythsofalaska_56_judson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Origin of the Grizzly Bear Crest (Tlingit)]]></title>
+    <itunes:episode><![CDATA[57]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-of-alaska-by-katharine-berry-judson/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_and_legends_of_alaska_1512_librivox/mythsofalaska_57_judson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 07 Dec 2015 00:57:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_and_legends_of_alaska_1512_librivox/mythsofalaska_57_judson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Origin of the Frog Crest (Tlingit)]]></title>
+    <itunes:episode><![CDATA[58]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-of-alaska-by-katharine-berry-judson/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_and_legends_of_alaska_1512_librivox/mythsofalaska_58_judson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 07 Dec 2015 00:58:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_and_legends_of_alaska_1512_librivox/mythsofalaska_58_judson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Origin of the Beaver Crest (Tlingit)]]></title>
+    <itunes:episode><![CDATA[59]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-of-alaska-by-katharine-berry-judson/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_and_legends_of_alaska_1512_librivox/mythsofalaska_59_judson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 07 Dec 2015 00:59:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_and_legends_of_alaska_1512_librivox/mythsofalaska_59_judson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Origin of the Killer Whale Crest (Tlingit)]]></title>
+    <itunes:episode><![CDATA[60]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-of-alaska-by-katharine-berry-judson/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_and_legends_of_alaska_1512_librivox/mythsofalaska_60_judson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 07 Dec 2015 01:00:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_and_legends_of_alaska_1512_librivox/mythsofalaska_60_judson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Discontented Grass Plant (Eskimo)]]></title>
+    <itunes:episode><![CDATA[61]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-of-alaska-by-katharine-berry-judson/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_and_legends_of_alaska_1512_librivox/mythsofalaska_61_judson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 07 Dec 2015 01:01:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_and_legends_of_alaska_1512_librivox/mythsofalaska_61_judson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Wind People (Koryak)]]></title>
+    <itunes:episode><![CDATA[62]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-of-alaska-by-katharine-berry-judson/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_and_legends_of_alaska_1512_librivox/mythsofalaska_62_judson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 07 Dec 2015 01:02:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_and_legends_of_alaska_1512_librivox/mythsofalaska_62_judson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Tricks of the Fox (Koryak)]]></title>
+    <itunes:episode><![CDATA[63]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-of-alaska-by-katharine-berry-judson/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_and_legends_of_alaska_1512_librivox/mythsofalaska_63_judson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 07 Dec 2015 01:03:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_and_legends_of_alaska_1512_librivox/mythsofalaska_63_judson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <!-- end file loop -->
+</channel>
+</rss>

@@ -1,0 +1,733 @@
+<?xml version="1.0" ?><rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+  <title><![CDATA[Gargantua and Pantagruel, Book I by François Rabelais (1494 - 1553)]]></title>
+  <link><![CDATA[https://librivox.org/gargantua-and-pantagruel-by-francois-rabelais/]]></link>
+  <atom:link rel="self" href="https://librivox.org/rss/3399" />
+  <description><![CDATA[The Life of Gargantua and of Pantagruel (in French, La vie de Gargantua et de Pantagruel) is a connected series of five novels written in the 16th century by François Rabelais. It is the story of two giants, a father (Gargantua) and his son (Pantagruel) and their adventures, written in an amusing, extravagant, satirical vein. There is much crudity and scatological humor as well as a large amount of violence. Long lists of vulgar insults fill several chapters.(Summary by Wikipedia)]]></description>
+  <!--<genre>project element=Genre</genre>-->
+  <!--<language>project element=lang.code</language>-->
+  <itunes:type>serial</itunes:type>
+  <itunes:author>LibriVox</itunes:author>
+  <itunes:summary><![CDATA[The Life of Gargantua and of Pantagruel (in French, La vie de Gargantua et de Pantagruel) is a connected series of five novels written in the 16th century by François Rabelais. It is the story of two giants, a father (Gargantua) and his son (Pantagruel) and their adventures, written in an amusing, extravagant, satirical vein. There is much crudity and scatological humor as well as a large amount of violence. Long lists of vulgar insults fill several chapters.(Summary by Wikipedia)]]></itunes:summary>
+  <itunes:owner>
+    <itunes:name>LibriVox</itunes:name>
+    <itunes:email>info@librivox.org</itunes:email>
+  </itunes:owner>
+  <itunes:category text="Arts">
+    <itunes:category text="Literature" />
+  </itunes:category>
+  <image><url>https://archive.org/download/LibrivoxCdCoverArt24/gargantua_pantagruel1_1212.jpg</url></image>
+  <itunes:image href="https://archive.org/download/LibrivoxCdCoverArt24/gargantua_pantagruel1_1212.jpg"/>
+  <itunes:explicit>no</itunes:explicit>
+  <!-- file loop -->
+    <item>
+    <title><![CDATA[Poems and Prologue]]></title>
+    <itunes:episode><![CDATA[0]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/gargantua-and-pantagruel-by-francois-rabelais/]]></link>
+            <enclosure url="https://www.archive.org/download/gargantuaandpantagruel_1007_librivox/gargantua_00_rabelais_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[26:57:00]]></itunes:duration>
+  <pubDate>Sat, 31 Jul 2010 00:00:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/gargantuaandpantagruel_1007_librivox/gargantua_00_rabelais_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Chapter 1.I.—Of the Genealogy and Antiquity of Gargantua]]></title>
+    <itunes:episode><![CDATA[1]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/gargantua-and-pantagruel-by-francois-rabelais/]]></link>
+            <enclosure url="https://www.archive.org/download/gargantuaandpantagruel_1007_librivox/gargantua_01_rabelais_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[08:14:00]]></itunes:duration>
+  <pubDate>Sat, 31 Jul 2010 00:01:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/gargantuaandpantagruel_1007_librivox/gargantua_01_rabelais_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Chapter 1.II.—-The Antidoted Fanfreluches: or, a Galimatia of extravagant Conceits found in an ancient Monument]]></title>
+    <itunes:episode><![CDATA[2]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/gargantua-and-pantagruel-by-francois-rabelais/]]></link>
+            <enclosure url="https://www.archive.org/download/gargantuaandpantagruel_1007_librivox/gargantua_02_rabelais_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[10:05:00]]></itunes:duration>
+  <pubDate>Sat, 31 Jul 2010 00:02:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/gargantuaandpantagruel_1007_librivox/gargantua_02_rabelais_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Chapter 1.III.—How Gargantua was carried eleven months in his mother's belly]]></title>
+    <itunes:episode><![CDATA[3]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/gargantua-and-pantagruel-by-francois-rabelais/]]></link>
+            <enclosure url="https://www.archive.org/download/gargantuaandpantagruel_1007_librivox/gargantua_03_rabelais_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[08:52:00]]></itunes:duration>
+  <pubDate>Sat, 31 Jul 2010 00:03:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/gargantuaandpantagruel_1007_librivox/gargantua_03_rabelais_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Chapter 1.IV.—-How Gargamelle, being great with Gargantua, did eat a huge deal of tripes]]></title>
+    <itunes:episode><![CDATA[4]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/gargantua-and-pantagruel-by-francois-rabelais/]]></link>
+            <enclosure url="https://www.archive.org/download/gargantuaandpantagruel_1007_librivox/gargantua_04_rabelais_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[04:11:00]]></itunes:duration>
+  <pubDate>Sat, 31 Jul 2010 00:04:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/gargantuaandpantagruel_1007_librivox/gargantua_04_rabelais_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Chapter 1.V.—The Discourse of the Drinkers]]></title>
+    <itunes:episode><![CDATA[5]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/gargantua-and-pantagruel-by-francois-rabelais/]]></link>
+            <enclosure url="https://www.archive.org/download/gargantuaandpantagruel_1007_librivox/gargantua_05_rabelais_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[11:23:00]]></itunes:duration>
+  <pubDate>Sat, 31 Jul 2010 00:05:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/gargantuaandpantagruel_1007_librivox/gargantua_05_rabelais_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Chapter 1.VI.—How Gargantua was born in a strange manner]]></title>
+    <itunes:episode><![CDATA[6]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/gargantua-and-pantagruel-by-francois-rabelais/]]></link>
+            <enclosure url="https://www.archive.org/download/gargantuaandpantagruel_1007_librivox/gargantua_06_rabelais_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[07:52:00]]></itunes:duration>
+  <pubDate>Sat, 31 Jul 2010 00:06:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/gargantuaandpantagruel_1007_librivox/gargantua_06_rabelais_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Chapter 1.VII.—After what manner Gargantua had his name given him, and how he tippled, bibbed, and curried the can]]></title>
+    <itunes:episode><![CDATA[7]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/gargantua-and-pantagruel-by-francois-rabelais/]]></link>
+            <enclosure url="https://www.archive.org/download/gargantuaandpantagruel_1007_librivox/gargantua_07_rabelais_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[03:35:00]]></itunes:duration>
+  <pubDate>Sat, 31 Jul 2010 00:07:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/gargantuaandpantagruel_1007_librivox/gargantua_07_rabelais_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Chapter 1.VIII.—How they apparelled Gargantua]]></title>
+    <itunes:episode><![CDATA[8]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/gargantua-and-pantagruel-by-francois-rabelais/]]></link>
+            <enclosure url="https://www.archive.org/download/gargantuaandpantagruel_1007_librivox/gargantua_08_rabelais_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[07:31:00]]></itunes:duration>
+  <pubDate>Sat, 31 Jul 2010 00:08:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/gargantuaandpantagruel_1007_librivox/gargantua_08_rabelais_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Chapter 1.IX.—The colours and liveries of Gargantua]]></title>
+    <itunes:episode><![CDATA[9]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/gargantua-and-pantagruel-by-francois-rabelais/]]></link>
+            <enclosure url="https://www.archive.org/download/gargantuaandpantagruel_1007_librivox/gargantua_09_rabelais_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[04:57:00]]></itunes:duration>
+  <pubDate>Sat, 31 Jul 2010 00:09:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/gargantuaandpantagruel_1007_librivox/gargantua_09_rabelais_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Chapter 1.X.—Of that which is signified by the colours white and blue]]></title>
+    <itunes:episode><![CDATA[10]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/gargantua-and-pantagruel-by-francois-rabelais/]]></link>
+            <enclosure url="https://www.archive.org/download/gargantuaandpantagruel_1007_librivox/gargantua_10_rabelais_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[09:01:00]]></itunes:duration>
+  <pubDate>Sat, 31 Jul 2010 00:10:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/gargantuaandpantagruel_1007_librivox/gargantua_10_rabelais_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Chapter 1.XI.—Of the youthful age of Gargantua]]></title>
+    <itunes:episode><![CDATA[11]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/gargantua-and-pantagruel-by-francois-rabelais/]]></link>
+            <enclosure url="https://www.archive.org/download/gargantuaandpantagruel_1007_librivox/gargantua_11_rabelais_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[06:05:00]]></itunes:duration>
+  <pubDate>Sat, 31 Jul 2010 00:11:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/gargantuaandpantagruel_1007_librivox/gargantua_11_rabelais_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Chapter 1.XII.—Of Gargantua's wooden horses]]></title>
+    <itunes:episode><![CDATA[12]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/gargantua-and-pantagruel-by-francois-rabelais/]]></link>
+            <enclosure url="https://www.archive.org/download/gargantuaandpantagruel_1007_librivox/gargantua_12_rabelais_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[05:36:00]]></itunes:duration>
+  <pubDate>Sat, 31 Jul 2010 00:12:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/gargantuaandpantagruel_1007_librivox/gargantua_12_rabelais_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Chapter 1.XIII.—How Gargantua's wonderful understanding became known to his father Grangousier, by the invention of a torchecul or wipebreech]]></title>
+    <itunes:episode><![CDATA[13]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/gargantua-and-pantagruel-by-francois-rabelais/]]></link>
+            <enclosure url="https://www.archive.org/download/gargantuaandpantagruel_1007_librivox/gargantua_13_rabelais_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[11:15:00]]></itunes:duration>
+  <pubDate>Sat, 31 Jul 2010 00:13:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/gargantuaandpantagruel_1007_librivox/gargantua_13_rabelais_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Chapter 1.XIV.—How Gargantua was taught Latin by a Sophister]]></title>
+    <itunes:episode><![CDATA[14]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/gargantua-and-pantagruel-by-francois-rabelais/]]></link>
+            <enclosure url="https://www.archive.org/download/gargantuaandpantagruel_1007_librivox/gargantua_14_rabelais_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[04:40:00]]></itunes:duration>
+  <pubDate>Sat, 31 Jul 2010 00:14:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/gargantuaandpantagruel_1007_librivox/gargantua_14_rabelais_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Chapter 1.XV.—How Gargantua was put under other schoolmasters]]></title>
+    <itunes:episode><![CDATA[15]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/gargantua-and-pantagruel-by-francois-rabelais/]]></link>
+            <enclosure url="https://www.archive.org/download/gargantuaandpantagruel_1007_librivox/gargantua_15_rabelais_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[04:41:00]]></itunes:duration>
+  <pubDate>Sat, 31 Jul 2010 00:15:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/gargantuaandpantagruel_1007_librivox/gargantua_15_rabelais_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Chapter 1.XVI.—How Gargantua was sent to Paris, and of the huge great mare that he rode on; how she destroyed the oxflies of the Beauce]]></title>
+    <itunes:episode><![CDATA[16]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/gargantua-and-pantagruel-by-francois-rabelais/]]></link>
+            <enclosure url="https://www.archive.org/download/gargantuaandpantagruel_1007_librivox/gargantua_16_rabelais_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[04:27:00]]></itunes:duration>
+  <pubDate>Sat, 31 Jul 2010 00:16:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/gargantuaandpantagruel_1007_librivox/gargantua_16_rabelais_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Chapter 1.XVII.—How Gargantua paid his welcome to the Parisians, and how he took away the great bells of Our Lady's Church]]></title>
+    <itunes:episode><![CDATA[17]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/gargantua-and-pantagruel-by-francois-rabelais/]]></link>
+            <enclosure url="https://www.archive.org/download/gargantuaandpantagruel_1007_librivox/gargantua_17_rabelais_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[07:43:00]]></itunes:duration>
+  <pubDate>Sat, 31 Jul 2010 00:17:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/gargantuaandpantagruel_1007_librivox/gargantua_17_rabelais_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Chapter 1.XVIII.—How Janotus de Bragmardo was sent to Gargantua to recover the great bells]]></title>
+    <itunes:episode><![CDATA[18]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/gargantua-and-pantagruel-by-francois-rabelais/]]></link>
+            <enclosure url="https://www.archive.org/download/gargantuaandpantagruel_1007_librivox/gargantua_18_rabelais_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[03:56:00]]></itunes:duration>
+  <pubDate>Sat, 31 Jul 2010 00:18:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/gargantuaandpantagruel_1007_librivox/gargantua_18_rabelais_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Chapter 1.XIX.—The oration of Master Janotus de Bragmardo for recovery of the bells]]></title>
+    <itunes:episode><![CDATA[19]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/gargantua-and-pantagruel-by-francois-rabelais/]]></link>
+            <enclosure url="https://www.archive.org/download/gargantuaandpantagruel_1007_librivox/gargantua_19_rabelais_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[08:44:00]]></itunes:duration>
+  <pubDate>Sat, 31 Jul 2010 00:19:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/gargantuaandpantagruel_1007_librivox/gargantua_19_rabelais_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Chapter 1.XX.—How the Sophister carried away his cloth, and how he had a suit in law against the other masters]]></title>
+    <itunes:episode><![CDATA[20]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/gargantua-and-pantagruel-by-francois-rabelais/]]></link>
+            <enclosure url="https://www.archive.org/download/gargantuaandpantagruel_1007_librivox/gargantua_20_rabelais_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[10:45:00]]></itunes:duration>
+  <pubDate>Sat, 31 Jul 2010 00:20:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/gargantuaandpantagruel_1007_librivox/gargantua_20_rabelais_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Chapter 1.XXI.—The study of Gargantua, according to the discipline of his schoolmasters the Sophisters]]></title>
+    <itunes:episode><![CDATA[21]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/gargantua-and-pantagruel-by-francois-rabelais/]]></link>
+            <enclosure url="https://www.archive.org/download/gargantuaandpantagruel_1007_librivox/gargantua_21_rabelais_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[05:30:00]]></itunes:duration>
+  <pubDate>Sat, 31 Jul 2010 00:21:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/gargantuaandpantagruel_1007_librivox/gargantua_21_rabelais_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Chapter 1.XXII.—The games of Gargantua]]></title>
+    <itunes:episode><![CDATA[22]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/gargantua-and-pantagruel-by-francois-rabelais/]]></link>
+            <enclosure url="https://www.archive.org/download/gargantuaandpantagruel_1007_librivox/gargantua_22_rabelais_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[07:25:00]]></itunes:duration>
+  <pubDate>Sat, 31 Jul 2010 00:22:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/gargantuaandpantagruel_1007_librivox/gargantua_22_rabelais_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Chapter 1.XXIII.—How Gargantua was instructed by Ponocrates, and in such sort disciplinated, that he lost not one hour of the day]]></title>
+    <itunes:episode><![CDATA[23]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/gargantua-and-pantagruel-by-francois-rabelais/]]></link>
+            <enclosure url="https://www.archive.org/download/gargantuaandpantagruel_1007_librivox/gargantua_23_rabelais_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[14:31:00]]></itunes:duration>
+  <pubDate>Sat, 31 Jul 2010 00:23:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/gargantuaandpantagruel_1007_librivox/gargantua_23_rabelais_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Chapter 1.XXIV.—How Gargantua spent his time in rainy weather]]></title>
+    <itunes:episode><![CDATA[24]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/gargantua-and-pantagruel-by-francois-rabelais/]]></link>
+            <enclosure url="https://www.archive.org/download/gargantuaandpantagruel_1007_librivox/gargantua_24_rabelais_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[04:53:00]]></itunes:duration>
+  <pubDate>Sat, 31 Jul 2010 00:24:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/gargantuaandpantagruel_1007_librivox/gargantua_24_rabelais_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Chapter 1.XXV.—How there was great strife and debate raised betwixt the cake-bakers of Lerne, and those of Gargantua's country, whereupon were waged great wars]]></title>
+    <itunes:episode><![CDATA[25]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/gargantua-and-pantagruel-by-francois-rabelais/]]></link>
+            <enclosure url="https://www.archive.org/download/gargantuaandpantagruel_1007_librivox/gargantua_25_rabelais_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[06:19:00]]></itunes:duration>
+  <pubDate>Sat, 31 Jul 2010 00:25:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/gargantuaandpantagruel_1007_librivox/gargantua_25_rabelais_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Chapter 1.XXVI.—How the inhabitants of Lerne, by the commandment of Picrochole their king, assaulted the shepherds of Gargantua unexpectedly and on a sudden]]></title>
+    <itunes:episode><![CDATA[26]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/gargantua-and-pantagruel-by-francois-rabelais/]]></link>
+            <enclosure url="https://www.archive.org/download/gargantuaandpantagruel_1007_librivox/gargantua_26_rabelais_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[04:35:00]]></itunes:duration>
+  <pubDate>Sat, 31 Jul 2010 00:26:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/gargantuaandpantagruel_1007_librivox/gargantua_26_rabelais_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Chapter 1.XXVII.—How a monk of Seville saved the close of the abbey from being ransacked by the enemy]]></title>
+    <itunes:episode><![CDATA[27]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/gargantua-and-pantagruel-by-francois-rabelais/]]></link>
+            <enclosure url="https://www.archive.org/download/gargantuaandpantagruel_1007_librivox/gargantua_27_rabelais_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[18:07:00]]></itunes:duration>
+  <pubDate>Sat, 31 Jul 2010 00:27:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/gargantuaandpantagruel_1007_librivox/gargantua_27_rabelais_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Chapter 1.XXVIII.—How Picrochole stormed and took by assault the rock Clermond, and of Grangousier's unwillingness and aversion from the undertaking of war]]></title>
+    <itunes:episode><![CDATA[28]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/gargantua-and-pantagruel-by-francois-rabelais/]]></link>
+            <enclosure url="https://www.archive.org/download/gargantuaandpantagruel_1007_librivox/gargantua_28_rabelais_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[06:58:00]]></itunes:duration>
+  <pubDate>Sat, 31 Jul 2010 00:28:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/gargantuaandpantagruel_1007_librivox/gargantua_28_rabelais_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Chapter 1.XXIX.—The tenour of the letter which Grangousier wrote to his son Gargantua]]></title>
+    <itunes:episode><![CDATA[29]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/gargantua-and-pantagruel-by-francois-rabelais/]]></link>
+            <enclosure url="https://www.archive.org/download/gargantuaandpantagruel_1007_librivox/gargantua_29_rabelais_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[03:45:00]]></itunes:duration>
+  <pubDate>Sat, 31 Jul 2010 00:29:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/gargantuaandpantagruel_1007_librivox/gargantua_29_rabelais_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Chapter 1.XXX.—How Ulric Gallet was sent unto Picrochole]]></title>
+    <itunes:episode><![CDATA[30]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/gargantua-and-pantagruel-by-francois-rabelais/]]></link>
+            <enclosure url="https://www.archive.org/download/gargantuaandpantagruel_1007_librivox/gargantua_30_rabelais_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[02:26:00]]></itunes:duration>
+  <pubDate>Sat, 31 Jul 2010 00:30:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/gargantuaandpantagruel_1007_librivox/gargantua_30_rabelais_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Chapter 1.XXXI.—The speech made by Gallet to Picrochole]]></title>
+    <itunes:episode><![CDATA[31]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/gargantua-and-pantagruel-by-francois-rabelais/]]></link>
+            <enclosure url="https://www.archive.org/download/gargantuaandpantagruel_1007_librivox/gargantua_31_rabelais_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[11:26:00]]></itunes:duration>
+  <pubDate>Sat, 31 Jul 2010 00:31:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/gargantuaandpantagruel_1007_librivox/gargantua_31_rabelais_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Chapter 1.XXXII.—How Grangousier, to buy peace, caused the cakes to be restored]]></title>
+    <itunes:episode><![CDATA[32]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/gargantua-and-pantagruel-by-francois-rabelais/]]></link>
+            <enclosure url="https://www.archive.org/download/gargantuaandpantagruel_1007_librivox/gargantua_32_rabelais_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[11:21:00]]></itunes:duration>
+  <pubDate>Sat, 31 Jul 2010 00:32:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/gargantuaandpantagruel_1007_librivox/gargantua_32_rabelais_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Chapter 1.XXXIII.—How some statesmen of Picrochole, by hairbrained counsel, put him in extreme danger]]></title>
+    <itunes:episode><![CDATA[33]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/gargantua-and-pantagruel-by-francois-rabelais/]]></link>
+            <enclosure url="https://www.archive.org/download/gargantuaandpantagruel_1007_librivox/gargantua_33_rabelais_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[16:00:00]]></itunes:duration>
+  <pubDate>Sat, 31 Jul 2010 00:33:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/gargantuaandpantagruel_1007_librivox/gargantua_33_rabelais_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Chapter 1.XXXIV.—How Gargantua left the city of Paris to succour his country, and how Gymnast encountered with the enemy]]></title>
+    <itunes:episode><![CDATA[34]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/gargantua-and-pantagruel-by-francois-rabelais/]]></link>
+            <enclosure url="https://www.archive.org/download/gargantuaandpantagruel_1007_librivox/gargantua_34_rabelais_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[05:00:00]]></itunes:duration>
+  <pubDate>Sat, 31 Jul 2010 00:34:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/gargantuaandpantagruel_1007_librivox/gargantua_34_rabelais_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Chapter 1.XXXV.—How Gymnast very souply and cunningly killed Captain Tripet and others of Picrochole's men]]></title>
+    <itunes:episode><![CDATA[35]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/gargantua-and-pantagruel-by-francois-rabelais/]]></link>
+            <enclosure url="https://www.archive.org/download/gargantuaandpantagruel_1007_librivox/gargantua_35_rabelais_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[05:53:00]]></itunes:duration>
+  <pubDate>Sat, 31 Jul 2010 00:35:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/gargantuaandpantagruel_1007_librivox/gargantua_35_rabelais_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Chapter 1.XXXVI.—How Gargantua demolished the castle at the ford of Vede, and how they passed the ford]]></title>
+    <itunes:episode><![CDATA[36]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/gargantua-and-pantagruel-by-francois-rabelais/]]></link>
+            <enclosure url="https://www.archive.org/download/gargantuaandpantagruel_1007_librivox/gargantua_36_rabelais_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[05:22:00]]></itunes:duration>
+  <pubDate>Sat, 31 Jul 2010 00:36:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/gargantuaandpantagruel_1007_librivox/gargantua_36_rabelais_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Chapter 1.XXXVII.—How Gargantua, in combing his head, made the great cannon-balls fall out of his hair]]></title>
+    <itunes:episode><![CDATA[37]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/gargantua-and-pantagruel-by-francois-rabelais/]]></link>
+            <enclosure url="https://www.archive.org/download/gargantuaandpantagruel_1007_librivox/gargantua_37_rabelais_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[04:32:00]]></itunes:duration>
+  <pubDate>Sat, 31 Jul 2010 00:37:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/gargantuaandpantagruel_1007_librivox/gargantua_37_rabelais_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Chapter 1.XXXVIII.—How Gargantua did eat up six pilgrims in a salad]]></title>
+    <itunes:episode><![CDATA[38]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/gargantua-and-pantagruel-by-francois-rabelais/]]></link>
+            <enclosure url="https://www.archive.org/download/gargantuaandpantagruel_1007_librivox/gargantua_38_rabelais_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[05:16:00]]></itunes:duration>
+  <pubDate>Sat, 31 Jul 2010 00:38:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/gargantuaandpantagruel_1007_librivox/gargantua_38_rabelais_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Chapter 1.XXXIX.—How the Monk was feasted by Gargantua, and of the jovial discourse they had at supper]]></title>
+    <itunes:episode><![CDATA[39]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/gargantua-and-pantagruel-by-francois-rabelais/]]></link>
+            <enclosure url="https://www.archive.org/download/gargantuaandpantagruel_1007_librivox/gargantua_39_rabelais_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[13:10:00]]></itunes:duration>
+  <pubDate>Sat, 31 Jul 2010 00:39:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/gargantuaandpantagruel_1007_librivox/gargantua_39_rabelais_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Chapter 1.XL.—Why monks are the outcasts of the world; and wherefore some have bigger noses than others]]></title>
+    <itunes:episode><![CDATA[40]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/gargantua-and-pantagruel-by-francois-rabelais/]]></link>
+            <enclosure url="https://www.archive.org/download/gargantuaandpantagruel_1007_librivox/gargantua_40_rabelais_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[06:21:00]]></itunes:duration>
+  <pubDate>Sat, 31 Jul 2010 00:40:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/gargantuaandpantagruel_1007_librivox/gargantua_40_rabelais_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Chapter 1.XLI.—How the Monk made Gargantua sleep, and of his hours and breviaries]]></title>
+    <itunes:episode><![CDATA[41]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/gargantua-and-pantagruel-by-francois-rabelais/]]></link>
+            <enclosure url="https://www.archive.org/download/gargantuaandpantagruel_1007_librivox/gargantua_41_rabelais_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[04:51:00]]></itunes:duration>
+  <pubDate>Sat, 31 Jul 2010 00:41:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/gargantuaandpantagruel_1007_librivox/gargantua_41_rabelais_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Chapter 1.XLII.—How the Monk encouraged his fellow-champions, and how he hanged upon a tree]]></title>
+    <itunes:episode><![CDATA[42]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/gargantua-and-pantagruel-by-francois-rabelais/]]></link>
+            <enclosure url="https://www.archive.org/download/gargantuaandpantagruel_1007_librivox/gargantua_42_rabelais_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[04:56:00]]></itunes:duration>
+  <pubDate>Sat, 31 Jul 2010 00:42:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/gargantuaandpantagruel_1007_librivox/gargantua_42_rabelais_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Chapter 1.XLIII.—How the scouts and fore-party of Picrochole were met with by Gargantua, and how the Monk slew Captain Drawforth (Tirevant.), and then was taken prisoner by his enemies]]></title>
+    <itunes:episode><![CDATA[43]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/gargantua-and-pantagruel-by-francois-rabelais/]]></link>
+            <enclosure url="https://www.archive.org/download/gargantuaandpantagruel_1007_librivox/gargantua_43_rabelais_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[07:46:00]]></itunes:duration>
+  <pubDate>Sat, 31 Jul 2010 00:43:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/gargantuaandpantagruel_1007_librivox/gargantua_43_rabelais_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Chapter 1.XLIV.—How the Monk rid himself of his keepers, and how Picrochole's forlorn hope was defeated]]></title>
+    <itunes:episode><![CDATA[44]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/gargantua-and-pantagruel-by-francois-rabelais/]]></link>
+            <enclosure url="https://www.archive.org/download/gargantuaandpantagruel_1007_librivox/gargantua_44_rabelais_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[05:42:00]]></itunes:duration>
+  <pubDate>Sat, 31 Jul 2010 00:44:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/gargantuaandpantagruel_1007_librivox/gargantua_44_rabelais_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Chapter 1.XLV.—How the Monk carried along with him the Pilgrims, and of the good words that Grangousier gave them]]></title>
+    <itunes:episode><![CDATA[45]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/gargantua-and-pantagruel-by-francois-rabelais/]]></link>
+            <enclosure url="https://www.archive.org/download/gargantuaandpantagruel_1007_librivox/gargantua_45_rabelais_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[07:01:00]]></itunes:duration>
+  <pubDate>Sat, 31 Jul 2010 00:45:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/gargantuaandpantagruel_1007_librivox/gargantua_45_rabelais_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Chapter 1.XLVI.—How Grangousier did very kindly entertain Touchfaucet his prisoner]]></title>
+    <itunes:episode><![CDATA[46]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/gargantua-and-pantagruel-by-francois-rabelais/]]></link>
+            <enclosure url="https://www.archive.org/download/gargantuaandpantagruel_1007_librivox/gargantua_46_rabelais_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[06:20:00]]></itunes:duration>
+  <pubDate>Sat, 31 Jul 2010 00:46:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/gargantuaandpantagruel_1007_librivox/gargantua_46_rabelais_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Chapter 1.XLVII.—How Grangousier sent for his legions, and how Touchfaucet slew Rashcalf, and was afterwards executed by the command of Picrochole]]></title>
+    <itunes:episode><![CDATA[47]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/gargantua-and-pantagruel-by-francois-rabelais/]]></link>
+            <enclosure url="https://www.archive.org/download/gargantuaandpantagruel_1007_librivox/gargantua_47_rabelais_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[07:12:00]]></itunes:duration>
+  <pubDate>Sat, 31 Jul 2010 00:47:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/gargantuaandpantagruel_1007_librivox/gargantua_47_rabelais_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Chapter 1.XLVIII.—How Gargantua set upon Picrochole within the rock Clermond, and utterly defeated the army of the said Picrochole]]></title>
+    <itunes:episode><![CDATA[48]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/gargantua-and-pantagruel-by-francois-rabelais/]]></link>
+            <enclosure url="https://www.archive.org/download/gargantuaandpantagruel_1007_librivox/gargantua_48_rabelais_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[09:57:00]]></itunes:duration>
+  <pubDate>Sat, 31 Jul 2010 00:48:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/gargantuaandpantagruel_1007_librivox/gargantua_48_rabelais_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Chapter 1.XLIX.—How Picrochole in his flight fell into great misfortunes, and what Gargantua did after the battle]]></title>
+    <itunes:episode><![CDATA[49]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/gargantua-and-pantagruel-by-francois-rabelais/]]></link>
+            <enclosure url="https://www.archive.org/download/gargantuaandpantagruel_1007_librivox/gargantua_49_rabelais_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[03:44:00]]></itunes:duration>
+  <pubDate>Sat, 31 Jul 2010 00:49:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/gargantuaandpantagruel_1007_librivox/gargantua_49_rabelais_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Chapter 1.L.—Gargantua's speech to the vanquished]]></title>
+    <itunes:episode><![CDATA[50]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/gargantua-and-pantagruel-by-francois-rabelais/]]></link>
+            <enclosure url="https://www.archive.org/download/gargantuaandpantagruel_1007_librivox/gargantua_50_rabelais_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[14:48:00]]></itunes:duration>
+  <pubDate>Sat, 31 Jul 2010 00:50:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/gargantuaandpantagruel_1007_librivox/gargantua_50_rabelais_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Chapter 1.LI.—How the victorious Gargantuists were recompensed after the battle]]></title>
+    <itunes:episode><![CDATA[51]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/gargantua-and-pantagruel-by-francois-rabelais/]]></link>
+            <enclosure url="https://www.archive.org/download/gargantuaandpantagruel_1007_librivox/gargantua_51_rabelais_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[04:20:00]]></itunes:duration>
+  <pubDate>Sat, 31 Jul 2010 00:51:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/gargantuaandpantagruel_1007_librivox/gargantua_51_rabelais_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Chapter 1.LII.—How Gargantua caused to be built for the Monk the Abbey of Theleme]]></title>
+    <itunes:episode><![CDATA[52]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/gargantua-and-pantagruel-by-francois-rabelais/]]></link>
+            <enclosure url="https://www.archive.org/download/gargantuaandpantagruel_1007_librivox/gargantua_52_rabelais_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[07:27:00]]></itunes:duration>
+  <pubDate>Sat, 31 Jul 2010 00:52:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/gargantuaandpantagruel_1007_librivox/gargantua_52_rabelais_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Chapter 1.LIII.—How the abbey of the Thelemites was built and endowed]]></title>
+    <itunes:episode><![CDATA[53]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/gargantua-and-pantagruel-by-francois-rabelais/]]></link>
+            <enclosure url="https://www.archive.org/download/gargantuaandpantagruel_1007_librivox/gargantua_53_rabelais_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[07:47:00]]></itunes:duration>
+  <pubDate>Sat, 31 Jul 2010 00:53:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/gargantuaandpantagruel_1007_librivox/gargantua_53_rabelais_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Chapter 1.LIV.—The inscription set upon the great gate of Theleme]]></title>
+    <itunes:episode><![CDATA[54]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/gargantua-and-pantagruel-by-francois-rabelais/]]></link>
+            <enclosure url="https://www.archive.org/download/gargantuaandpantagruel_1007_librivox/gargantua_54_rabelais_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[09:06:00]]></itunes:duration>
+  <pubDate>Sat, 31 Jul 2010 00:54:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/gargantuaandpantagruel_1007_librivox/gargantua_54_rabelais_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Chapter 1.LV.—What manner of dwelling the Thelemites had]]></title>
+    <itunes:episode><![CDATA[55]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/gargantua-and-pantagruel-by-francois-rabelais/]]></link>
+            <enclosure url="https://www.archive.org/download/gargantuaandpantagruel_1007_librivox/gargantua_55_rabelais_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[06:40:00]]></itunes:duration>
+  <pubDate>Sat, 31 Jul 2010 00:55:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/gargantuaandpantagruel_1007_librivox/gargantua_55_rabelais_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Chapter 1.LVI.—How the men and women of the religious order of Theleme were apparelled]]></title>
+    <itunes:episode><![CDATA[56]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/gargantua-and-pantagruel-by-francois-rabelais/]]></link>
+            <enclosure url="https://www.archive.org/download/gargantuaandpantagruel_1007_librivox/gargantua_56_rabelais_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[10:35:00]]></itunes:duration>
+  <pubDate>Sat, 31 Jul 2010 00:56:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/gargantuaandpantagruel_1007_librivox/gargantua_56_rabelais_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Chapter 1.LVII.—How the Thelemites were governed, and of their manner of living]]></title>
+    <itunes:episode><![CDATA[57]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/gargantua-and-pantagruel-by-francois-rabelais/]]></link>
+            <enclosure url="https://www.archive.org/download/gargantuaandpantagruel_1007_librivox/gargantua_57_rabelais_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[06:02:00]]></itunes:duration>
+  <pubDate>Sat, 31 Jul 2010 00:57:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/gargantuaandpantagruel_1007_librivox/gargantua_57_rabelais_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Chapter 1.LVIII.—A prophetical Riddle]]></title>
+    <itunes:episode><![CDATA[58]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/gargantua-and-pantagruel-by-francois-rabelais/]]></link>
+            <enclosure url="https://www.archive.org/download/gargantuaandpantagruel_1007_librivox/gargantua_58_rabelais_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[08:19:00]]></itunes:duration>
+  <pubDate>Sat, 31 Jul 2010 00:58:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/gargantuaandpantagruel_1007_librivox/gargantua_58_rabelais_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <!-- end file loop -->
+</channel>
+</rss>

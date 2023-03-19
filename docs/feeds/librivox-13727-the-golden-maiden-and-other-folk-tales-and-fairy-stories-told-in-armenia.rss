@@ -1,0 +1,373 @@
+<?xml version="1.0" ?><rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+  <title><![CDATA[Golden Maiden and Other Folk Tales and Fairy Stories Told in Armenia, The by A. G. Seklemian ( - 1920)]]></title>
+  <link><![CDATA[https://librivox.org/the-golden-maiden-and-other-folk-tales-and-fairy-stories-told-in-armenia-by-a-g-seklemian/]]></link>
+  <atom:link rel="self" href="https://librivox.org/rss/13727" />
+  <description><![CDATA[ Armenians trace their history back to before the time of the Babylonians and earliest recorded history - in fact, to Togarmah, a grandson of Japhet, Noah's son, who settled in Armenia after the Ark came to rest on mount Ararat. Armenia was also the first State in the world to adopt Christianity as their official religion, around the 3rd Century AD. This book contains many wonderful folk and fairy tales culled from this long history of the Armenian country people, to whom all nature is full of stories, by the scholar and storyteller Mr. A. G. Seklemian. - Summary by Noel Badrian]]></description>
+  <!--<genre>project element=Genre</genre>-->
+  <!--<language>project element=lang.code</language>-->
+  <itunes:type>serial</itunes:type>
+  <itunes:author>LibriVox</itunes:author>
+  <itunes:summary><![CDATA[ Armenians trace their history back to before the time of the Babylonians and earliest recorded history - in fact, to Togarmah, a grandson of Japhet, Noah's son, who settled in Armenia after the Ark came to rest on mount Ararat. Armenia was also the first State in the world to adopt Christianity as their official religion, around the 3rd Century AD. This book contains many wonderful folk and fairy tales culled from this long history of the Armenian country people, to whom all nature is full of stories, by the scholar and storyteller Mr. A. G. Seklemian. - Summary by Noel Badrian]]></itunes:summary>
+  <itunes:owner>
+    <itunes:name>LibriVox</itunes:name>
+    <itunes:email>info@librivox.org</itunes:email>
+  </itunes:owner>
+  <itunes:category text="Arts">
+    <itunes:category text="Literature" />
+  </itunes:category>
+  <image><url>https://archive.org/download/the_golden_maiden_1906_librivox/goldenmaidenfolktales_1906.jpg</url></image>
+  <itunes:image href="https://archive.org/download/the_golden_maiden_1906_librivox/goldenmaidenfolktales_1906.jpg"/>
+  <itunes:explicit>no</itunes:explicit>
+  <!-- file loop -->
+    <item>
+    <title><![CDATA[The Story-Teller to his Audience]]></title>
+    <itunes:episode><![CDATA[0]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-golden-maiden-and-other-folk-tales-and-fairy-stories-told-in-armenia-by-a-g-seklemian/]]></link>
+            <enclosure url="https://www.archive.org/download/the_golden_maiden_1906_librivox/goldenmaiden_00_seklemian_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Wed, 26 Jun 2019 00:00:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/the_golden_maiden_1906_librivox/goldenmaiden_00_seklemian_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Golden Maiden]]></title>
+    <itunes:episode><![CDATA[1]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-golden-maiden-and-other-folk-tales-and-fairy-stories-told-in-armenia-by-a-g-seklemian/]]></link>
+            <enclosure url="https://www.archive.org/download/the_golden_maiden_1906_librivox/goldenmaiden_01_seklemian_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Wed, 26 Jun 2019 00:01:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/the_golden_maiden_1906_librivox/goldenmaiden_01_seklemian_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Betrothed of Destiny]]></title>
+    <itunes:episode><![CDATA[2]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-golden-maiden-and-other-folk-tales-and-fairy-stories-told-in-armenia-by-a-g-seklemian/]]></link>
+            <enclosure url="https://www.archive.org/download/the_golden_maiden_1906_librivox/goldenmaiden_02_seklemian_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Wed, 26 Jun 2019 00:02:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/the_golden_maiden_1906_librivox/goldenmaiden_02_seklemian_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Youngest of the Three]]></title>
+    <itunes:episode><![CDATA[3]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-golden-maiden-and-other-folk-tales-and-fairy-stories-told-in-armenia-by-a-g-seklemian/]]></link>
+            <enclosure url="https://www.archive.org/download/the_golden_maiden_1906_librivox/goldenmaiden_03_seklemian_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Wed, 26 Jun 2019 00:03:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/the_golden_maiden_1906_librivox/goldenmaiden_03_seklemian_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Fairy Nightingale]]></title>
+    <itunes:episode><![CDATA[4]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-golden-maiden-and-other-folk-tales-and-fairy-stories-told-in-armenia-by-a-g-seklemian/]]></link>
+            <enclosure url="https://www.archive.org/download/the_golden_maiden_1906_librivox/goldenmaiden_04_seklemian_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Wed, 26 Jun 2019 00:04:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/the_golden_maiden_1906_librivox/goldenmaiden_04_seklemian_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Dreamer]]></title>
+    <itunes:episode><![CDATA[5]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-golden-maiden-and-other-folk-tales-and-fairy-stories-told-in-armenia-by-a-g-seklemian/]]></link>
+            <enclosure url="https://www.archive.org/download/the_golden_maiden_1906_librivox/goldenmaiden_05_seklemian_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Wed, 26 Jun 2019 00:05:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/the_golden_maiden_1906_librivox/goldenmaiden_05_seklemian_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Bride of the Fountain]]></title>
+    <itunes:episode><![CDATA[6]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-golden-maiden-and-other-folk-tales-and-fairy-stories-told-in-armenia-by-a-g-seklemian/]]></link>
+            <enclosure url="https://www.archive.org/download/the_golden_maiden_1906_librivox/goldenmaiden_06_seklemian_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Wed, 26 Jun 2019 00:06:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/the_golden_maiden_1906_librivox/goldenmaiden_06_seklemian_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Dyjhicon: the Coward-Hero]]></title>
+    <itunes:episode><![CDATA[7]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-golden-maiden-and-other-folk-tales-and-fairy-stories-told-in-armenia-by-a-g-seklemian/]]></link>
+            <enclosure url="https://www.archive.org/download/the_golden_maiden_1906_librivox/goldenmaiden_07_seklemian_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Wed, 26 Jun 2019 00:07:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/the_golden_maiden_1906_librivox/goldenmaiden_07_seklemian_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Zoolvisia]]></title>
+    <itunes:episode><![CDATA[8]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-golden-maiden-and-other-folk-tales-and-fairy-stories-told-in-armenia-by-a-g-seklemian/]]></link>
+            <enclosure url="https://www.archive.org/download/the_golden_maiden_1906_librivox/goldenmaiden_08_seklemian_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Wed, 26 Jun 2019 00:08:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/the_golden_maiden_1906_librivox/goldenmaiden_08_seklemian_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Dragon-Child and Sun-Child]]></title>
+    <itunes:episode><![CDATA[9]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-golden-maiden-and-other-folk-tales-and-fairy-stories-told-in-armenia-by-a-g-seklemian/]]></link>
+            <enclosure url="https://www.archive.org/download/the_golden_maiden_1906_librivox/goldenmaiden_09_seklemian_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Wed, 26 Jun 2019 00:09:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/the_golden_maiden_1906_librivox/goldenmaiden_09_seklemian_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Mirza]]></title>
+    <itunes:episode><![CDATA[10]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-golden-maiden-and-other-folk-tales-and-fairy-stories-told-in-armenia-by-a-g-seklemian/]]></link>
+            <enclosure url="https://www.archive.org/download/the_golden_maiden_1906_librivox/goldenmaiden_10_seklemian_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Wed, 26 Jun 2019 00:10:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/the_golden_maiden_1906_librivox/goldenmaiden_10_seklemian_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Magic Ring]]></title>
+    <itunes:episode><![CDATA[11]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-golden-maiden-and-other-folk-tales-and-fairy-stories-told-in-armenia-by-a-g-seklemian/]]></link>
+            <enclosure url="https://www.archive.org/download/the_golden_maiden_1906_librivox/goldenmaiden_11_seklemian_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Wed, 26 Jun 2019 00:11:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/the_golden_maiden_1906_librivox/goldenmaiden_11_seklemian_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Twins]]></title>
+    <itunes:episode><![CDATA[12]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-golden-maiden-and-other-folk-tales-and-fairy-stories-told-in-armenia-by-a-g-seklemian/]]></link>
+            <enclosure url="https://www.archive.org/download/the_golden_maiden_1906_librivox/goldenmaiden_12_seklemian_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Wed, 26 Jun 2019 00:12:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/the_golden_maiden_1906_librivox/goldenmaiden_12_seklemian_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Idiot]]></title>
+    <itunes:episode><![CDATA[13]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-golden-maiden-and-other-folk-tales-and-fairy-stories-told-in-armenia-by-a-g-seklemian/]]></link>
+            <enclosure url="https://www.archive.org/download/the_golden_maiden_1906_librivox/goldenmaiden_13_seklemian_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Wed, 26 Jun 2019 00:13:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/the_golden_maiden_1906_librivox/goldenmaiden_13_seklemian_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Bedik and The Invulnerable Giant]]></title>
+    <itunes:episode><![CDATA[14]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-golden-maiden-and-other-folk-tales-and-fairy-stories-told-in-armenia-by-a-g-seklemian/]]></link>
+            <enclosure url="https://www.archive.org/download/the_golden_maiden_1906_librivox/goldenmaiden_14_seklemian_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Wed, 26 Jun 2019 00:14:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/the_golden_maiden_1906_librivox/goldenmaiden_14_seklemian_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Simon, the Friend of Snakes]]></title>
+    <itunes:episode><![CDATA[15]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-golden-maiden-and-other-folk-tales-and-fairy-stories-told-in-armenia-by-a-g-seklemian/]]></link>
+            <enclosure url="https://www.archive.org/download/the_golden_maiden_1906_librivox/goldenmaiden_15_seklemian_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Wed, 26 Jun 2019 00:15:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/the_golden_maiden_1906_librivox/goldenmaiden_15_seklemian_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Poor Widow’s Son]]></title>
+    <itunes:episode><![CDATA[16]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-golden-maiden-and-other-folk-tales-and-fairy-stories-told-in-armenia-by-a-g-seklemian/]]></link>
+            <enclosure url="https://www.archive.org/download/the_golden_maiden_1906_librivox/goldenmaiden_16_seklemian_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Wed, 26 Jun 2019 00:16:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/the_golden_maiden_1906_librivox/goldenmaiden_16_seklemian_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[A Niggardly Companion]]></title>
+    <itunes:episode><![CDATA[17]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-golden-maiden-and-other-folk-tales-and-fairy-stories-told-in-armenia-by-a-g-seklemian/]]></link>
+            <enclosure url="https://www.archive.org/download/the_golden_maiden_1906_librivox/goldenmaiden_17_seklemian_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Wed, 26 Jun 2019 00:17:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/the_golden_maiden_1906_librivox/goldenmaiden_17_seklemian_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Maiden of the Sea]]></title>
+    <itunes:episode><![CDATA[18]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-golden-maiden-and-other-folk-tales-and-fairy-stories-told-in-armenia-by-a-g-seklemian/]]></link>
+            <enclosure url="https://www.archive.org/download/the_golden_maiden_1906_librivox/goldenmaiden_18_seklemian_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Wed, 26 Jun 2019 00:18:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/the_golden_maiden_1906_librivox/goldenmaiden_18_seklemian_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Golden-Headed Fish]]></title>
+    <itunes:episode><![CDATA[19]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-golden-maiden-and-other-folk-tales-and-fairy-stories-told-in-armenia-by-a-g-seklemian/]]></link>
+            <enclosure url="https://www.archive.org/download/the_golden_maiden_1906_librivox/goldenmaiden_19_seklemian_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Wed, 26 Jun 2019 00:19:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/the_golden_maiden_1906_librivox/goldenmaiden_19_seklemian_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Husband or Wife - Which?]]></title>
+    <itunes:episode><![CDATA[20]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-golden-maiden-and-other-folk-tales-and-fairy-stories-told-in-armenia-by-a-g-seklemian/]]></link>
+            <enclosure url="https://www.archive.org/download/the_golden_maiden_1906_librivox/goldenmaiden_20_seklemian_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Wed, 26 Jun 2019 00:20:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/the_golden_maiden_1906_librivox/goldenmaiden_20_seklemian_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Wicked Stepmother]]></title>
+    <itunes:episode><![CDATA[21]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-golden-maiden-and-other-folk-tales-and-fairy-stories-told-in-armenia-by-a-g-seklemian/]]></link>
+            <enclosure url="https://www.archive.org/download/the_golden_maiden_1906_librivox/goldenmaiden_21_seklemian_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Wed, 26 Jun 2019 00:21:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/the_golden_maiden_1906_librivox/goldenmaiden_21_seklemian_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Tricks of a Woman]]></title>
+    <itunes:episode><![CDATA[22]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-golden-maiden-and-other-folk-tales-and-fairy-stories-told-in-armenia-by-a-g-seklemian/]]></link>
+            <enclosure url="https://www.archive.org/download/the_golden_maiden_1906_librivox/goldenmaiden_22_seklemian_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Wed, 26 Jun 2019 00:22:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/the_golden_maiden_1906_librivox/goldenmaiden_22_seklemian_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[A Wise Weaver]]></title>
+    <itunes:episode><![CDATA[23]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-golden-maiden-and-other-folk-tales-and-fairy-stories-told-in-armenia-by-a-g-seklemian/]]></link>
+            <enclosure url="https://www.archive.org/download/the_golden_maiden_1906_librivox/goldenmaiden_23_seklemian_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Wed, 26 Jun 2019 00:23:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/the_golden_maiden_1906_librivox/goldenmaiden_23_seklemian_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Mind or Luck - Which?]]></title>
+    <itunes:episode><![CDATA[24]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-golden-maiden-and-other-folk-tales-and-fairy-stories-told-in-armenia-by-a-g-seklemian/]]></link>
+            <enclosure url="https://www.archive.org/download/the_golden_maiden_1906_librivox/goldenmaiden_24_seklemian_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Wed, 26 Jun 2019 00:24:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/the_golden_maiden_1906_librivox/goldenmaiden_24_seklemian_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The World’s Beauty]]></title>
+    <itunes:episode><![CDATA[25]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-golden-maiden-and-other-folk-tales-and-fairy-stories-told-in-armenia-by-a-g-seklemian/]]></link>
+            <enclosure url="https://www.archive.org/download/the_golden_maiden_1906_librivox/goldenmaiden_25_seklemian_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Wed, 26 Jun 2019 00:25:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/the_golden_maiden_1906_librivox/goldenmaiden_25_seklemian_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Salman and Rostom]]></title>
+    <itunes:episode><![CDATA[26]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-golden-maiden-and-other-folk-tales-and-fairy-stories-told-in-armenia-by-a-g-seklemian/]]></link>
+            <enclosure url="https://www.archive.org/download/the_golden_maiden_1906_librivox/goldenmaiden_26_seklemian_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Wed, 26 Jun 2019 00:26:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/the_golden_maiden_1906_librivox/goldenmaiden_26_seklemian_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Sparrow and the Two Children]]></title>
+    <itunes:episode><![CDATA[27]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-golden-maiden-and-other-folk-tales-and-fairy-stories-told-in-armenia-by-a-g-seklemian/]]></link>
+            <enclosure url="https://www.archive.org/download/the_golden_maiden_1906_librivox/goldenmaiden_27_seklemian_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Wed, 26 Jun 2019 00:27:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/the_golden_maiden_1906_librivox/goldenmaiden_27_seklemian_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Old Woman and the Cat]]></title>
+    <itunes:episode><![CDATA[28]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-golden-maiden-and-other-folk-tales-and-fairy-stories-told-in-armenia-by-a-g-seklemian/]]></link>
+            <enclosure url="https://www.archive.org/download/the_golden_maiden_1906_librivox/goldenmaiden_28_seklemian_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Wed, 26 Jun 2019 00:28:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/the_golden_maiden_1906_librivox/goldenmaiden_28_seklemian_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <!-- end file loop -->
+</channel>
+</rss>

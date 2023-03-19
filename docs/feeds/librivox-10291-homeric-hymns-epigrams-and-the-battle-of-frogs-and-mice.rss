@@ -1,0 +1,133 @@
+<?xml version="1.0" ?><rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+  <title><![CDATA[Homeric Hymns, Epigrams, and The Battle of Frogs and Mice by Homer (c. 8th cen - c. 8th cen)]]></title>
+  <link><![CDATA[https://librivox.org/homeric-hymns-epigrams-and-the-battle-of-frogs-and-mice-by-homer/]]></link>
+  <atom:link rel="self" href="https://librivox.org/rss/10291" />
+  <description><![CDATA[Homeric Hymns are thirty-three poems each paying homage to a certain Greek god. Only a few of the poems are more than 250 lines while the rest are about a dozen lines each. They are written in Homeric style and traditionally attributed to Homer but their true provenance is unknown. The Epigrams are a series of fragments on disparate topics including sailors, children and potters and are similarly attributed to Homer although it appears Hesiod and others wrote some of them. Finally, Battle of Frogs and Mice is a light-weight parody -- literally, at one-fiftieth the number of lines -- of Homer's famous battle of Greeks and Trojans epic, Illiad. - Summary by Arthur Krolman]]></description>
+  <!--<genre>project element=Genre</genre>-->
+  <!--<language>project element=lang.code</language>-->
+  <itunes:type>serial</itunes:type>
+  <itunes:author>LibriVox</itunes:author>
+  <itunes:summary><![CDATA[Homeric Hymns are thirty-three poems each paying homage to a certain Greek god. Only a few of the poems are more than 250 lines while the rest are about a dozen lines each. They are written in Homeric style and traditionally attributed to Homer but their true provenance is unknown. The Epigrams are a series of fragments on disparate topics including sailors, children and potters and are similarly attributed to Homer although it appears Hesiod and others wrote some of them. Finally, Battle of Frogs and Mice is a light-weight parody -- literally, at one-fiftieth the number of lines -- of Homer's famous battle of Greeks and Trojans epic, Illiad. - Summary by Arthur Krolman]]></itunes:summary>
+  <itunes:owner>
+    <itunes:name>LibriVox</itunes:name>
+    <itunes:email>info@librivox.org</itunes:email>
+  </itunes:owner>
+  <itunes:category text="Arts">
+    <itunes:category text="Literature" />
+  </itunes:category>
+  <image><url>https://archive.org/download/homerichymns_1510_librivox/homeric_1510.jpg</url></image>
+  <itunes:image href="https://archive.org/download/homerichymns_1510_librivox/homeric_1510.jpg"/>
+  <itunes:explicit>no</itunes:explicit>
+  <!-- file loop -->
+    <item>
+    <title><![CDATA[Section 1]]></title>
+    <itunes:episode><![CDATA[1]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/homeric-hymns-epigrams-and-the-battle-of-frogs-and-mice-by-homer/]]></link>
+            <enclosure url="https://www.archive.org/download/homerichymns_1510_librivox/homerichymnsetc_01_homer_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 24 Oct 2015 00:00:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/homerichymns_1510_librivox/homerichymnsetc_01_homer_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Section 2]]></title>
+    <itunes:episode><![CDATA[2]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/homeric-hymns-epigrams-and-the-battle-of-frogs-and-mice-by-homer/]]></link>
+            <enclosure url="https://www.archive.org/download/homerichymns_1510_librivox/homerichymnsetc_02_homer_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 24 Oct 2015 00:01:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/homerichymns_1510_librivox/homerichymnsetc_02_homer_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Section 3]]></title>
+    <itunes:episode><![CDATA[3]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/homeric-hymns-epigrams-and-the-battle-of-frogs-and-mice-by-homer/]]></link>
+            <enclosure url="https://www.archive.org/download/homerichymns_1510_librivox/homerichymnsetc_03_homer_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 24 Oct 2015 00:02:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/homerichymns_1510_librivox/homerichymnsetc_03_homer_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Section 4]]></title>
+    <itunes:episode><![CDATA[4]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/homeric-hymns-epigrams-and-the-battle-of-frogs-and-mice-by-homer/]]></link>
+            <enclosure url="https://www.archive.org/download/homerichymns_1510_librivox/homerichymnsetc_04_homer_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 24 Oct 2015 00:03:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/homerichymns_1510_librivox/homerichymnsetc_04_homer_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Section 5]]></title>
+    <itunes:episode><![CDATA[5]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/homeric-hymns-epigrams-and-the-battle-of-frogs-and-mice-by-homer/]]></link>
+            <enclosure url="https://www.archive.org/download/homerichymns_1510_librivox/homerichymnsetc_05_homer_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 24 Oct 2015 00:04:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/homerichymns_1510_librivox/homerichymnsetc_05_homer_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Section 6]]></title>
+    <itunes:episode><![CDATA[6]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/homeric-hymns-epigrams-and-the-battle-of-frogs-and-mice-by-homer/]]></link>
+            <enclosure url="https://www.archive.org/download/homerichymns_1510_librivox/homerichymnsetc_06_homer_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 24 Oct 2015 00:05:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/homerichymns_1510_librivox/homerichymnsetc_06_homer_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Section 7]]></title>
+    <itunes:episode><![CDATA[7]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/homeric-hymns-epigrams-and-the-battle-of-frogs-and-mice-by-homer/]]></link>
+            <enclosure url="https://www.archive.org/download/homerichymns_1510_librivox/homerichymnsetc_07_homer_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 24 Oct 2015 00:06:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/homerichymns_1510_librivox/homerichymnsetc_07_homer_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Section 8]]></title>
+    <itunes:episode><![CDATA[8]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/homeric-hymns-epigrams-and-the-battle-of-frogs-and-mice-by-homer/]]></link>
+            <enclosure url="https://www.archive.org/download/homerichymns_1510_librivox/homerichymnsetc_08_homer_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 24 Oct 2015 00:07:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/homerichymns_1510_librivox/homerichymnsetc_08_homer_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Section 9]]></title>
+    <itunes:episode><![CDATA[9]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/homeric-hymns-epigrams-and-the-battle-of-frogs-and-mice-by-homer/]]></link>
+            <enclosure url="https://www.archive.org/download/homerichymns_1510_librivox/homerichymnsetc_09_homer_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 24 Oct 2015 00:08:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/homerichymns_1510_librivox/homerichymnsetc_09_homer_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <!-- end file loop -->
+</channel>
+</rss>

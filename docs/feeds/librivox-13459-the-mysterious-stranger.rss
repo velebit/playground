@@ -1,0 +1,157 @@
+<?xml version="1.0" ?><rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+  <title><![CDATA[Mysterious Stranger, The by Mark Twain (1835 - 1910)]]></title>
+  <link><![CDATA[https://librivox.org/the-mysterious-stranger-by-mark-twain-2/]]></link>
+  <atom:link rel="self" href="https://librivox.org/rss/13459" />
+  <description><![CDATA[Mark Twain wrote this fairytale style story about 3 boys who meet Satan's cousin and they experience many things during this time. The story is narrated by one of the boys many years later. Mark Twain ends the story expressing the idea that will blow you away. Ideas that can be traced back thousands of years in many religions. What is existence really ... to quote that well known song by Eliphalet Oram Lyte ... Row, row, row your boat Gently down the stream, Merrily, merrily, merrily, merrily, Life is but a dream ....  so dream on. - Summary by Patrick79]]></description>
+  <!--<genre>project element=Genre</genre>-->
+  <!--<language>project element=lang.code</language>-->
+  <itunes:type>serial</itunes:type>
+  <itunes:author>LibriVox</itunes:author>
+  <itunes:summary><![CDATA[Mark Twain wrote this fairytale style story about 3 boys who meet Satan's cousin and they experience many things during this time. The story is narrated by one of the boys many years later. Mark Twain ends the story expressing the idea that will blow you away. Ideas that can be traced back thousands of years in many religions. What is existence really ... to quote that well known song by Eliphalet Oram Lyte ... Row, row, row your boat Gently down the stream, Merrily, merrily, merrily, merrily, Life is but a dream ....  so dream on. - Summary by Patrick79]]></itunes:summary>
+  <itunes:owner>
+    <itunes:name>LibriVox</itunes:name>
+    <itunes:email>info@librivox.org</itunes:email>
+  </itunes:owner>
+  <itunes:category text="Arts">
+    <itunes:category text="Literature" />
+  </itunes:category>
+  <image><url>https://archive.org/download/the_mysterious_stranger_1811_librivox/mysteriousstranger_1811.jpg</url></image>
+  <itunes:image href="https://archive.org/download/the_mysterious_stranger_1811_librivox/mysteriousstranger_1811.jpg"/>
+  <itunes:explicit>no</itunes:explicit>
+  <!-- file loop -->
+    <item>
+    <title><![CDATA[Chapter 1]]></title>
+    <itunes:episode><![CDATA[1]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-mysterious-stranger-by-mark-twain-2/]]></link>
+            <enclosure url="https://www.archive.org/download/the_mysterious_stranger_1811_librivox/themysteriousstranger_01_marktwain_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 16 Nov 2018 00:00:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/the_mysterious_stranger_1811_librivox/themysteriousstranger_01_marktwain_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Chapter 2]]></title>
+    <itunes:episode><![CDATA[2]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-mysterious-stranger-by-mark-twain-2/]]></link>
+            <enclosure url="https://www.archive.org/download/the_mysterious_stranger_1811_librivox/themysteriousstranger_02_marktwain_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 16 Nov 2018 00:01:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/the_mysterious_stranger_1811_librivox/themysteriousstranger_02_marktwain_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Chapter 3]]></title>
+    <itunes:episode><![CDATA[3]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-mysterious-stranger-by-mark-twain-2/]]></link>
+            <enclosure url="https://www.archive.org/download/the_mysterious_stranger_1811_librivox/themysteriousstranger_03_marktwain_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 16 Nov 2018 00:02:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/the_mysterious_stranger_1811_librivox/themysteriousstranger_03_marktwain_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Chapter 4]]></title>
+    <itunes:episode><![CDATA[4]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-mysterious-stranger-by-mark-twain-2/]]></link>
+            <enclosure url="https://www.archive.org/download/the_mysterious_stranger_1811_librivox/themysteriousstranger_04_marktwain_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 16 Nov 2018 00:03:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/the_mysterious_stranger_1811_librivox/themysteriousstranger_04_marktwain_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Chapter 5]]></title>
+    <itunes:episode><![CDATA[5]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-mysterious-stranger-by-mark-twain-2/]]></link>
+            <enclosure url="https://www.archive.org/download/the_mysterious_stranger_1811_librivox/themysteriousstranger_05_marktwain_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 16 Nov 2018 00:04:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/the_mysterious_stranger_1811_librivox/themysteriousstranger_05_marktwain_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Chapter 6]]></title>
+    <itunes:episode><![CDATA[6]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-mysterious-stranger-by-mark-twain-2/]]></link>
+            <enclosure url="https://www.archive.org/download/the_mysterious_stranger_1811_librivox/themysteriousstranger_06_marktwain_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 16 Nov 2018 00:05:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/the_mysterious_stranger_1811_librivox/themysteriousstranger_06_marktwain_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Chapter 7]]></title>
+    <itunes:episode><![CDATA[7]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-mysterious-stranger-by-mark-twain-2/]]></link>
+            <enclosure url="https://www.archive.org/download/the_mysterious_stranger_1811_librivox/themysteriousstranger_07_marktwain_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 16 Nov 2018 00:06:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/the_mysterious_stranger_1811_librivox/themysteriousstranger_07_marktwain_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Chapter 8]]></title>
+    <itunes:episode><![CDATA[8]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-mysterious-stranger-by-mark-twain-2/]]></link>
+            <enclosure url="https://www.archive.org/download/the_mysterious_stranger_1811_librivox/themysteriousstranger_08_marktwain_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 16 Nov 2018 00:07:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/the_mysterious_stranger_1811_librivox/themysteriousstranger_08_marktwain_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Chapter 9]]></title>
+    <itunes:episode><![CDATA[9]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-mysterious-stranger-by-mark-twain-2/]]></link>
+            <enclosure url="https://www.archive.org/download/the_mysterious_stranger_1811_librivox/themysteriousstranger_09_marktwain_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 16 Nov 2018 00:08:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/the_mysterious_stranger_1811_librivox/themysteriousstranger_09_marktwain_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Chapter 10]]></title>
+    <itunes:episode><![CDATA[10]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-mysterious-stranger-by-mark-twain-2/]]></link>
+            <enclosure url="https://www.archive.org/download/the_mysterious_stranger_1811_librivox/themysteriousstranger_10_marktwain_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 16 Nov 2018 00:09:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/the_mysterious_stranger_1811_librivox/themysteriousstranger_10_marktwain_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Chapter 11]]></title>
+    <itunes:episode><![CDATA[11]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-mysterious-stranger-by-mark-twain-2/]]></link>
+            <enclosure url="https://www.archive.org/download/the_mysterious_stranger_1811_librivox/themysteriousstranger_11_marktwain_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 16 Nov 2018 00:10:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/the_mysterious_stranger_1811_librivox/themysteriousstranger_11_marktwain_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <!-- end file loop -->
+</channel>
+</rss>

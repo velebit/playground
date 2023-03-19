@@ -73,7 +73,7 @@ def process_url(page_url, *, settings):
     if settings.save_orig:
         with open(file_orig, 'wb') as f:
             f.write(rss_content)
-            print(f"Wrote {file_orig}", file=sys.stderr)
+        print(f"Wrote {file_orig}", file=sys.stderr)
     else:
         try:
             os.remove(file_orig)
@@ -116,7 +116,7 @@ def process_url(page_url, *, settings):
         rss_content = rss_xml.encode('utf-8')
     with open(file_done, 'wb') as f:
         f.write(rss_content)
-        print(f"Wrote {file_done}", file=sys.stderr)
+    print(f"Wrote {file_done}", file=sys.stderr)
 
 
 def parse_args():

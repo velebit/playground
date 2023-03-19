@@ -24,8 +24,8 @@ def try_read_cache(cache_file):
     try:
         with open(cache_file, 'rb') as cache:
             feed_data = pickle.load(cache)
-            print(f"Pickled data cache read from '{cache_file}'")
-            return feed_data
+        print(f"Pickled data cache read from '{cache_file}'")
+        return feed_data
     except FileNotFoundError:
         return None
 
@@ -34,7 +34,7 @@ def try_write_cache(cache_file, feed_data):
     try:
         with open(cache_file, 'wb') as cache:
             pickle.dump(feed_data, cache)
-            print(f"Pickled data cache written to '{cache_file}'")
+        print(f"Pickled data cache written to '{cache_file}'")
     except OSError:
         print(f"Warning: could not write feed data to '{cache_file}'")
 

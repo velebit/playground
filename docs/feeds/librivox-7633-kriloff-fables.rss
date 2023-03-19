@@ -1,0 +1,145 @@
+<?xml version="1.0" ?><rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+  <title><![CDATA[Kriloff's Fables by Ivan Krylov (1769 - 1844)]]></title>
+  <link><![CDATA[https://librivox.org/kriloffs-fables-by-ivan-krylov/]]></link>
+  <atom:link rel="self" href="https://librivox.org/rss/7633" />
+  <description><![CDATA[Herein is a collection of 86 fables translated into English from the 201 written by Kriloff. Some of Kriloff's fables are translations from La Fontaine, but most are original. In some, the foibles of the Russian nobility can be seen. (Summary by Kevin Davidson)]]></description>
+  <!--<genre>project element=Genre</genre>-->
+  <!--<language>project element=lang.code</language>-->
+  <itunes:type>serial</itunes:type>
+  <itunes:author>LibriVox</itunes:author>
+  <itunes:summary><![CDATA[Herein is a collection of 86 fables translated into English from the 201 written by Kriloff. Some of Kriloff's fables are translations from La Fontaine, but most are original. In some, the foibles of the Russian nobility can be seen. (Summary by Kevin Davidson)]]></itunes:summary>
+  <itunes:owner>
+    <itunes:name>LibriVox</itunes:name>
+    <itunes:email>info@librivox.org</itunes:email>
+  </itunes:owner>
+  <itunes:category text="Arts">
+    <itunes:category text="Literature" />
+  </itunes:category>
+  <image><url>https://archive.org/download/LibrivoxCdCoverArt31/kriloffs_fables_1305.jpg</url></image>
+  <itunes:image href="https://archive.org/download/LibrivoxCdCoverArt31/kriloffs_fables_1305.jpg"/>
+  <itunes:explicit>no</itunes:explicit>
+  <!-- file loop -->
+    <item>
+    <title><![CDATA[00 - Introduction]]></title>
+    <itunes:episode><![CDATA[0]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/kriloffs-fables-by-ivan-krylov/]]></link>
+            <enclosure url="https://www.archive.org/download/kriloffsfables_kd_librivox/kriloffsfables_00_kriloff_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:31:52]]></itunes:duration>
+  <pubDate>Thu, 04 Apr 2013 00:00:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/kriloffsfables_kd_librivox/kriloffsfables_00_kriloff_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[01 - The Mice in Council - The Pike - The Eagle and the Mole - The Bear Among the Bees - The Peasant and the Sheep - The Oak and the Reed - The Gnat and the Shepherd - The Chest - The Fox and the Marmot - The Wolves and the Sheep]]></title>
+    <itunes:episode><![CDATA[1]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/kriloffs-fables-by-ivan-krylov/]]></link>
+            <enclosure url="https://www.archive.org/download/kriloffsfables_kd_librivox/kriloffsfables_01_kriloff_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:18:53]]></itunes:duration>
+  <pubDate>Thu, 04 Apr 2013 00:01:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/kriloffsfables_kd_librivox/kriloffsfables_01_kriloff_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[02 - The Elephant as Governor - The Man and His Shadow - The Eagle and the Bee - The Liar - The Pond and the River - The Merchant - The Nightingales - Demyan's Fish Soup - The Cock and the Pearl  - The Cornflower]]></title>
+    <itunes:episode><![CDATA[2]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/kriloffs-fables-by-ivan-krylov/]]></link>
+            <enclosure url="https://www.archive.org/download/kriloffsfables_kd_librivox/kriloffsfables_02_kriloff_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:19:34]]></itunes:duration>
+  <pubDate>Thu, 04 Apr 2013 00:02:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/kriloffsfables_kd_librivox/kriloffsfables_02_kriloff_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[03 - The Fly and the Bee - The Quartet - The Ducat - The Eagle and the Spider - The Peasant and the Robber - The Lion and the Panther - The Wolf in the Kennel - Apelles and the Young Ass - The Miser - The Sightseer]]></title>
+    <itunes:episode><![CDATA[3]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/kriloffs-fables-by-ivan-krylov/]]></link>
+            <enclosure url="https://www.archive.org/download/kriloffsfables_kd_librivox/kriloffsfables_03_kriloff_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:18:10]]></itunes:duration>
+  <pubDate>Thu, 04 Apr 2013 00:03:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/kriloffsfables_kd_librivox/kriloffsfables_03_kriloff_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[04 - The Mirror and the Monkey - The Tree - The Brook - The Kite - The Impious - The Mouse and the Rat - The Two Peasants - The Lion and the Fox - The Peasant and Snake - The Barrel]]></title>
+    <itunes:episode><![CDATA[4]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/kriloffs-fables-by-ivan-krylov/]]></link>
+            <enclosure url="https://www.archive.org/download/kriloffsfables_kd_librivox/kriloffsfables_04_kriloff_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:15:08]]></itunes:duration>
+  <pubDate>Thu, 04 Apr 2013 00:04:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/kriloffsfables_kd_librivox/kriloffsfables_04_kriloff_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[05  - The Fox - The Sheep and the Dogs - The Geese - The Peasants and the River - The Wolf and the Cat - The Hermit and the Bear - The Eagle and the Fowls - The Aged Lion - The Man with Three Wives - The Cloud]]></title>
+    <itunes:episode><![CDATA[5]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/kriloffs-fables-by-ivan-krylov/]]></link>
+            <enclosure url="https://www.archive.org/download/kriloffsfables_kd_librivox/kriloffsfables_05_kriloff_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:17:44]]></itunes:duration>
+  <pubDate>Thu, 04 Apr 2013 00:05:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/kriloffsfables_kd_librivox/kriloffsfables_05_kriloff_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[06 - The Sportsman - The Lion, the Chamois and the Fox - The Workman and the Peasant - Fortune and the Beggar - The Hare and the Hunt - The Mistress and Her Two Maids - Trishka's Coat - The Ant - The Cuckoo and the Eagle - The False Accusation]]></title>
+    <itunes:episode><![CDATA[6]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/kriloffs-fables-by-ivan-krylov/]]></link>
+            <enclosure url="https://www.archive.org/download/kriloffsfables_kd_librivox/kriloffsfables_06_kriloff_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:19:35]]></itunes:duration>
+  <pubDate>Thu, 04 Apr 2013 00:06:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/kriloffsfables_kd_librivox/kriloffsfables_06_kriloff_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[07 - The Swimmer and the Sea - Three Peasants - The Swan, the Pike and the Crayfish - The Wolf and the Stork - The Oracle - The Slanderer and the Snake - The Ape - The Sack - The Boy and the Snake - The Peasant in Trouble]]></title>
+    <itunes:episode><![CDATA[7]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/kriloffs-fables-by-ivan-krylov/]]></link>
+            <enclosure url="https://www.archive.org/download/kriloffsfables_kd_librivox/kriloffsfables_07_kriloff_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:16:28]]></itunes:duration>
+  <pubDate>Thu, 04 Apr 2013 00:07:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/kriloffsfables_kd_librivox/kriloffsfables_07_kriloff_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[08 - The Pike and the Cat - The Leaves and the Roots - Two Casks - The Parishoner - The Monkey and the Spectacles - The Raven and the Fox - The Funeral - The Division - The Ass and Nightingale - The Frog and the Ox]]></title>
+    <itunes:episode><![CDATA[8]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/kriloffs-fables-by-ivan-krylov/]]></link>
+            <enclosure url="https://www.archive.org/download/kriloffsfables_kd_librivox/kriloffsfables_08_kriloff_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:14:14]]></itunes:duration>
+  <pubDate>Thu, 04 Apr 2013 00:08:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/kriloffsfables_kd_librivox/kriloffsfables_08_kriloff_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[09 - The Elephant and the Pug - The Lamb - The Steed and His Rider - The Finch and the Pigeon - The Snake and the Lamb - The Grandee]]></title>
+    <itunes:episode><![CDATA[9]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/kriloffs-fables-by-ivan-krylov/]]></link>
+            <enclosure url="https://www.archive.org/download/kriloffsfables_kd_librivox/kriloffsfables_09_kriloff_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:08:13]]></itunes:duration>
+  <pubDate>Thu, 04 Apr 2013 00:09:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/kriloffsfables_kd_librivox/kriloffsfables_09_kriloff_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <!-- end file loop -->
+</channel>
+</rss>

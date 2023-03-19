@@ -1,0 +1,255 @@
+<?xml version="1.0" ?><rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+  <title><![CDATA[Twilight Land by Howard Pyle (1853 - 1911)]]></title>
+  <link><![CDATA[https://librivox.org/twilight-land-by-howard-pyle/]]></link>
+  <atom:link rel="self" href="https://librivox.org/rss/5023" />
+  <description><![CDATA[The room was all full of twilight; but there they sat, every one of them. I did not count them, but there were ever so many: Aladdin, and Ali Baba, and Fortunatis, and Jack-the-Giant-Killer, and Doctor Faustus, and Bidpai, and Cinderella, and Patient Grizzle, and the Soldier who cheated the Devil, and St. George, and Hans in Luck, who traded and traded his lump of gold until he had only an empty churn to show for it; and there was Sindbad the Sailor, and the Tailor who killed seven flies at a blow, and the Fisherman who fished up the Genie, and the Lad who fiddled for the Jew in the bramble-bush, and the Blacksmith who made Death sit in his apple-tree, and Boots, who always marries the Princess, whether he wants to or not-- a rag-tag lot as ever you saw in your life, gathered from every place, and brought together in Twilight Land. 
+(Extracted from the first chapter of the book)]]></description>
+  <!--<genre>project element=Genre</genre>-->
+  <!--<language>project element=lang.code</language>-->
+  <itunes:type>serial</itunes:type>
+  <itunes:author>LibriVox</itunes:author>
+  <itunes:summary><![CDATA[The room was all full of twilight; but there they sat, every one of them. I did not count them, but there were ever so many: Aladdin, and Ali Baba, and Fortunatis, and Jack-the-Giant-Killer, and Doctor Faustus, and Bidpai, and Cinderella, and Patient Grizzle, and the Soldier who cheated the Devil, and St. George, and Hans in Luck, who traded and traded his lump of gold until he had only an empty churn to show for it; and there was Sindbad the Sailor, and the Tailor who killed seven flies at a blow, and the Fisherman who fished up the Genie, and the Lad who fiddled for the Jew in the bramble-bush, and the Blacksmith who made Death sit in his apple-tree, and Boots, who always marries the Princess, whether he wants to or not-- a rag-tag lot as ever you saw in your life, gathered from every place, and brought together in Twilight Land. 
+(Extracted from the first chapter of the book)]]></itunes:summary>
+  <itunes:owner>
+    <itunes:name>LibriVox</itunes:name>
+    <itunes:email>info@librivox.org</itunes:email>
+  </itunes:owner>
+  <itunes:category text="Arts">
+    <itunes:category text="Literature" />
+  </itunes:category>
+  <image><url>https://archive.org/download/LibrivoxCdCoverArt25/twilight_land_1211.jpg</url></image>
+  <itunes:image href="https://archive.org/download/LibrivoxCdCoverArt25/twilight_land_1211.jpg"/>
+  <itunes:explicit>no</itunes:explicit>
+  <!-- file loop -->
+    <item>
+    <title><![CDATA[01a - Introduction]]></title>
+    <itunes:episode><![CDATA[1]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/twilight-land-by-howard-pyle/]]></link>
+            <enclosure url="https://www.archive.org/download/twilightland_1107_librivox/twilightland_01a_pyle_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:05:07]]></itunes:duration>
+  <pubDate>Thu, 21 Jul 2011 00:00:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/twilightland_1107_librivox/twilightland_01a_pyle_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[01b - Introduction (alternate)]]></title>
+    <itunes:episode><![CDATA[2]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/twilight-land-by-howard-pyle/]]></link>
+            <enclosure url="https://www.archive.org/download/twilightland_1107_librivox/twilightland_01b_pyle_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:04:45]]></itunes:duration>
+  <pubDate>Thu, 21 Jul 2011 00:01:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/twilightland_1107_librivox/twilightland_01b_pyle_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[02 - The Stool of Fortune]]></title>
+    <itunes:episode><![CDATA[3]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/twilight-land-by-howard-pyle/]]></link>
+            <enclosure url="https://www.archive.org/download/twilightland_1107_librivox/twilightland_02_pyle_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:23:04]]></itunes:duration>
+  <pubDate>Thu, 21 Jul 2011 00:02:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/twilightland_1107_librivox/twilightland_02_pyle_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[03 - The Talisman of Solomon (Part I)]]></title>
+    <itunes:episode><![CDATA[4]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/twilight-land-by-howard-pyle/]]></link>
+            <enclosure url="https://www.archive.org/download/twilightland_1107_librivox/twilightland_03_pyle_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:20:01]]></itunes:duration>
+  <pubDate>Thu, 21 Jul 2011 00:03:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/twilightland_1107_librivox/twilightland_03_pyle_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[04 - The Talisman of Solomon (Part II)]]></title>
+    <itunes:episode><![CDATA[5]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/twilight-land-by-howard-pyle/]]></link>
+            <enclosure url="https://www.archive.org/download/twilightland_1107_librivox/twilightland_04_pyle_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:30:09]]></itunes:duration>
+  <pubDate>Thu, 21 Jul 2011 00:04:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/twilightland_1107_librivox/twilightland_04_pyle_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[05 - Ill-Luck and the Fiddler]]></title>
+    <itunes:episode><![CDATA[6]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/twilight-land-by-howard-pyle/]]></link>
+            <enclosure url="https://www.archive.org/download/twilightland_1107_librivox/twilightland_05_pyle_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:19:16]]></itunes:duration>
+  <pubDate>Thu, 21 Jul 2011 00:05:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/twilightland_1107_librivox/twilightland_05_pyle_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[06 - Empty Bottles]]></title>
+    <itunes:episode><![CDATA[7]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/twilight-land-by-howard-pyle/]]></link>
+            <enclosure url="https://www.archive.org/download/twilightland_1107_librivox/twilightland_06_pyle_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:16:16]]></itunes:duration>
+  <pubDate>Thu, 21 Jul 2011 00:06:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/twilightland_1107_librivox/twilightland_06_pyle_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[07 - Good Gifts and a Fool's Folly]]></title>
+    <itunes:episode><![CDATA[8]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/twilight-land-by-howard-pyle/]]></link>
+            <enclosure url="https://www.archive.org/download/twilightland_1107_librivox/twilightland_07_pyle_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:21:55]]></itunes:duration>
+  <pubDate>Thu, 21 Jul 2011 00:07:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/twilightland_1107_librivox/twilightland_07_pyle_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[08 - The Good of a Few Words]]></title>
+    <itunes:episode><![CDATA[9]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/twilight-land-by-howard-pyle/]]></link>
+            <enclosure url="https://www.archive.org/download/twilightland_1107_librivox/twilightland_08_pyle_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:33:19]]></itunes:duration>
+  <pubDate>Thu, 21 Jul 2011 00:08:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/twilightland_1107_librivox/twilightland_08_pyle_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[09 - Woman's Wit]]></title>
+    <itunes:episode><![CDATA[10]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/twilight-land-by-howard-pyle/]]></link>
+            <enclosure url="https://www.archive.org/download/twilightland_1107_librivox/twilightland_09_pyle_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:25:43]]></itunes:duration>
+  <pubDate>Thu, 21 Jul 2011 00:09:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/twilightland_1107_librivox/twilightland_09_pyle_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[10 - A Piece of Good Luck]]></title>
+    <itunes:episode><![CDATA[11]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/twilight-land-by-howard-pyle/]]></link>
+            <enclosure url="https://www.archive.org/download/twilightland_1107_librivox/twilightland_10_pyle_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:40:05]]></itunes:duration>
+  <pubDate>Thu, 21 Jul 2011 00:10:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/twilightland_1107_librivox/twilightland_10_pyle_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[11 - The Fruit of Happiness]]></title>
+    <itunes:episode><![CDATA[12]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/twilight-land-by-howard-pyle/]]></link>
+            <enclosure url="https://www.archive.org/download/twilightland_1107_librivox/twilightland_11_pyle_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:24:20]]></itunes:duration>
+  <pubDate>Thu, 21 Jul 2011 00:11:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/twilightland_1107_librivox/twilightland_11_pyle_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[12 - Not a Pin to Choose]]></title>
+    <itunes:episode><![CDATA[13]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/twilight-land-by-howard-pyle/]]></link>
+            <enclosure url="https://www.archive.org/download/twilightland_1107_librivox/twilightland_12_pyle_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:42:27]]></itunes:duration>
+  <pubDate>Thu, 21 Jul 2011 00:12:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/twilightland_1107_librivox/twilightland_12_pyle_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[13 - Much Shall Have More and Little Shall Have Less]]></title>
+    <itunes:episode><![CDATA[14]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/twilight-land-by-howard-pyle/]]></link>
+            <enclosure url="https://www.archive.org/download/twilightland_1107_librivox/twilightland_13_pyle_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:16:13]]></itunes:duration>
+  <pubDate>Thu, 21 Jul 2011 00:13:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/twilightland_1107_librivox/twilightland_13_pyle_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[14 - Wisdom's Wages and Folly's Pay]]></title>
+    <itunes:episode><![CDATA[15]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/twilight-land-by-howard-pyle/]]></link>
+            <enclosure url="https://www.archive.org/download/twilightland_1107_librivox/twilightland_14_pyle_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:23:11]]></itunes:duration>
+  <pubDate>Thu, 21 Jul 2011 00:14:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/twilightland_1107_librivox/twilightland_14_pyle_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[15 - The Enchanted Island]]></title>
+    <itunes:episode><![CDATA[16]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/twilight-land-by-howard-pyle/]]></link>
+            <enclosure url="https://www.archive.org/download/twilightland_1107_librivox/twilightland_15_pyle_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:25:42]]></itunes:duration>
+  <pubDate>Thu, 21 Jul 2011 00:15:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/twilightland_1107_librivox/twilightland_15_pyle_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[16 - All Things are as Fate Wills]]></title>
+    <itunes:episode><![CDATA[17]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/twilight-land-by-howard-pyle/]]></link>
+            <enclosure url="https://www.archive.org/download/twilightland_1107_librivox/twilightland_16_pyle_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:22:08]]></itunes:duration>
+  <pubDate>Thu, 21 Jul 2011 00:16:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/twilightland_1107_librivox/twilightland_16_pyle_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[17 - Where to Lay the Blame]]></title>
+    <itunes:episode><![CDATA[18]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/twilight-land-by-howard-pyle/]]></link>
+            <enclosure url="https://www.archive.org/download/twilightland_1107_librivox/twilightland_17_pyle_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:15:27]]></itunes:duration>
+  <pubDate>Thu, 21 Jul 2011 00:17:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/twilightland_1107_librivox/twilightland_17_pyle_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[18 - The Salt of Life]]></title>
+    <itunes:episode><![CDATA[19]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/twilight-land-by-howard-pyle/]]></link>
+            <enclosure url="https://www.archive.org/download/twilightland_1107_librivox/twilightland_18_pyle_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:34:54]]></itunes:duration>
+  <pubDate>Thu, 21 Jul 2011 00:18:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/twilightland_1107_librivox/twilightland_18_pyle_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <!-- end file loop -->
+</channel>
+</rss>

@@ -1,0 +1,421 @@
+<?xml version="1.0" ?><rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+  <title><![CDATA[Indian Story Book, The by Richard Wilson (1887 - 1976)]]></title>
+  <link><![CDATA[https://librivox.org/the-indian-story-book-by-richard-wilson/]]></link>
+  <atom:link rel="self" href="https://librivox.org/rss/10395" />
+  <description><![CDATA[Richard Wilson has taken tales from the two great Indian epics, the Rāmāyaṇa and the Mahābhārata, as well as other early sources, and has retold them in English, in an effort to showcase to young English-speaking readers that 'oriental' stories share the same elements as tales they are used to. Love, hate, virtue, oppression, tenderness, bravery and resourcefulness and an ultimate desire to conquer evil. - Summary by Paraphrased from the Introduction]]></description>
+  <!--<genre>project element=Genre</genre>-->
+  <!--<language>project element=lang.code</language>-->
+  <itunes:type>serial</itunes:type>
+  <itunes:author>LibriVox</itunes:author>
+  <itunes:summary><![CDATA[Richard Wilson has taken tales from the two great Indian epics, the Rāmāyaṇa and the Mahābhārata, as well as other early sources, and has retold them in English, in an effort to showcase to young English-speaking readers that 'oriental' stories share the same elements as tales they are used to. Love, hate, virtue, oppression, tenderness, bravery and resourcefulness and an ultimate desire to conquer evil. - Summary by Paraphrased from the Introduction]]></itunes:summary>
+  <itunes:owner>
+    <itunes:name>LibriVox</itunes:name>
+    <itunes:email>info@librivox.org</itunes:email>
+  </itunes:owner>
+  <itunes:category text="Arts">
+    <itunes:category text="Literature" />
+  </itunes:category>
+  <image><url>https://archive.org/download/indian_story_book_1702_librivox/indian_story_book_1702.jpg</url></image>
+  <itunes:image href="https://archive.org/download/indian_story_book_1702_librivox/indian_story_book_1702.jpg"/>
+  <itunes:explicit>no</itunes:explicit>
+  <!-- file loop -->
+    <item>
+    <title><![CDATA[Preface]]></title>
+    <itunes:episode><![CDATA[0]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-indian-story-book-by-richard-wilson/]]></link>
+            <enclosure url="https://www.archive.org/download/indian_story_book_1702_librivox/indianstorybook_00_wilson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 19 Feb 2017 00:00:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/indian_story_book_1702_librivox/indianstorybook_00_wilson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Rama's Quest-Parts 1-2]]></title>
+    <itunes:episode><![CDATA[1]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-indian-story-book-by-richard-wilson/]]></link>
+            <enclosure url="https://www.archive.org/download/indian_story_book_1702_librivox/indianstorybook_01_wilson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 19 Feb 2017 00:01:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/indian_story_book_1702_librivox/indianstorybook_01_wilson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Rama's Quest-Parts 3-4]]></title>
+    <itunes:episode><![CDATA[2]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-indian-story-book-by-richard-wilson/]]></link>
+            <enclosure url="https://www.archive.org/download/indian_story_book_1702_librivox/indianstorybook_02_wilson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 19 Feb 2017 00:02:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/indian_story_book_1702_librivox/indianstorybook_02_wilson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Rama's Quest-Parts 5-6]]></title>
+    <itunes:episode><![CDATA[3]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-indian-story-book-by-richard-wilson/]]></link>
+            <enclosure url="https://www.archive.org/download/indian_story_book_1702_librivox/indianstorybook_03_wilson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 19 Feb 2017 00:03:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/indian_story_book_1702_librivox/indianstorybook_03_wilson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Rama's Quest-Parts 7-8]]></title>
+    <itunes:episode><![CDATA[4]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-indian-story-book-by-richard-wilson/]]></link>
+            <enclosure url="https://www.archive.org/download/indian_story_book_1702_librivox/indianstorybook_04_wilson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 19 Feb 2017 00:04:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/indian_story_book_1702_librivox/indianstorybook_04_wilson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Rama's Quest-Parts 9-10]]></title>
+    <itunes:episode><![CDATA[5]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-indian-story-book-by-richard-wilson/]]></link>
+            <enclosure url="https://www.archive.org/download/indian_story_book_1702_librivox/indianstorybook_05_wilson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 19 Feb 2017 00:05:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/indian_story_book_1702_librivox/indianstorybook_05_wilson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Rama's Quest-Parts 11-12]]></title>
+    <itunes:episode><![CDATA[6]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-indian-story-book-by-richard-wilson/]]></link>
+            <enclosure url="https://www.archive.org/download/indian_story_book_1702_librivox/indianstorybook_06_wilson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 19 Feb 2017 00:06:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/indian_story_book_1702_librivox/indianstorybook_06_wilson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Rama's Quest-Part 13]]></title>
+    <itunes:episode><![CDATA[7]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-indian-story-book-by-richard-wilson/]]></link>
+            <enclosure url="https://www.archive.org/download/indian_story_book_1702_librivox/indianstorybook_07_wilson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 19 Feb 2017 00:07:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/indian_story_book_1702_librivox/indianstorybook_07_wilson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Gentle Conquerer]]></title>
+    <itunes:episode><![CDATA[8]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-indian-story-book-by-richard-wilson/]]></link>
+            <enclosure url="https://www.archive.org/download/indian_story_book_1702_librivox/indianstorybook_08_wilson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 19 Feb 2017 00:08:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/indian_story_book_1702_librivox/indianstorybook_08_wilson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Five Tall Sons of Pandu- Part 1]]></title>
+    <itunes:episode><![CDATA[9]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-indian-story-book-by-richard-wilson/]]></link>
+            <enclosure url="https://www.archive.org/download/indian_story_book_1702_librivox/indianstorybook_09_wilson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 19 Feb 2017 00:09:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/indian_story_book_1702_librivox/indianstorybook_09_wilson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Five Tall Sons of Pandu- Parts 2-3]]></title>
+    <itunes:episode><![CDATA[10]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-indian-story-book-by-richard-wilson/]]></link>
+            <enclosure url="https://www.archive.org/download/indian_story_book_1702_librivox/indianstorybook_10_wilson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 19 Feb 2017 00:10:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/indian_story_book_1702_librivox/indianstorybook_10_wilson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Five Tall Sons of Pandu- Parts 4-5]]></title>
+    <itunes:episode><![CDATA[11]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-indian-story-book-by-richard-wilson/]]></link>
+            <enclosure url="https://www.archive.org/download/indian_story_book_1702_librivox/indianstorybook_11_wilson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 19 Feb 2017 00:11:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/indian_story_book_1702_librivox/indianstorybook_11_wilson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Five Tall Sons of Pandu- Parts 6-7]]></title>
+    <itunes:episode><![CDATA[12]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-indian-story-book-by-richard-wilson/]]></link>
+            <enclosure url="https://www.archive.org/download/indian_story_book_1702_librivox/indianstorybook_12_wilson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 19 Feb 2017 00:12:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/indian_story_book_1702_librivox/indianstorybook_12_wilson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Five Tall Sons of Pandu- Parts 8-9]]></title>
+    <itunes:episode><![CDATA[13]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-indian-story-book-by-richard-wilson/]]></link>
+            <enclosure url="https://www.archive.org/download/indian_story_book_1702_librivox/indianstorybook_13_wilson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 19 Feb 2017 00:13:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/indian_story_book_1702_librivox/indianstorybook_13_wilson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Five Tall Sons of Pandu- Parts 10-12]]></title>
+    <itunes:episode><![CDATA[14]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-indian-story-book-by-richard-wilson/]]></link>
+            <enclosure url="https://www.archive.org/download/indian_story_book_1702_librivox/indianstorybook_14_wilson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 19 Feb 2017 00:14:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/indian_story_book_1702_librivox/indianstorybook_14_wilson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Nala The Gamester-Parts 1-2]]></title>
+    <itunes:episode><![CDATA[15]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-indian-story-book-by-richard-wilson/]]></link>
+            <enclosure url="https://www.archive.org/download/indian_story_book_1702_librivox/indianstorybook_15_wilson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 19 Feb 2017 00:15:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/indian_story_book_1702_librivox/indianstorybook_15_wilson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Nala The Gamester-Parts 3-4]]></title>
+    <itunes:episode><![CDATA[16]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-indian-story-book-by-richard-wilson/]]></link>
+            <enclosure url="https://www.archive.org/download/indian_story_book_1702_librivox/indianstorybook_16_wilson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 19 Feb 2017 00:16:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/indian_story_book_1702_librivox/indianstorybook_16_wilson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Nala The Gamester-Parts 5-6]]></title>
+    <itunes:episode><![CDATA[17]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-indian-story-book-by-richard-wilson/]]></link>
+            <enclosure url="https://www.archive.org/download/indian_story_book_1702_librivox/indianstorybook_17_wilson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 19 Feb 2017 00:17:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/indian_story_book_1702_librivox/indianstorybook_17_wilson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Nala The Gamester-Parts 7-8]]></title>
+    <itunes:episode><![CDATA[18]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-indian-story-book-by-richard-wilson/]]></link>
+            <enclosure url="https://www.archive.org/download/indian_story_book_1702_librivox/indianstorybook_18_wilson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 19 Feb 2017 00:18:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/indian_story_book_1702_librivox/indianstorybook_18_wilson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Pool of Enchantment]]></title>
+    <itunes:episode><![CDATA[19]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-indian-story-book-by-richard-wilson/]]></link>
+            <enclosure url="https://www.archive.org/download/indian_story_book_1702_librivox/indianstorybook_19_wilson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 19 Feb 2017 00:19:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/indian_story_book_1702_librivox/indianstorybook_19_wilson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Prince Wonderful-Part 1]]></title>
+    <itunes:episode><![CDATA[20]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-indian-story-book-by-richard-wilson/]]></link>
+            <enclosure url="https://www.archive.org/download/indian_story_book_1702_librivox/indianstorybook_20_wilson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 19 Feb 2017 00:20:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/indian_story_book_1702_librivox/indianstorybook_20_wilson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Prince Wonderful-Parts 2-3]]></title>
+    <itunes:episode><![CDATA[21]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-indian-story-book-by-richard-wilson/]]></link>
+            <enclosure url="https://www.archive.org/download/indian_story_book_1702_librivox/indianstorybook_21_wilson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 19 Feb 2017 00:21:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/indian_story_book_1702_librivox/indianstorybook_21_wilson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Prince Wonderful-Parts 4-5]]></title>
+    <itunes:episode><![CDATA[22]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-indian-story-book-by-richard-wilson/]]></link>
+            <enclosure url="https://www.archive.org/download/indian_story_book_1702_librivox/indianstorybook_22_wilson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 19 Feb 2017 00:22:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/indian_story_book_1702_librivox/indianstorybook_22_wilson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Prince Wonderful-Parts 6- 7]]></title>
+    <itunes:episode><![CDATA[23]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-indian-story-book-by-richard-wilson/]]></link>
+            <enclosure url="https://www.archive.org/download/indian_story_book_1702_librivox/indianstorybook_23_wilson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 19 Feb 2017 00:23:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/indian_story_book_1702_librivox/indianstorybook_23_wilson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Sabala, the Sacred Cow-Parts 1-2]]></title>
+    <itunes:episode><![CDATA[24]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-indian-story-book-by-richard-wilson/]]></link>
+            <enclosure url="https://www.archive.org/download/indian_story_book_1702_librivox/indianstorybook_24_wilson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 19 Feb 2017 00:24:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/indian_story_book_1702_librivox/indianstorybook_24_wilson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Sabala, the Sacred Cow-Part 3]]></title>
+    <itunes:episode><![CDATA[25]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-indian-story-book-by-richard-wilson/]]></link>
+            <enclosure url="https://www.archive.org/download/indian_story_book_1702_librivox/indianstorybook_25_wilson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 19 Feb 2017 00:25:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/indian_story_book_1702_librivox/indianstorybook_25_wilson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Sabala, the Sacred Cow-Parts 4-5]]></title>
+    <itunes:episode><![CDATA[26]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-indian-story-book-by-richard-wilson/]]></link>
+            <enclosure url="https://www.archive.org/download/indian_story_book_1702_librivox/indianstorybook_26_wilson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 19 Feb 2017 00:26:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/indian_story_book_1702_librivox/indianstorybook_26_wilson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Sakuntala and Dushyanta-Parts 1-2]]></title>
+    <itunes:episode><![CDATA[27]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-indian-story-book-by-richard-wilson/]]></link>
+            <enclosure url="https://www.archive.org/download/indian_story_book_1702_librivox/indianstorybook_27_wilson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 19 Feb 2017 00:27:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/indian_story_book_1702_librivox/indianstorybook_27_wilson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Sakuntala and Dushyanta-Parts 3-4]]></title>
+    <itunes:episode><![CDATA[28]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-indian-story-book-by-richard-wilson/]]></link>
+            <enclosure url="https://www.archive.org/download/indian_story_book_1702_librivox/indianstorybook_28_wilson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 19 Feb 2017 00:28:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/indian_story_book_1702_librivox/indianstorybook_28_wilson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Sakuntala and Dushyanta-Parts 5-6]]></title>
+    <itunes:episode><![CDATA[29]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-indian-story-book-by-richard-wilson/]]></link>
+            <enclosure url="https://www.archive.org/download/indian_story_book_1702_librivox/indianstorybook_29_wilson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 19 Feb 2017 00:29:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/indian_story_book_1702_librivox/indianstorybook_29_wilson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Sakuntala and Dushyanta-Parts 7-8]]></title>
+    <itunes:episode><![CDATA[30]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-indian-story-book-by-richard-wilson/]]></link>
+            <enclosure url="https://www.archive.org/download/indian_story_book_1702_librivox/indianstorybook_30_wilson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 19 Feb 2017 00:30:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/indian_story_book_1702_librivox/indianstorybook_30_wilson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Great Drought-Parts 1-2]]></title>
+    <itunes:episode><![CDATA[31]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-indian-story-book-by-richard-wilson/]]></link>
+            <enclosure url="https://www.archive.org/download/indian_story_book_1702_librivox/indianstorybook_31_wilson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 19 Feb 2017 00:31:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/indian_story_book_1702_librivox/indianstorybook_31_wilson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Great Drought-Parts 3-4]]></title>
+    <itunes:episode><![CDATA[32]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-indian-story-book-by-richard-wilson/]]></link>
+            <enclosure url="https://www.archive.org/download/indian_story_book_1702_librivox/indianstorybook_32_wilson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 19 Feb 2017 00:32:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/indian_story_book_1702_librivox/indianstorybook_32_wilson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <!-- end file loop -->
+</channel>
+</rss>

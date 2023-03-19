@@ -1,0 +1,225 @@
+<?xml version="1.0" ?><rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+  <title><![CDATA[Outa Karel’s Stories: South African Folk-Lore Tales by Sanni  Metelerkamp (1867 - 1945)]]></title>
+  <link><![CDATA[https://librivox.org/outa-karels-stories-south-african-folk-lore-tales-by-sanni-metelerkamp/]]></link>
+  <atom:link rel="self" href="https://librivox.org/rss/13122" />
+  <description><![CDATA[Sanni Metelerkamp was a South African playwright and author born in 1867. She is well known for her biography of her great-grandfather, George Rex, the British born entrepreneur who founded the town of Knysna and was rumoured to have been an illegitimate son of King George III. 
+Possibly her greatest legacy however is the publication of a collection of folk tales which in her own words "… are the common property of every country child in South Africa." By the time she published "Outa Karel’s Stories: South African Folk-Lore Tales" in 1914, South Africa had come through a time of great turmoil. There had been years of conflict between the Boer settlers, the Zulus and the British. The arrival of peoples from all over the world seeking gold and diamonds together with the advent of the railroads, was opening up the country and changing society. Sanni was afraid that many of the old traditions and stories would be lost and so set down these few for posterity. 
+She also stated " I greatly regret that (the stories) appear here in what is, to them, a foreign tongue. No one who has not heard them in the Taal - that quaint, expressive language of the people - can have any idea of what they lose through translation, but, having been written in the first instance for English publications, the original medium was out of the question." However, even The Taal (which in South Africa refers to Afrikaans) would not have been the language from whence these tales originated. They came from the oral traditions of the indigenous peoples of South Africa . 
+The storyteller is Outa Karel, an old family retainer and though they are told here in English, there are several words and expressions in the "Taal". There is however an excellent Glossary at the beginning of the book which is read as a separate file for reference.
+( Noel Badrian) ]]></description>
+  <!--<genre>project element=Genre</genre>-->
+  <!--<language>project element=lang.code</language>-->
+  <itunes:type>serial</itunes:type>
+  <itunes:author>LibriVox</itunes:author>
+  <itunes:summary><![CDATA[Sanni Metelerkamp was a South African playwright and author born in 1867. She is well known for her biography of her great-grandfather, George Rex, the British born entrepreneur who founded the town of Knysna and was rumoured to have been an illegitimate son of King George III. 
+Possibly her greatest legacy however is the publication of a collection of folk tales which in her own words "… are the common property of every country child in South Africa." By the time she published "Outa Karel’s Stories: South African Folk-Lore Tales" in 1914, South Africa had come through a time of great turmoil. There had been years of conflict between the Boer settlers, the Zulus and the British. The arrival of peoples from all over the world seeking gold and diamonds together with the advent of the railroads, was opening up the country and changing society. Sanni was afraid that many of the old traditions and stories would be lost and so set down these few for posterity. 
+She also stated " I greatly regret that (the stories) appear here in what is, to them, a foreign tongue. No one who has not heard them in the Taal - that quaint, expressive language of the people - can have any idea of what they lose through translation, but, having been written in the first instance for English publications, the original medium was out of the question." However, even The Taal (which in South Africa refers to Afrikaans) would not have been the language from whence these tales originated. They came from the oral traditions of the indigenous peoples of South Africa . 
+The storyteller is Outa Karel, an old family retainer and though they are told here in English, there are several words and expressions in the "Taal". There is however an excellent Glossary at the beginning of the book which is read as a separate file for reference.
+( Noel Badrian) ]]></itunes:summary>
+  <itunes:owner>
+    <itunes:name>LibriVox</itunes:name>
+    <itunes:email>info@librivox.org</itunes:email>
+  </itunes:owner>
+  <itunes:category text="Arts">
+    <itunes:category text="Literature" />
+  </itunes:category>
+  <image><url>https://archive.org/download/outa_karels_stories_1809_librivox/outa_karels_stories_1809.jpg</url></image>
+  <itunes:image href="https://archive.org/download/outa_karels_stories_1809_librivox/outa_karels_stories_1809.jpg"/>
+  <itunes:explicit>no</itunes:explicit>
+  <!-- file loop -->
+    <item>
+    <title><![CDATA[00 Glossary]]></title>
+    <itunes:episode><![CDATA[0]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/outa-karels-stories-south-african-folk-lore-tales-by-sanni-metelerkamp/]]></link>
+            <enclosure url="https://www.archive.org/download/outa_karels_stories_1809_librivox/outakarelsstories_00_metelerkamp_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Thu, 06 Sep 2018 00:00:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/outa_karels_stories_1809_librivox/outakarelsstories_00_metelerkamp_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[01  The Place and the People]]></title>
+    <itunes:episode><![CDATA[1]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/outa-karels-stories-south-african-folk-lore-tales-by-sanni-metelerkamp/]]></link>
+            <enclosure url="https://www.archive.org/download/outa_karels_stories_1809_librivox/outakarelsstories_01_metelerkamp_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Thu, 06 Sep 2018 00:01:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/outa_karels_stories_1809_librivox/outakarelsstories_01_metelerkamp_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[02 How Jakhals Fed Oom Leeuw]]></title>
+    <itunes:episode><![CDATA[2]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/outa-karels-stories-south-african-folk-lore-tales-by-sanni-metelerkamp/]]></link>
+            <enclosure url="https://www.archive.org/download/outa_karels_stories_1809_librivox/outakarelsstories_02_metelerkamp_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Thu, 06 Sep 2018 00:02:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/outa_karels_stories_1809_librivox/outakarelsstories_02_metelerkamp_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[03 Who was King?]]></title>
+    <itunes:episode><![CDATA[3]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/outa-karels-stories-south-african-folk-lore-tales-by-sanni-metelerkamp/]]></link>
+            <enclosure url="https://www.archive.org/download/outa_karels_stories_1809_librivox/outakarelsstories_03_metelerkamp_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Thu, 06 Sep 2018 00:03:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/outa_karels_stories_1809_librivox/outakarelsstories_03_metelerkamp_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[04 Why the Hyena is Lame]]></title>
+    <itunes:episode><![CDATA[4]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/outa-karels-stories-south-african-folk-lore-tales-by-sanni-metelerkamp/]]></link>
+            <enclosure url="https://www.archive.org/download/outa_karels_stories_1809_librivox/outakarelsstories_04_metelerkamp_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Thu, 06 Sep 2018 00:04:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/outa_karels_stories_1809_librivox/outakarelsstories_04_metelerkamp_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[05 Who was the Thief?]]></title>
+    <itunes:episode><![CDATA[5]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/outa-karels-stories-south-african-folk-lore-tales-by-sanni-metelerkamp/]]></link>
+            <enclosure url="https://www.archive.org/download/outa_karels_stories_1809_librivox/outakarelsstories_05_metelerkamp_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Thu, 06 Sep 2018 00:05:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/outa_karels_stories_1809_librivox/outakarelsstories_05_metelerkamp_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[06 The Sun]]></title>
+    <itunes:episode><![CDATA[6]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/outa-karels-stories-south-african-folk-lore-tales-by-sanni-metelerkamp/]]></link>
+            <enclosure url="https://www.archive.org/download/outa_karels_stories_1809_librivox/outakarelsstories_06_metelerkamp_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Thu, 06 Sep 2018 00:06:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/outa_karels_stories_1809_librivox/outakarelsstories_06_metelerkamp_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[07 The Stars and the Stars’ Road]]></title>
+    <itunes:episode><![CDATA[7]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/outa-karels-stories-south-african-folk-lore-tales-by-sanni-metelerkamp/]]></link>
+            <enclosure url="https://www.archive.org/download/outa_karels_stories_1809_librivox/outakarelsstories_07_metelerkamp_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Thu, 06 Sep 2018 00:07:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/outa_karels_stories_1809_librivox/outakarelsstories_07_metelerkamp_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[08 Why the Hare’s Nose is Slit]]></title>
+    <itunes:episode><![CDATA[8]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/outa-karels-stories-south-african-folk-lore-tales-by-sanni-metelerkamp/]]></link>
+            <enclosure url="https://www.archive.org/download/outa_karels_stories_1809_librivox/outakarelsstories_08_metelerkamp_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Thu, 06 Sep 2018 00:08:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/outa_karels_stories_1809_librivox/outakarelsstories_08_metelerkamp_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[09 How the Jackal got his Stripe]]></title>
+    <itunes:episode><![CDATA[9]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/outa-karels-stories-south-african-folk-lore-tales-by-sanni-metelerkamp/]]></link>
+            <enclosure url="https://www.archive.org/download/outa_karels_stories_1809_librivox/outakarelsstories_09_metelerkamp_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Thu, 06 Sep 2018 00:09:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/outa_karels_stories_1809_librivox/outakarelsstories_09_metelerkamp_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[10 The Animals’ Dam]]></title>
+    <itunes:episode><![CDATA[10]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/outa-karels-stories-south-african-folk-lore-tales-by-sanni-metelerkamp/]]></link>
+            <enclosure url="https://www.archive.org/download/outa_karels_stories_1809_librivox/outakarelsstories_10_metelerkamp_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Thu, 06 Sep 2018 00:10:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/outa_karels_stories_1809_librivox/outakarelsstories_10_metelerkamp_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[11 Saved by his Tail]]></title>
+    <itunes:episode><![CDATA[11]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/outa-karels-stories-south-african-folk-lore-tales-by-sanni-metelerkamp/]]></link>
+            <enclosure url="https://www.archive.org/download/outa_karels_stories_1809_librivox/outakarelsstories_11_metelerkamp_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Thu, 06 Sep 2018 00:11:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/outa_karels_stories_1809_librivox/outakarelsstories_11_metelerkamp_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[12 The Flying Lion]]></title>
+    <itunes:episode><![CDATA[12]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/outa-karels-stories-south-african-folk-lore-tales-by-sanni-metelerkamp/]]></link>
+            <enclosure url="https://www.archive.org/download/outa_karels_stories_1809_librivox/outakarelsstories_12_metelerkamp_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Thu, 06 Sep 2018 00:12:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/outa_karels_stories_1809_librivox/outakarelsstories_12_metelerkamp_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[13 Why the Heron has a Crooked Neck]]></title>
+    <itunes:episode><![CDATA[13]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/outa-karels-stories-south-african-folk-lore-tales-by-sanni-metelerkamp/]]></link>
+            <enclosure url="https://www.archive.org/download/outa_karels_stories_1809_librivox/outakarelsstories_13_metelerkamp_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Thu, 06 Sep 2018 00:13:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/outa_karels_stories_1809_librivox/outakarelsstories_13_metelerkamp_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[14 The Little Red Tortoise]]></title>
+    <itunes:episode><![CDATA[14]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/outa-karels-stories-south-african-folk-lore-tales-by-sanni-metelerkamp/]]></link>
+            <enclosure url="https://www.archive.org/download/outa_karels_stories_1809_librivox/outakarelsstories_14_metelerkamp_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Thu, 06 Sep 2018 00:14:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/outa_karels_stories_1809_librivox/outakarelsstories_14_metelerkamp_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[15 The Ostrich Hunt ]]></title>
+    <itunes:episode><![CDATA[15]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/outa-karels-stories-south-african-folk-lore-tales-by-sanni-metelerkamp/]]></link>
+            <enclosure url="https://www.archive.org/download/outa_karels_stories_1809_librivox/outakarelsstories_15_metelerkamp_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Thu, 06 Sep 2018 00:15:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/outa_karels_stories_1809_librivox/outakarelsstories_15_metelerkamp_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <!-- end file loop -->
+</channel>
+</rss>

@@ -1,0 +1,217 @@
+<?xml version="1.0" ?><rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+  <title><![CDATA[Lore of Proserpine by Maurice Henry Hewlett (1861 - 1923)]]></title>
+  <link><![CDATA[https://librivox.org/lore-of-proserpine-by-maurice-henry-hewlett/]]></link>
+  <atom:link rel="self" href="https://librivox.org/rss/10950" />
+  <description><![CDATA[If a thing is not sensibly true it may be morally so. If it is not phenomenally true it may be so substantially. And it is possible that one may see substance in the idiom, so to speak, of the senses. That, I take it, is how the Greeks saw thunder-storms and other huge convulsions; that is how they saw meadow, grove and stream—in terms of their own fair humanity. They saw such natural phenomena as shadows of spiritual conflict or of spiritual calm, and within the appearance apprehended the truth. So it may be that I have done. Some such may be the explanation of all fairy experience. Let it be so. It is a fact, I believe, that there is nothing revealed in this book which will not bear a spiritual, and a moral, interpretation; and I venture to say of some of it that the moral implications involved are exceedingly momentous, and timely too. I need not refer to such matters any further. If they don't speak for themselves they will get no help from a preface. - Summary by Maurice Hewlett]]></description>
+  <!--<genre>project element=Genre</genre>-->
+  <!--<language>project element=lang.code</language>-->
+  <itunes:type>serial</itunes:type>
+  <itunes:author>LibriVox</itunes:author>
+  <itunes:summary><![CDATA[If a thing is not sensibly true it may be morally so. If it is not phenomenally true it may be so substantially. And it is possible that one may see substance in the idiom, so to speak, of the senses. That, I take it, is how the Greeks saw thunder-storms and other huge convulsions; that is how they saw meadow, grove and stream—in terms of their own fair humanity. They saw such natural phenomena as shadows of spiritual conflict or of spiritual calm, and within the appearance apprehended the truth. So it may be that I have done. Some such may be the explanation of all fairy experience. Let it be so. It is a fact, I believe, that there is nothing revealed in this book which will not bear a spiritual, and a moral, interpretation; and I venture to say of some of it that the moral implications involved are exceedingly momentous, and timely too. I need not refer to such matters any further. If they don't speak for themselves they will get no help from a preface. - Summary by Maurice Hewlett]]></itunes:summary>
+  <itunes:owner>
+    <itunes:name>LibriVox</itunes:name>
+    <itunes:email>info@librivox.org</itunes:email>
+  </itunes:owner>
+  <itunes:category text="Arts">
+    <itunes:category text="Literature" />
+  </itunes:category>
+  <image><url>https://archive.org/download/lore_of_proserpine_1608_librivox/lore_proserpine_1608.jpg</url></image>
+  <itunes:image href="https://archive.org/download/lore_of_proserpine_1608_librivox/lore_proserpine_1608.jpg"/>
+  <itunes:explicit>no</itunes:explicit>
+  <!-- file loop -->
+    <item>
+    <title><![CDATA[PREFACE]]></title>
+    <itunes:episode><![CDATA[0]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/lore-of-proserpine-by-maurice-henry-hewlett/]]></link>
+            <enclosure url="https://www.archive.org/download/lore_of_proserpine_1608_librivox/loreproserpine_00_hewlett_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 08 Aug 2016 00:00:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/lore_of_proserpine_1608_librivox/loreproserpine_00_hewlett_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[THE WINDOWS]]></title>
+    <itunes:episode><![CDATA[1]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/lore-of-proserpine-by-maurice-henry-hewlett/]]></link>
+            <enclosure url="https://www.archive.org/download/lore_of_proserpine_1608_librivox/loreproserpine_01_hewlett_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 08 Aug 2016 00:01:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/lore_of_proserpine_1608_librivox/loreproserpine_01_hewlett_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[A BOY IN THE WOOD]]></title>
+    <itunes:episode><![CDATA[2]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/lore-of-proserpine-by-maurice-henry-hewlett/]]></link>
+            <enclosure url="https://www.archive.org/download/lore_of_proserpine_1608_librivox/loreproserpine_02_hewlett_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 08 Aug 2016 00:02:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/lore_of_proserpine_1608_librivox/loreproserpine_02_hewlett_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[HARKNESS'S FANCY]]></title>
+    <itunes:episode><![CDATA[3]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/lore-of-proserpine-by-maurice-henry-hewlett/]]></link>
+            <enclosure url="https://www.archive.org/download/lore_of_proserpine_1608_librivox/loreproserpine_03_hewlett_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 08 Aug 2016 00:03:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/lore_of_proserpine_1608_librivox/loreproserpine_03_hewlett_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[THE GODS IN THE SCHOOLHOUSE]]></title>
+    <itunes:episode><![CDATA[4]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/lore-of-proserpine-by-maurice-henry-hewlett/]]></link>
+            <enclosure url="https://www.archive.org/download/lore_of_proserpine_1608_librivox/loreproserpine_04_hewlett_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 08 Aug 2016 00:04:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/lore_of_proserpine_1608_librivox/loreproserpine_04_hewlett_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[THE SOUL AT THE WINDOW]]></title>
+    <itunes:episode><![CDATA[5]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/lore-of-proserpine-by-maurice-henry-hewlett/]]></link>
+            <enclosure url="https://www.archive.org/download/lore_of_proserpine_1608_librivox/loreproserpine_05_hewlett_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 08 Aug 2016 00:05:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/lore_of_proserpine_1608_librivox/loreproserpine_05_hewlett_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[QUIDNUNC-Part 1]]></title>
+    <itunes:episode><![CDATA[6]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/lore-of-proserpine-by-maurice-henry-hewlett/]]></link>
+            <enclosure url="https://www.archive.org/download/lore_of_proserpine_1608_librivox/loreproserpine_06_hewlett_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 08 Aug 2016 00:06:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/lore_of_proserpine_1608_librivox/loreproserpine_06_hewlett_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[QUIDNUNC-Part 2]]></title>
+    <itunes:episode><![CDATA[7]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/lore-of-proserpine-by-maurice-henry-hewlett/]]></link>
+            <enclosure url="https://www.archive.org/download/lore_of_proserpine_1608_librivox/loreproserpine_07_hewlett_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 08 Aug 2016 00:07:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/lore_of_proserpine_1608_librivox/loreproserpine_07_hewlett_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[THE SECRET COMMONWEALTH]]></title>
+    <itunes:episode><![CDATA[8]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/lore-of-proserpine-by-maurice-henry-hewlett/]]></link>
+            <enclosure url="https://www.archive.org/download/lore_of_proserpine_1608_librivox/loreproserpine_08_hewlett_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 08 Aug 2016 00:08:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/lore_of_proserpine_1608_librivox/loreproserpine_08_hewlett_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[BECKWITH'S CASE -Part 1]]></title>
+    <itunes:episode><![CDATA[9]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/lore-of-proserpine-by-maurice-henry-hewlett/]]></link>
+            <enclosure url="https://www.archive.org/download/lore_of_proserpine_1608_librivox/loreproserpine_09_hewlett_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 08 Aug 2016 00:09:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/lore_of_proserpine_1608_librivox/loreproserpine_09_hewlett_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[BECKWITH'S CASE -Part 2]]></title>
+    <itunes:episode><![CDATA[10]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/lore-of-proserpine-by-maurice-henry-hewlett/]]></link>
+            <enclosure url="https://www.archive.org/download/lore_of_proserpine_1608_librivox/loreproserpine_10_hewlett_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 08 Aug 2016 00:10:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/lore_of_proserpine_1608_librivox/loreproserpine_10_hewlett_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[THE FAIRY WIFE –Part 1]]></title>
+    <itunes:episode><![CDATA[11]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/lore-of-proserpine-by-maurice-henry-hewlett/]]></link>
+            <enclosure url="https://www.archive.org/download/lore_of_proserpine_1608_librivox/loreproserpine_11_hewlett_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 08 Aug 2016 00:11:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/lore_of_proserpine_1608_librivox/loreproserpine_11_hewlett_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[THE FAIRY WIFE –Part 2]]></title>
+    <itunes:episode><![CDATA[12]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/lore-of-proserpine-by-maurice-henry-hewlett/]]></link>
+            <enclosure url="https://www.archive.org/download/lore_of_proserpine_1608_librivox/loreproserpine_12_hewlett_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 08 Aug 2016 00:12:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/lore_of_proserpine_1608_librivox/loreproserpine_12_hewlett_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[THE FAIRY WIFE –Part 3]]></title>
+    <itunes:episode><![CDATA[13]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/lore-of-proserpine-by-maurice-henry-hewlett/]]></link>
+            <enclosure url="https://www.archive.org/download/lore_of_proserpine_1608_librivox/loreproserpine_13_hewlett_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 08 Aug 2016 00:13:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/lore_of_proserpine_1608_librivox/loreproserpine_13_hewlett_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[OREADS]]></title>
+    <itunes:episode><![CDATA[14]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/lore-of-proserpine-by-maurice-henry-hewlett/]]></link>
+            <enclosure url="https://www.archive.org/download/lore_of_proserpine_1608_librivox/loreproserpine_14_hewlett_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 08 Aug 2016 00:14:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/lore_of_proserpine_1608_librivox/loreproserpine_14_hewlett_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[A SUMMARY CHAPTER]]></title>
+    <itunes:episode><![CDATA[15]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/lore-of-proserpine-by-maurice-henry-hewlett/]]></link>
+            <enclosure url="https://www.archive.org/download/lore_of_proserpine_1608_librivox/loreproserpine_15_hewlett_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 08 Aug 2016 00:15:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/lore_of_proserpine_1608_librivox/loreproserpine_15_hewlett_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <!-- end file loop -->
+</channel>
+</rss>

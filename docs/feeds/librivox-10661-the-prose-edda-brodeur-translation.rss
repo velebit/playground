@@ -1,0 +1,229 @@
+<?xml version="1.0" ?><rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+  <title><![CDATA[Prose Edda (Brodeur Translation), The by Snorri Sturleson (1178 - 1241)]]></title>
+  <link><![CDATA[https://librivox.org/the-prose-edda-by-snorri-sturleson/]]></link>
+  <atom:link rel="self" href="https://librivox.org/rss/10661" />
+  <description><![CDATA[Also known as the Younger Edda or Snorri's Edda, the Prose Edda is a three-part work composed or at least compiled by thirteenth-century Icelandic scholar Snorri Sturluson.  Along with the Elder or Poetic Edda written by an unknown poet a half-century earlier, the Prose Edda is a major source of much older Norse mythology as it had evolved through the generations.  The two Eddas have had a profound effect on European literature in both style and content, not least on J.R.R. Tolkien's Middle-Earth fantasies.  The first part of the Prose Edda is the Gylfaginning (The Tricking of Gylfi), dealing with the creation of the world and the major elements of Norse mythology.  The second part, Skáldskaparmál, presented as a dialogue between Ægir, the God of the Sea and Bragi, the God of Poetry, is a fascinating textbook on skaldic poetry, including the uses of alliteration and kennings.  The third part, Háttatal, is a trilogy of heroic poetry demonstrating the techniques of Skáldskaparmál (it is not included in this translation because of the translator's conviction that its highly technical nature "forbids" its effective translation into English).  Arthur Gilchrist Brodeur, translator of Beowulf as well as the Prose Edda, was an intriguing person in his own right, writing pulp fiction along with his masterful scholarly translations and advocating radical political notions during the dangerous McCarthy era. - Summary by Expatriate]]></description>
+  <!--<genre>project element=Genre</genre>-->
+  <!--<language>project element=lang.code</language>-->
+  <itunes:type>serial</itunes:type>
+  <itunes:author>LibriVox</itunes:author>
+  <itunes:summary><![CDATA[Also known as the Younger Edda or Snorri's Edda, the Prose Edda is a three-part work composed or at least compiled by thirteenth-century Icelandic scholar Snorri Sturluson.  Along with the Elder or Poetic Edda written by an unknown poet a half-century earlier, the Prose Edda is a major source of much older Norse mythology as it had evolved through the generations.  The two Eddas have had a profound effect on European literature in both style and content, not least on J.R.R. Tolkien's Middle-Earth fantasies.  The first part of the Prose Edda is the Gylfaginning (The Tricking of Gylfi), dealing with the creation of the world and the major elements of Norse mythology.  The second part, Skáldskaparmál, presented as a dialogue between Ægir, the God of the Sea and Bragi, the God of Poetry, is a fascinating textbook on skaldic poetry, including the uses of alliteration and kennings.  The third part, Háttatal, is a trilogy of heroic poetry demonstrating the techniques of Skáldskaparmál (it is not included in this translation because of the translator's conviction that its highly technical nature "forbids" its effective translation into English).  Arthur Gilchrist Brodeur, translator of Beowulf as well as the Prose Edda, was an intriguing person in his own right, writing pulp fiction along with his masterful scholarly translations and advocating radical political notions during the dangerous McCarthy era. - Summary by Expatriate]]></itunes:summary>
+  <itunes:owner>
+    <itunes:name>LibriVox</itunes:name>
+    <itunes:email>info@librivox.org</itunes:email>
+  </itunes:owner>
+  <itunes:category text="Arts">
+    <itunes:category text="Literature" />
+  </itunes:category>
+  <image><url>https://archive.org/download/prose_edda_brodeur_1604_librivox/prose_edda_1604.jpg</url></image>
+  <itunes:image href="https://archive.org/download/prose_edda_brodeur_1604_librivox/prose_edda_1604.jpg"/>
+  <itunes:explicit>no</itunes:explicit>
+  <!-- file loop -->
+    <item>
+    <title><![CDATA[Introduction]]></title>
+    <itunes:episode><![CDATA[1]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-prose-edda-by-snorri-sturleson/]]></link>
+            <enclosure url="https://www.archive.org/download/prose_edda_brodeur_1604_librivox/proseedda_01_brodeur_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Thu, 21 Apr 2016 00:00:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/prose_edda_brodeur_1604_librivox/proseedda_01_brodeur_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Prologue]]></title>
+    <itunes:episode><![CDATA[2]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-prose-edda-by-snorri-sturleson/]]></link>
+            <enclosure url="https://www.archive.org/download/prose_edda_brodeur_1604_librivox/proseedda_02_brodeur_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Thu, 21 Apr 2016 00:01:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/prose_edda_brodeur_1604_librivox/proseedda_02_brodeur_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Gylfaginning 01-10]]></title>
+    <itunes:episode><![CDATA[3]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-prose-edda-by-snorri-sturleson/]]></link>
+            <enclosure url="https://www.archive.org/download/prose_edda_brodeur_1604_librivox/proseedda_03_brodeur_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Thu, 21 Apr 2016 00:02:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/prose_edda_brodeur_1604_librivox/proseedda_03_brodeur_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Gylfaginning 11-20]]></title>
+    <itunes:episode><![CDATA[4]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-prose-edda-by-snorri-sturleson/]]></link>
+            <enclosure url="https://www.archive.org/download/prose_edda_brodeur_1604_librivox/proseedda_04_brodeur_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Thu, 21 Apr 2016 00:03:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/prose_edda_brodeur_1604_librivox/proseedda_04_brodeur_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Gylfaginning 21-34]]></title>
+    <itunes:episode><![CDATA[5]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-prose-edda-by-snorri-sturleson/]]></link>
+            <enclosure url="https://www.archive.org/download/prose_edda_brodeur_1604_librivox/proseedda_05_brodeur_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Thu, 21 Apr 2016 00:04:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/prose_edda_brodeur_1604_librivox/proseedda_05_brodeur_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Gylfaginning 35-44]]></title>
+    <itunes:episode><![CDATA[6]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-prose-edda-by-snorri-sturleson/]]></link>
+            <enclosure url="https://www.archive.org/download/prose_edda_brodeur_1604_librivox/proseedda_06_brodeur_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Thu, 21 Apr 2016 00:05:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/prose_edda_brodeur_1604_librivox/proseedda_06_brodeur_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Gylfaginning 45-48]]></title>
+    <itunes:episode><![CDATA[7]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-prose-edda-by-snorri-sturleson/]]></link>
+            <enclosure url="https://www.archive.org/download/prose_edda_brodeur_1604_librivox/proseedda_07_brodeur_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Thu, 21 Apr 2016 00:06:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/prose_edda_brodeur_1604_librivox/proseedda_07_brodeur_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Gylfaginning 49-54]]></title>
+    <itunes:episode><![CDATA[8]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-prose-edda-by-snorri-sturleson/]]></link>
+            <enclosure url="https://www.archive.org/download/prose_edda_brodeur_1604_librivox/proseedda_08_brodeur_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Thu, 21 Apr 2016 00:07:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/prose_edda_brodeur_1604_librivox/proseedda_08_brodeur_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Skáldskaparmál 01-02]]></title>
+    <itunes:episode><![CDATA[9]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-prose-edda-by-snorri-sturleson/]]></link>
+            <enclosure url="https://www.archive.org/download/prose_edda_brodeur_1604_librivox/proseedda_09_brodeur_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Thu, 21 Apr 2016 00:08:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/prose_edda_brodeur_1604_librivox/proseedda_09_brodeur_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Skáldskaparmál 03-17]]></title>
+    <itunes:episode><![CDATA[10]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-prose-edda-by-snorri-sturleson/]]></link>
+            <enclosure url="https://www.archive.org/download/prose_edda_brodeur_1604_librivox/proseedda_10_brodeur_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Thu, 21 Apr 2016 00:09:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/prose_edda_brodeur_1604_librivox/proseedda_10_brodeur_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Skáldskaparmál 18-22]]></title>
+    <itunes:episode><![CDATA[11]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-prose-edda-by-snorri-sturleson/]]></link>
+            <enclosure url="https://www.archive.org/download/prose_edda_brodeur_1604_librivox/proseedda_11_brodeur_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Thu, 21 Apr 2016 00:10:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/prose_edda_brodeur_1604_librivox/proseedda_11_brodeur_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Skáldskaparmál 23-35]]></title>
+    <itunes:episode><![CDATA[12]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-prose-edda-by-snorri-sturleson/]]></link>
+            <enclosure url="https://www.archive.org/download/prose_edda_brodeur_1604_librivox/proseedda_12_brodeur_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Thu, 21 Apr 2016 00:11:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/prose_edda_brodeur_1604_librivox/proseedda_12_brodeur_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Skáldskaparmál 36-41]]></title>
+    <itunes:episode><![CDATA[13]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-prose-edda-by-snorri-sturleson/]]></link>
+            <enclosure url="https://www.archive.org/download/prose_edda_brodeur_1604_librivox/proseedda_13_brodeur_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Thu, 21 Apr 2016 00:12:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/prose_edda_brodeur_1604_librivox/proseedda_13_brodeur_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Skáldskaparmál 42-46]]></title>
+    <itunes:episode><![CDATA[14]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-prose-edda-by-snorri-sturleson/]]></link>
+            <enclosure url="https://www.archive.org/download/prose_edda_brodeur_1604_librivox/proseedda_14_brodeur_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Thu, 21 Apr 2016 00:13:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/prose_edda_brodeur_1604_librivox/proseedda_14_brodeur_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Skáldskaparmál 47-52]]></title>
+    <itunes:episode><![CDATA[15]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-prose-edda-by-snorri-sturleson/]]></link>
+            <enclosure url="https://www.archive.org/download/prose_edda_brodeur_1604_librivox/proseedda_15_brodeur_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Thu, 21 Apr 2016 00:14:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/prose_edda_brodeur_1604_librivox/proseedda_15_brodeur_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Skáldskaparmál 53-60]]></title>
+    <itunes:episode><![CDATA[16]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-prose-edda-by-snorri-sturleson/]]></link>
+            <enclosure url="https://www.archive.org/download/prose_edda_brodeur_1604_librivox/proseedda_16_brodeur_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Thu, 21 Apr 2016 00:15:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/prose_edda_brodeur_1604_librivox/proseedda_16_brodeur_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Skáldskaparmál 61-74]]></title>
+    <itunes:episode><![CDATA[17]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-prose-edda-by-snorri-sturleson/]]></link>
+            <enclosure url="https://www.archive.org/download/prose_edda_brodeur_1604_librivox/proseedda_17_brodeur_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Thu, 21 Apr 2016 00:16:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/prose_edda_brodeur_1604_librivox/proseedda_17_brodeur_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <!-- end file loop -->
+</channel>
+</rss>

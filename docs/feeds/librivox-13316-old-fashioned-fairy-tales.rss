@@ -1,0 +1,265 @@
+<?xml version="1.0" ?><rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+  <title><![CDATA[Old Fashioned Fairy Tales by Juliana Horatia Gatty Ewing (1841 - 1885)]]></title>
+  <link><![CDATA[https://librivox.org/old-fashioned-fairy-tales-by-juliana-horatia-gatty-ewing/]]></link>
+  <atom:link rel="self" href="https://librivox.org/rss/13316" />
+  <description><![CDATA[Ogres, hillmen, and both fairies and fools abound by forest and town in this book by Juliana Horatia Gatty Ewing. Designed to cultivate imagination, character, and leave a strong moral when finished, she blends humor with short parables and rustic settings. This audiobook was completed by volunteers for an Eagle Scout project coordinated by Joseph Jones.]]></description>
+  <!--<genre>project element=Genre</genre>-->
+  <!--<language>project element=lang.code</language>-->
+  <itunes:type>serial</itunes:type>
+  <itunes:author>LibriVox</itunes:author>
+  <itunes:summary><![CDATA[Ogres, hillmen, and both fairies and fools abound by forest and town in this book by Juliana Horatia Gatty Ewing. Designed to cultivate imagination, character, and leave a strong moral when finished, she blends humor with short parables and rustic settings. This audiobook was completed by volunteers for an Eagle Scout project coordinated by Joseph Jones.]]></itunes:summary>
+  <itunes:owner>
+    <itunes:name>LibriVox</itunes:name>
+    <itunes:email>info@librivox.org</itunes:email>
+  </itunes:owner>
+  <itunes:category text="Arts">
+    <itunes:category text="Literature" />
+  </itunes:category>
+  <image><url>https://archive.org/download/old_fashioned_fairy_tales_1810_librivox/oldfashioned_fairytales_1810.jpg</url></image>
+  <itunes:image href="https://archive.org/download/old_fashioned_fairy_tales_1810_librivox/oldfashioned_fairytales_1810.jpg"/>
+  <itunes:explicit>no</itunes:explicit>
+  <!-- file loop -->
+    <item>
+    <title><![CDATA[Preface]]></title>
+    <itunes:episode><![CDATA[0]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/old-fashioned-fairy-tales-by-juliana-horatia-gatty-ewing/]]></link>
+            <enclosure url="https://www.archive.org/download/old_fashioned_fairy_tales_1810_librivox/old_fashioned_fairytales_00_ewing_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 20 Oct 2018 00:00:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/old_fashioned_fairy_tales_1810_librivox/old_fashioned_fairytales_00_ewing_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Good luck is better than gold]]></title>
+    <itunes:episode><![CDATA[1]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/old-fashioned-fairy-tales-by-juliana-horatia-gatty-ewing/]]></link>
+            <enclosure url="https://www.archive.org/download/old_fashioned_fairy_tales_1810_librivox/old_fashioned_fairytales_01_ewing_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 20 Oct 2018 00:01:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/old_fashioned_fairy_tales_1810_librivox/old_fashioned_fairytales_01_ewing_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The hillman and the housewife]]></title>
+    <itunes:episode><![CDATA[2]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/old-fashioned-fairy-tales-by-juliana-horatia-gatty-ewing/]]></link>
+            <enclosure url="https://www.archive.org/download/old_fashioned_fairy_tales_1810_librivox/old_fashioned_fairytales_02_ewing_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 20 Oct 2018 00:02:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/old_fashioned_fairy_tales_1810_librivox/old_fashioned_fairytales_02_ewing_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Neck]]></title>
+    <itunes:episode><![CDATA[3]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/old-fashioned-fairy-tales-by-juliana-horatia-gatty-ewing/]]></link>
+            <enclosure url="https://www.archive.org/download/old_fashioned_fairy_tales_1810_librivox/old_fashioned_fairytales_03_ewing_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 20 Oct 2018 00:03:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/old_fashioned_fairy_tales_1810_librivox/old_fashioned_fairytales_03_ewing_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Nix in mischief]]></title>
+    <itunes:episode><![CDATA[4]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/old-fashioned-fairy-tales-by-juliana-horatia-gatty-ewing/]]></link>
+            <enclosure url="https://www.archive.org/download/old_fashioned_fairy_tales_1810_librivox/old_fashioned_fairytales_04_ewing_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 20 Oct 2018 00:04:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/old_fashioned_fairy_tales_1810_librivox/old_fashioned_fairytales_04_ewing_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The cobbler and the ghosts]]></title>
+    <itunes:episode><![CDATA[5]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/old-fashioned-fairy-tales-by-juliana-horatia-gatty-ewing/]]></link>
+            <enclosure url="https://www.archive.org/download/old_fashioned_fairy_tales_1810_librivox/old_fashioned_fairytales_05_ewing_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 20 Oct 2018 00:05:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/old_fashioned_fairy_tales_1810_librivox/old_fashioned_fairytales_05_ewing_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The laird and the man of peace]]></title>
+    <itunes:episode><![CDATA[6]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/old-fashioned-fairy-tales-by-juliana-horatia-gatty-ewing/]]></link>
+            <enclosure url="https://www.archive.org/download/old_fashioned_fairy_tales_1810_librivox/old_fashioned_fairytales_06_ewing_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 20 Oct 2018 00:06:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/old_fashioned_fairy_tales_1810_librivox/old_fashioned_fairytales_06_ewing_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The ogre courting]]></title>
+    <itunes:episode><![CDATA[7]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/old-fashioned-fairy-tales-by-juliana-horatia-gatty-ewing/]]></link>
+            <enclosure url="https://www.archive.org/download/old_fashioned_fairy_tales_1810_librivox/old_fashioned_fairytales_07_ewing_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 20 Oct 2018 00:07:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/old_fashioned_fairy_tales_1810_librivox/old_fashioned_fairytales_07_ewing_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The magicians gifts]]></title>
+    <itunes:episode><![CDATA[8]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/old-fashioned-fairy-tales-by-juliana-horatia-gatty-ewing/]]></link>
+            <enclosure url="https://www.archive.org/download/old_fashioned_fairy_tales_1810_librivox/old_fashioned_fairytales_08_ewing_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 20 Oct 2018 00:08:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/old_fashioned_fairy_tales_1810_librivox/old_fashioned_fairytales_08_ewing_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The widows and the strangers]]></title>
+    <itunes:episode><![CDATA[9]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/old-fashioned-fairy-tales-by-juliana-horatia-gatty-ewing/]]></link>
+            <enclosure url="https://www.archive.org/download/old_fashioned_fairy_tales_1810_librivox/old_fashioned_fairytales_09_ewing_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 20 Oct 2018 00:09:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/old_fashioned_fairy_tales_1810_librivox/old_fashioned_fairytales_09_ewing_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Kind William and the water sprite]]></title>
+    <itunes:episode><![CDATA[10]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/old-fashioned-fairy-tales-by-juliana-horatia-gatty-ewing/]]></link>
+            <enclosure url="https://www.archive.org/download/old_fashioned_fairy_tales_1810_librivox/old_fashioned_fairytales_10_ewing_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 20 Oct 2018 00:10:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/old_fashioned_fairy_tales_1810_librivox/old_fashioned_fairytales_10_ewing_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Murdochs rath]]></title>
+    <itunes:episode><![CDATA[11]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/old-fashioned-fairy-tales-by-juliana-horatia-gatty-ewing/]]></link>
+            <enclosure url="https://www.archive.org/download/old_fashioned_fairy_tales_1810_librivox/old_fashioned_fairytales_11_ewing_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 20 Oct 2018 00:11:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/old_fashioned_fairy_tales_1810_librivox/old_fashioned_fairytales_11_ewing_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The little darner]]></title>
+    <itunes:episode><![CDATA[12]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/old-fashioned-fairy-tales-by-juliana-horatia-gatty-ewing/]]></link>
+            <enclosure url="https://www.archive.org/download/old_fashioned_fairy_tales_1810_librivox/old_fashioned_fairytales_12_ewing_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 20 Oct 2018 00:12:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/old_fashioned_fairy_tales_1810_librivox/old_fashioned_fairytales_12_ewing_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The fiddler in the fairy ring]]></title>
+    <itunes:episode><![CDATA[13]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/old-fashioned-fairy-tales-by-juliana-horatia-gatty-ewing/]]></link>
+            <enclosure url="https://www.archive.org/download/old_fashioned_fairy_tales_1810_librivox/old_fashioned_fairytales_13_ewing_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 20 Oct 2018 00:13:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/old_fashioned_fairy_tales_1810_librivox/old_fashioned_fairytales_13_ewing_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[I wont]]></title>
+    <itunes:episode><![CDATA[14]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/old-fashioned-fairy-tales-by-juliana-horatia-gatty-ewing/]]></link>
+            <enclosure url="https://www.archive.org/download/old_fashioned_fairy_tales_1810_librivox/old_fashioned_fairytales_14_ewing_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 20 Oct 2018 00:14:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/old_fashioned_fairy_tales_1810_librivox/old_fashioned_fairytales_14_ewing_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The magic jar]]></title>
+    <itunes:episode><![CDATA[15]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/old-fashioned-fairy-tales-by-juliana-horatia-gatty-ewing/]]></link>
+            <enclosure url="https://www.archive.org/download/old_fashioned_fairy_tales_1810_librivox/old_fashioned_fairytales_15_ewing_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 20 Oct 2018 00:15:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/old_fashioned_fairy_tales_1810_librivox/old_fashioned_fairytales_15_ewing_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The first wife's wedding-ring]]></title>
+    <itunes:episode><![CDATA[16]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/old-fashioned-fairy-tales-by-juliana-horatia-gatty-ewing/]]></link>
+            <enclosure url="https://www.archive.org/download/old_fashioned_fairy_tales_1810_librivox/old_fashioned_fairytales_16_ewing_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 20 Oct 2018 00:16:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/old_fashioned_fairy_tales_1810_librivox/old_fashioned_fairytales_16_ewing_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The magician turned mischief-maker]]></title>
+    <itunes:episode><![CDATA[17]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/old-fashioned-fairy-tales-by-juliana-horatia-gatty-ewing/]]></link>
+            <enclosure url="https://www.archive.org/download/old_fashioned_fairy_tales_1810_librivox/old_fashioned_fairytales_17_ewing_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 20 Oct 2018 00:17:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/old_fashioned_fairy_tales_1810_librivox/old_fashioned_fairytales_17_ewing_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[knave and fool]]></title>
+    <itunes:episode><![CDATA[18]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/old-fashioned-fairy-tales-by-juliana-horatia-gatty-ewing/]]></link>
+            <enclosure url="https://www.archive.org/download/old_fashioned_fairy_tales_1810_librivox/old_fashioned_fairytales_18_ewing_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 20 Oct 2018 00:18:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/old_fashioned_fairy_tales_1810_librivox/old_fashioned_fairytales_18_ewing_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Under the sun]]></title>
+    <itunes:episode><![CDATA[19]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/old-fashioned-fairy-tales-by-juliana-horatia-gatty-ewing/]]></link>
+            <enclosure url="https://www.archive.org/download/old_fashioned_fairy_tales_1810_librivox/old_fashioned_fairytales_19_ewing_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 20 Oct 2018 00:19:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/old_fashioned_fairy_tales_1810_librivox/old_fashioned_fairytales_19_ewing_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <!-- end file loop -->
+</channel>
+</rss>

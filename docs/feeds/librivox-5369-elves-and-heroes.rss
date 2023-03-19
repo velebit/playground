@@ -1,0 +1,397 @@
+<?xml version="1.0" ?><rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+  <title><![CDATA[Elves and Heroes by Donald Alexander Mackenzie (1873 - 1936)]]></title>
+  <link><![CDATA[https://librivox.org/elves-and-heroes-by-donald-alexander-mackenzie/]]></link>
+  <atom:link rel="self" href="https://librivox.org/rss/5369" />
+  <description><![CDATA[This volume describes, in verse, the mythical creatures and people of ancient Scotland. It also includes explanatory notes about about the characters and folk tales that inspired the author's poetry. (Introduction by Matthew Reece)]]></description>
+  <!--<genre>project element=Genre</genre>-->
+  <!--<language>project element=lang.code</language>-->
+  <itunes:type>serial</itunes:type>
+  <itunes:author>LibriVox</itunes:author>
+  <itunes:summary><![CDATA[This volume describes, in verse, the mythical creatures and people of ancient Scotland. It also includes explanatory notes about about the characters and folk tales that inspired the author's poetry. (Introduction by Matthew Reece)]]></itunes:summary>
+  <itunes:owner>
+    <itunes:name>LibriVox</itunes:name>
+    <itunes:email>info@librivox.org</itunes:email>
+  </itunes:owner>
+  <itunes:category text="Arts">
+    <itunes:category text="Literature" />
+  </itunes:category>
+  <image><url>https://archive.org/download/LibrivoxCdCoverArt18/elves_1205.jpg</url></image>
+  <itunes:image href="https://archive.org/download/LibrivoxCdCoverArt18/elves_1205.jpg"/>
+  <itunes:explicit>no</itunes:explicit>
+  <!-- file loop -->
+    <item>
+    <title><![CDATA[00 - Preface]]></title>
+    <itunes:episode><![CDATA[0]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/elves-and-heroes-by-donald-alexander-mackenzie/]]></link>
+            <enclosure url="https://www.archive.org/download/elves_heroes_mr_librivox/elvesandheroes_00_mackenzie_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:08:11]]></itunes:duration>
+  <pubDate>Sat, 16 Apr 2011 00:00:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/elves_heroes_mr_librivox/elvesandheroes_00_mackenzie_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[01 - The Wee Folk]]></title>
+    <itunes:episode><![CDATA[1]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/elves-and-heroes-by-donald-alexander-mackenzie/]]></link>
+            <enclosure url="https://www.archive.org/download/elves_heroes_mr_librivox/elvesandheroes_01_mackenzie_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:02:45]]></itunes:duration>
+  <pubDate>Sat, 16 Apr 2011 00:01:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/elves_heroes_mr_librivox/elvesandheroes_01_mackenzie_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[02 - The Remnant Bannock]]></title>
+    <itunes:episode><![CDATA[2]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/elves-and-heroes-by-donald-alexander-mackenzie/]]></link>
+            <enclosure url="https://www.archive.org/download/elves_heroes_mr_librivox/elvesandheroes_02_mackenzie_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:01:32]]></itunes:duration>
+  <pubDate>Sat, 16 Apr 2011 00:02:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/elves_heroes_mr_librivox/elvesandheroes_02_mackenzie_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[03 - The Banshee]]></title>
+    <itunes:episode><![CDATA[3]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/elves-and-heroes-by-donald-alexander-mackenzie/]]></link>
+            <enclosure url="https://www.archive.org/download/elves_heroes_mr_librivox/elvesandheroes_03_mackenzie_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:02:09]]></itunes:duration>
+  <pubDate>Sat, 16 Apr 2011 00:03:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/elves_heroes_mr_librivox/elvesandheroes_03_mackenzie_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[04 - Conn, Son of The Red]]></title>
+    <itunes:episode><![CDATA[4]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/elves-and-heroes-by-donald-alexander-mackenzie/]]></link>
+            <enclosure url="https://www.archive.org/download/elves_heroes_mr_librivox/elvesandheroes_04_mackenzie_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:16:18]]></itunes:duration>
+  <pubDate>Sat, 16 Apr 2011 00:04:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/elves_heroes_mr_librivox/elvesandheroes_04_mackenzie_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[05 - The Song of Goll]]></title>
+    <itunes:episode><![CDATA[5]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/elves-and-heroes-by-donald-alexander-mackenzie/]]></link>
+            <enclosure url="https://www.archive.org/download/elves_heroes_mr_librivox/elvesandheroes_05_mackenzie_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:02:06]]></itunes:duration>
+  <pubDate>Sat, 16 Apr 2011 00:05:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/elves_heroes_mr_librivox/elvesandheroes_05_mackenzie_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[06 - The Blue Men of the Minch]]></title>
+    <itunes:episode><![CDATA[6]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/elves-and-heroes-by-donald-alexander-mackenzie/]]></link>
+            <enclosure url="https://www.archive.org/download/elves_heroes_mr_librivox/elvesandheroes_06_mackenzie_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:01:47]]></itunes:duration>
+  <pubDate>Sat, 16 Apr 2011 00:06:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/elves_heroes_mr_librivox/elvesandheroes_06_mackenzie_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[07 - The Urisk]]></title>
+    <itunes:episode><![CDATA[7]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/elves-and-heroes-by-donald-alexander-mackenzie/]]></link>
+            <enclosure url="https://www.archive.org/download/elves_heroes_mr_librivox/elvesandheroes_07_mackenzie_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:01:36]]></itunes:duration>
+  <pubDate>Sat, 16 Apr 2011 00:07:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/elves_heroes_mr_librivox/elvesandheroes_07_mackenzie_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[08 - The Nimble Men]]></title>
+    <itunes:episode><![CDATA[8]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/elves-and-heroes-by-donald-alexander-mackenzie/]]></link>
+            <enclosure url="https://www.archive.org/download/elves_heroes_mr_librivox/elvesandheroes_08_mackenzie_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:02:26]]></itunes:duration>
+  <pubDate>Sat, 16 Apr 2011 00:08:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/elves_heroes_mr_librivox/elvesandheroes_08_mackenzie_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[09 - My Gunna]]></title>
+    <itunes:episode><![CDATA[9]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/elves-and-heroes-by-donald-alexander-mackenzie/]]></link>
+            <enclosure url="https://www.archive.org/download/elves_heroes_mr_librivox/elvesandheroes_09_mackenzie_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:01:41]]></itunes:duration>
+  <pubDate>Sat, 16 Apr 2011 00:09:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/elves_heroes_mr_librivox/elvesandheroes_09_mackenzie_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[10 - The Gruagach]]></title>
+    <itunes:episode><![CDATA[10]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/elves-and-heroes-by-donald-alexander-mackenzie/]]></link>
+            <enclosure url="https://www.archive.org/download/elves_heroes_mr_librivox/elvesandheroes_10_mackenzie_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:02:56]]></itunes:duration>
+  <pubDate>Sat, 16 Apr 2011 00:10:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/elves_heroes_mr_librivox/elvesandheroes_10_mackenzie_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[11 - The Little Old Man of the Barn]]></title>
+    <itunes:episode><![CDATA[11]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/elves-and-heroes-by-donald-alexander-mackenzie/]]></link>
+            <enclosure url="https://www.archive.org/download/elves_heroes_mr_librivox/elvesandheroes_11_mackenzie_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:01:34]]></itunes:duration>
+  <pubDate>Sat, 16 Apr 2011 00:11:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/elves_heroes_mr_librivox/elvesandheroes_11_mackenzie_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[12 - Yon Fairy Dog]]></title>
+    <itunes:episode><![CDATA[12]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/elves-and-heroes-by-donald-alexander-mackenzie/]]></link>
+            <enclosure url="https://www.archive.org/download/elves_heroes_mr_librivox/elvesandheroes_12_mackenzie_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:01:38]]></itunes:duration>
+  <pubDate>Sat, 16 Apr 2011 00:12:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/elves_heroes_mr_librivox/elvesandheroes_12_mackenzie_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[13 - The Water-Horse]]></title>
+    <itunes:episode><![CDATA[13]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/elves-and-heroes-by-donald-alexander-mackenzie/]]></link>
+            <enclosure url="https://www.archive.org/download/elves_heroes_mr_librivox/elvesandheroes_13_mackenzie_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:01:44]]></itunes:duration>
+  <pubDate>Sat, 16 Apr 2011 00:13:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/elves_heroes_mr_librivox/elvesandheroes_13_mackenzie_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[14 - The Changeling]]></title>
+    <itunes:episode><![CDATA[14]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/elves-and-heroes-by-donald-alexander-mackenzie/]]></link>
+            <enclosure url="https://www.archive.org/download/elves_heroes_mr_librivox/elvesandheroes_14_mackenzie_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:01:31]]></itunes:duration>
+  <pubDate>Sat, 16 Apr 2011 00:14:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/elves_heroes_mr_librivox/elvesandheroes_14_mackenzie_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[15 - My Fairy Lover]]></title>
+    <itunes:episode><![CDATA[15]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/elves-and-heroes-by-donald-alexander-mackenzie/]]></link>
+            <enclosure url="https://www.archive.org/download/elves_heroes_mr_librivox/elvesandheroes_15_mackenzie_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:03:00]]></itunes:duration>
+  <pubDate>Sat, 16 Apr 2011 00:15:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/elves_heroes_mr_librivox/elvesandheroes_15_mackenzie_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[16 - The Fians of Knockfarrel]]></title>
+    <itunes:episode><![CDATA[16]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/elves-and-heroes-by-donald-alexander-mackenzie/]]></link>
+            <enclosure url="https://www.archive.org/download/elves_heroes_mr_librivox/elvesandheroes_16_mackenzie_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:24:27]]></itunes:duration>
+  <pubDate>Sat, 16 Apr 2011 00:16:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/elves_heroes_mr_librivox/elvesandheroes_16_mackenzie_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[17 - Her Evil Eye]]></title>
+    <itunes:episode><![CDATA[17]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/elves-and-heroes-by-donald-alexander-mackenzie/]]></link>
+            <enclosure url="https://www.archive.org/download/elves_heroes_mr_librivox/elvesandheroes_17_mackenzie_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:02:20]]></itunes:duration>
+  <pubDate>Sat, 16 Apr 2011 00:17:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/elves_heroes_mr_librivox/elvesandheroes_17_mackenzie_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[18 - A Cursing]]></title>
+    <itunes:episode><![CDATA[18]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/elves-and-heroes-by-donald-alexander-mackenzie/]]></link>
+            <enclosure url="https://www.archive.org/download/elves_heroes_mr_librivox/elvesandheroes_18_mackenzie_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:03:02]]></itunes:duration>
+  <pubDate>Sat, 16 Apr 2011 00:18:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/elves_heroes_mr_librivox/elvesandheroes_18_mackenzie_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[19 - Leobag's Warning]]></title>
+    <itunes:episode><![CDATA[19]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/elves-and-heroes-by-donald-alexander-mackenzie/]]></link>
+            <enclosure url="https://www.archive.org/download/elves_heroes_mr_librivox/elvesandheroes_19_mackenzie_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:01:10]]></itunes:duration>
+  <pubDate>Sat, 16 Apr 2011 00:19:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/elves_heroes_mr_librivox/elvesandheroes_19_mackenzie_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[20 - Tober Mhuire]]></title>
+    <itunes:episode><![CDATA[20]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/elves-and-heroes-by-donald-alexander-mackenzie/]]></link>
+            <enclosure url="https://www.archive.org/download/elves_heroes_mr_librivox/elvesandheroes_20_mackenzie_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:01:39]]></itunes:duration>
+  <pubDate>Sat, 16 Apr 2011 00:20:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/elves_heroes_mr_librivox/elvesandheroes_20_mackenzie_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[21 - Sleepy Song]]></title>
+    <itunes:episode><![CDATA[21]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/elves-and-heroes-by-donald-alexander-mackenzie/]]></link>
+            <enclosure url="https://www.archive.org/download/elves_heroes_mr_librivox/elvesandheroes_21_mackenzie_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:01:23]]></itunes:duration>
+  <pubDate>Sat, 16 Apr 2011 00:21:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/elves_heroes_mr_librivox/elvesandheroes_21_mackenzie_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[22 - Song of the Sea]]></title>
+    <itunes:episode><![CDATA[22]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/elves-and-heroes-by-donald-alexander-mackenzie/]]></link>
+            <enclosure url="https://www.archive.org/download/elves_heroes_mr_librivox/elvesandheroes_22_mackenzie_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:00:46]]></itunes:duration>
+  <pubDate>Sat, 16 Apr 2011 00:22:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/elves_heroes_mr_librivox/elvesandheroes_22_mackenzie_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[23 - The Death of Cuchullin]]></title>
+    <itunes:episode><![CDATA[23]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/elves-and-heroes-by-donald-alexander-mackenzie/]]></link>
+            <enclosure url="https://www.archive.org/download/elves_heroes_mr_librivox/elvesandheroes_23_mackenzie_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:09:42]]></itunes:duration>
+  <pubDate>Sat, 16 Apr 2011 00:23:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/elves_heroes_mr_librivox/elvesandheroes_23_mackenzie_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[24 - Lost Songs]]></title>
+    <itunes:episode><![CDATA[24]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/elves-and-heroes-by-donald-alexander-mackenzie/]]></link>
+            <enclosure url="https://www.archive.org/download/elves_heroes_mr_librivox/elvesandheroes_24_mackenzie_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:01:02]]></itunes:duration>
+  <pubDate>Sat, 16 Apr 2011 00:24:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/elves_heroes_mr_librivox/elvesandheroes_24_mackenzie_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[25 - The Dream]]></title>
+    <itunes:episode><![CDATA[25]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/elves-and-heroes-by-donald-alexander-mackenzie/]]></link>
+            <enclosure url="https://www.archive.org/download/elves_heroes_mr_librivox/elvesandheroes_25_mackenzie_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:00:49]]></itunes:duration>
+  <pubDate>Sat, 16 Apr 2011 00:25:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/elves_heroes_mr_librivox/elvesandheroes_25_mackenzie_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[26 - Free Will]]></title>
+    <itunes:episode><![CDATA[26]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/elves-and-heroes-by-donald-alexander-mackenzie/]]></link>
+            <enclosure url="https://www.archive.org/download/elves_heroes_mr_librivox/elvesandheroes_26_mackenzie_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:01:08]]></itunes:duration>
+  <pubDate>Sat, 16 Apr 2011 00:26:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/elves_heroes_mr_librivox/elvesandheroes_26_mackenzie_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[27 - Strife]]></title>
+    <itunes:episode><![CDATA[27]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/elves-and-heroes-by-donald-alexander-mackenzie/]]></link>
+            <enclosure url="https://www.archive.org/download/elves_heroes_mr_librivox/elvesandheroes_27_mackenzie_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:01:18]]></itunes:duration>
+  <pubDate>Sat, 16 Apr 2011 00:27:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/elves_heroes_mr_librivox/elvesandheroes_27_mackenzie_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[28 - Sonnet]]></title>
+    <itunes:episode><![CDATA[28]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/elves-and-heroes-by-donald-alexander-mackenzie/]]></link>
+            <enclosure url="https://www.archive.org/download/elves_heroes_mr_librivox/elvesandheroes_28_mackenzie_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:01:12]]></itunes:duration>
+  <pubDate>Sat, 16 Apr 2011 00:28:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/elves_heroes_mr_librivox/elvesandheroes_28_mackenzie_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[29 - Out of the Mouths of Babes]]></title>
+    <itunes:episode><![CDATA[29]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/elves-and-heroes-by-donald-alexander-mackenzie/]]></link>
+            <enclosure url="https://www.archive.org/download/elves_heroes_mr_librivox/elvesandheroes_29_mackenzie_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:01:16]]></itunes:duration>
+  <pubDate>Sat, 16 Apr 2011 00:29:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/elves_heroes_mr_librivox/elvesandheroes_29_mackenzie_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[30 - Notes]]></title>
+    <itunes:episode><![CDATA[30]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/elves-and-heroes-by-donald-alexander-mackenzie/]]></link>
+            <enclosure url="https://www.archive.org/download/elves_heroes_mr_librivox/elvesandheroes_30_mackenzie_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:08:37]]></itunes:duration>
+  <pubDate>Sat, 16 Apr 2011 00:30:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/elves_heroes_mr_librivox/elvesandheroes_30_mackenzie_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <!-- end file loop -->
+</channel>
+</rss>

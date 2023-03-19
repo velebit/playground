@@ -1,0 +1,215 @@
+<?xml version="1.0" ?><rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+  <title><![CDATA[Wise Woman, The by George MacDonald (1824 - 1905)]]></title>
+  <link><![CDATA[https://librivox.org/the-wise-woman-by-george-macdonald/]]></link>
+  <atom:link rel="self" href="https://librivox.org/rss/3480" />
+  <description><![CDATA[George MacDonald was an influential Scottish author, poet, and Christian minister. MacDonald’s works (particularly his fairy tales and fantasy novels) claimed the admiration of such authors as J. R. R. Tolkien, C. S. Lewis, and Madeleine L’Engle.
+The Wise Woman fairy tale was one of MacDonald’s more popular works. This delightful story describes how a woman of mysterious powers pays visits to two very different young girls: one a princess, the other a shepherd’s daughter. Neither girl is left unchanged by the startling events that are unleashed as a result: and the reader is confronted by astonishing fairy-worlds in which the girls are forced to choose between good and evil.
+The Wise Woman has been subsequently republished under various titles, including:
+- The Lost Princess, and
+- A Double Story. (Summary by Godsend)
+Meta-Coordinator/Cataloging: Starlite and Tricia G]]></description>
+  <!--<genre>project element=Genre</genre>-->
+  <!--<language>project element=lang.code</language>-->
+  <itunes:type>serial</itunes:type>
+  <itunes:author>LibriVox</itunes:author>
+  <itunes:summary><![CDATA[George MacDonald was an influential Scottish author, poet, and Christian minister. MacDonald’s works (particularly his fairy tales and fantasy novels) claimed the admiration of such authors as J. R. R. Tolkien, C. S. Lewis, and Madeleine L’Engle.
+The Wise Woman fairy tale was one of MacDonald’s more popular works. This delightful story describes how a woman of mysterious powers pays visits to two very different young girls: one a princess, the other a shepherd’s daughter. Neither girl is left unchanged by the startling events that are unleashed as a result: and the reader is confronted by astonishing fairy-worlds in which the girls are forced to choose between good and evil.
+The Wise Woman has been subsequently republished under various titles, including:
+- The Lost Princess, and
+- A Double Story. (Summary by Godsend)
+Meta-Coordinator/Cataloging: Starlite and Tricia G]]></itunes:summary>
+  <itunes:owner>
+    <itunes:name>LibriVox</itunes:name>
+    <itunes:email>info@librivox.org</itunes:email>
+  </itunes:owner>
+  <itunes:category text="Arts">
+    <itunes:category text="Literature" />
+  </itunes:category>
+  <image><url>https://www.archive.org/download/librivox_cd_covers/wise_woman.jpg</url></image>
+  <itunes:image href="https://www.archive.org/download/librivox_cd_covers/wise_woman.jpg"/>
+  <itunes:explicit>no</itunes:explicit>
+  <!-- file loop -->
+    <item>
+    <title><![CDATA[01 - Chapter 1]]></title>
+    <itunes:episode><![CDATA[1]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-wise-woman-by-george-macdonald/]]></link>
+            <enclosure url="https://www.archive.org/download/wise_woman_0910_librivox/thewisewoman_01_macdonald_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:16:08]]></itunes:duration>
+  <pubDate>Thu, 29 Oct 2009 00:00:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/wise_woman_0910_librivox/thewisewoman_01_macdonald_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[02 - Chapter 2]]></title>
+    <itunes:episode><![CDATA[2]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-wise-woman-by-george-macdonald/]]></link>
+            <enclosure url="https://www.archive.org/download/wise_woman_0910_librivox/thewisewoman_02_macdonald_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:13:51]]></itunes:duration>
+  <pubDate>Thu, 29 Oct 2009 00:01:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/wise_woman_0910_librivox/thewisewoman_02_macdonald_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[03 - Chapter 3]]></title>
+    <itunes:episode><![CDATA[3]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-wise-woman-by-george-macdonald/]]></link>
+            <enclosure url="https://www.archive.org/download/wise_woman_0910_librivox/thewisewoman_03_macdonald_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:10:09]]></itunes:duration>
+  <pubDate>Thu, 29 Oct 2009 00:02:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/wise_woman_0910_librivox/thewisewoman_03_macdonald_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[04 - Chapter 4]]></title>
+    <itunes:episode><![CDATA[4]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-wise-woman-by-george-macdonald/]]></link>
+            <enclosure url="https://www.archive.org/download/wise_woman_0910_librivox/thewisewoman_04_macdonald_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:11:22]]></itunes:duration>
+  <pubDate>Thu, 29 Oct 2009 00:03:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/wise_woman_0910_librivox/thewisewoman_04_macdonald_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[05 - Chapter 5]]></title>
+    <itunes:episode><![CDATA[5]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-wise-woman-by-george-macdonald/]]></link>
+            <enclosure url="https://www.archive.org/download/wise_woman_0910_librivox/thewisewoman_05_macdonald_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:12:52]]></itunes:duration>
+  <pubDate>Thu, 29 Oct 2009 00:04:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/wise_woman_0910_librivox/thewisewoman_05_macdonald_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[06 - Chapter 6]]></title>
+    <itunes:episode><![CDATA[6]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-wise-woman-by-george-macdonald/]]></link>
+            <enclosure url="https://www.archive.org/download/wise_woman_0910_librivox/thewisewoman_06_macdonald_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:11:52]]></itunes:duration>
+  <pubDate>Thu, 29 Oct 2009 00:05:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/wise_woman_0910_librivox/thewisewoman_06_macdonald_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[07 - Chapter 7]]></title>
+    <itunes:episode><![CDATA[7]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-wise-woman-by-george-macdonald/]]></link>
+            <enclosure url="https://www.archive.org/download/wise_woman_0910_librivox/thewisewoman_07_macdonald_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:09:53]]></itunes:duration>
+  <pubDate>Thu, 29 Oct 2009 00:06:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/wise_woman_0910_librivox/thewisewoman_07_macdonald_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[08 - Chapter 8]]></title>
+    <itunes:episode><![CDATA[8]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-wise-woman-by-george-macdonald/]]></link>
+            <enclosure url="https://www.archive.org/download/wise_woman_0910_librivox/thewisewoman_08_macdonald_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:09:23]]></itunes:duration>
+  <pubDate>Thu, 29 Oct 2009 00:07:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/wise_woman_0910_librivox/thewisewoman_08_macdonald_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[09 - Chapter 9]]></title>
+    <itunes:episode><![CDATA[9]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-wise-woman-by-george-macdonald/]]></link>
+            <enclosure url="https://www.archive.org/download/wise_woman_0910_librivox/thewisewoman_09_macdonald_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:17:16]]></itunes:duration>
+  <pubDate>Thu, 29 Oct 2009 00:08:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/wise_woman_0910_librivox/thewisewoman_09_macdonald_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[10 - Chapter 10]]></title>
+    <itunes:episode><![CDATA[10]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-wise-woman-by-george-macdonald/]]></link>
+            <enclosure url="https://www.archive.org/download/wise_woman_0910_librivox/thewisewoman_10_macdonald_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:08:29]]></itunes:duration>
+  <pubDate>Thu, 29 Oct 2009 00:09:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/wise_woman_0910_librivox/thewisewoman_10_macdonald_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[11 - Chapter 11]]></title>
+    <itunes:episode><![CDATA[11]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-wise-woman-by-george-macdonald/]]></link>
+            <enclosure url="https://www.archive.org/download/wise_woman_0910_librivox/thewisewoman_11_macdonald_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:11:31]]></itunes:duration>
+  <pubDate>Thu, 29 Oct 2009 00:10:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/wise_woman_0910_librivox/thewisewoman_11_macdonald_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[12 - Chapter 12]]></title>
+    <itunes:episode><![CDATA[12]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-wise-woman-by-george-macdonald/]]></link>
+            <enclosure url="https://www.archive.org/download/wise_woman_0910_librivox/thewisewoman_12_macdonald_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:11:28]]></itunes:duration>
+  <pubDate>Thu, 29 Oct 2009 00:11:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/wise_woman_0910_librivox/thewisewoman_12_macdonald_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[13 - Chapter 13]]></title>
+    <itunes:episode><![CDATA[13]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-wise-woman-by-george-macdonald/]]></link>
+            <enclosure url="https://www.archive.org/download/wise_woman_0910_librivox/thewisewoman_13_macdonald_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:14:05]]></itunes:duration>
+  <pubDate>Thu, 29 Oct 2009 00:12:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/wise_woman_0910_librivox/thewisewoman_13_macdonald_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[14 - Chapter 14]]></title>
+    <itunes:episode><![CDATA[14]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-wise-woman-by-george-macdonald/]]></link>
+            <enclosure url="https://www.archive.org/download/wise_woman_0910_librivox/thewisewoman_14_macdonald_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:12:56]]></itunes:duration>
+  <pubDate>Thu, 29 Oct 2009 00:13:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/wise_woman_0910_librivox/thewisewoman_14_macdonald_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[15 - Chapter 15]]></title>
+    <itunes:episode><![CDATA[15]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-wise-woman-by-george-macdonald/]]></link>
+            <enclosure url="https://www.archive.org/download/wise_woman_0910_librivox/thewisewoman_15_macdonald_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:06:08]]></itunes:duration>
+  <pubDate>Thu, 29 Oct 2009 00:14:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/wise_woman_0910_librivox/thewisewoman_15_macdonald_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <!-- end file loop -->
+</channel>
+</rss>

@@ -1,0 +1,157 @@
+<?xml version="1.0" ?><rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+  <title><![CDATA[Sintram and His Companions by  Friedrich de la Motte Fouqué (1777 - 1843)]]></title>
+  <link><![CDATA[https://librivox.org/sintram-and-his-companions-by-friedrich-de-la-motte-fouque/]]></link>
+  <atom:link rel="self" href="https://librivox.org/rss/5399" />
+  <description><![CDATA[Friedrich de la Motte Fouque, also the author of Undine, was a German Romantic writer whose stories were filled with knights, damsels in distress, evil enchantments, and the struggle of good against overpowering evil. 'My strength is as the strength of ten, Because my heart is pure.' Fouque blends the Romantic love for nature and ancient chivalry while telling a powerful story about a young man who yearns for that which he can never attain. (Summary by Alisson Veldhuis)]]></description>
+  <!--<genre>project element=Genre</genre>-->
+  <!--<language>project element=lang.code</language>-->
+  <itunes:type>serial</itunes:type>
+  <itunes:author>LibriVox</itunes:author>
+  <itunes:summary><![CDATA[Friedrich de la Motte Fouque, also the author of Undine, was a German Romantic writer whose stories were filled with knights, damsels in distress, evil enchantments, and the struggle of good against overpowering evil. 'My strength is as the strength of ten, Because my heart is pure.' Fouque blends the Romantic love for nature and ancient chivalry while telling a powerful story about a young man who yearns for that which he can never attain. (Summary by Alisson Veldhuis)]]></itunes:summary>
+  <itunes:owner>
+    <itunes:name>LibriVox</itunes:name>
+    <itunes:email>info@librivox.org</itunes:email>
+  </itunes:owner>
+  <itunes:category text="Arts">
+    <itunes:category text="Literature" />
+  </itunes:category>
+  <image><url>https://archive.org/download/LibrivoxCdCoverArt28/sintram_companions_1212.jpg</url></image>
+  <itunes:image href="https://archive.org/download/LibrivoxCdCoverArt28/sintram_companions_1212.jpg"/>
+  <itunes:explicit>no</itunes:explicit>
+  <!-- file loop -->
+    <item>
+    <title><![CDATA[01 - Chapters 1-2]]></title>
+    <itunes:episode><![CDATA[1]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/sintram-and-his-companions-by-friedrich-de-la-motte-fouque/]]></link>
+            <enclosure url="https://www.archive.org/download/sintram_companions_1210_librivox/sintramandhiscompanions_01_fouque_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:19:59]]></itunes:duration>
+  <pubDate>Wed, 19 Dec 2012 00:00:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/sintram_companions_1210_librivox/sintramandhiscompanions_01_fouque_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[02 - Chapters 3-5]]></title>
+    <itunes:episode><![CDATA[2]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/sintram-and-his-companions-by-friedrich-de-la-motte-fouque/]]></link>
+            <enclosure url="https://www.archive.org/download/sintram_companions_1210_librivox/sintramandhiscompanions_02_fouque_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:24:06]]></itunes:duration>
+  <pubDate>Wed, 19 Dec 2012 00:01:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/sintram_companions_1210_librivox/sintramandhiscompanions_02_fouque_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[03 - Chapters 6-7]]></title>
+    <itunes:episode><![CDATA[3]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/sintram-and-his-companions-by-friedrich-de-la-motte-fouque/]]></link>
+            <enclosure url="https://www.archive.org/download/sintram_companions_1210_librivox/sintramandhiscompanions_03_fouque_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:23:09]]></itunes:duration>
+  <pubDate>Wed, 19 Dec 2012 00:02:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/sintram_companions_1210_librivox/sintramandhiscompanions_03_fouque_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[04 - Chapters 8-10]]></title>
+    <itunes:episode><![CDATA[4]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/sintram-and-his-companions-by-friedrich-de-la-motte-fouque/]]></link>
+            <enclosure url="https://www.archive.org/download/sintram_companions_1210_librivox/sintramandhiscompanions_04_fouque_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:28:53]]></itunes:duration>
+  <pubDate>Wed, 19 Dec 2012 00:03:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/sintram_companions_1210_librivox/sintramandhiscompanions_04_fouque_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[05 - Chapters 11-13]]></title>
+    <itunes:episode><![CDATA[5]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/sintram-and-his-companions-by-friedrich-de-la-motte-fouque/]]></link>
+            <enclosure url="https://www.archive.org/download/sintram_companions_1210_librivox/sintramandhiscompanions_05_fouque_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:23:08]]></itunes:duration>
+  <pubDate>Wed, 19 Dec 2012 00:04:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/sintram_companions_1210_librivox/sintramandhiscompanions_05_fouque_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[06 - Chapters 14-16]]></title>
+    <itunes:episode><![CDATA[6]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/sintram-and-his-companions-by-friedrich-de-la-motte-fouque/]]></link>
+            <enclosure url="https://www.archive.org/download/sintram_companions_1210_librivox/sintramandhiscompanions_06_fouque_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:17:45]]></itunes:duration>
+  <pubDate>Wed, 19 Dec 2012 00:05:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/sintram_companions_1210_librivox/sintramandhiscompanions_06_fouque_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[07 - Chapters 17-19]]></title>
+    <itunes:episode><![CDATA[7]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/sintram-and-his-companions-by-friedrich-de-la-motte-fouque/]]></link>
+            <enclosure url="https://www.archive.org/download/sintram_companions_1210_librivox/sintramandhiscompanions_07_fouque_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:19:46]]></itunes:duration>
+  <pubDate>Wed, 19 Dec 2012 00:06:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/sintram_companions_1210_librivox/sintramandhiscompanions_07_fouque_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[08 - Chapters 20-22]]></title>
+    <itunes:episode><![CDATA[8]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/sintram-and-his-companions-by-friedrich-de-la-motte-fouque/]]></link>
+            <enclosure url="https://www.archive.org/download/sintram_companions_1210_librivox/sintramandhiscompanions_08_fouque_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:18:48]]></itunes:duration>
+  <pubDate>Wed, 19 Dec 2012 00:07:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/sintram_companions_1210_librivox/sintramandhiscompanions_08_fouque_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[09 - Chapters 23-24]]></title>
+    <itunes:episode><![CDATA[9]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/sintram-and-his-companions-by-friedrich-de-la-motte-fouque/]]></link>
+            <enclosure url="https://www.archive.org/download/sintram_companions_1210_librivox/sintramandhiscompanions_09_fouque_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:22:59]]></itunes:duration>
+  <pubDate>Wed, 19 Dec 2012 00:08:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/sintram_companions_1210_librivox/sintramandhiscompanions_09_fouque_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[10 - Chapters 25-27]]></title>
+    <itunes:episode><![CDATA[10]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/sintram-and-his-companions-by-friedrich-de-la-motte-fouque/]]></link>
+            <enclosure url="https://www.archive.org/download/sintram_companions_1210_librivox/sintramandhiscompanions_10_fouque_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:27:45]]></itunes:duration>
+  <pubDate>Wed, 19 Dec 2012 00:09:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/sintram_companions_1210_librivox/sintramandhiscompanions_10_fouque_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[11 - Chapters 28-30]]></title>
+    <itunes:episode><![CDATA[11]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/sintram-and-his-companions-by-friedrich-de-la-motte-fouque/]]></link>
+            <enclosure url="https://www.archive.org/download/sintram_companions_1210_librivox/sintramandhiscompanions_11_fouque_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:16:06]]></itunes:duration>
+  <pubDate>Wed, 19 Dec 2012 00:10:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/sintram_companions_1210_librivox/sintramandhiscompanions_11_fouque_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <!-- end file loop -->
+</channel>
+</rss>

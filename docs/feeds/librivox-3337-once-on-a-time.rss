@@ -1,0 +1,301 @@
+<?xml version="1.0" ?><rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+  <title><![CDATA[Once on a Time by A. A. Milne (1882 - 1956)]]></title>
+  <link><![CDATA[https://librivox.org/once-on-a-time-by-a-a-milne/]]></link>
+  <atom:link rel="self" href="https://librivox.org/rss/3337" />
+  <description><![CDATA[When the King of Barodia receives a pair of seven-league boots as a birthday present, his habit of flying over the King of Euralia's castle during breakfast provokes a series of incidents which escalate into war. While the King of Euralia is away, his daughter Hyacinth tries to rule in his stead and counter the machiavellian ambitions of the king's favourite, the Countess Belvane. Written in 1917, Milne's own introduction begins 'This is an odd book', and indeed it is very difficult to classify. Ostensibly a typical fairytale, it tells the story of the war between the kingdoms of Euralia and Barodia and the political shenanigans which take place in Euralia in the king's absence, all supposedly rewritten by Milne from the writings of the fictional historian "Roger Scurvilegs". Milne created the story to contain believable, three-dimensional characters, rather than the stereotypes which will satisfy children. Hence the book introduces us to a princess who is far from helpless; a prince who, whilst handsome, is also pompous and vain; an enchantment which is almost entirely humorous; a villain who is not entirely villainous and receives no real comeuppance; a good king who isn't always good; an evil king who isn't always evil, and so on. The result is a book which children may not enjoy as much as adults. The book was written by Milne partly for his wife, upon whom the character of the Countess Belvane was partially based. (Summary from Wikipedia)]]></description>
+  <!--<genre>project element=Genre</genre>-->
+  <!--<language>project element=lang.code</language>-->
+  <itunes:type>serial</itunes:type>
+  <itunes:author>LibriVox</itunes:author>
+  <itunes:summary><![CDATA[When the King of Barodia receives a pair of seven-league boots as a birthday present, his habit of flying over the King of Euralia's castle during breakfast provokes a series of incidents which escalate into war. While the King of Euralia is away, his daughter Hyacinth tries to rule in his stead and counter the machiavellian ambitions of the king's favourite, the Countess Belvane. Written in 1917, Milne's own introduction begins 'This is an odd book', and indeed it is very difficult to classify. Ostensibly a typical fairytale, it tells the story of the war between the kingdoms of Euralia and Barodia and the political shenanigans which take place in Euralia in the king's absence, all supposedly rewritten by Milne from the writings of the fictional historian "Roger Scurvilegs". Milne created the story to contain believable, three-dimensional characters, rather than the stereotypes which will satisfy children. Hence the book introduces us to a princess who is far from helpless; a prince who, whilst handsome, is also pompous and vain; an enchantment which is almost entirely humorous; a villain who is not entirely villainous and receives no real comeuppance; a good king who isn't always good; an evil king who isn't always evil, and so on. The result is a book which children may not enjoy as much as adults. The book was written by Milne partly for his wife, upon whom the character of the Countess Belvane was partially based. (Summary from Wikipedia)]]></itunes:summary>
+  <itunes:owner>
+    <itunes:name>LibriVox</itunes:name>
+    <itunes:email>info@librivox.org</itunes:email>
+  </itunes:owner>
+  <itunes:category text="Arts">
+    <itunes:category text="Literature" />
+  </itunes:category>
+  <image><url>https://www.archive.org/download/LibrivoxCdCoverArt4/Once_On_Time_1004.jpg</url></image>
+  <itunes:image href="https://www.archive.org/download/LibrivoxCdCoverArt4/Once_On_Time_1004.jpg"/>
+  <itunes:explicit>no</itunes:explicit>
+  <!-- file loop -->
+    <item>
+    <title><![CDATA[01 - Preface]]></title>
+    <itunes:episode><![CDATA[1]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/once-on-a-time-by-a-a-milne/]]></link>
+            <enclosure url="https://www.archive.org/download/once_on_a_time_0911_librivox/onceonatime_01_milne_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:03:46]]></itunes:duration>
+  <pubDate>Sat, 21 Nov 2009 00:00:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/once_on_a_time_0911_librivox/onceonatime_01_milne_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[02 - Chapter 1 - The King of Euralia has a Visitor to Breakfast]]></title>
+    <itunes:episode><![CDATA[2]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/once-on-a-time-by-a-a-milne/]]></link>
+            <enclosure url="https://www.archive.org/download/once_on_a_time_0911_librivox/onceonatime_02_milne_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:13:33]]></itunes:duration>
+  <pubDate>Sat, 21 Nov 2009 00:01:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/once_on_a_time_0911_librivox/onceonatime_02_milne_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[03 - Chapter 2 - The Chancellor of Barodia has a Long Walk Home]]></title>
+    <itunes:episode><![CDATA[3]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/once-on-a-time-by-a-a-milne/]]></link>
+            <enclosure url="https://www.archive.org/download/once_on_a_time_0911_librivox/onceonatime_03_milne_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:09:46]]></itunes:duration>
+  <pubDate>Sat, 21 Nov 2009 00:02:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/once_on_a_time_0911_librivox/onceonatime_03_milne_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[04 - Chapter 3 - The King of Euralia Draws his Sword]]></title>
+    <itunes:episode><![CDATA[4]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/once-on-a-time-by-a-a-milne/]]></link>
+            <enclosure url="https://www.archive.org/download/once_on_a_time_0911_librivox/onceonatime_04_milne_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:13:58]]></itunes:duration>
+  <pubDate>Sat, 21 Nov 2009 00:03:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/once_on_a_time_0911_librivox/onceonatime_04_milne_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[05 - Chapter 4 - The Princess Hyacinth Leaves it to the Countess]]></title>
+    <itunes:episode><![CDATA[5]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/once-on-a-time-by-a-a-milne/]]></link>
+            <enclosure url="https://www.archive.org/download/once_on_a_time_0911_librivox/onceonatime_05_milne_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:13:56]]></itunes:duration>
+  <pubDate>Sat, 21 Nov 2009 00:04:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/once_on_a_time_0911_librivox/onceonatime_05_milne_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[06 - Chapter 5 - Belvane Indulges her Hobby]]></title>
+    <itunes:episode><![CDATA[6]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/once-on-a-time-by-a-a-milne/]]></link>
+            <enclosure url="https://www.archive.org/download/once_on_a_time_0911_librivox/onceonatime_06_milne_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:15:08]]></itunes:duration>
+  <pubDate>Sat, 21 Nov 2009 00:05:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/once_on_a_time_0911_librivox/onceonatime_06_milne_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[07 - Chapter 6 - There are no Wizards in Barodia]]></title>
+    <itunes:episode><![CDATA[7]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/once-on-a-time-by-a-a-milne/]]></link>
+            <enclosure url="https://www.archive.org/download/once_on_a_time_0911_librivox/onceonatime_07_milne_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:12:57]]></itunes:duration>
+  <pubDate>Sat, 21 Nov 2009 00:06:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/once_on_a_time_0911_librivox/onceonatime_07_milne_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[08 - Chapter 7 - The Princess Receives a Letter and Writes One]]></title>
+    <itunes:episode><![CDATA[8]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/once-on-a-time-by-a-a-milne/]]></link>
+            <enclosure url="https://www.archive.org/download/once_on_a_time_0911_librivox/onceonatime_08_milne_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:15:53]]></itunes:duration>
+  <pubDate>Sat, 21 Nov 2009 00:07:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/once_on_a_time_0911_librivox/onceonatime_08_milne_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[09 - Chapter 8 - Prince Udo Sleeps Badly]]></title>
+    <itunes:episode><![CDATA[9]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/once-on-a-time-by-a-a-milne/]]></link>
+            <enclosure url="https://www.archive.org/download/once_on_a_time_0911_librivox/onceonatime_09_milne_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:12:30]]></itunes:duration>
+  <pubDate>Sat, 21 Nov 2009 00:08:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/once_on_a_time_0911_librivox/onceonatime_09_milne_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[10 - Chapter 9 - They are Afraid of Udo]]></title>
+    <itunes:episode><![CDATA[10]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/once-on-a-time-by-a-a-milne/]]></link>
+            <enclosure url="https://www.archive.org/download/once_on_a_time_0911_librivox/onceonatime_10_milne_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:12:12]]></itunes:duration>
+  <pubDate>Sat, 21 Nov 2009 00:09:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/once_on_a_time_0911_librivox/onceonatime_10_milne_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[11 - Chapter 10 - Charlotte Patacake Astonishes the Critics]]></title>
+    <itunes:episode><![CDATA[11]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/once-on-a-time-by-a-a-milne/]]></link>
+            <enclosure url="https://www.archive.org/download/once_on_a_time_0911_librivox/onceonatime_11_milne_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:20:26]]></itunes:duration>
+  <pubDate>Sat, 21 Nov 2009 00:10:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/once_on_a_time_0911_librivox/onceonatime_11_milne_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[12 - Chapter 11 - Watercress Seems to go with the Ears]]></title>
+    <itunes:episode><![CDATA[12]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/once-on-a-time-by-a-a-milne/]]></link>
+            <enclosure url="https://www.archive.org/download/once_on_a_time_0911_librivox/onceonatime_12_milne_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:15:15]]></itunes:duration>
+  <pubDate>Sat, 21 Nov 2009 00:11:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/once_on_a_time_0911_librivox/onceonatime_12_milne_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[13 - Chapter 12 - We Decide to Write to Udo's Father]]></title>
+    <itunes:episode><![CDATA[13]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/once-on-a-time-by-a-a-milne/]]></link>
+            <enclosure url="https://www.archive.org/download/once_on_a_time_0911_librivox/onceonatime_13_milne_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:19:42]]></itunes:duration>
+  <pubDate>Sat, 21 Nov 2009 00:12:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/once_on_a_time_0911_librivox/onceonatime_13_milne_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[14 - Chapter 13 - "Pink" Rhymes with "Think"]]></title>
+    <itunes:episode><![CDATA[14]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/once-on-a-time-by-a-a-milne/]]></link>
+            <enclosure url="https://www.archive.org/download/once_on_a_time_0911_librivox/onceonatime_14_milne_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:19:13]]></itunes:duration>
+  <pubDate>Sat, 21 Nov 2009 00:13:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/once_on_a_time_0911_librivox/onceonatime_14_milne_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[15 - Chapter 14 - "Why Can't you be like Wiggs?"]]></title>
+    <itunes:episode><![CDATA[15]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/once-on-a-time-by-a-a-milne/]]></link>
+            <enclosure url="https://www.archive.org/download/once_on_a_time_0911_librivox/onceonatime_15_milne_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:15:19]]></itunes:duration>
+  <pubDate>Sat, 21 Nov 2009 00:14:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/once_on_a_time_0911_librivox/onceonatime_15_milne_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[16 - Chapter 15 - There is a Lover Waiting for Hyacinth]]></title>
+    <itunes:episode><![CDATA[16]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/once-on-a-time-by-a-a-milne/]]></link>
+            <enclosure url="https://www.archive.org/download/once_on_a_time_0911_librivox/onceonatime_16_milne_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:04:24]]></itunes:duration>
+  <pubDate>Sat, 21 Nov 2009 00:15:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/once_on_a_time_0911_librivox/onceonatime_16_milne_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[17 - Chapter 16 - Belvane Enjoys Herself]]></title>
+    <itunes:episode><![CDATA[17]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/once-on-a-time-by-a-a-milne/]]></link>
+            <enclosure url="https://www.archive.org/download/once_on_a_time_0911_librivox/onceonatime_17_milne_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:18:08]]></itunes:duration>
+  <pubDate>Sat, 21 Nov 2009 00:16:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/once_on_a_time_0911_librivox/onceonatime_17_milne_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[18 - Chapter 17 - The King of Barodia Drops the Whisker Habit]]></title>
+    <itunes:episode><![CDATA[18]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/once-on-a-time-by-a-a-milne/]]></link>
+            <enclosure url="https://www.archive.org/download/once_on_a_time_0911_librivox/onceonatime_18_milne_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:22:00]]></itunes:duration>
+  <pubDate>Sat, 21 Nov 2009 00:17:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/once_on_a_time_0911_librivox/onceonatime_18_milne_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[19 - Chapter 18 - The Veteran of the Forest Entertains Two Very Young People]]></title>
+    <itunes:episode><![CDATA[19]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/once-on-a-time-by-a-a-milne/]]></link>
+            <enclosure url="https://www.archive.org/download/once_on_a_time_0911_librivox/onceonatime_19_milne_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:19:01]]></itunes:duration>
+  <pubDate>Sat, 21 Nov 2009 00:18:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/once_on_a_time_0911_librivox/onceonatime_19_milne_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[20 - Chapter 19 - Udo Behaves Like a Gentleman]]></title>
+    <itunes:episode><![CDATA[20]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/once-on-a-time-by-a-a-milne/]]></link>
+            <enclosure url="https://www.archive.org/download/once_on_a_time_0911_librivox/onceonatime_20_milne_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:14:20]]></itunes:duration>
+  <pubDate>Sat, 21 Nov 2009 00:19:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/once_on_a_time_0911_librivox/onceonatime_20_milne_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[21 - Chapter 20 - Coronel Knows a Good Story when he Hears it]]></title>
+    <itunes:episode><![CDATA[21]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/once-on-a-time-by-a-a-milne/]]></link>
+            <enclosure url="https://www.archive.org/download/once_on_a_time_0911_librivox/onceonatime_21_milne_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:15:51]]></itunes:duration>
+  <pubDate>Sat, 21 Nov 2009 00:20:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/once_on_a_time_0911_librivox/onceonatime_21_milne_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[22 - Chapter 21 - A Serpent Coming after Udo]]></title>
+    <itunes:episode><![CDATA[22]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/once-on-a-time-by-a-a-milne/]]></link>
+            <enclosure url="https://www.archive.org/download/once_on_a_time_0911_librivox/onceonatime_22_milne_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:18:56]]></itunes:duration>
+  <pubDate>Sat, 21 Nov 2009 00:21:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/once_on_a_time_0911_librivox/onceonatime_22_milne_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[23 - Chapter 22 - The Seventeen Volumes go back Again]]></title>
+    <itunes:episode><![CDATA[23]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/once-on-a-time-by-a-a-milne/]]></link>
+            <enclosure url="https://www.archive.org/download/once_on_a_time_0911_librivox/onceonatime_23_milne_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:13:54]]></itunes:duration>
+  <pubDate>Sat, 21 Nov 2009 00:22:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/once_on_a_time_0911_librivox/onceonatime_23_milne_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <!-- end file loop -->
+</channel>
+</rss>

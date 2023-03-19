@@ -1,0 +1,169 @@
+<?xml version="1.0" ?><rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+  <title><![CDATA[Cocoa Break Collection, Vol. 01 by Various]]></title>
+  <link><![CDATA[https://librivox.org/librivox-cocoa-break-collection-by-various/]]></link>
+  <atom:link rel="self" href="https://librivox.org/rss/3833" />
+  <description><![CDATA[Following in the vein of my Coffee-Break collections, this is a collection of short (all under 15 minutes) stories for kids. Focus is on fables and fairy tales published before 1923. (Summary by BellonaTimes)]]></description>
+  <!--<genre>project element=Genre</genre>-->
+  <!--<language>project element=lang.code</language>-->
+  <itunes:type>serial</itunes:type>
+  <itunes:author>LibriVox</itunes:author>
+  <itunes:summary><![CDATA[Following in the vein of my Coffee-Break collections, this is a collection of short (all under 15 minutes) stories for kids. Focus is on fables and fairy tales published before 1923. (Summary by BellonaTimes)]]></itunes:summary>
+  <itunes:owner>
+    <itunes:name>LibriVox</itunes:name>
+    <itunes:email>info@librivox.org</itunes:email>
+  </itunes:owner>
+  <itunes:category text="Arts">
+    <itunes:category text="Literature" />
+  </itunes:category>
+  <image><url>https://archive.org/download/LibrivoxCdCoverArt21/Cocoa_Break_001_1208.jpg</url></image>
+  <itunes:image href="https://archive.org/download/LibrivoxCdCoverArt21/Cocoa_Break_001_1208.jpg"/>
+  <itunes:explicit>no</itunes:explicit>
+  <!-- file loop -->
+    <item>
+    <title><![CDATA[The Water Baby]]></title>
+    <itunes:episode><![CDATA[1]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/librivox-cocoa-break-collection-by-various/]]></link>
+            <enclosure url="https://www.archive.org/download/cocoa_break_001_0912_librivox/01_waterbabe_landa_bt_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:08:05]]></itunes:duration>
+  <pubDate>Thu, 17 Dec 2009 00:00:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/cocoa_break_001_0912_librivox/01_waterbabe_landa_bt_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Hare and The Tortoise]]></title>
+    <itunes:episode><![CDATA[2]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/librivox-cocoa-break-collection-by-various/]]></link>
+            <enclosure url="https://www.archive.org/download/cocoa_break_001_0912_librivox/02_haretortoise_aesop_bt_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:01:33]]></itunes:duration>
+  <pubDate>Thu, 17 Dec 2009 00:01:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/cocoa_break_001_0912_librivox/02_haretortoise_aesop_bt_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Mam, The Bot and The Donkey]]></title>
+    <itunes:episode><![CDATA[3]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/librivox-cocoa-break-collection-by-various/]]></link>
+            <enclosure url="https://www.archive.org/download/cocoa_break_001_0912_librivox/03_manboydonkey_aesop_bt_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:02:28]]></itunes:duration>
+  <pubDate>Thu, 17 Dec 2009 00:02:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/cocoa_break_001_0912_librivox/03_manboydonkey_aesop_bt_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Town Mouse and The Country Mouse]]></title>
+    <itunes:episode><![CDATA[4]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/librivox-cocoa-break-collection-by-various/]]></link>
+            <enclosure url="https://www.archive.org/download/cocoa_break_001_0912_librivox/04_townmouse_aesop_bt_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:02:33]]></itunes:duration>
+  <pubDate>Thu, 17 Dec 2009 00:03:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/cocoa_break_001_0912_librivox/04_townmouse_aesop_bt_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Cat and the Sparrows]]></title>
+    <itunes:episode><![CDATA[5]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/librivox-cocoa-break-collection-by-various/]]></link>
+            <enclosure url="https://www.archive.org/download/cocoa_break_001_0912_librivox/05_catandsparrows_crooke-drouse_bt_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:05:46]]></itunes:duration>
+  <pubDate>Thu, 17 Dec 2009 00:04:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/cocoa_break_001_0912_librivox/05_catandsparrows_crooke-drouse_bt_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[A Fish Tale]]></title>
+    <itunes:episode><![CDATA[6]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/librivox-cocoa-break-collection-by-various/]]></link>
+            <enclosure url="https://www.archive.org/download/cocoa_break_001_0912_librivox/06_fishtale_lang_bt_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:05:44]]></itunes:duration>
+  <pubDate>Thu, 17 Dec 2009 00:05:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/cocoa_break_001_0912_librivox/06_fishtale_lang_bt_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Man in the Moon]]></title>
+    <itunes:episode><![CDATA[7]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/librivox-cocoa-break-collection-by-various/]]></link>
+            <enclosure url="https://www.archive.org/download/cocoa_break_001_0912_librivox/07_maninmoon_bakewell_bt_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:04:12]]></itunes:duration>
+  <pubDate>Thu, 17 Dec 2009 00:06:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/cocoa_break_001_0912_librivox/07_maninmoon_bakewell_bt_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Pigs]]></title>
+    <itunes:episode><![CDATA[8]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/librivox-cocoa-break-collection-by-various/]]></link>
+            <enclosure url="https://www.archive.org/download/cocoa_break_001_0912_librivox/08_pigs_andersen_bt_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:07:22]]></itunes:duration>
+  <pubDate>Thu, 17 Dec 2009 00:07:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/cocoa_break_001_0912_librivox/08_pigs_andersen_bt_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[How To Tell A True Princess]]></title>
+    <itunes:episode><![CDATA[9]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/librivox-cocoa-break-collection-by-various/]]></link>
+            <enclosure url="https://www.archive.org/download/cocoa_break_001_0912_librivox/09_trueprincess_lang_bt_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:03:01]]></itunes:duration>
+  <pubDate>Thu, 17 Dec 2009 00:08:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/cocoa_break_001_0912_librivox/09_trueprincess_lang_bt_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Lady of the Moon]]></title>
+    <itunes:episode><![CDATA[10]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/librivox-cocoa-break-collection-by-various/]]></link>
+            <enclosure url="https://www.archive.org/download/cocoa_break_001_0912_librivox/10_ladyofmoon_wilhelm_bt_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:04:28]]></itunes:duration>
+  <pubDate>Thu, 17 Dec 2009 00:09:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/cocoa_break_001_0912_librivox/10_ladyofmoon_wilhelm_bt_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Princess and the Fisherman - from Roumanian Fairy Tales]]></title>
+    <itunes:episode><![CDATA[11]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/librivox-cocoa-break-collection-by-various/]]></link>
+            <enclosure url="https://www.archive.org/download/cocoa_break_001_0912_librivox/11_princessfisherman_anonymous_bt_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:10:56]]></itunes:duration>
+  <pubDate>Thu, 17 Dec 2009 00:10:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/cocoa_break_001_0912_librivox/11_princessfisherman_anonymous_bt_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Girl Who Became a Bird]]></title>
+    <itunes:episode><![CDATA[12]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/librivox-cocoa-break-collection-by-various/]]></link>
+            <enclosure url="https://www.archive.org/download/cocoa_break_001_0912_librivox/12_girlbecamebird_anonymous_bt_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:03:00]]></itunes:duration>
+  <pubDate>Thu, 17 Dec 2009 00:11:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/cocoa_break_001_0912_librivox/12_girlbecamebird_anonymous_bt_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <!-- end file loop -->
+</channel>
+</rss>

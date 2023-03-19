@@ -1,0 +1,337 @@
+<?xml version="1.0" ?><rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+  <title><![CDATA[Omens and Superstitions of Southern India by Edgar Thurston (1855 - 1935)]]></title>
+  <link><![CDATA[https://librivox.org/omens-and-superstitions-of-southern-india-by-edgar-thurston/]]></link>
+  <atom:link rel="self" href="https://librivox.org/rss/5360" />
+  <description><![CDATA[This book deals mainly with some aspects of what may be termed the psychical life of the inhabitants of the Madras Presidency, and the Native States of Travancore and Cochin.(Summary by Edgar Thurston)]]></description>
+  <!--<genre>project element=Genre</genre>-->
+  <!--<language>project element=lang.code</language>-->
+  <itunes:type>serial</itunes:type>
+  <itunes:author>LibriVox</itunes:author>
+  <itunes:summary><![CDATA[This book deals mainly with some aspects of what may be termed the psychical life of the inhabitants of the Madras Presidency, and the Native States of Travancore and Cochin.(Summary by Edgar Thurston)]]></itunes:summary>
+  <itunes:owner>
+    <itunes:name>LibriVox</itunes:name>
+    <itunes:email>info@librivox.org</itunes:email>
+  </itunes:owner>
+  <itunes:category text="Arts">
+    <itunes:category text="Literature" />
+  </itunes:category>
+  <image><url>https://archive.org/download/LibrivoxCdCoverArt24/omens_superstitions_1211.jpg</url></image>
+  <itunes:image href="https://archive.org/download/LibrivoxCdCoverArt24/omens_superstitions_1211.jpg"/>
+  <itunes:explicit>no</itunes:explicit>
+  <!-- file loop -->
+    <item>
+    <title><![CDATA[00 - Preface]]></title>
+    <itunes:episode><![CDATA[0]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/omens-and-superstitions-of-southern-india-by-edgar-thurston/]]></link>
+            <enclosure url="https://www.archive.org/download/omens_southern_india_1203_librivox/omenssouthernindia_00_thurston_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:02:19]]></itunes:duration>
+  <pubDate>Thu, 29 Mar 2012 00:00:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/omens_southern_india_1203_librivox/omenssouthernindia_00_thurston_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[01 - Omens part 1]]></title>
+    <itunes:episode><![CDATA[1]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/omens-and-superstitions-of-southern-india-by-edgar-thurston/]]></link>
+            <enclosure url="https://www.archive.org/download/omens_southern_india_1203_librivox/omenssouthernindia_01_thurston_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:33:48]]></itunes:duration>
+  <pubDate>Thu, 29 Mar 2012 00:01:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/omens_southern_india_1203_librivox/omenssouthernindia_01_thurston_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[02 - Omens Part 2]]></title>
+    <itunes:episode><![CDATA[2]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/omens-and-superstitions-of-southern-india-by-edgar-thurston/]]></link>
+            <enclosure url="https://www.archive.org/download/omens_southern_india_1203_librivox/omenssouthernindia_02_thurston_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:37:57]]></itunes:duration>
+  <pubDate>Thu, 29 Mar 2012 00:02:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/omens_southern_india_1203_librivox/omenssouthernindia_02_thurston_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[03 - Omens Part 3]]></title>
+    <itunes:episode><![CDATA[3]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/omens-and-superstitions-of-southern-india-by-edgar-thurston/]]></link>
+            <enclosure url="https://www.archive.org/download/omens_southern_india_1203_librivox/omenssouthernindia_03_thurston_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:21:50]]></itunes:duration>
+  <pubDate>Thu, 29 Mar 2012 00:03:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/omens_southern_india_1203_librivox/omenssouthernindia_03_thurston_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[04 - Omens Part 4]]></title>
+    <itunes:episode><![CDATA[4]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/omens-and-superstitions-of-southern-india-by-edgar-thurston/]]></link>
+            <enclosure url="https://www.archive.org/download/omens_southern_india_1203_librivox/omenssouthernindia_04_thurston_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:22:21]]></itunes:duration>
+  <pubDate>Thu, 29 Mar 2012 00:04:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/omens_southern_india_1203_librivox/omenssouthernindia_04_thurston_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[05 - Animals Part 1]]></title>
+    <itunes:episode><![CDATA[5]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/omens-and-superstitions-of-southern-india-by-edgar-thurston/]]></link>
+            <enclosure url="https://www.archive.org/download/omens_southern_india_1203_librivox/omenssouthernindia_05_thurston_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:30:16]]></itunes:duration>
+  <pubDate>Thu, 29 Mar 2012 00:05:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/omens_southern_india_1203_librivox/omenssouthernindia_05_thurston_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[06 - Animals Part 2]]></title>
+    <itunes:episode><![CDATA[6]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/omens-and-superstitions-of-southern-india-by-edgar-thurston/]]></link>
+            <enclosure url="https://www.archive.org/download/omens_southern_india_1203_librivox/omenssouthernindia_06_thurston_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:05:28]]></itunes:duration>
+  <pubDate>Thu, 29 Mar 2012 00:06:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/omens_southern_india_1203_librivox/omenssouthernindia_06_thurston_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[07 - Animals Part 3]]></title>
+    <itunes:episode><![CDATA[7]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/omens-and-superstitions-of-southern-india-by-edgar-thurston/]]></link>
+            <enclosure url="https://www.archive.org/download/omens_southern_india_1203_librivox/omenssouthernindia_07_thurston_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:21:06]]></itunes:duration>
+  <pubDate>Thu, 29 Mar 2012 00:07:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/omens_southern_india_1203_librivox/omenssouthernindia_07_thurston_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[08 - Animals Part 4]]></title>
+    <itunes:episode><![CDATA[8]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/omens-and-superstitions-of-southern-india-by-edgar-thurston/]]></link>
+            <enclosure url="https://www.archive.org/download/omens_southern_india_1203_librivox/omenssouthernindia_08_thurston_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:03:07]]></itunes:duration>
+  <pubDate>Thu, 29 Mar 2012 00:08:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/omens_southern_india_1203_librivox/omenssouthernindia_08_thurston_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[09 - Animals Part 5]]></title>
+    <itunes:episode><![CDATA[9]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/omens-and-superstitions-of-southern-india-by-edgar-thurston/]]></link>
+            <enclosure url="https://www.archive.org/download/omens_southern_india_1203_librivox/omenssouthernindia_09_thurston_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:12:22]]></itunes:duration>
+  <pubDate>Thu, 29 Mar 2012 00:09:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/omens_southern_india_1203_librivox/omenssouthernindia_09_thurston_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[10 - The Evil Eye]]></title>
+    <itunes:episode><![CDATA[10]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/omens-and-superstitions-of-southern-india-by-edgar-thurston/]]></link>
+            <enclosure url="https://www.archive.org/download/omens_southern_india_1203_librivox/omenssouthernindia_10_thurston_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:23:07]]></itunes:duration>
+  <pubDate>Thu, 29 Mar 2012 00:10:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/omens_southern_india_1203_librivox/omenssouthernindia_10_thurston_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[11 - Snake Worship]]></title>
+    <itunes:episode><![CDATA[11]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/omens-and-superstitions-of-southern-india-by-edgar-thurston/]]></link>
+            <enclosure url="https://www.archive.org/download/omens_southern_india_1203_librivox/omenssouthernindia_11_thurston_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:31:06]]></itunes:duration>
+  <pubDate>Thu, 29 Mar 2012 00:11:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/omens_southern_india_1203_librivox/omenssouthernindia_11_thurston_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[12 - Vows, Votive and other Offerings - Part 1]]></title>
+    <itunes:episode><![CDATA[12]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/omens-and-superstitions-of-southern-india-by-edgar-thurston/]]></link>
+            <enclosure url="https://www.archive.org/download/omens_southern_india_1203_librivox/omenssouthernindia_12_thurston_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:31:09]]></itunes:duration>
+  <pubDate>Thu, 29 Mar 2012 00:12:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/omens_southern_india_1203_librivox/omenssouthernindia_12_thurston_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[13 - Vows, Votive and other Offerings - Part 2]]></title>
+    <itunes:episode><![CDATA[13]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/omens-and-superstitions-of-southern-india-by-edgar-thurston/]]></link>
+            <enclosure url="https://www.archive.org/download/omens_southern_india_1203_librivox/omenssouthernindia_13_thurston_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:32:30]]></itunes:duration>
+  <pubDate>Thu, 29 Mar 2012 00:13:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/omens_southern_india_1203_librivox/omenssouthernindia_13_thurston_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[14 - Vows, Votive and other Offerings - Part 3]]></title>
+    <itunes:episode><![CDATA[14]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/omens-and-superstitions-of-southern-india-by-edgar-thurston/]]></link>
+            <enclosure url="https://www.archive.org/download/omens_southern_india_1203_librivox/omenssouthernindia_14_thurston_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:14:51]]></itunes:duration>
+  <pubDate>Thu, 29 Mar 2012 00:14:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/omens_southern_india_1203_librivox/omenssouthernindia_14_thurston_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[15 - Charms - Part 1]]></title>
+    <itunes:episode><![CDATA[15]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/omens-and-superstitions-of-southern-india-by-edgar-thurston/]]></link>
+            <enclosure url="https://www.archive.org/download/omens_southern_india_1203_librivox/omenssouthernindia_15_thurston_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:17:09]]></itunes:duration>
+  <pubDate>Thu, 29 Mar 2012 00:15:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/omens_southern_india_1203_librivox/omenssouthernindia_15_thurston_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[16 - Charms - Part 2]]></title>
+    <itunes:episode><![CDATA[16]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/omens-and-superstitions-of-southern-india-by-edgar-thurston/]]></link>
+            <enclosure url="https://www.archive.org/download/omens_southern_india_1203_librivox/omenssouthernindia_16_thurston_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:16:05]]></itunes:duration>
+  <pubDate>Thu, 29 Mar 2012 00:16:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/omens_southern_india_1203_librivox/omenssouthernindia_16_thurston_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[17 - Human Sacrifice - Part 1]]></title>
+    <itunes:episode><![CDATA[17]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/omens-and-superstitions-of-southern-india-by-edgar-thurston/]]></link>
+            <enclosure url="https://www.archive.org/download/omens_southern_india_1203_librivox/omenssouthernindia_17_thurston_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:25:39]]></itunes:duration>
+  <pubDate>Thu, 29 Mar 2012 00:17:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/omens_southern_india_1203_librivox/omenssouthernindia_17_thurston_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[18 - Human Sacrifice - Part 2]]></title>
+    <itunes:episode><![CDATA[18]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/omens-and-superstitions-of-southern-india-by-edgar-thurston/]]></link>
+            <enclosure url="https://www.archive.org/download/omens_southern_india_1203_librivox/omenssouthernindia_18_thurston_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:22:40]]></itunes:duration>
+  <pubDate>Thu, 29 Mar 2012 00:18:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/omens_southern_india_1203_librivox/omenssouthernindia_18_thurston_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[19 - Magic and Human Life]]></title>
+    <itunes:episode><![CDATA[19]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/omens-and-superstitions-of-southern-india-by-edgar-thurston/]]></link>
+            <enclosure url="https://www.archive.org/download/omens_southern_india_1203_librivox/omenssouthernindia_19_thurston_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:24:40]]></itunes:duration>
+  <pubDate>Thu, 29 Mar 2012 00:19:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/omens_southern_india_1203_librivox/omenssouthernindia_19_thurston_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[20 - Magic and Magicians  - Part 1]]></title>
+    <itunes:episode><![CDATA[20]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/omens-and-superstitions-of-southern-india-by-edgar-thurston/]]></link>
+            <enclosure url="https://www.archive.org/download/omens_southern_india_1203_librivox/omenssouthernindia_20_thurston_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:29:28]]></itunes:duration>
+  <pubDate>Thu, 29 Mar 2012 00:20:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/omens_southern_india_1203_librivox/omenssouthernindia_20_thurston_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[21 - Magic and Magicians - Part 2]]></title>
+    <itunes:episode><![CDATA[21]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/omens-and-superstitions-of-southern-india-by-edgar-thurston/]]></link>
+            <enclosure url="https://www.archive.org/download/omens_southern_india_1203_librivox/omenssouthernindia_21_thurston_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:27:59]]></itunes:duration>
+  <pubDate>Thu, 29 Mar 2012 00:21:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/omens_southern_india_1203_librivox/omenssouthernindia_21_thurston_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[22 - Magic and Magicians - Part 3]]></title>
+    <itunes:episode><![CDATA[22]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/omens-and-superstitions-of-southern-india-by-edgar-thurston/]]></link>
+            <enclosure url="https://www.archive.org/download/omens_southern_india_1203_librivox/omenssouthernindia_22_thurston_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:07:29]]></itunes:duration>
+  <pubDate>Thu, 29 Mar 2012 00:22:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/omens_southern_india_1203_librivox/omenssouthernindia_22_thurston_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[23 - Divination and Fortune-Telling]]></title>
+    <itunes:episode><![CDATA[23]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/omens-and-superstitions-of-southern-india-by-edgar-thurston/]]></link>
+            <enclosure url="https://www.archive.org/download/omens_southern_india_1203_librivox/omenssouthernindia_23_thurston_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:34:10]]></itunes:duration>
+  <pubDate>Thu, 29 Mar 2012 00:23:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/omens_southern_india_1203_librivox/omenssouthernindia_23_thurston_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[24 - Some Agricultural Ceremonies]]></title>
+    <itunes:episode><![CDATA[24]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/omens-and-superstitions-of-southern-india-by-edgar-thurston/]]></link>
+            <enclosure url="https://www.archive.org/download/omens_southern_india_1203_librivox/omenssouthernindia_24_thurston_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:31:06]]></itunes:duration>
+  <pubDate>Thu, 29 Mar 2012 00:24:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/omens_southern_india_1203_librivox/omenssouthernindia_24_thurston_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[25 - Rain-Making Ceremonies]]></title>
+    <itunes:episode><![CDATA[25]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/omens-and-superstitions-of-southern-india-by-edgar-thurston/]]></link>
+            <enclosure url="https://www.archive.org/download/omens_southern_india_1203_librivox/omenssouthernindia_25_thurston_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:12:16]]></itunes:duration>
+  <pubDate>Thu, 29 Mar 2012 00:25:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/omens_southern_india_1203_librivox/omenssouthernindia_25_thurston_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <!-- end file loop -->
+</channel>
+</rss>

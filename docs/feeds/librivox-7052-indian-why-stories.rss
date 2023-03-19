@@ -1,0 +1,301 @@
+<?xml version="1.0" ?><rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+  <title><![CDATA[Indian Why Stories: Sparks From War Eagle's Lodge-Fire by Frank Bird Linderman (1869 - 1938)]]></title>
+  <link><![CDATA[https://librivox.org/indian-why-stories-sparks-from-war-eagles-lodge-fire-by-frank-linderman/]]></link>
+  <atom:link rel="self" href="https://librivox.org/rss/7052" />
+  <description><![CDATA[Delightful fables, collected by a devotee of Indian lore, recounts many of the legends told to him by tribal members, among them intriguing explanations of "Why the Chipmunk's Back is Striped," "How the Otter Skin Became Great Medicine," "How the Man Found His Mate," and "Why Blackfeet Never Kill Mice." (Summary by Dover Children's Classics)]]></description>
+  <!--<genre>project element=Genre</genre>-->
+  <!--<language>project element=lang.code</language>-->
+  <itunes:type>serial</itunes:type>
+  <itunes:author>LibriVox</itunes:author>
+  <itunes:summary><![CDATA[Delightful fables, collected by a devotee of Indian lore, recounts many of the legends told to him by tribal members, among them intriguing explanations of "Why the Chipmunk's Back is Striped," "How the Otter Skin Became Great Medicine," "How the Man Found His Mate," and "Why Blackfeet Never Kill Mice." (Summary by Dover Children's Classics)]]></itunes:summary>
+  <itunes:owner>
+    <itunes:name>LibriVox</itunes:name>
+    <itunes:email>info@librivox.org</itunes:email>
+  </itunes:owner>
+  <itunes:category text="Arts">
+    <itunes:category text="Literature" />
+  </itunes:category>
+  <image><url>https://archive.org/download/LibrivoxCdCoverArt31/Indian_Why_Stories_1305.jpg</url></image>
+  <itunes:image href="https://archive.org/download/LibrivoxCdCoverArt31/Indian_Why_Stories_1305.jpg"/>
+  <itunes:explicit>no</itunes:explicit>
+  <!-- file loop -->
+    <item>
+    <title><![CDATA[00 - Dedication, Preface, Introduction, Contents]]></title>
+    <itunes:episode><![CDATA[0]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/indian-why-stories-sparks-from-war-eagles-lodge-fire-by-frank-linderman/]]></link>
+            <enclosure url="https://www.archive.org/download/indian_why_stories_1210_librivox/indianwhystories_00_linderman_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:08:36]]></itunes:duration>
+  <pubDate>Tue, 09 Oct 2012 00:00:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/indian_why_stories_1210_librivox/indianwhystories_00_linderman_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[01 - Why the chipmunk's back is striped]]></title>
+    <itunes:episode><![CDATA[1]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/indian-why-stories-sparks-from-war-eagles-lodge-fire-by-frank-linderman/]]></link>
+            <enclosure url="https://www.archive.org/download/indian_why_stories_1210_librivox/indianwhystories_01_linderman_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:13:32]]></itunes:duration>
+  <pubDate>Tue, 09 Oct 2012 00:01:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/indian_why_stories_1210_librivox/indianwhystories_01_linderman_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[02 - How the ducks got their fine feathers]]></title>
+    <itunes:episode><![CDATA[2]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/indian-why-stories-sparks-from-war-eagles-lodge-fire-by-frank-linderman/]]></link>
+            <enclosure url="https://www.archive.org/download/indian_why_stories_1210_librivox/indianwhystories_02_linderman_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:06:52]]></itunes:duration>
+  <pubDate>Tue, 09 Oct 2012 00:02:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/indian_why_stories_1210_librivox/indianwhystories_02_linderman_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[03 - Why the kingfisher always wears a war-bonnet]]></title>
+    <itunes:episode><![CDATA[3]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/indian-why-stories-sparks-from-war-eagles-lodge-fire-by-frank-linderman/]]></link>
+            <enclosure url="https://www.archive.org/download/indian_why_stories_1210_librivox/indianwhystories_03_linderman_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:07:03]]></itunes:duration>
+  <pubDate>Tue, 09 Oct 2012 00:03:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/indian_why_stories_1210_librivox/indianwhystories_03_linderman_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[04 - Why the curlew's bill is long and crooked]]></title>
+    <itunes:episode><![CDATA[4]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/indian-why-stories-sparks-from-war-eagles-lodge-fire-by-frank-linderman/]]></link>
+            <enclosure url="https://www.archive.org/download/indian_why_stories_1210_librivox/indianwhystories_04_linderman_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:06:44]]></itunes:duration>
+  <pubDate>Tue, 09 Oct 2012 00:04:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/indian_why_stories_1210_librivox/indianwhystories_04_linderman_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[05 - Old-man remarks the world]]></title>
+    <itunes:episode><![CDATA[5]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/indian-why-stories-sparks-from-war-eagles-lodge-fire-by-frank-linderman/]]></link>
+            <enclosure url="https://www.archive.org/download/indian_why_stories_1210_librivox/indianwhystories_05_linderman_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:14:48]]></itunes:duration>
+  <pubDate>Tue, 09 Oct 2012 00:05:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/indian_why_stories_1210_librivox/indianwhystories_05_linderman_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[06 - Why Blackfeet never kill mice]]></title>
+    <itunes:episode><![CDATA[6]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/indian-why-stories-sparks-from-war-eagles-lodge-fire-by-frank-linderman/]]></link>
+            <enclosure url="https://www.archive.org/download/indian_why_stories_1210_librivox/indianwhystories_06_linderman_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:07:16]]></itunes:duration>
+  <pubDate>Tue, 09 Oct 2012 00:06:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/indian_why_stories_1210_librivox/indianwhystories_06_linderman_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[07 - How the otter skin became great "medicine"]]></title>
+    <itunes:episode><![CDATA[7]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/indian-why-stories-sparks-from-war-eagles-lodge-fire-by-frank-linderman/]]></link>
+            <enclosure url="https://www.archive.org/download/indian_why_stories_1210_librivox/indianwhystories_07_linderman_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:14:20]]></itunes:duration>
+  <pubDate>Tue, 09 Oct 2012 00:07:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/indian_why_stories_1210_librivox/indianwhystories_07_linderman_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[08 - Old-man steals the sun's leggings]]></title>
+    <itunes:episode><![CDATA[8]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/indian-why-stories-sparks-from-war-eagles-lodge-fire-by-frank-linderman/]]></link>
+            <enclosure url="https://www.archive.org/download/indian_why_stories_1210_librivox/indianwhystories_08_linderman_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:11:30]]></itunes:duration>
+  <pubDate>Tue, 09 Oct 2012 00:08:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/indian_why_stories_1210_librivox/indianwhystories_08_linderman_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[09 - Old-man and his conscience]]></title>
+    <itunes:episode><![CDATA[9]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/indian-why-stories-sparks-from-war-eagles-lodge-fire-by-frank-linderman/]]></link>
+            <enclosure url="https://www.archive.org/download/indian_why_stories_1210_librivox/indianwhystories_09_linderman_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:10:10]]></itunes:duration>
+  <pubDate>Tue, 09 Oct 2012 00:09:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/indian_why_stories_1210_librivox/indianwhystories_09_linderman_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[10 - Old-man's treachery]]></title>
+    <itunes:episode><![CDATA[10]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/indian-why-stories-sparks-from-war-eagles-lodge-fire-by-frank-linderman/]]></link>
+            <enclosure url="https://www.archive.org/download/indian_why_stories_1210_librivox/indianwhystories_10_linderman_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:08:27]]></itunes:duration>
+  <pubDate>Tue, 09 Oct 2012 00:10:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/indian_why_stories_1210_librivox/indianwhystories_10_linderman_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[11 - Why the night-hawk's wings are beautiful]]></title>
+    <itunes:episode><![CDATA[11]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/indian-why-stories-sparks-from-war-eagles-lodge-fire-by-frank-linderman/]]></link>
+            <enclosure url="https://www.archive.org/download/indian_why_stories_1210_librivox/indianwhystories_11_linderman_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:06:57]]></itunes:duration>
+  <pubDate>Tue, 09 Oct 2012 00:11:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/indian_why_stories_1210_librivox/indianwhystories_11_linderman_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[12 - Why the mountain-lion is long and lean]]></title>
+    <itunes:episode><![CDATA[12]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/indian-why-stories-sparks-from-war-eagles-lodge-fire-by-frank-linderman/]]></link>
+            <enclosure url="https://www.archive.org/download/indian_why_stories_1210_librivox/indianwhystories_12_linderman_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:13:29]]></itunes:duration>
+  <pubDate>Tue, 09 Oct 2012 00:12:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/indian_why_stories_1210_librivox/indianwhystories_12_linderman_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[13 - The fire-leggings]]></title>
+    <itunes:episode><![CDATA[13]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/indian-why-stories-sparks-from-war-eagles-lodge-fire-by-frank-linderman/]]></link>
+            <enclosure url="https://www.archive.org/download/indian_why_stories_1210_librivox/indianwhystories_13_linderman_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:05:39]]></itunes:duration>
+  <pubDate>Tue, 09 Oct 2012 00:13:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/indian_why_stories_1210_librivox/indianwhystories_13_linderman_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[14 - The moon and the great snake]]></title>
+    <itunes:episode><![CDATA[14]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/indian-why-stories-sparks-from-war-eagles-lodge-fire-by-frank-linderman/]]></link>
+            <enclosure url="https://www.archive.org/download/indian_why_stories_1210_librivox/indianwhystories_14_linderman_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:04:40]]></itunes:duration>
+  <pubDate>Tue, 09 Oct 2012 00:14:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/indian_why_stories_1210_librivox/indianwhystories_14_linderman_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[15 - Why the deer has no gall]]></title>
+    <itunes:episode><![CDATA[15]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/indian-why-stories-sparks-from-war-eagles-lodge-fire-by-frank-linderman/]]></link>
+            <enclosure url="https://www.archive.org/download/indian_why_stories_1210_librivox/indianwhystories_15_linderman_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:05:50]]></itunes:duration>
+  <pubDate>Tue, 09 Oct 2012 00:15:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/indian_why_stories_1210_librivox/indianwhystories_15_linderman_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[16 - Why indians whip the buffalo-berries from the bushes]]></title>
+    <itunes:episode><![CDATA[16]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/indian-why-stories-sparks-from-war-eagles-lodge-fire-by-frank-linderman/]]></link>
+            <enclosure url="https://www.archive.org/download/indian_why_stories_1210_librivox/indianwhystories_16_linderman_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:06:35]]></itunes:duration>
+  <pubDate>Tue, 09 Oct 2012 00:16:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/indian_why_stories_1210_librivox/indianwhystories_16_linderman_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[17 - Old-man and the fox]]></title>
+    <itunes:episode><![CDATA[17]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/indian-why-stories-sparks-from-war-eagles-lodge-fire-by-frank-linderman/]]></link>
+            <enclosure url="https://www.archive.org/download/indian_why_stories_1210_librivox/indianwhystories_17_linderman_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:11:33]]></itunes:duration>
+  <pubDate>Tue, 09 Oct 2012 00:17:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/indian_why_stories_1210_librivox/indianwhystories_17_linderman_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[18 - Why the birch-tree wears the slashes in its bark]]></title>
+    <itunes:episode><![CDATA[18]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/indian-why-stories-sparks-from-war-eagles-lodge-fire-by-frank-linderman/]]></link>
+            <enclosure url="https://www.archive.org/download/indian_why_stories_1210_librivox/indianwhystories_18_linderman_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:05:54]]></itunes:duration>
+  <pubDate>Tue, 09 Oct 2012 00:18:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/indian_why_stories_1210_librivox/indianwhystories_18_linderman_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[19 - Mistakes of old-man]]></title>
+    <itunes:episode><![CDATA[19]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/indian-why-stories-sparks-from-war-eagles-lodge-fire-by-frank-linderman/]]></link>
+            <enclosure url="https://www.archive.org/download/indian_why_stories_1210_librivox/indianwhystories_19_linderman_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:03:19]]></itunes:duration>
+  <pubDate>Tue, 09 Oct 2012 00:19:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/indian_why_stories_1210_librivox/indianwhystories_19_linderman_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[20 - How the man found his mate]]></title>
+    <itunes:episode><![CDATA[20]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/indian-why-stories-sparks-from-war-eagles-lodge-fire-by-frank-linderman/]]></link>
+            <enclosure url="https://www.archive.org/download/indian_why_stories_1210_librivox/indianwhystories_20_linderman_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:06:50]]></itunes:duration>
+  <pubDate>Tue, 09 Oct 2012 00:20:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/indian_why_stories_1210_librivox/indianwhystories_20_linderman_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[21 - Dreams]]></title>
+    <itunes:episode><![CDATA[21]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/indian-why-stories-sparks-from-war-eagles-lodge-fire-by-frank-linderman/]]></link>
+            <enclosure url="https://www.archive.org/download/indian_why_stories_1210_librivox/indianwhystories_21_linderman_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:09:31]]></itunes:duration>
+  <pubDate>Tue, 09 Oct 2012 00:21:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/indian_why_stories_1210_librivox/indianwhystories_21_linderman_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[22 - Retrospection]]></title>
+    <itunes:episode><![CDATA[22]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/indian-why-stories-sparks-from-war-eagles-lodge-fire-by-frank-linderman/]]></link>
+            <enclosure url="https://www.archive.org/download/indian_why_stories_1210_librivox/indianwhystories_22_linderman_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:04:12]]></itunes:duration>
+  <pubDate>Tue, 09 Oct 2012 00:22:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/indian_why_stories_1210_librivox/indianwhystories_22_linderman_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <!-- end file loop -->
+</channel>
+</rss>

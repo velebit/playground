@@ -1,0 +1,721 @@
+<?xml version="1.0" ?><rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+  <title><![CDATA[Ancient Tales and Folklore of Japan by Richard Gordon Smith (1858 - 1918)]]></title>
+  <link><![CDATA[https://librivox.org/ancient-tales-and-folklore-of-japan-by-richard-gordon-smith/]]></link>
+  <atom:link rel="self" href="https://librivox.org/rss/13622" />
+  <description><![CDATA[Tales of Folklore are often of special interest. Anything may happen to ordinary mortals in the world painted by folklore. But it becomes even more interesting when you dive into folklore of places away from your own culture. This volume is a collection of ancient Japanese tales. We hear of ordinary mortals interacting with the spirit world, sometimes to their benefit, sometimes to their doom, we hear of love and hate, and of war and peace. Some of the stories will be entirely new to most readers, some of them will be uncannily familiar. - Summary by Carolin]]></description>
+  <!--<genre>project element=Genre</genre>-->
+  <!--<language>project element=lang.code</language>-->
+  <itunes:type>serial</itunes:type>
+  <itunes:author>LibriVox</itunes:author>
+  <itunes:summary><![CDATA[Tales of Folklore are often of special interest. Anything may happen to ordinary mortals in the world painted by folklore. But it becomes even more interesting when you dive into folklore of places away from your own culture. This volume is a collection of ancient Japanese tales. We hear of ordinary mortals interacting with the spirit world, sometimes to their benefit, sometimes to their doom, we hear of love and hate, and of war and peace. Some of the stories will be entirely new to most readers, some of them will be uncannily familiar. - Summary by Carolin]]></itunes:summary>
+  <itunes:owner>
+    <itunes:name>LibriVox</itunes:name>
+    <itunes:email>info@librivox.org</itunes:email>
+  </itunes:owner>
+  <itunes:category text="Arts">
+    <itunes:category text="Literature" />
+  </itunes:category>
+  <image><url>https://archive.org/download/tales_and_folklore_of_japan_1904_librivox/ancienttales_1904.jpg</url></image>
+  <itunes:image href="https://archive.org/download/tales_and_folklore_of_japan_1904_librivox/ancienttales_1904.jpg"/>
+  <itunes:explicit>no</itunes:explicit>
+  <!-- file loop -->
+    <item>
+    <title><![CDATA[Preface]]></title>
+    <itunes:episode><![CDATA[0]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/ancient-tales-and-folklore-of-japan-by-richard-gordon-smith/]]></link>
+            <enclosure url="https://www.archive.org/download/tales_and_folklore_of_japan_1904_librivox/japan_00_smith_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 19 Apr 2019 00:00:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/tales_and_folklore_of_japan_1904_librivox/japan_00_smith_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Golden Hairpin]]></title>
+    <itunes:episode><![CDATA[1]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/ancient-tales-and-folklore-of-japan-by-richard-gordon-smith/]]></link>
+            <enclosure url="https://www.archive.org/download/tales_and_folklore_of_japan_1904_librivox/japan_01_smith_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 19 Apr 2019 00:01:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/tales_and_folklore_of_japan_1904_librivox/japan_01_smith_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Spirit Of The Willow Tree]]></title>
+    <itunes:episode><![CDATA[2]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/ancient-tales-and-folklore-of-japan-by-richard-gordon-smith/]]></link>
+            <enclosure url="https://www.archive.org/download/tales_and_folklore_of_japan_1904_librivox/japan_02_smith_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 19 Apr 2019 00:02:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/tales_and_folklore_of_japan_1904_librivox/japan_02_smith_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Ghost of the Violet Well]]></title>
+    <itunes:episode><![CDATA[3]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/ancient-tales-and-folklore-of-japan-by-richard-gordon-smith/]]></link>
+            <enclosure url="https://www.archive.org/download/tales_and_folklore_of_japan_1904_librivox/japan_03_smith_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 19 Apr 2019 00:03:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/tales_and_folklore_of_japan_1904_librivox/japan_03_smith_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Ghost Story of the Flute's Tomb]]></title>
+    <itunes:episode><![CDATA[4]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/ancient-tales-and-folklore-of-japan-by-richard-gordon-smith/]]></link>
+            <enclosure url="https://www.archive.org/download/tales_and_folklore_of_japan_1904_librivox/japan_04_smith_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 19 Apr 2019 00:04:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/tales_and_folklore_of_japan_1904_librivox/japan_04_smith_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[A Haunted Temple in Inaba Province]]></title>
+    <itunes:episode><![CDATA[5]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/ancient-tales-and-folklore-of-japan-by-richard-gordon-smith/]]></link>
+            <enclosure url="https://www.archive.org/download/tales_and_folklore_of_japan_1904_librivox/japan_05_smith_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 19 Apr 2019 00:05:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/tales_and_folklore_of_japan_1904_librivox/japan_05_smith_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[A Carp Gives a Lesson in Perseverance]]></title>
+    <itunes:episode><![CDATA[6]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/ancient-tales-and-folklore-of-japan-by-richard-gordon-smith/]]></link>
+            <enclosure url="https://www.archive.org/download/tales_and_folklore_of_japan_1904_librivox/japan_06_smith_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 19 Apr 2019 00:06:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/tales_and_folklore_of_japan_1904_librivox/japan_06_smith_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Legends Told by a Fisherman on Lake Biwa, At Zeze]]></title>
+    <itunes:episode><![CDATA[7]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/ancient-tales-and-folklore-of-japan-by-richard-gordon-smith/]]></link>
+            <enclosure url="https://www.archive.org/download/tales_and_folklore_of_japan_1904_librivox/japan_07_smith_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 19 Apr 2019 00:07:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/tales_and_folklore_of_japan_1904_librivox/japan_07_smith_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[A Miraculous Sword]]></title>
+    <itunes:episode><![CDATA[8]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/ancient-tales-and-folklore-of-japan-by-richard-gordon-smith/]]></link>
+            <enclosure url="https://www.archive.org/download/tales_and_folklore_of_japan_1904_librivox/japan_08_smith_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 19 Apr 2019 00:08:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/tales_and_folklore_of_japan_1904_librivox/japan_08_smith_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA['The Procession of Ghosts']]></title>
+    <itunes:episode><![CDATA[9]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/ancient-tales-and-folklore-of-japan-by-richard-gordon-smith/]]></link>
+            <enclosure url="https://www.archive.org/download/tales_and_folklore_of_japan_1904_librivox/japan_09_smith_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 19 Apr 2019 00:09:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/tales_and_folklore_of_japan_1904_librivox/japan_09_smith_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[A Faithful Servant]]></title>
+    <itunes:episode><![CDATA[10]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/ancient-tales-and-folklore-of-japan-by-richard-gordon-smith/]]></link>
+            <enclosure url="https://www.archive.org/download/tales_and_folklore_of_japan_1904_librivox/japan_10_smith_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 19 Apr 2019 00:10:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/tales_and_folklore_of_japan_1904_librivox/japan_10_smith_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Prince Hosokawa's Most Valuable Title-Deeds]]></title>
+    <itunes:episode><![CDATA[11]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/ancient-tales-and-folklore-of-japan-by-richard-gordon-smith/]]></link>
+            <enclosure url="https://www.archive.org/download/tales_and_folklore_of_japan_1904_librivox/japan_11_smith_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 19 Apr 2019 00:11:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/tales_and_folklore_of_japan_1904_librivox/japan_11_smith_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Story of Kato Sayemon]]></title>
+    <itunes:episode><![CDATA[12]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/ancient-tales-and-folklore-of-japan-by-richard-gordon-smith/]]></link>
+            <enclosure url="https://www.archive.org/download/tales_and_folklore_of_japan_1904_librivox/japan_12_smith_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 19 Apr 2019 00:12:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/tales_and_folklore_of_japan_1904_librivox/japan_12_smith_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Great Fire Caused by a Lady's Dress]]></title>
+    <itunes:episode><![CDATA[13]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/ancient-tales-and-folklore-of-japan-by-richard-gordon-smith/]]></link>
+            <enclosure url="https://www.archive.org/download/tales_and_folklore_of_japan_1904_librivox/japan_13_smith_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 19 Apr 2019 00:13:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/tales_and_folklore_of_japan_1904_librivox/japan_13_smith_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[History of Awoto Fujitsuna]]></title>
+    <itunes:episode><![CDATA[14]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/ancient-tales-and-folklore-of-japan-by-richard-gordon-smith/]]></link>
+            <enclosure url="https://www.archive.org/download/tales_and_folklore_of_japan_1904_librivox/japan_14_smith_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 19 Apr 2019 00:14:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/tales_and_folklore_of_japan_1904_librivox/japan_14_smith_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[A Life Saved by a Spider and Two Doves]]></title>
+    <itunes:episode><![CDATA[15]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/ancient-tales-and-folklore-of-japan-by-richard-gordon-smith/]]></link>
+            <enclosure url="https://www.archive.org/download/tales_and_folklore_of_japan_1904_librivox/japan_15_smith_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 19 Apr 2019 00:15:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/tales_and_folklore_of_japan_1904_librivox/japan_15_smith_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Murakami Yoshiteru's Faithfulness]]></title>
+    <itunes:episode><![CDATA[16]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/ancient-tales-and-folklore-of-japan-by-richard-gordon-smith/]]></link>
+            <enclosure url="https://www.archive.org/download/tales_and_folklore_of_japan_1904_librivox/japan_16_smith_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 19 Apr 2019 00:16:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/tales_and_folklore_of_japan_1904_librivox/japan_16_smith_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[A Story of Oki Islands]]></title>
+    <itunes:episode><![CDATA[17]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/ancient-tales-and-folklore-of-japan-by-richard-gordon-smith/]]></link>
+            <enclosure url="https://www.archive.org/download/tales_and_folklore_of_japan_1904_librivox/japan_17_smith_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 19 Apr 2019 00:17:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/tales_and_folklore_of_japan_1904_librivox/japan_17_smith_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Cape of the Woman's Sword]]></title>
+    <itunes:episode><![CDATA[18]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/ancient-tales-and-folklore-of-japan-by-richard-gordon-smith/]]></link>
+            <enclosure url="https://www.archive.org/download/tales_and_folklore_of_japan_1904_librivox/japan_18_smith_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 19 Apr 2019 00:18:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/tales_and_folklore_of_japan_1904_librivox/japan_18_smith_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[How Yogodayu Won A Battle]]></title>
+    <itunes:episode><![CDATA[19]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/ancient-tales-and-folklore-of-japan-by-richard-gordon-smith/]]></link>
+            <enclosure url="https://www.archive.org/download/tales_and_folklore_of_japan_1904_librivox/japan_19_smith_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 19 Apr 2019 00:19:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/tales_and_folklore_of_japan_1904_librivox/japan_19_smith_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Isolated or Desolated Island]]></title>
+    <itunes:episode><![CDATA[20]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/ancient-tales-and-folklore-of-japan-by-richard-gordon-smith/]]></link>
+            <enclosure url="https://www.archive.org/download/tales_and_folklore_of_japan_1904_librivox/japan_20_smith_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 19 Apr 2019 00:20:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/tales_and_folklore_of_japan_1904_librivox/japan_20_smith_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Chikubu Island, Lake Biwa]]></title>
+    <itunes:episode><![CDATA[21]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/ancient-tales-and-folklore-of-japan-by-richard-gordon-smith/]]></link>
+            <enclosure url="https://www.archive.org/download/tales_and_folklore_of_japan_1904_librivox/japan_21_smith_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 19 Apr 2019 00:21:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/tales_and_folklore_of_japan_1904_librivox/japan_21_smith_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Reincarnation]]></title>
+    <itunes:episode><![CDATA[22]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/ancient-tales-and-folklore-of-japan-by-richard-gordon-smith/]]></link>
+            <enclosure url="https://www.archive.org/download/tales_and_folklore_of_japan_1904_librivox/japan_22_smith_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 19 Apr 2019 00:22:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/tales_and_folklore_of_japan_1904_librivox/japan_22_smith_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Diving-Woman of Oiso Bay]]></title>
+    <itunes:episode><![CDATA[23]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/ancient-tales-and-folklore-of-japan-by-richard-gordon-smith/]]></link>
+            <enclosure url="https://www.archive.org/download/tales_and_folklore_of_japan_1904_librivox/japan_23_smith_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 19 Apr 2019 00:23:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/tales_and_folklore_of_japan_1904_librivox/japan_23_smith_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Theft And Recovery of a Golden Kwannon]]></title>
+    <itunes:episode><![CDATA[24]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/ancient-tales-and-folklore-of-japan-by-richard-gordon-smith/]]></link>
+            <enclosure url="https://www.archive.org/download/tales_and_folklore_of_japan_1904_librivox/japan_24_smith_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 19 Apr 2019 00:24:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/tales_and_folklore_of_japan_1904_librivox/japan_24_smith_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Saigyo Hoshi's Rock]]></title>
+    <itunes:episode><![CDATA[25]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/ancient-tales-and-folklore-of-japan-by-richard-gordon-smith/]]></link>
+            <enclosure url="https://www.archive.org/download/tales_and_folklore_of_japan_1904_librivox/japan_25_smith_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 19 Apr 2019 00:25:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/tales_and_folklore_of_japan_1904_librivox/japan_25_smith_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[How Masakuni Regained His Sight]]></title>
+    <itunes:episode><![CDATA[26]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/ancient-tales-and-folklore-of-japan-by-richard-gordon-smith/]]></link>
+            <enclosure url="https://www.archive.org/download/tales_and_folklore_of_japan_1904_librivox/japan_26_smith_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 19 Apr 2019 00:26:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/tales_and_folklore_of_japan_1904_librivox/japan_26_smith_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Sagami Bay]]></title>
+    <itunes:episode><![CDATA[27]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/ancient-tales-and-folklore-of-japan-by-richard-gordon-smith/]]></link>
+            <enclosure url="https://www.archive.org/download/tales_and_folklore_of_japan_1904_librivox/japan_27_smith_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 19 Apr 2019 00:27:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/tales_and_folklore_of_japan_1904_librivox/japan_27_smith_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The King of Torijima]]></title>
+    <itunes:episode><![CDATA[28]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/ancient-tales-and-folklore-of-japan-by-richard-gordon-smith/]]></link>
+            <enclosure url="https://www.archive.org/download/tales_and_folklore_of_japan_1904_librivox/japan_28_smith_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 19 Apr 2019 00:28:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/tales_and_folklore_of_japan_1904_librivox/japan_28_smith_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Perpetual Life-Giving Wine]]></title>
+    <itunes:episode><![CDATA[29]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/ancient-tales-and-folklore-of-japan-by-richard-gordon-smith/]]></link>
+            <enclosure url="https://www.archive.org/download/tales_and_folklore_of_japan_1904_librivox/japan_29_smith_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 19 Apr 2019 00:29:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/tales_and_folklore_of_japan_1904_librivox/japan_29_smith_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Hermit's Cave]]></title>
+    <itunes:episode><![CDATA[30]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/ancient-tales-and-folklore-of-japan-by-richard-gordon-smith/]]></link>
+            <enclosure url="https://www.archive.org/download/tales_and_folklore_of_japan_1904_librivox/japan_30_smith_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 19 Apr 2019 00:30:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/tales_and_folklore_of_japan_1904_librivox/japan_30_smith_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Yosoji's Camellia Tree]]></title>
+    <itunes:episode><![CDATA[31]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/ancient-tales-and-folklore-of-japan-by-richard-gordon-smith/]]></link>
+            <enclosure url="https://www.archive.org/download/tales_and_folklore_of_japan_1904_librivox/japan_31_smith_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 19 Apr 2019 00:31:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/tales_and_folklore_of_japan_1904_librivox/japan_31_smith_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Whales]]></title>
+    <itunes:episode><![CDATA[32]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/ancient-tales-and-folklore-of-japan-by-richard-gordon-smith/]]></link>
+            <enclosure url="https://www.archive.org/download/tales_and_folklore_of_japan_1904_librivox/japan_32_smith_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 19 Apr 2019 00:32:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/tales_and_folklore_of_japan_1904_librivox/japan_32_smith_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Holy Cherry Tree of Musubi-no-Kami Temple]]></title>
+    <itunes:episode><![CDATA[33]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/ancient-tales-and-folklore-of-japan-by-richard-gordon-smith/]]></link>
+            <enclosure url="https://www.archive.org/download/tales_and_folklore_of_japan_1904_librivox/japan_33_smith_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 19 Apr 2019 00:33:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/tales_and_folklore_of_japan_1904_librivox/japan_33_smith_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[A Story of Mount Kanzanrei]]></title>
+    <itunes:episode><![CDATA[34]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/ancient-tales-and-folklore-of-japan-by-richard-gordon-smith/]]></link>
+            <enclosure url="https://www.archive.org/download/tales_and_folklore_of_japan_1904_librivox/japan_34_smith_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 19 Apr 2019 00:34:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/tales_and_folklore_of_japan_1904_librivox/japan_34_smith_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[White Bone Mountain]]></title>
+    <itunes:episode><![CDATA[35]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/ancient-tales-and-folklore-of-japan-by-richard-gordon-smith/]]></link>
+            <enclosure url="https://www.archive.org/download/tales_and_folklore_of_japan_1904_librivox/japan_35_smith_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 19 Apr 2019 00:35:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/tales_and_folklore_of_japan_1904_librivox/japan_35_smith_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[A Stormy Night's Tragedy]]></title>
+    <itunes:episode><![CDATA[36]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/ancient-tales-and-folklore-of-japan-by-richard-gordon-smith/]]></link>
+            <enclosure url="https://www.archive.org/download/tales_and_folklore_of_japan_1904_librivox/japan_36_smith_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 19 Apr 2019 00:36:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/tales_and_folklore_of_japan_1904_librivox/japan_36_smith_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Kakemono Ghost of Aki Province]]></title>
+    <itunes:episode><![CDATA[37]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/ancient-tales-and-folklore-of-japan-by-richard-gordon-smith/]]></link>
+            <enclosure url="https://www.archive.org/download/tales_and_folklore_of_japan_1904_librivox/japan_37_smith_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 19 Apr 2019 00:37:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/tales_and_folklore_of_japan_1904_librivox/japan_37_smith_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[White Saké]]></title>
+    <itunes:episode><![CDATA[38]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/ancient-tales-and-folklore-of-japan-by-richard-gordon-smith/]]></link>
+            <enclosure url="https://www.archive.org/download/tales_and_folklore_of_japan_1904_librivox/japan_38_smith_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 19 Apr 2019 00:38:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/tales_and_folklore_of_japan_1904_librivox/japan_38_smith_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Blind Beauty]]></title>
+    <itunes:episode><![CDATA[39]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/ancient-tales-and-folklore-of-japan-by-richard-gordon-smith/]]></link>
+            <enclosure url="https://www.archive.org/download/tales_and_folklore_of_japan_1904_librivox/japan_39_smith_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 19 Apr 2019 00:39:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/tales_and_folklore_of_japan_1904_librivox/japan_39_smith_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Secret of Iidamachi Pond]]></title>
+    <itunes:episode><![CDATA[40]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/ancient-tales-and-folklore-of-japan-by-richard-gordon-smith/]]></link>
+            <enclosure url="https://www.archive.org/download/tales_and_folklore_of_japan_1904_librivox/japan_40_smith_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 19 Apr 2019 00:40:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/tales_and_folklore_of_japan_1904_librivox/japan_40_smith_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Spirit of Yenoki]]></title>
+    <itunes:episode><![CDATA[41]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/ancient-tales-and-folklore-of-japan-by-richard-gordon-smith/]]></link>
+            <enclosure url="https://www.archive.org/download/tales_and_folklore_of_japan_1904_librivox/japan_41_smith_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 19 Apr 2019 00:41:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/tales_and_folklore_of_japan_1904_librivox/japan_41_smith_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Spirit of the Lotus Lily]]></title>
+    <itunes:episode><![CDATA[42]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/ancient-tales-and-folklore-of-japan-by-richard-gordon-smith/]]></link>
+            <enclosure url="https://www.archive.org/download/tales_and_folklore_of_japan_1904_librivox/japan_42_smith_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 19 Apr 2019 00:42:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/tales_and_folklore_of_japan_1904_librivox/japan_42_smith_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Temple of the Awabi]]></title>
+    <itunes:episode><![CDATA[43]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/ancient-tales-and-folklore-of-japan-by-richard-gordon-smith/]]></link>
+            <enclosure url="https://www.archive.org/download/tales_and_folklore_of_japan_1904_librivox/japan_43_smith_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 19 Apr 2019 00:43:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/tales_and_folklore_of_japan_1904_librivox/japan_43_smith_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Human Fireflies]]></title>
+    <itunes:episode><![CDATA[44]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/ancient-tales-and-folklore-of-japan-by-richard-gordon-smith/]]></link>
+            <enclosure url="https://www.archive.org/download/tales_and_folklore_of_japan_1904_librivox/japan_44_smith_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 19 Apr 2019 00:44:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/tales_and_folklore_of_japan_1904_librivox/japan_44_smith_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Chrysanthemum Hermit]]></title>
+    <itunes:episode><![CDATA[45]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/ancient-tales-and-folklore-of-japan-by-richard-gordon-smith/]]></link>
+            <enclosure url="https://www.archive.org/download/tales_and_folklore_of_japan_1904_librivox/japan_45_smith_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 19 Apr 2019 00:45:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/tales_and_folklore_of_japan_1904_librivox/japan_45_smith_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Princess Peony]]></title>
+    <itunes:episode><![CDATA[46]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/ancient-tales-and-folklore-of-japan-by-richard-gordon-smith/]]></link>
+            <enclosure url="https://www.archive.org/download/tales_and_folklore_of_japan_1904_librivox/japan_46_smith_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 19 Apr 2019 00:46:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/tales_and_folklore_of_japan_1904_librivox/japan_46_smith_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Memorial Cherry Tree]]></title>
+    <itunes:episode><![CDATA[47]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/ancient-tales-and-folklore-of-japan-by-richard-gordon-smith/]]></link>
+            <enclosure url="https://www.archive.org/download/tales_and_folklore_of_japan_1904_librivox/japan_47_smith_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 19 Apr 2019 00:47:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/tales_and_folklore_of_japan_1904_librivox/japan_47_smith_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The 'Jirohei' Cherry Tree, Kyoto]]></title>
+    <itunes:episode><![CDATA[48]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/ancient-tales-and-folklore-of-japan-by-richard-gordon-smith/]]></link>
+            <enclosure url="https://www.archive.org/download/tales_and_folklore_of_japan_1904_librivox/japan_48_smith_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 19 Apr 2019 00:48:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/tales_and_folklore_of_japan_1904_librivox/japan_48_smith_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Snow Ghost]]></title>
+    <itunes:episode><![CDATA[49]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/ancient-tales-and-folklore-of-japan-by-richard-gordon-smith/]]></link>
+            <enclosure url="https://www.archive.org/download/tales_and_folklore_of_japan_1904_librivox/japan_49_smith_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 19 Apr 2019 00:49:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/tales_and_folklore_of_japan_1904_librivox/japan_49_smith_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Snow Tomb]]></title>
+    <itunes:episode><![CDATA[50]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/ancient-tales-and-folklore-of-japan-by-richard-gordon-smith/]]></link>
+            <enclosure url="https://www.archive.org/download/tales_and_folklore_of_japan_1904_librivox/japan_50_smith_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 19 Apr 2019 00:50:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/tales_and_folklore_of_japan_1904_librivox/japan_50_smith_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Dragon-Shaped Plum Tree]]></title>
+    <itunes:episode><![CDATA[51]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/ancient-tales-and-folklore-of-japan-by-richard-gordon-smith/]]></link>
+            <enclosure url="https://www.archive.org/download/tales_and_folklore_of_japan_1904_librivox/japan_51_smith_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 19 Apr 2019 00:51:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/tales_and_folklore_of_japan_1904_librivox/japan_51_smith_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Chessboard Cherry Tree]]></title>
+    <itunes:episode><![CDATA[52]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/ancient-tales-and-folklore-of-japan-by-richard-gordon-smith/]]></link>
+            <enclosure url="https://www.archive.org/download/tales_and_folklore_of_japan_1904_librivox/japan_52_smith_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 19 Apr 2019 00:52:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/tales_and_folklore_of_japan_1904_librivox/japan_52_smith_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Precious Sword 'Natori no Hoto']]></title>
+    <itunes:episode><![CDATA[53]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/ancient-tales-and-folklore-of-japan-by-richard-gordon-smith/]]></link>
+            <enclosure url="https://www.archive.org/download/tales_and_folklore_of_japan_1904_librivox/japan_53_smith_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 19 Apr 2019 00:53:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/tales_and_folklore_of_japan_1904_librivox/japan_53_smith_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The White Serpent God]]></title>
+    <itunes:episode><![CDATA[54]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/ancient-tales-and-folklore-of-japan-by-richard-gordon-smith/]]></link>
+            <enclosure url="https://www.archive.org/download/tales_and_folklore_of_japan_1904_librivox/japan_54_smith_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 19 Apr 2019 00:54:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/tales_and_folklore_of_japan_1904_librivox/japan_54_smith_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[A Festival of the Awabi Fish]]></title>
+    <itunes:episode><![CDATA[55]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/ancient-tales-and-folklore-of-japan-by-richard-gordon-smith/]]></link>
+            <enclosure url="https://www.archive.org/download/tales_and_folklore_of_japan_1904_librivox/japan_55_smith_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 19 Apr 2019 00:55:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/tales_and_folklore_of_japan_1904_librivox/japan_55_smith_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Spirit of a Willow Tree Saves Family Honour]]></title>
+    <itunes:episode><![CDATA[56]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/ancient-tales-and-folklore-of-japan-by-richard-gordon-smith/]]></link>
+            <enclosure url="https://www.archive.org/download/tales_and_folklore_of_japan_1904_librivox/japan_56_smith_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 19 Apr 2019 00:56:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/tales_and_folklore_of_japan_1904_librivox/japan_56_smith_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Camphor Tree Tomb]]></title>
+    <itunes:episode><![CDATA[57]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/ancient-tales-and-folklore-of-japan-by-richard-gordon-smith/]]></link>
+            <enclosure url="https://www.archive.org/download/tales_and_folklore_of_japan_1904_librivox/japan_57_smith_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 19 Apr 2019 00:57:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/tales_and_folklore_of_japan_1904_librivox/japan_57_smith_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <!-- end file loop -->
+</channel>
+</rss>

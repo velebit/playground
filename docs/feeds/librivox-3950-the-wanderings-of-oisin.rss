@@ -1,0 +1,73 @@
+<?xml version="1.0" ?><rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+  <title><![CDATA[Wanderings of Oisin, The by William Butler Yeats (1865 - 1939)]]></title>
+  <link><![CDATA[https://librivox.org/the-wanderings-of-oisin-by-william-butler-yeats/]]></link>
+  <atom:link rel="self" href="https://librivox.org/rss/3950" />
+  <description><![CDATA[This narrative poem is composed in three parts, and consists of a dialogue between the aged Irish hero Oisín and St. Patrick. 
+
+Oison relates his three-hundred year sojourn in the immortal isles of Faerie. In the isles, Oison married the beautiful Sidhe Niamh: together they traveled, feasted, and quested. At last Oison succumbs to the temptation to return and visit the lands of mortal men: inadvertently slipping from his faerie horse, his body touches the ground and instantly puts on the flesh of a decrepit old man. 
+
+Oison describes various islands and what he did there: contrasting his noble deeds with the degenerate weakness of the present generation. 
+
+(Summary by Godsend)]]></description>
+  <!--<genre>project element=Genre</genre>-->
+  <!--<language>project element=lang.code</language>-->
+  <itunes:type>serial</itunes:type>
+  <itunes:author>LibriVox</itunes:author>
+  <itunes:summary><![CDATA[This narrative poem is composed in three parts, and consists of a dialogue between the aged Irish hero Oisín and St. Patrick. 
+
+Oison relates his three-hundred year sojourn in the immortal isles of Faerie. In the isles, Oison married the beautiful Sidhe Niamh: together they traveled, feasted, and quested. At last Oison succumbs to the temptation to return and visit the lands of mortal men: inadvertently slipping from his faerie horse, his body touches the ground and instantly puts on the flesh of a decrepit old man. 
+
+Oison describes various islands and what he did there: contrasting his noble deeds with the degenerate weakness of the present generation. 
+
+(Summary by Godsend)]]></itunes:summary>
+  <itunes:owner>
+    <itunes:name>LibriVox</itunes:name>
+    <itunes:email>info@librivox.org</itunes:email>
+  </itunes:owner>
+  <itunes:category text="Arts">
+    <itunes:category text="Literature" />
+  </itunes:category>
+  <image><url>https://www.archive.org/download/LibrivoxCdCoverArt/wanderings_of_oisin.jpg</url></image>
+  <itunes:image href="https://www.archive.org/download/LibrivoxCdCoverArt/wanderings_of_oisin.jpg"/>
+  <itunes:explicit>no</itunes:explicit>
+  <!-- file loop -->
+    <item>
+    <title><![CDATA[Book 01]]></title>
+    <itunes:episode><![CDATA[1]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-wanderings-of-oisin-by-william-butler-yeats/]]></link>
+            <enclosure url="https://www.archive.org/download/wanderings_oisin_1001_librivox/thewanderingsofoisin_01_yeats_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:17:38]]></itunes:duration>
+  <pubDate>Fri, 29 Jan 2010 00:00:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/wanderings_oisin_1001_librivox/thewanderingsofoisin_01_yeats_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Book 02]]></title>
+    <itunes:episode><![CDATA[2]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-wanderings-of-oisin-by-william-butler-yeats/]]></link>
+            <enclosure url="https://www.archive.org/download/wanderings_oisin_1001_librivox/thewanderingsofoisin_02_yeats_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:13:09]]></itunes:duration>
+  <pubDate>Fri, 29 Jan 2010 00:01:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/wanderings_oisin_1001_librivox/thewanderingsofoisin_02_yeats_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Book 03]]></title>
+    <itunes:episode><![CDATA[3]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-wanderings-of-oisin-by-william-butler-yeats/]]></link>
+            <enclosure url="https://www.archive.org/download/wanderings_oisin_1001_librivox/thewanderingsofoisin_03_yeats_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:20:46]]></itunes:duration>
+  <pubDate>Fri, 29 Jan 2010 00:02:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/wanderings_oisin_1001_librivox/thewanderingsofoisin_03_yeats_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <!-- end file loop -->
+</channel>
+</rss>

@@ -1,0 +1,2545 @@
+<?xml version="1.0" ?><rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+  <title><![CDATA[Household Tales by  Jacob & Wilhelm Grimm (1785 - 1863)]]></title>
+  <link><![CDATA[https://librivox.org/household-tales-by-jacob-wilhelm-grimm/]]></link>
+  <atom:link rel="self" href="https://librivox.org/rss/11939" />
+  <description><![CDATA[The complete Brothers Grimm stories, as translated directly from the German. Some of the stories will be familiar such as The Frog Prince, Rapunzel, and Cinderella. Other tales are less well known such as The Three Black Princesses, and The Story of the Youth Who Went Forth to Learn What Fear Was. Content Note for Parents: some of these stories do not flinch from dark themes. For example, in this version of Cinderella birds peck out the eyes of the wicked stepsisters! - Summary by Beth Thomas]]></description>
+  <!--<genre>project element=Genre</genre>-->
+  <!--<language>project element=lang.code</language>-->
+  <itunes:type>serial</itunes:type>
+  <itunes:author>LibriVox</itunes:author>
+  <itunes:summary><![CDATA[The complete Brothers Grimm stories, as translated directly from the German. Some of the stories will be familiar such as The Frog Prince, Rapunzel, and Cinderella. Other tales are less well known such as The Three Black Princesses, and The Story of the Youth Who Went Forth to Learn What Fear Was. Content Note for Parents: some of these stories do not flinch from dark themes. For example, in this version of Cinderella birds peck out the eyes of the wicked stepsisters! - Summary by Beth Thomas]]></itunes:summary>
+  <itunes:owner>
+    <itunes:name>LibriVox</itunes:name>
+    <itunes:email>info@librivox.org</itunes:email>
+  </itunes:owner>
+  <itunes:category text="Arts">
+    <itunes:category text="Literature" />
+  </itunes:category>
+  <image><url>https://archive.org/download/household_tales_1708_librivox/household_tales_1709.jpg</url></image>
+  <itunes:image href="https://archive.org/download/household_tales_1708_librivox/household_tales_1709.jpg"/>
+  <itunes:explicit>no</itunes:explicit>
+  <!-- file loop -->
+    <item>
+    <title><![CDATA[The Frog King, or Iron Henry]]></title>
+    <itunes:episode><![CDATA[1]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/household-tales-by-jacob-wilhelm-grimm/]]></link>
+            <enclosure url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_001_grimm_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 26 Aug 2017 00:00:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_001_grimm_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Cat and Mouse in Partnership]]></title>
+    <itunes:episode><![CDATA[2]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/household-tales-by-jacob-wilhelm-grimm/]]></link>
+            <enclosure url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_002_grimm_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 26 Aug 2017 00:01:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_002_grimm_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Our Lady's Child]]></title>
+    <itunes:episode><![CDATA[3]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/household-tales-by-jacob-wilhelm-grimm/]]></link>
+            <enclosure url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_003_grimm_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 26 Aug 2017 00:02:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_003_grimm_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Story of the Youth Who Went Forth to Learn What Fear Was]]></title>
+    <itunes:episode><![CDATA[4]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/household-tales-by-jacob-wilhelm-grimm/]]></link>
+            <enclosure url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_004_grimm_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 26 Aug 2017 00:03:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_004_grimm_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Wolf and the Seven Little Kids]]></title>
+    <itunes:episode><![CDATA[5]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/household-tales-by-jacob-wilhelm-grimm/]]></link>
+            <enclosure url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_005_grimm_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 26 Aug 2017 00:04:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_005_grimm_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Faithful John]]></title>
+    <itunes:episode><![CDATA[6]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/household-tales-by-jacob-wilhelm-grimm/]]></link>
+            <enclosure url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_006_grimm_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 26 Aug 2017 00:05:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_006_grimm_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Good Bargain]]></title>
+    <itunes:episode><![CDATA[7]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/household-tales-by-jacob-wilhelm-grimm/]]></link>
+            <enclosure url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_007_grimm_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 26 Aug 2017 00:06:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_007_grimm_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Wonderful Musician]]></title>
+    <itunes:episode><![CDATA[8]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/household-tales-by-jacob-wilhelm-grimm/]]></link>
+            <enclosure url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_008_grimm_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 26 Aug 2017 00:07:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_008_grimm_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Twelve Brothers]]></title>
+    <itunes:episode><![CDATA[9]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/household-tales-by-jacob-wilhelm-grimm/]]></link>
+            <enclosure url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_009_grimm_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 26 Aug 2017 00:08:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_009_grimm_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Pack of Ragamuffins]]></title>
+    <itunes:episode><![CDATA[10]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/household-tales-by-jacob-wilhelm-grimm/]]></link>
+            <enclosure url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_010_grimm_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 26 Aug 2017 00:09:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_010_grimm_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Little Brother and Little Sister]]></title>
+    <itunes:episode><![CDATA[11]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/household-tales-by-jacob-wilhelm-grimm/]]></link>
+            <enclosure url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_011_grimm_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 26 Aug 2017 00:10:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_011_grimm_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Rapunzel]]></title>
+    <itunes:episode><![CDATA[12]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/household-tales-by-jacob-wilhelm-grimm/]]></link>
+            <enclosure url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_012_grimm_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 26 Aug 2017 00:11:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_012_grimm_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Three Little Men in the Wood]]></title>
+    <itunes:episode><![CDATA[13]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/household-tales-by-jacob-wilhelm-grimm/]]></link>
+            <enclosure url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_013_grimm_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 26 Aug 2017 00:12:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_013_grimm_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Three Spinners]]></title>
+    <itunes:episode><![CDATA[14]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/household-tales-by-jacob-wilhelm-grimm/]]></link>
+            <enclosure url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_014_grimm_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 26 Aug 2017 00:13:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_014_grimm_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Hansel and Grethel]]></title>
+    <itunes:episode><![CDATA[15]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/household-tales-by-jacob-wilhelm-grimm/]]></link>
+            <enclosure url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_015_grimm_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 26 Aug 2017 00:14:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_015_grimm_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Three Snake-Leaves]]></title>
+    <itunes:episode><![CDATA[16]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/household-tales-by-jacob-wilhelm-grimm/]]></link>
+            <enclosure url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_016_grimm_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 26 Aug 2017 00:15:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_016_grimm_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The White Snake]]></title>
+    <itunes:episode><![CDATA[17]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/household-tales-by-jacob-wilhelm-grimm/]]></link>
+            <enclosure url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_017_grimm_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 26 Aug 2017 00:16:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_017_grimm_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Straw, The Coal and the Bean]]></title>
+    <itunes:episode><![CDATA[18]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/household-tales-by-jacob-wilhelm-grimm/]]></link>
+            <enclosure url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_018_grimm_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 26 Aug 2017 00:17:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_018_grimm_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Fisherman and His Wife]]></title>
+    <itunes:episode><![CDATA[19]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/household-tales-by-jacob-wilhelm-grimm/]]></link>
+            <enclosure url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_019_grimm_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 26 Aug 2017 00:18:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_019_grimm_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Valiant Little Tailor]]></title>
+    <itunes:episode><![CDATA[20]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/household-tales-by-jacob-wilhelm-grimm/]]></link>
+            <enclosure url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_020_grimm_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 26 Aug 2017 00:19:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_020_grimm_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Cinderella]]></title>
+    <itunes:episode><![CDATA[21]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/household-tales-by-jacob-wilhelm-grimm/]]></link>
+            <enclosure url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_021_grimm_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 26 Aug 2017 00:20:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_021_grimm_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Riddle]]></title>
+    <itunes:episode><![CDATA[22]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/household-tales-by-jacob-wilhelm-grimm/]]></link>
+            <enclosure url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_022_grimm_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 26 Aug 2017 00:21:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_022_grimm_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Mouse, The Bird and The Sausage]]></title>
+    <itunes:episode><![CDATA[23]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/household-tales-by-jacob-wilhelm-grimm/]]></link>
+            <enclosure url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_023_grimm_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 26 Aug 2017 00:22:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_023_grimm_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Mother Holle]]></title>
+    <itunes:episode><![CDATA[24]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/household-tales-by-jacob-wilhelm-grimm/]]></link>
+            <enclosure url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_024_grimm_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 26 Aug 2017 00:23:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_024_grimm_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Seven Ravens]]></title>
+    <itunes:episode><![CDATA[25]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/household-tales-by-jacob-wilhelm-grimm/]]></link>
+            <enclosure url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_025_grimm_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 26 Aug 2017 00:24:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_025_grimm_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Little Red-Cap]]></title>
+    <itunes:episode><![CDATA[26]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/household-tales-by-jacob-wilhelm-grimm/]]></link>
+            <enclosure url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_026_grimm_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 26 Aug 2017 00:25:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_026_grimm_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Bremen-Town Musicians]]></title>
+    <itunes:episode><![CDATA[27]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/household-tales-by-jacob-wilhelm-grimm/]]></link>
+            <enclosure url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_027_grimm_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 26 Aug 2017 00:26:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_027_grimm_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Singing Bone]]></title>
+    <itunes:episode><![CDATA[28]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/household-tales-by-jacob-wilhelm-grimm/]]></link>
+            <enclosure url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_028_grimm_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 26 Aug 2017 00:27:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_028_grimm_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Devil with the Three Golden Hairs]]></title>
+    <itunes:episode><![CDATA[29]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/household-tales-by-jacob-wilhelm-grimm/]]></link>
+            <enclosure url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_029_grimm_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 26 Aug 2017 00:28:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_029_grimm_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Louse and the Flea]]></title>
+    <itunes:episode><![CDATA[30]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/household-tales-by-jacob-wilhelm-grimm/]]></link>
+            <enclosure url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_030_grimm_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 26 Aug 2017 00:29:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_030_grimm_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Girl Without Hands]]></title>
+    <itunes:episode><![CDATA[31]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/household-tales-by-jacob-wilhelm-grimm/]]></link>
+            <enclosure url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_031_grimm_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 26 Aug 2017 00:30:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_031_grimm_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Clever Hans]]></title>
+    <itunes:episode><![CDATA[32]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/household-tales-by-jacob-wilhelm-grimm/]]></link>
+            <enclosure url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_032_grimm_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 26 Aug 2017 00:31:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_032_grimm_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Three Languages]]></title>
+    <itunes:episode><![CDATA[33]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/household-tales-by-jacob-wilhelm-grimm/]]></link>
+            <enclosure url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_033_grimm_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 26 Aug 2017 00:32:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_033_grimm_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Clever Elsie]]></title>
+    <itunes:episode><![CDATA[34]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/household-tales-by-jacob-wilhelm-grimm/]]></link>
+            <enclosure url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_034_grimm_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 26 Aug 2017 00:33:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_034_grimm_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Tailor in Heaven]]></title>
+    <itunes:episode><![CDATA[35]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/household-tales-by-jacob-wilhelm-grimm/]]></link>
+            <enclosure url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_035_grimm_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 26 Aug 2017 00:34:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_035_grimm_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Wishing-Table, the Gold-Ass, and the Cudgel in the Sack]]></title>
+    <itunes:episode><![CDATA[36]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/household-tales-by-jacob-wilhelm-grimm/]]></link>
+            <enclosure url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_036_grimm_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 26 Aug 2017 00:35:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_036_grimm_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Thumbling]]></title>
+    <itunes:episode><![CDATA[37]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/household-tales-by-jacob-wilhelm-grimm/]]></link>
+            <enclosure url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_037_grimm_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 26 Aug 2017 00:36:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_037_grimm_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Wedding of Mrs Fox]]></title>
+    <itunes:episode><![CDATA[38]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/household-tales-by-jacob-wilhelm-grimm/]]></link>
+            <enclosure url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_038_grimm_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 26 Aug 2017 00:37:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_038_grimm_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Elves]]></title>
+    <itunes:episode><![CDATA[39]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/household-tales-by-jacob-wilhelm-grimm/]]></link>
+            <enclosure url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_039_grimm_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 26 Aug 2017 00:38:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_039_grimm_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Robber Bride-Groom]]></title>
+    <itunes:episode><![CDATA[40]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/household-tales-by-jacob-wilhelm-grimm/]]></link>
+            <enclosure url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_040_grimm_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 26 Aug 2017 00:39:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_040_grimm_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Herr Korbes]]></title>
+    <itunes:episode><![CDATA[41]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/household-tales-by-jacob-wilhelm-grimm/]]></link>
+            <enclosure url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_041_grimm_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 26 Aug 2017 00:40:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_041_grimm_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Godfather]]></title>
+    <itunes:episode><![CDATA[42]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/household-tales-by-jacob-wilhelm-grimm/]]></link>
+            <enclosure url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_042_grimm_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 26 Aug 2017 00:41:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_042_grimm_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Frau Trude]]></title>
+    <itunes:episode><![CDATA[43]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/household-tales-by-jacob-wilhelm-grimm/]]></link>
+            <enclosure url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_043_grimm_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 26 Aug 2017 00:42:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_043_grimm_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Godfather Death]]></title>
+    <itunes:episode><![CDATA[44]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/household-tales-by-jacob-wilhelm-grimm/]]></link>
+            <enclosure url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_044_grimm_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 26 Aug 2017 00:43:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_044_grimm_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Thumbling as Journeyman]]></title>
+    <itunes:episode><![CDATA[45]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/household-tales-by-jacob-wilhelm-grimm/]]></link>
+            <enclosure url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_045_grimm_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 26 Aug 2017 00:44:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_045_grimm_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Fitcher's Bird]]></title>
+    <itunes:episode><![CDATA[46]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/household-tales-by-jacob-wilhelm-grimm/]]></link>
+            <enclosure url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_046_grimm_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 26 Aug 2017 00:45:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_046_grimm_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Juniper Tree]]></title>
+    <itunes:episode><![CDATA[47]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/household-tales-by-jacob-wilhelm-grimm/]]></link>
+            <enclosure url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_047_grimm_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 26 Aug 2017 00:46:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_047_grimm_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Old Sultan]]></title>
+    <itunes:episode><![CDATA[48]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/household-tales-by-jacob-wilhelm-grimm/]]></link>
+            <enclosure url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_048_grimm_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 26 Aug 2017 00:47:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_048_grimm_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Six Swans]]></title>
+    <itunes:episode><![CDATA[49]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/household-tales-by-jacob-wilhelm-grimm/]]></link>
+            <enclosure url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_049_grimm_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 26 Aug 2017 00:48:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_049_grimm_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Briar Rose]]></title>
+    <itunes:episode><![CDATA[50]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/household-tales-by-jacob-wilhelm-grimm/]]></link>
+            <enclosure url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_050_grimm_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 26 Aug 2017 00:49:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_050_grimm_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Fundevogel (Bird Foundling)]]></title>
+    <itunes:episode><![CDATA[51]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/household-tales-by-jacob-wilhelm-grimm/]]></link>
+            <enclosure url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_051_grimm_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 26 Aug 2017 00:50:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_051_grimm_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[King Thrushbeard]]></title>
+    <itunes:episode><![CDATA[52]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/household-tales-by-jacob-wilhelm-grimm/]]></link>
+            <enclosure url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_052_grimm_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 26 Aug 2017 00:51:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_052_grimm_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Little Snow-white]]></title>
+    <itunes:episode><![CDATA[53]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/household-tales-by-jacob-wilhelm-grimm/]]></link>
+            <enclosure url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_053_grimm_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 26 Aug 2017 00:52:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_053_grimm_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Knapsack, the Hat and the Horn]]></title>
+    <itunes:episode><![CDATA[54]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/household-tales-by-jacob-wilhelm-grimm/]]></link>
+            <enclosure url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_054_grimm_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 26 Aug 2017 00:53:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_054_grimm_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Rumplestiltskin]]></title>
+    <itunes:episode><![CDATA[55]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/household-tales-by-jacob-wilhelm-grimm/]]></link>
+            <enclosure url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_055_grimm_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 26 Aug 2017 00:54:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_055_grimm_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Sweetheart Roland]]></title>
+    <itunes:episode><![CDATA[56]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/household-tales-by-jacob-wilhelm-grimm/]]></link>
+            <enclosure url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_056_grimm_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 26 Aug 2017 00:55:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_056_grimm_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Golden Bird]]></title>
+    <itunes:episode><![CDATA[57]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/household-tales-by-jacob-wilhelm-grimm/]]></link>
+            <enclosure url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_057_grimm_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 26 Aug 2017 00:56:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_057_grimm_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Dog and the Sparrow]]></title>
+    <itunes:episode><![CDATA[58]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/household-tales-by-jacob-wilhelm-grimm/]]></link>
+            <enclosure url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_058_grimm_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 26 Aug 2017 00:57:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_058_grimm_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Frederick and Catherine]]></title>
+    <itunes:episode><![CDATA[59]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/household-tales-by-jacob-wilhelm-grimm/]]></link>
+            <enclosure url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_059_grimm_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 26 Aug 2017 00:58:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_059_grimm_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Two Brothers]]></title>
+    <itunes:episode><![CDATA[60]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/household-tales-by-jacob-wilhelm-grimm/]]></link>
+            <enclosure url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_060_grimm_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 26 Aug 2017 00:59:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_060_grimm_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Little Peasant]]></title>
+    <itunes:episode><![CDATA[61]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/household-tales-by-jacob-wilhelm-grimm/]]></link>
+            <enclosure url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_061_grimm_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 26 Aug 2017 01:00:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_061_grimm_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Queen Bee]]></title>
+    <itunes:episode><![CDATA[62]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/household-tales-by-jacob-wilhelm-grimm/]]></link>
+            <enclosure url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_062_grimm_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 26 Aug 2017 01:01:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_062_grimm_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Three Feathers]]></title>
+    <itunes:episode><![CDATA[63]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/household-tales-by-jacob-wilhelm-grimm/]]></link>
+            <enclosure url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_063_grimm_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 26 Aug 2017 01:02:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_063_grimm_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Golden Goose]]></title>
+    <itunes:episode><![CDATA[64]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/household-tales-by-jacob-wilhelm-grimm/]]></link>
+            <enclosure url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_064_grimm_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 26 Aug 2017 01:03:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_064_grimm_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Allerleirauh]]></title>
+    <itunes:episode><![CDATA[65]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/household-tales-by-jacob-wilhelm-grimm/]]></link>
+            <enclosure url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_065_grimm_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 26 Aug 2017 01:04:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_065_grimm_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Hare's Bride]]></title>
+    <itunes:episode><![CDATA[66]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/household-tales-by-jacob-wilhelm-grimm/]]></link>
+            <enclosure url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_066_grimm_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 26 Aug 2017 01:05:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_066_grimm_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Twelve Huntsmen]]></title>
+    <itunes:episode><![CDATA[67]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/household-tales-by-jacob-wilhelm-grimm/]]></link>
+            <enclosure url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_067_grimm_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 26 Aug 2017 01:06:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_067_grimm_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Thief and His Master]]></title>
+    <itunes:episode><![CDATA[68]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/household-tales-by-jacob-wilhelm-grimm/]]></link>
+            <enclosure url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_068_grimm_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 26 Aug 2017 01:07:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_068_grimm_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Jorinda and Joringel]]></title>
+    <itunes:episode><![CDATA[69]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/household-tales-by-jacob-wilhelm-grimm/]]></link>
+            <enclosure url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_069_grimm_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 26 Aug 2017 01:08:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_069_grimm_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Three Sons of Fortune]]></title>
+    <itunes:episode><![CDATA[70]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/household-tales-by-jacob-wilhelm-grimm/]]></link>
+            <enclosure url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_070_grimm_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 26 Aug 2017 01:09:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_070_grimm_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[How Six Men Got on in the World]]></title>
+    <itunes:episode><![CDATA[71]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/household-tales-by-jacob-wilhelm-grimm/]]></link>
+            <enclosure url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_071_grimm_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 26 Aug 2017 01:10:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_071_grimm_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Wolf and the Man]]></title>
+    <itunes:episode><![CDATA[72]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/household-tales-by-jacob-wilhelm-grimm/]]></link>
+            <enclosure url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_072_grimm_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 26 Aug 2017 01:11:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_072_grimm_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Wolf and the Fox]]></title>
+    <itunes:episode><![CDATA[73]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/household-tales-by-jacob-wilhelm-grimm/]]></link>
+            <enclosure url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_073_grimm_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 26 Aug 2017 01:12:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_073_grimm_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Fox and His Cousin]]></title>
+    <itunes:episode><![CDATA[74]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/household-tales-by-jacob-wilhelm-grimm/]]></link>
+            <enclosure url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_074_grimm_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 26 Aug 2017 01:13:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_074_grimm_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Fox and the Cat]]></title>
+    <itunes:episode><![CDATA[75]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/household-tales-by-jacob-wilhelm-grimm/]]></link>
+            <enclosure url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_075_grimm_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 26 Aug 2017 01:14:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_075_grimm_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Pink]]></title>
+    <itunes:episode><![CDATA[76]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/household-tales-by-jacob-wilhelm-grimm/]]></link>
+            <enclosure url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_076_grimm_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 26 Aug 2017 01:15:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_076_grimm_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Clever Grethel]]></title>
+    <itunes:episode><![CDATA[77]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/household-tales-by-jacob-wilhelm-grimm/]]></link>
+            <enclosure url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_077_grimm_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 26 Aug 2017 01:16:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_077_grimm_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Old Man and His Grandson]]></title>
+    <itunes:episode><![CDATA[78]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/household-tales-by-jacob-wilhelm-grimm/]]></link>
+            <enclosure url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_078_grimm_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 26 Aug 2017 01:17:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_078_grimm_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Water-Nix]]></title>
+    <itunes:episode><![CDATA[79]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/household-tales-by-jacob-wilhelm-grimm/]]></link>
+            <enclosure url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_079_grimm_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 26 Aug 2017 01:18:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_079_grimm_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Death of the Little Hen]]></title>
+    <itunes:episode><![CDATA[80]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/household-tales-by-jacob-wilhelm-grimm/]]></link>
+            <enclosure url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_080_grimm_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 26 Aug 2017 01:19:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_080_grimm_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Brother Lustig]]></title>
+    <itunes:episode><![CDATA[81]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/household-tales-by-jacob-wilhelm-grimm/]]></link>
+            <enclosure url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_081_grimm_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 26 Aug 2017 01:20:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_081_grimm_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Gambling Hansel]]></title>
+    <itunes:episode><![CDATA[82]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/household-tales-by-jacob-wilhelm-grimm/]]></link>
+            <enclosure url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_082_grimm_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 26 Aug 2017 01:21:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_082_grimm_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Hans in Luck]]></title>
+    <itunes:episode><![CDATA[83]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/household-tales-by-jacob-wilhelm-grimm/]]></link>
+            <enclosure url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_083_grimm_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 26 Aug 2017 01:22:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_083_grimm_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Hans Married]]></title>
+    <itunes:episode><![CDATA[84]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/household-tales-by-jacob-wilhelm-grimm/]]></link>
+            <enclosure url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_084_grimm_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 26 Aug 2017 01:23:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_084_grimm_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Gold-Children]]></title>
+    <itunes:episode><![CDATA[85]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/household-tales-by-jacob-wilhelm-grimm/]]></link>
+            <enclosure url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_085_grimm_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 26 Aug 2017 01:24:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_085_grimm_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Fox and the Geese]]></title>
+    <itunes:episode><![CDATA[86]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/household-tales-by-jacob-wilhelm-grimm/]]></link>
+            <enclosure url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_086_grimm_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 26 Aug 2017 01:25:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_086_grimm_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Poor Man and the Rich Man]]></title>
+    <itunes:episode><![CDATA[87]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/household-tales-by-jacob-wilhelm-grimm/]]></link>
+            <enclosure url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_087_grimm_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 26 Aug 2017 01:26:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_087_grimm_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Singing, Springing Lark]]></title>
+    <itunes:episode><![CDATA[88]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/household-tales-by-jacob-wilhelm-grimm/]]></link>
+            <enclosure url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_088_grimm_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 26 Aug 2017 01:27:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_088_grimm_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Goose-Girl]]></title>
+    <itunes:episode><![CDATA[89]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/household-tales-by-jacob-wilhelm-grimm/]]></link>
+            <enclosure url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_089_grimm_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 26 Aug 2017 01:28:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_089_grimm_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Young Giant]]></title>
+    <itunes:episode><![CDATA[90]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/household-tales-by-jacob-wilhelm-grimm/]]></link>
+            <enclosure url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_090_grimm_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 26 Aug 2017 01:29:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_090_grimm_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Gnome]]></title>
+    <itunes:episode><![CDATA[91]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/household-tales-by-jacob-wilhelm-grimm/]]></link>
+            <enclosure url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_091_grimm_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 26 Aug 2017 01:30:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_091_grimm_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The King of the Golden Mountain]]></title>
+    <itunes:episode><![CDATA[92]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/household-tales-by-jacob-wilhelm-grimm/]]></link>
+            <enclosure url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_092_grimm_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 26 Aug 2017 01:31:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_092_grimm_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Raven]]></title>
+    <itunes:episode><![CDATA[93]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/household-tales-by-jacob-wilhelm-grimm/]]></link>
+            <enclosure url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_093_grimm_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 26 Aug 2017 01:32:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_093_grimm_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Peasant's Wise Daughter]]></title>
+    <itunes:episode><![CDATA[94]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/household-tales-by-jacob-wilhelm-grimm/]]></link>
+            <enclosure url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_094_grimm_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 26 Aug 2017 01:33:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_094_grimm_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Old Hildebrand]]></title>
+    <itunes:episode><![CDATA[95]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/household-tales-by-jacob-wilhelm-grimm/]]></link>
+            <enclosure url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_095_grimm_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 26 Aug 2017 01:34:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_095_grimm_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Three Little Birds]]></title>
+    <itunes:episode><![CDATA[96]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/household-tales-by-jacob-wilhelm-grimm/]]></link>
+            <enclosure url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_096_grimm_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 26 Aug 2017 01:35:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_096_grimm_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Water of Life]]></title>
+    <itunes:episode><![CDATA[97]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/household-tales-by-jacob-wilhelm-grimm/]]></link>
+            <enclosure url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_097_grimm_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 26 Aug 2017 01:36:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_097_grimm_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Doctor Knowall]]></title>
+    <itunes:episode><![CDATA[98]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/household-tales-by-jacob-wilhelm-grimm/]]></link>
+            <enclosure url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_098_grimm_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 26 Aug 2017 01:37:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_098_grimm_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Spirit in the Bottle]]></title>
+    <itunes:episode><![CDATA[99]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/household-tales-by-jacob-wilhelm-grimm/]]></link>
+            <enclosure url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_099_grimm_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 26 Aug 2017 01:38:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_099_grimm_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Devil's Sooty Brother]]></title>
+    <itunes:episode><![CDATA[100]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/household-tales-by-jacob-wilhelm-grimm/]]></link>
+            <enclosure url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_100_grimm_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 26 Aug 2017 01:39:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_100_grimm_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Bearskin]]></title>
+    <itunes:episode><![CDATA[101]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/household-tales-by-jacob-wilhelm-grimm/]]></link>
+            <enclosure url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_101_grimm_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 26 Aug 2017 01:40:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_101_grimm_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Willow-Wren and the Bear]]></title>
+    <itunes:episode><![CDATA[102]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/household-tales-by-jacob-wilhelm-grimm/]]></link>
+            <enclosure url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_102_grimm_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 26 Aug 2017 01:41:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_102_grimm_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Sweet Porridge]]></title>
+    <itunes:episode><![CDATA[103]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/household-tales-by-jacob-wilhelm-grimm/]]></link>
+            <enclosure url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_103_grimm_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 26 Aug 2017 01:42:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_103_grimm_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Wise Folks]]></title>
+    <itunes:episode><![CDATA[104]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/household-tales-by-jacob-wilhelm-grimm/]]></link>
+            <enclosure url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_104_grimm_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 26 Aug 2017 01:43:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_104_grimm_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Stories About Snakes]]></title>
+    <itunes:episode><![CDATA[105]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/household-tales-by-jacob-wilhelm-grimm/]]></link>
+            <enclosure url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_105_grimm_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 26 Aug 2017 01:44:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_105_grimm_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Poor Miller's Boy and the Cat]]></title>
+    <itunes:episode><![CDATA[106]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/household-tales-by-jacob-wilhelm-grimm/]]></link>
+            <enclosure url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_106_grimm_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 26 Aug 2017 01:45:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_106_grimm_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Two Travellers]]></title>
+    <itunes:episode><![CDATA[107]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/household-tales-by-jacob-wilhelm-grimm/]]></link>
+            <enclosure url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_107_grimm_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 26 Aug 2017 01:46:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_107_grimm_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Hans the Hedgehog]]></title>
+    <itunes:episode><![CDATA[108]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/household-tales-by-jacob-wilhelm-grimm/]]></link>
+            <enclosure url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_108_grimm_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 26 Aug 2017 01:47:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_108_grimm_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Shroud]]></title>
+    <itunes:episode><![CDATA[109]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/household-tales-by-jacob-wilhelm-grimm/]]></link>
+            <enclosure url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_109_grimm_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 26 Aug 2017 01:48:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_109_grimm_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Jew Among Thorns]]></title>
+    <itunes:episode><![CDATA[110]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/household-tales-by-jacob-wilhelm-grimm/]]></link>
+            <enclosure url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_110_grimm_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 26 Aug 2017 01:49:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_110_grimm_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Skilful Huntsman]]></title>
+    <itunes:episode><![CDATA[111]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/household-tales-by-jacob-wilhelm-grimm/]]></link>
+            <enclosure url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_111_grimm_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 26 Aug 2017 01:50:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_111_grimm_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Flail From Heaven]]></title>
+    <itunes:episode><![CDATA[112]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/household-tales-by-jacob-wilhelm-grimm/]]></link>
+            <enclosure url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_112_grimm_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 26 Aug 2017 01:51:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_112_grimm_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Two Kings' Children]]></title>
+    <itunes:episode><![CDATA[113]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/household-tales-by-jacob-wilhelm-grimm/]]></link>
+            <enclosure url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_113_grimm_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 26 Aug 2017 01:52:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_113_grimm_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Cunning Little Tailor]]></title>
+    <itunes:episode><![CDATA[114]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/household-tales-by-jacob-wilhelm-grimm/]]></link>
+            <enclosure url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_114_grimm_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 26 Aug 2017 01:53:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_114_grimm_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Bright Sun Brings It to Light]]></title>
+    <itunes:episode><![CDATA[115]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/household-tales-by-jacob-wilhelm-grimm/]]></link>
+            <enclosure url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_115_grimm_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 26 Aug 2017 01:54:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_115_grimm_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Blue Light]]></title>
+    <itunes:episode><![CDATA[116]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/household-tales-by-jacob-wilhelm-grimm/]]></link>
+            <enclosure url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_116_grimm_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 26 Aug 2017 01:55:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_116_grimm_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Wilful Child]]></title>
+    <itunes:episode><![CDATA[117]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/household-tales-by-jacob-wilhelm-grimm/]]></link>
+            <enclosure url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_117_grimm_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 26 Aug 2017 01:56:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_117_grimm_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Three Army-Surgeons]]></title>
+    <itunes:episode><![CDATA[118]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/household-tales-by-jacob-wilhelm-grimm/]]></link>
+            <enclosure url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_118_grimm_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 26 Aug 2017 01:57:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_118_grimm_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Seven Swabians]]></title>
+    <itunes:episode><![CDATA[119]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/household-tales-by-jacob-wilhelm-grimm/]]></link>
+            <enclosure url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_119_grimm_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 26 Aug 2017 01:58:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_119_grimm_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Three Apprentices]]></title>
+    <itunes:episode><![CDATA[120]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/household-tales-by-jacob-wilhelm-grimm/]]></link>
+            <enclosure url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_120_grimm_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 26 Aug 2017 01:59:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_120_grimm_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The King's Son Who Feared Nothing]]></title>
+    <itunes:episode><![CDATA[121]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/household-tales-by-jacob-wilhelm-grimm/]]></link>
+            <enclosure url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_121_grimm_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 26 Aug 2017 02:00:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_121_grimm_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Donkey Cabbages]]></title>
+    <itunes:episode><![CDATA[122]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/household-tales-by-jacob-wilhelm-grimm/]]></link>
+            <enclosure url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_122_grimm_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 26 Aug 2017 02:01:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_122_grimm_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Old Woman in the Wood]]></title>
+    <itunes:episode><![CDATA[123]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/household-tales-by-jacob-wilhelm-grimm/]]></link>
+            <enclosure url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_123_grimm_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 26 Aug 2017 02:02:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_123_grimm_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Three Brothers]]></title>
+    <itunes:episode><![CDATA[124]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/household-tales-by-jacob-wilhelm-grimm/]]></link>
+            <enclosure url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_124_grimm_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 26 Aug 2017 02:03:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_124_grimm_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Devil and his Grandmother]]></title>
+    <itunes:episode><![CDATA[125]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/household-tales-by-jacob-wilhelm-grimm/]]></link>
+            <enclosure url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_125_grimm_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 26 Aug 2017 02:04:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_125_grimm_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Ferdinand the Faithful]]></title>
+    <itunes:episode><![CDATA[126]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/household-tales-by-jacob-wilhelm-grimm/]]></link>
+            <enclosure url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_126_grimm_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 26 Aug 2017 02:05:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_126_grimm_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Iron Stove]]></title>
+    <itunes:episode><![CDATA[127]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/household-tales-by-jacob-wilhelm-grimm/]]></link>
+            <enclosure url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_127_grimm_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 26 Aug 2017 02:06:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_127_grimm_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Lazy Spinner]]></title>
+    <itunes:episode><![CDATA[128]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/household-tales-by-jacob-wilhelm-grimm/]]></link>
+            <enclosure url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_128_grimm_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 26 Aug 2017 02:07:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_128_grimm_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Four Skilful Brothers]]></title>
+    <itunes:episode><![CDATA[129]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/household-tales-by-jacob-wilhelm-grimm/]]></link>
+            <enclosure url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_129_grimm_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 26 Aug 2017 02:08:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_129_grimm_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[One-eye, Two-eyes and Three-eyes]]></title>
+    <itunes:episode><![CDATA[130]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/household-tales-by-jacob-wilhelm-grimm/]]></link>
+            <enclosure url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_130_grimm_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 26 Aug 2017 02:09:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_130_grimm_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Fair Katrinelje and Pif-Paf-Poltrie]]></title>
+    <itunes:episode><![CDATA[131]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/household-tales-by-jacob-wilhelm-grimm/]]></link>
+            <enclosure url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_131_grimm_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 26 Aug 2017 02:10:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_131_grimm_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Fox and the Horse]]></title>
+    <itunes:episode><![CDATA[132]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/household-tales-by-jacob-wilhelm-grimm/]]></link>
+            <enclosure url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_132_grimm_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 26 Aug 2017 02:11:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_132_grimm_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Shoes That Were Danced to Pieces]]></title>
+    <itunes:episode><![CDATA[133]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/household-tales-by-jacob-wilhelm-grimm/]]></link>
+            <enclosure url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_133_grimm_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 26 Aug 2017 02:12:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_133_grimm_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Six Servants]]></title>
+    <itunes:episode><![CDATA[134]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/household-tales-by-jacob-wilhelm-grimm/]]></link>
+            <enclosure url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_134_grimm_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 26 Aug 2017 02:13:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_134_grimm_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The White Bride and the Black One]]></title>
+    <itunes:episode><![CDATA[135]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/household-tales-by-jacob-wilhelm-grimm/]]></link>
+            <enclosure url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_135_grimm_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 26 Aug 2017 02:14:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_135_grimm_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Iron John]]></title>
+    <itunes:episode><![CDATA[136]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/household-tales-by-jacob-wilhelm-grimm/]]></link>
+            <enclosure url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_136_grimm_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 26 Aug 2017 02:15:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_136_grimm_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Three Black Princesses]]></title>
+    <itunes:episode><![CDATA[137]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/household-tales-by-jacob-wilhelm-grimm/]]></link>
+            <enclosure url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_137_grimm_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 26 Aug 2017 02:16:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_137_grimm_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Knoist and His Three Sons]]></title>
+    <itunes:episode><![CDATA[138]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/household-tales-by-jacob-wilhelm-grimm/]]></link>
+            <enclosure url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_138_grimm_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 26 Aug 2017 02:17:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_138_grimm_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Maid of Brakel]]></title>
+    <itunes:episode><![CDATA[139]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/household-tales-by-jacob-wilhelm-grimm/]]></link>
+            <enclosure url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_139_grimm_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 26 Aug 2017 02:18:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_139_grimm_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Domestic Servants]]></title>
+    <itunes:episode><![CDATA[140]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/household-tales-by-jacob-wilhelm-grimm/]]></link>
+            <enclosure url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_140_grimm_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 26 Aug 2017 02:19:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_140_grimm_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Lambkin and the Little Fish]]></title>
+    <itunes:episode><![CDATA[141]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/household-tales-by-jacob-wilhelm-grimm/]]></link>
+            <enclosure url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_141_grimm_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 26 Aug 2017 02:20:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_141_grimm_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Simeli Mountain]]></title>
+    <itunes:episode><![CDATA[142]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/household-tales-by-jacob-wilhelm-grimm/]]></link>
+            <enclosure url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_142_grimm_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 26 Aug 2017 02:21:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_142_grimm_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Going A-Travelling]]></title>
+    <itunes:episode><![CDATA[143]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/household-tales-by-jacob-wilhelm-grimm/]]></link>
+            <enclosure url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_143_grimm_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 26 Aug 2017 02:22:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_143_grimm_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Donkey]]></title>
+    <itunes:episode><![CDATA[144]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/household-tales-by-jacob-wilhelm-grimm/]]></link>
+            <enclosure url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_144_grimm_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 26 Aug 2017 02:23:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_144_grimm_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Ungrateful Son]]></title>
+    <itunes:episode><![CDATA[145]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/household-tales-by-jacob-wilhelm-grimm/]]></link>
+            <enclosure url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_145_grimm_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 26 Aug 2017 02:24:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_145_grimm_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Turnip]]></title>
+    <itunes:episode><![CDATA[146]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/household-tales-by-jacob-wilhelm-grimm/]]></link>
+            <enclosure url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_146_grimm_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 26 Aug 2017 02:25:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_146_grimm_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Old Man Made Young Again]]></title>
+    <itunes:episode><![CDATA[147]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/household-tales-by-jacob-wilhelm-grimm/]]></link>
+            <enclosure url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_147_grimm_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 26 Aug 2017 02:26:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_147_grimm_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Lord's Animals and the Devil's]]></title>
+    <itunes:episode><![CDATA[148]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/household-tales-by-jacob-wilhelm-grimm/]]></link>
+            <enclosure url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_148_grimm_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 26 Aug 2017 02:27:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_148_grimm_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Beam]]></title>
+    <itunes:episode><![CDATA[149]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/household-tales-by-jacob-wilhelm-grimm/]]></link>
+            <enclosure url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_149_grimm_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 26 Aug 2017 02:28:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_149_grimm_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Old Beggar-Woman AND The Three Sluggards]]></title>
+    <itunes:episode><![CDATA[150]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/household-tales-by-jacob-wilhelm-grimm/]]></link>
+            <enclosure url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_150_grimm_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 26 Aug 2017 02:29:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_150_grimm_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Twelve Idle Servants]]></title>
+    <itunes:episode><![CDATA[151]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/household-tales-by-jacob-wilhelm-grimm/]]></link>
+            <enclosure url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_151_grimm_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 26 Aug 2017 02:30:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_151_grimm_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Shepherd Boy]]></title>
+    <itunes:episode><![CDATA[152]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/household-tales-by-jacob-wilhelm-grimm/]]></link>
+            <enclosure url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_152_grimm_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 26 Aug 2017 02:31:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_152_grimm_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Star Money]]></title>
+    <itunes:episode><![CDATA[153]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/household-tales-by-jacob-wilhelm-grimm/]]></link>
+            <enclosure url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_153_grimm_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 26 Aug 2017 02:32:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_153_grimm_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Stolen Farthings]]></title>
+    <itunes:episode><![CDATA[154]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/household-tales-by-jacob-wilhelm-grimm/]]></link>
+            <enclosure url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_154_grimm_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 26 Aug 2017 02:33:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_154_grimm_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Brides on their Trial]]></title>
+    <itunes:episode><![CDATA[155]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/household-tales-by-jacob-wilhelm-grimm/]]></link>
+            <enclosure url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_155_grimm_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 26 Aug 2017 02:34:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_155_grimm_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Odds and Ends]]></title>
+    <itunes:episode><![CDATA[156]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/household-tales-by-jacob-wilhelm-grimm/]]></link>
+            <enclosure url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_156_grimm_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 26 Aug 2017 02:35:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_156_grimm_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Sparrow and His Four Children]]></title>
+    <itunes:episode><![CDATA[157]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/household-tales-by-jacob-wilhelm-grimm/]]></link>
+            <enclosure url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_157_grimm_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 26 Aug 2017 02:36:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_157_grimm_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Story of Schlauraffen Land]]></title>
+    <itunes:episode><![CDATA[158]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/household-tales-by-jacob-wilhelm-grimm/]]></link>
+            <enclosure url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_158_grimm_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 26 Aug 2017 02:37:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_158_grimm_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Ditmarsch Tale of Wonders]]></title>
+    <itunes:episode><![CDATA[159]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/household-tales-by-jacob-wilhelm-grimm/]]></link>
+            <enclosure url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_159_grimm_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 26 Aug 2017 02:38:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_159_grimm_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[A Riddling Tale]]></title>
+    <itunes:episode><![CDATA[160]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/household-tales-by-jacob-wilhelm-grimm/]]></link>
+            <enclosure url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_160_grimm_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 26 Aug 2017 02:39:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_160_grimm_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Snow White and Rose Red]]></title>
+    <itunes:episode><![CDATA[161]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/household-tales-by-jacob-wilhelm-grimm/]]></link>
+            <enclosure url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_161_grimm_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 26 Aug 2017 02:40:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_161_grimm_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Wise Servant]]></title>
+    <itunes:episode><![CDATA[162]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/household-tales-by-jacob-wilhelm-grimm/]]></link>
+            <enclosure url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_162_grimm_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 26 Aug 2017 02:41:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_162_grimm_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Glass Coffin]]></title>
+    <itunes:episode><![CDATA[163]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/household-tales-by-jacob-wilhelm-grimm/]]></link>
+            <enclosure url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_163_grimm_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 26 Aug 2017 02:42:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_163_grimm_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Lazy Harry]]></title>
+    <itunes:episode><![CDATA[164]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/household-tales-by-jacob-wilhelm-grimm/]]></link>
+            <enclosure url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_164_grimm_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 26 Aug 2017 02:43:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_164_grimm_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Griffin]]></title>
+    <itunes:episode><![CDATA[165]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/household-tales-by-jacob-wilhelm-grimm/]]></link>
+            <enclosure url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_165_grimm_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 26 Aug 2017 02:44:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_165_grimm_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Strong Hans]]></title>
+    <itunes:episode><![CDATA[166]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/household-tales-by-jacob-wilhelm-grimm/]]></link>
+            <enclosure url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_166_grimm_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 26 Aug 2017 02:45:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_166_grimm_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Peasant in Heaven]]></title>
+    <itunes:episode><![CDATA[167]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/household-tales-by-jacob-wilhelm-grimm/]]></link>
+            <enclosure url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_167_grimm_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 26 Aug 2017 02:46:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_167_grimm_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Lean Lisa]]></title>
+    <itunes:episode><![CDATA[168]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/household-tales-by-jacob-wilhelm-grimm/]]></link>
+            <enclosure url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_168_grimm_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 26 Aug 2017 02:47:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_168_grimm_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Hut in the Forest]]></title>
+    <itunes:episode><![CDATA[169]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/household-tales-by-jacob-wilhelm-grimm/]]></link>
+            <enclosure url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_169_grimm_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 26 Aug 2017 02:48:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_169_grimm_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Sharing Joy and Sorrow]]></title>
+    <itunes:episode><![CDATA[170]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/household-tales-by-jacob-wilhelm-grimm/]]></link>
+            <enclosure url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_170_grimm_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 26 Aug 2017 02:49:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_170_grimm_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Willow Wren]]></title>
+    <itunes:episode><![CDATA[171]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/household-tales-by-jacob-wilhelm-grimm/]]></link>
+            <enclosure url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_171_grimm_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 26 Aug 2017 02:50:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_171_grimm_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Sole]]></title>
+    <itunes:episode><![CDATA[172]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/household-tales-by-jacob-wilhelm-grimm/]]></link>
+            <enclosure url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_172_grimm_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 26 Aug 2017 02:51:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_172_grimm_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Bittern and the Hoopoe]]></title>
+    <itunes:episode><![CDATA[173]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/household-tales-by-jacob-wilhelm-grimm/]]></link>
+            <enclosure url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_173_grimm_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 26 Aug 2017 02:52:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_173_grimm_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Owl]]></title>
+    <itunes:episode><![CDATA[174]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/household-tales-by-jacob-wilhelm-grimm/]]></link>
+            <enclosure url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_174_grimm_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 26 Aug 2017 02:53:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_174_grimm_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Moon]]></title>
+    <itunes:episode><![CDATA[175]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/household-tales-by-jacob-wilhelm-grimm/]]></link>
+            <enclosure url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_175_grimm_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 26 Aug 2017 02:54:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_175_grimm_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Duration of Life]]></title>
+    <itunes:episode><![CDATA[176]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/household-tales-by-jacob-wilhelm-grimm/]]></link>
+            <enclosure url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_176_grimm_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 26 Aug 2017 02:55:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_176_grimm_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Death's Messengers]]></title>
+    <itunes:episode><![CDATA[177]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/household-tales-by-jacob-wilhelm-grimm/]]></link>
+            <enclosure url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_177_grimm_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 26 Aug 2017 02:56:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_177_grimm_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Master Pfriem (Master Cobbler's Awl)]]></title>
+    <itunes:episode><![CDATA[178]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/household-tales-by-jacob-wilhelm-grimm/]]></link>
+            <enclosure url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_178_grimm_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 26 Aug 2017 02:57:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_178_grimm_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Goose-Girl at the Well]]></title>
+    <itunes:episode><![CDATA[179]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/household-tales-by-jacob-wilhelm-grimm/]]></link>
+            <enclosure url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_179_grimm_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 26 Aug 2017 02:58:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_179_grimm_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Eve's Various Children]]></title>
+    <itunes:episode><![CDATA[180]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/household-tales-by-jacob-wilhelm-grimm/]]></link>
+            <enclosure url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_180_grimm_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 26 Aug 2017 02:59:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_180_grimm_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Nix of the Mill-Pond]]></title>
+    <itunes:episode><![CDATA[181]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/household-tales-by-jacob-wilhelm-grimm/]]></link>
+            <enclosure url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_181_grimm_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 26 Aug 2017 03:00:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_181_grimm_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Little Folks' Presents]]></title>
+    <itunes:episode><![CDATA[182]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/household-tales-by-jacob-wilhelm-grimm/]]></link>
+            <enclosure url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_182_grimm_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 26 Aug 2017 03:01:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_182_grimm_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Giant and the Tailor]]></title>
+    <itunes:episode><![CDATA[183]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/household-tales-by-jacob-wilhelm-grimm/]]></link>
+            <enclosure url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_183_grimm_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 26 Aug 2017 03:02:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_183_grimm_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Nail]]></title>
+    <itunes:episode><![CDATA[184]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/household-tales-by-jacob-wilhelm-grimm/]]></link>
+            <enclosure url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_184_grimm_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 26 Aug 2017 03:03:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_184_grimm_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Poor Boy in the Grave]]></title>
+    <itunes:episode><![CDATA[185]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/household-tales-by-jacob-wilhelm-grimm/]]></link>
+            <enclosure url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_185_grimm_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 26 Aug 2017 03:04:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_185_grimm_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The True Sweethearts]]></title>
+    <itunes:episode><![CDATA[186]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/household-tales-by-jacob-wilhelm-grimm/]]></link>
+            <enclosure url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_186_grimm_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 26 Aug 2017 03:05:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_186_grimm_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Hare and the Hedgehog]]></title>
+    <itunes:episode><![CDATA[187]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/household-tales-by-jacob-wilhelm-grimm/]]></link>
+            <enclosure url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_187_grimm_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 26 Aug 2017 03:06:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_187_grimm_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Spindle, The Shuttle, and the Needle]]></title>
+    <itunes:episode><![CDATA[188]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/household-tales-by-jacob-wilhelm-grimm/]]></link>
+            <enclosure url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_188_grimm_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 26 Aug 2017 03:07:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_188_grimm_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Peasant and the Devil]]></title>
+    <itunes:episode><![CDATA[189]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/household-tales-by-jacob-wilhelm-grimm/]]></link>
+            <enclosure url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_189_grimm_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 26 Aug 2017 03:08:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_189_grimm_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Crumbs on the Table]]></title>
+    <itunes:episode><![CDATA[190]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/household-tales-by-jacob-wilhelm-grimm/]]></link>
+            <enclosure url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_190_grimm_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 26 Aug 2017 03:09:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_190_grimm_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Sea-Hare]]></title>
+    <itunes:episode><![CDATA[191]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/household-tales-by-jacob-wilhelm-grimm/]]></link>
+            <enclosure url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_191_grimm_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 26 Aug 2017 03:10:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_191_grimm_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Master Thief]]></title>
+    <itunes:episode><![CDATA[192]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/household-tales-by-jacob-wilhelm-grimm/]]></link>
+            <enclosure url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_192_grimm_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 26 Aug 2017 03:11:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_192_grimm_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Drummer]]></title>
+    <itunes:episode><![CDATA[193]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/household-tales-by-jacob-wilhelm-grimm/]]></link>
+            <enclosure url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_193_grimm_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 26 Aug 2017 03:12:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_193_grimm_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Ear of Corn]]></title>
+    <itunes:episode><![CDATA[194]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/household-tales-by-jacob-wilhelm-grimm/]]></link>
+            <enclosure url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_194_grimm_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 26 Aug 2017 03:13:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_194_grimm_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Grave-Mound]]></title>
+    <itunes:episode><![CDATA[195]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/household-tales-by-jacob-wilhelm-grimm/]]></link>
+            <enclosure url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_195_grimm_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 26 Aug 2017 03:14:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_195_grimm_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Old Rinkrank]]></title>
+    <itunes:episode><![CDATA[196]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/household-tales-by-jacob-wilhelm-grimm/]]></link>
+            <enclosure url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_196_grimm_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 26 Aug 2017 03:15:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_196_grimm_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Crystal Ball]]></title>
+    <itunes:episode><![CDATA[197]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/household-tales-by-jacob-wilhelm-grimm/]]></link>
+            <enclosure url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_197_grimm_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 26 Aug 2017 03:16:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_197_grimm_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Maid Maleen]]></title>
+    <itunes:episode><![CDATA[198]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/household-tales-by-jacob-wilhelm-grimm/]]></link>
+            <enclosure url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_198_grimm_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 26 Aug 2017 03:17:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_198_grimm_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Boots of Buffalo Leather]]></title>
+    <itunes:episode><![CDATA[199]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/household-tales-by-jacob-wilhelm-grimm/]]></link>
+            <enclosure url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_199_grimm_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 26 Aug 2017 03:18:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_199_grimm_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Golden Key]]></title>
+    <itunes:episode><![CDATA[200]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/household-tales-by-jacob-wilhelm-grimm/]]></link>
+            <enclosure url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_200_grimm_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 26 Aug 2017 03:19:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_200_grimm_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Legend 1: St Joseph in the Forest]]></title>
+    <itunes:episode><![CDATA[201]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/household-tales-by-jacob-wilhelm-grimm/]]></link>
+            <enclosure url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_201_grimm_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 26 Aug 2017 03:20:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_201_grimm_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Legend 2: The Twelve Apostles]]></title>
+    <itunes:episode><![CDATA[202]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/household-tales-by-jacob-wilhelm-grimm/]]></link>
+            <enclosure url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_202_grimm_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 26 Aug 2017 03:21:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_202_grimm_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Legend 3: The Rose]]></title>
+    <itunes:episode><![CDATA[203]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/household-tales-by-jacob-wilhelm-grimm/]]></link>
+            <enclosure url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_203_grimm_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 26 Aug 2017 03:22:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_203_grimm_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Legend 4: Poverty and Humility Lead to Heaven]]></title>
+    <itunes:episode><![CDATA[204]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/household-tales-by-jacob-wilhelm-grimm/]]></link>
+            <enclosure url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_204_grimm_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 26 Aug 2017 03:23:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_204_grimm_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Legend 5: God's Food]]></title>
+    <itunes:episode><![CDATA[205]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/household-tales-by-jacob-wilhelm-grimm/]]></link>
+            <enclosure url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_205_grimm_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 26 Aug 2017 03:24:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_205_grimm_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Legend 6: The Three Green Twigs]]></title>
+    <itunes:episode><![CDATA[206]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/household-tales-by-jacob-wilhelm-grimm/]]></link>
+            <enclosure url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_206_grimm_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 26 Aug 2017 03:25:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_206_grimm_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Legend 7: Our Lady's Little Glass]]></title>
+    <itunes:episode><![CDATA[207]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/household-tales-by-jacob-wilhelm-grimm/]]></link>
+            <enclosure url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_207_grimm_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 26 Aug 2017 03:26:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_207_grimm_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Legend 8: The Aged Mother]]></title>
+    <itunes:episode><![CDATA[208]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/household-tales-by-jacob-wilhelm-grimm/]]></link>
+            <enclosure url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_208_grimm_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 26 Aug 2017 03:27:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_208_grimm_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Legend 9: The Heavenly Wedding]]></title>
+    <itunes:episode><![CDATA[209]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/household-tales-by-jacob-wilhelm-grimm/]]></link>
+            <enclosure url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_209_grimm_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 26 Aug 2017 03:28:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_209_grimm_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Legend 10: The Hazel-Branch]]></title>
+    <itunes:episode><![CDATA[210]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/household-tales-by-jacob-wilhelm-grimm/]]></link>
+            <enclosure url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_210_grimm_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 26 Aug 2017 03:29:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/household_tales_1708_librivox/householdtales_210_grimm_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <!-- end file loop -->
+</channel>
+</rss>

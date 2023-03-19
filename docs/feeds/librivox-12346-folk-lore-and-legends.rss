@@ -1,0 +1,381 @@
+<?xml version="1.0" ?><rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+  <title><![CDATA[Folk-Lore and Legends: Scandinavian by Charles John Tibbits (1861 - 1935)]]></title>
+  <link><![CDATA[https://librivox.org/folk-lore-and-legends-scandinavian-by-charles-john-tibbits/]]></link>
+  <atom:link rel="self" href="https://librivox.org/rss/12346" />
+  <description><![CDATA[Thanks to Thiele, to Hylten-Cavallius and Stephens, and to Asbjörnsen and Moe, Scandinavian Folklore is well to the front. Its treasures are many, and of much value. One may be almost sorry to find among them the originals of many of our English tales. Are we indebted to the folk of other nations for all our folk-tales? It would almost seem so.
+
+I have introduced into the present volume only one or two stories from the Prose Edda. Space would not allow me to give so much of the Edda as I could have wished.
+
+In selecting and translating the matter for this volume, I have endeavoured to make the book such as would afford its readers a fair general view of the main features of the Folklore of the North.  - Summary by Charles John Tibbits]]></description>
+  <!--<genre>project element=Genre</genre>-->
+  <!--<language>project element=lang.code</language>-->
+  <itunes:type>serial</itunes:type>
+  <itunes:author>LibriVox</itunes:author>
+  <itunes:summary><![CDATA[Thanks to Thiele, to Hylten-Cavallius and Stephens, and to Asbjörnsen and Moe, Scandinavian Folklore is well to the front. Its treasures are many, and of much value. One may be almost sorry to find among them the originals of many of our English tales. Are we indebted to the folk of other nations for all our folk-tales? It would almost seem so.
+
+I have introduced into the present volume only one or two stories from the Prose Edda. Space would not allow me to give so much of the Edda as I could have wished.
+
+In selecting and translating the matter for this volume, I have endeavoured to make the book such as would afford its readers a fair general view of the main features of the Folklore of the North.  - Summary by Charles John Tibbits]]></itunes:summary>
+  <itunes:owner>
+    <itunes:name>LibriVox</itunes:name>
+    <itunes:email>info@librivox.org</itunes:email>
+  </itunes:owner>
+  <itunes:category text="Arts">
+    <itunes:category text="Literature" />
+  </itunes:category>
+  <image><url>https://archive.org/download/folklorelegendsscandinavian_1804_librivox/folklore_scandinavian_1804.jpg</url></image>
+  <itunes:image href="https://archive.org/download/folklorelegendsscandinavian_1804_librivox/folklore_scandinavian_1804.jpg"/>
+  <itunes:explicit>no</itunes:explicit>
+  <!-- file loop -->
+    <item>
+    <title><![CDATA[PREFATORY NOTE]]></title>
+    <itunes:episode><![CDATA[0]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/folk-lore-and-legends-scandinavian-by-charles-john-tibbits/]]></link>
+            <enclosure url="https://www.archive.org/download/folklorelegendsscandinavian_1804_librivox/folkloreandlegendsscandinavian_00_tibbits_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Tue, 17 Apr 2018 00:00:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/folklorelegendsscandinavian_1804_librivox/folkloreandlegendsscandinavian_00_tibbits_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[THE WONDERFUL PLOUGH]]></title>
+    <itunes:episode><![CDATA[1]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/folk-lore-and-legends-scandinavian-by-charles-john-tibbits/]]></link>
+            <enclosure url="https://www.archive.org/download/folklorelegendsscandinavian_1804_librivox/folkloreandlegendsscandinavian_01_tibbits_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Tue, 17 Apr 2018 00:01:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/folklorelegendsscandinavian_1804_librivox/folkloreandlegendsscandinavian_01_tibbits_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[HOW A LAD STOLE THE GIANT'S TREASURE]]></title>
+    <itunes:episode><![CDATA[2]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/folk-lore-and-legends-scandinavian-by-charles-john-tibbits/]]></link>
+            <enclosure url="https://www.archive.org/download/folklorelegendsscandinavian_1804_librivox/folkloreandlegendsscandinavian_02_tibbits_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Tue, 17 Apr 2018 00:02:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/folklorelegendsscandinavian_1804_librivox/folkloreandlegendsscandinavian_02_tibbits_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[TALES OF CATS]]></title>
+    <itunes:episode><![CDATA[3]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/folk-lore-and-legends-scandinavian-by-charles-john-tibbits/]]></link>
+            <enclosure url="https://www.archive.org/download/folklorelegendsscandinavian_1804_librivox/folkloreandlegendsscandinavian_03_tibbits_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Tue, 17 Apr 2018 00:03:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/folklorelegendsscandinavian_1804_librivox/folkloreandlegendsscandinavian_03_tibbits_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[THE MAGICIAN'S DAUGHTER]]></title>
+    <itunes:episode><![CDATA[4]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/folk-lore-and-legends-scandinavian-by-charles-john-tibbits/]]></link>
+            <enclosure url="https://www.archive.org/download/folklorelegendsscandinavian_1804_librivox/folkloreandlegendsscandinavian_04_tibbits_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Tue, 17 Apr 2018 00:04:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/folklorelegendsscandinavian_1804_librivox/folkloreandlegendsscandinavian_04_tibbits_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[THE HILL-MAN INVITED TO THE CHRISTENING]]></title>
+    <itunes:episode><![CDATA[5]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/folk-lore-and-legends-scandinavian-by-charles-john-tibbits/]]></link>
+            <enclosure url="https://www.archive.org/download/folklorelegendsscandinavian_1804_librivox/folkloreandlegendsscandinavian_05_tibbits_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Tue, 17 Apr 2018 00:05:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/folklorelegendsscandinavian_1804_librivox/folkloreandlegendsscandinavian_05_tibbits_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[THE MEAL OF FROTHI]]></title>
+    <itunes:episode><![CDATA[6]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/folk-lore-and-legends-scandinavian-by-charles-john-tibbits/]]></link>
+            <enclosure url="https://www.archive.org/download/folklorelegendsscandinavian_1804_librivox/folkloreandlegendsscandinavian_06_tibbits_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Tue, 17 Apr 2018 00:06:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/folklorelegendsscandinavian_1804_librivox/folkloreandlegendsscandinavian_06_tibbits_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[THE LOST BELL]]></title>
+    <itunes:episode><![CDATA[7]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/folk-lore-and-legends-scandinavian-by-charles-john-tibbits/]]></link>
+            <enclosure url="https://www.archive.org/download/folklorelegendsscandinavian_1804_librivox/folkloreandlegendsscandinavian_07_tibbits_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Tue, 17 Apr 2018 00:07:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/folklorelegendsscandinavian_1804_librivox/folkloreandlegendsscandinavian_07_tibbits_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[MAIDEN SWANWHITE AND MAIDEN FOXTAIL]]></title>
+    <itunes:episode><![CDATA[8]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/folk-lore-and-legends-scandinavian-by-charles-john-tibbits/]]></link>
+            <enclosure url="https://www.archive.org/download/folklorelegendsscandinavian_1804_librivox/folkloreandlegendsscandinavian_08_tibbits_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Tue, 17 Apr 2018 00:08:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/folklorelegendsscandinavian_1804_librivox/folkloreandlegendsscandinavian_08_tibbits_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[TALES OF TREASURE]]></title>
+    <itunes:episode><![CDATA[9]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/folk-lore-and-legends-scandinavian-by-charles-john-tibbits/]]></link>
+            <enclosure url="https://www.archive.org/download/folklorelegendsscandinavian_1804_librivox/folkloreandlegendsscandinavian_09_tibbits_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Tue, 17 Apr 2018 00:09:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/folklorelegendsscandinavian_1804_librivox/folkloreandlegendsscandinavian_09_tibbits_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[HOLGER DANSKE]]></title>
+    <itunes:episode><![CDATA[10]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/folk-lore-and-legends-scandinavian-by-charles-john-tibbits/]]></link>
+            <enclosure url="https://www.archive.org/download/folklorelegendsscandinavian_1804_librivox/folkloreandlegendsscandinavian_10_tibbits_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Tue, 17 Apr 2018 00:10:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/folklorelegendsscandinavian_1804_librivox/folkloreandlegendsscandinavian_10_tibbits_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[TALES FROM THE PROSE EDDA]]></title>
+    <itunes:episode><![CDATA[11]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/folk-lore-and-legends-scandinavian-by-charles-john-tibbits/]]></link>
+            <enclosure url="https://www.archive.org/download/folklorelegendsscandinavian_1804_librivox/folkloreandlegendsscandinavian_11_tibbits_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Tue, 17 Apr 2018 00:11:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/folklorelegendsscandinavian_1804_librivox/folkloreandlegendsscandinavian_11_tibbits_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[THE STRANGE BUILDER]]></title>
+    <itunes:episode><![CDATA[12]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/folk-lore-and-legends-scandinavian-by-charles-john-tibbits/]]></link>
+            <enclosure url="https://www.archive.org/download/folklorelegendsscandinavian_1804_librivox/folkloreandlegendsscandinavian_12_tibbits_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Tue, 17 Apr 2018 00:12:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/folklorelegendsscandinavian_1804_librivox/folkloreandlegendsscandinavian_12_tibbits_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[THOR'S JOURNEY TO THE LAND OF GIANTS and HOW THOR WENT A-FISHING]]></title>
+    <itunes:episode><![CDATA[13]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/folk-lore-and-legends-scandinavian-by-charles-john-tibbits/]]></link>
+            <enclosure url="https://www.archive.org/download/folklorelegendsscandinavian_1804_librivox/folkloreandlegendsscandinavian_13_tibbits_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Tue, 17 Apr 2018 00:13:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/folklorelegendsscandinavian_1804_librivox/folkloreandlegendsscandinavian_13_tibbits_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[THE DEATH OF BALDUR]]></title>
+    <itunes:episode><![CDATA[14]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/folk-lore-and-legends-scandinavian-by-charles-john-tibbits/]]></link>
+            <enclosure url="https://www.archive.org/download/folklorelegendsscandinavian_1804_librivox/folkloreandlegendsscandinavian_14_tibbits_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Tue, 17 Apr 2018 00:14:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/folklorelegendsscandinavian_1804_librivox/folkloreandlegendsscandinavian_14_tibbits_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[THE PUNISHMENT OF LOKI]]></title>
+    <itunes:episode><![CDATA[15]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/folk-lore-and-legends-scandinavian-by-charles-john-tibbits/]]></link>
+            <enclosure url="https://www.archive.org/download/folklorelegendsscandinavian_1804_librivox/folkloreandlegendsscandinavian_15_tibbits_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Tue, 17 Apr 2018 00:15:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/folklorelegendsscandinavian_1804_librivox/folkloreandlegendsscandinavian_15_tibbits_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[ORIGIN OF TIIS LAKE]]></title>
+    <itunes:episode><![CDATA[16]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/folk-lore-and-legends-scandinavian-by-charles-john-tibbits/]]></link>
+            <enclosure url="https://www.archive.org/download/folklorelegendsscandinavian_1804_librivox/folkloreandlegendsscandinavian_16_tibbits_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Tue, 17 Apr 2018 00:16:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/folklorelegendsscandinavian_1804_librivox/folkloreandlegendsscandinavian_16_tibbits_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[THERE ARE SUCH WOMEN]]></title>
+    <itunes:episode><![CDATA[17]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/folk-lore-and-legends-scandinavian-by-charles-john-tibbits/]]></link>
+            <enclosure url="https://www.archive.org/download/folklorelegendsscandinavian_1804_librivox/folkloreandlegendsscandinavian_17_tibbits_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Tue, 17 Apr 2018 00:17:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/folklorelegendsscandinavian_1804_librivox/folkloreandlegendsscandinavian_17_tibbits_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[TALES OF THE NISSES]]></title>
+    <itunes:episode><![CDATA[18]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/folk-lore-and-legends-scandinavian-by-charles-john-tibbits/]]></link>
+            <enclosure url="https://www.archive.org/download/folklorelegendsscandinavian_1804_librivox/folkloreandlegendsscandinavian_18_tibbits_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Tue, 17 Apr 2018 00:18:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/folklorelegendsscandinavian_1804_librivox/folkloreandlegendsscandinavian_18_tibbits_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[THE DWARFS' BANQUET]]></title>
+    <itunes:episode><![CDATA[19]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/folk-lore-and-legends-scandinavian-by-charles-john-tibbits/]]></link>
+            <enclosure url="https://www.archive.org/download/folklorelegendsscandinavian_1804_librivox/folkloreandlegendsscandinavian_19_tibbits_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Tue, 17 Apr 2018 00:19:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/folklorelegendsscandinavian_1804_librivox/folkloreandlegendsscandinavian_19_tibbits_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[THE ICELANDIC SORCERESSES]]></title>
+    <itunes:episode><![CDATA[20]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/folk-lore-and-legends-scandinavian-by-charles-john-tibbits/]]></link>
+            <enclosure url="https://www.archive.org/download/folklorelegendsscandinavian_1804_librivox/folkloreandlegendsscandinavian_20_tibbits_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Tue, 17 Apr 2018 00:20:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/folklorelegendsscandinavian_1804_librivox/folkloreandlegendsscandinavian_20_tibbits_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[THE THREE DOGS]]></title>
+    <itunes:episode><![CDATA[21]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/folk-lore-and-legends-scandinavian-by-charles-john-tibbits/]]></link>
+            <enclosure url="https://www.archive.org/download/folklorelegendsscandinavian_1804_librivox/folkloreandlegendsscandinavian_21_tibbits_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Tue, 17 Apr 2018 00:21:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/folklorelegendsscandinavian_1804_librivox/folkloreandlegendsscandinavian_21_tibbits_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[THE LEGEND OF THORGUNNA]]></title>
+    <itunes:episode><![CDATA[22]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/folk-lore-and-legends-scandinavian-by-charles-john-tibbits/]]></link>
+            <enclosure url="https://www.archive.org/download/folklorelegendsscandinavian_1804_librivox/folkloreandlegendsscandinavian_22_tibbits_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Tue, 17 Apr 2018 00:22:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/folklorelegendsscandinavian_1804_librivox/folkloreandlegendsscandinavian_22_tibbits_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[THE LITTLE GLASS SHOE]]></title>
+    <itunes:episode><![CDATA[23]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/folk-lore-and-legends-scandinavian-by-charles-john-tibbits/]]></link>
+            <enclosure url="https://www.archive.org/download/folklorelegendsscandinavian_1804_librivox/folkloreandlegendsscandinavian_23_tibbits_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Tue, 17 Apr 2018 00:23:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/folklorelegendsscandinavian_1804_librivox/folkloreandlegendsscandinavian_23_tibbits_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[HOW LOKI WAGERED HIS HEAD]]></title>
+    <itunes:episode><![CDATA[24]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/folk-lore-and-legends-scandinavian-by-charles-john-tibbits/]]></link>
+            <enclosure url="https://www.archive.org/download/folklorelegendsscandinavian_1804_librivox/folkloreandlegendsscandinavian_24_tibbits_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Tue, 17 Apr 2018 00:24:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/folklorelegendsscandinavian_1804_librivox/folkloreandlegendsscandinavian_24_tibbits_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[THE ADVENTURES OF JOHN DIETRICH]]></title>
+    <itunes:episode><![CDATA[25]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/folk-lore-and-legends-scandinavian-by-charles-john-tibbits/]]></link>
+            <enclosure url="https://www.archive.org/download/folklorelegendsscandinavian_1804_librivox/folkloreandlegendsscandinavian_25_tibbits_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Tue, 17 Apr 2018 00:25:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/folklorelegendsscandinavian_1804_librivox/folkloreandlegendsscandinavian_25_tibbits_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[HOW THORSTON BECAME RICH]]></title>
+    <itunes:episode><![CDATA[26]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/folk-lore-and-legends-scandinavian-by-charles-john-tibbits/]]></link>
+            <enclosure url="https://www.archive.org/download/folklorelegendsscandinavian_1804_librivox/folkloreandlegendsscandinavian_26_tibbits_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Tue, 17 Apr 2018 00:26:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/folklorelegendsscandinavian_1804_librivox/folkloreandlegendsscandinavian_26_tibbits_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[GUDBRAND]]></title>
+    <itunes:episode><![CDATA[27]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/folk-lore-and-legends-scandinavian-by-charles-john-tibbits/]]></link>
+            <enclosure url="https://www.archive.org/download/folklorelegendsscandinavian_1804_librivox/folkloreandlegendsscandinavian_27_tibbits_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Tue, 17 Apr 2018 00:27:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/folklorelegendsscandinavian_1804_librivox/folkloreandlegendsscandinavian_27_tibbits_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[THE DWARF-SWORD TIRFING]]></title>
+    <itunes:episode><![CDATA[28]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/folk-lore-and-legends-scandinavian-by-charles-john-tibbits/]]></link>
+            <enclosure url="https://www.archive.org/download/folklorelegendsscandinavian_1804_librivox/folkloreandlegendsscandinavian_28_tibbits_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Tue, 17 Apr 2018 00:28:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/folklorelegendsscandinavian_1804_librivox/folkloreandlegendsscandinavian_28_tibbits_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <!-- end file loop -->
+</channel>
+</rss>

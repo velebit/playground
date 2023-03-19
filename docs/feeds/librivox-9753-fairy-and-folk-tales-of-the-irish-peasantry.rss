@@ -1,0 +1,553 @@
+<?xml version="1.0" ?><rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+  <title><![CDATA[Fairy and Folk Tales of the Irish Peasantry by William Butler Yeats (1865 - 1939)]]></title>
+  <link><![CDATA[https://librivox.org/fairy-and-folk-tales-of-the-irish-peasantry-by-william-butler-yeats/]]></link>
+  <atom:link rel="self" href="https://librivox.org/rss/9753" />
+  <description><![CDATA[This is a collection of Fairy and Folk tales. The poet William Butler Yeats collected them from around the Western part of Ireland and translated them near the end of the 1800s. - Summary by Michele Eaton]]></description>
+  <!--<genre>project element=Genre</genre>-->
+  <!--<language>project element=lang.code</language>-->
+  <itunes:type>serial</itunes:type>
+  <itunes:author>LibriVox</itunes:author>
+  <itunes:summary><![CDATA[This is a collection of Fairy and Folk tales. The poet William Butler Yeats collected them from around the Western part of Ireland and translated them near the end of the 1800s. - Summary by Michele Eaton]]></itunes:summary>
+  <itunes:owner>
+    <itunes:name>LibriVox</itunes:name>
+    <itunes:email>info@librivox.org</itunes:email>
+  </itunes:owner>
+  <itunes:category text="Arts">
+    <itunes:category text="Literature" />
+  </itunes:category>
+  <image><url>https://archive.org/download/fairyandfolktales_irishpeasantry_1612_librivox/fairyandfolktales_1612.jpg</url></image>
+  <itunes:image href="https://archive.org/download/fairyandfolktales_irishpeasantry_1612_librivox/fairyandfolktales_1612.jpg"/>
+  <itunes:explicit>no</itunes:explicit>
+  <!-- file loop -->
+    <item>
+    <title><![CDATA[Introduction]]></title>
+    <itunes:episode><![CDATA[0]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/fairy-and-folk-tales-of-the-irish-peasantry-by-william-butler-yeats/]]></link>
+            <enclosure url="https://www.archive.org/download/fairyandfolktales_irishpeasantry_1612_librivox/fairytalesoftheirish_00_yeats_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Wed, 14 Dec 2016 00:00:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/fairyandfolktales_irishpeasantry_1612_librivox/fairytalesoftheirish_00_yeats_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Trooping Fairies - The Fairies]]></title>
+    <itunes:episode><![CDATA[1]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/fairy-and-folk-tales-of-the-irish-peasantry-by-william-butler-yeats/]]></link>
+            <enclosure url="https://www.archive.org/download/fairyandfolktales_irishpeasantry_1612_librivox/fairytalesoftheirish_01_yeats_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Wed, 14 Dec 2016 00:01:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/fairyandfolktales_irishpeasantry_1612_librivox/fairytalesoftheirish_01_yeats_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Frank Martin and The Fairies]]></title>
+    <itunes:episode><![CDATA[2]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/fairy-and-folk-tales-of-the-irish-peasantry-by-william-butler-yeats/]]></link>
+            <enclosure url="https://www.archive.org/download/fairyandfolktales_irishpeasantry_1612_librivox/fairytalesoftheirish_02_yeats_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Wed, 14 Dec 2016 00:02:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/fairyandfolktales_irishpeasantry_1612_librivox/fairytalesoftheirish_02_yeats_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Priest's Supper - The Fairy Well of Lagnanay]]></title>
+    <itunes:episode><![CDATA[3]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/fairy-and-folk-tales-of-the-irish-peasantry-by-william-butler-yeats/]]></link>
+            <enclosure url="https://www.archive.org/download/fairyandfolktales_irishpeasantry_1612_librivox/fairytalesoftheirish_03_yeats_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Wed, 14 Dec 2016 00:03:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/fairyandfolktales_irishpeasantry_1612_librivox/fairytalesoftheirish_03_yeats_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Teig O'Kane and the Corpse]]></title>
+    <itunes:episode><![CDATA[4]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/fairy-and-folk-tales-of-the-irish-peasantry-by-william-butler-yeats/]]></link>
+            <enclosure url="https://www.archive.org/download/fairyandfolktales_irishpeasantry_1612_librivox/fairytalesoftheirish_04_yeats_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Wed, 14 Dec 2016 00:04:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/fairyandfolktales_irishpeasantry_1612_librivox/fairytalesoftheirish_04_yeats_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Paddy Corcoran's Wife - Cusheen Loo the White Trout: A Legend of Cong]]></title>
+    <itunes:episode><![CDATA[5]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/fairy-and-folk-tales-of-the-irish-peasantry-by-william-butler-yeats/]]></link>
+            <enclosure url="https://www.archive.org/download/fairyandfolktales_irishpeasantry_1612_librivox/fairytalesoftheirish_05_yeats_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Wed, 14 Dec 2016 00:05:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/fairyandfolktales_irishpeasantry_1612_librivox/fairytalesoftheirish_05_yeats_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Fairy Thorn - The Legend of Knockgrafton - A Donegal Fairy]]></title>
+    <itunes:episode><![CDATA[6]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/fairy-and-folk-tales-of-the-irish-peasantry-by-william-butler-yeats/]]></link>
+            <enclosure url="https://www.archive.org/download/fairyandfolktales_irishpeasantry_1612_librivox/fairytalesoftheirish_06_yeats_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Wed, 14 Dec 2016 00:06:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/fairyandfolktales_irishpeasantry_1612_librivox/fairytalesoftheirish_06_yeats_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Changelings  The Brewery of Egg-shells - The Fairy Nurse]]></title>
+    <itunes:episode><![CDATA[7]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/fairy-and-folk-tales-of-the-irish-peasantry-by-william-butler-yeats/]]></link>
+            <enclosure url="https://www.archive.org/download/fairyandfolktales_irishpeasantry_1612_librivox/fairytalesoftheirish_07_yeats_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Wed, 14 Dec 2016 00:07:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/fairyandfolktales_irishpeasantry_1612_librivox/fairytalesoftheirish_07_yeats_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Jamie Freel and the Young Lady - The Stolen Child]]></title>
+    <itunes:episode><![CDATA[8]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/fairy-and-folk-tales-of-the-irish-peasantry-by-william-butler-yeats/]]></link>
+            <enclosure url="https://www.archive.org/download/fairyandfolktales_irishpeasantry_1612_librivox/fairytalesoftheirish_08_yeats_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Wed, 14 Dec 2016 00:08:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/fairyandfolktales_irishpeasantry_1612_librivox/fairytalesoftheirish_08_yeats_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Merrow  The Soul Cages]]></title>
+    <itunes:episode><![CDATA[9]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/fairy-and-folk-tales-of-the-irish-peasantry-by-william-butler-yeats/]]></link>
+            <enclosure url="https://www.archive.org/download/fairyandfolktales_irishpeasantry_1612_librivox/fairytalesoftheirish_09_yeats_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Wed, 14 Dec 2016 00:09:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/fairyandfolktales_irishpeasantry_1612_librivox/fairytalesoftheirish_09_yeats_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Flory Cantillon's Funeral]]></title>
+    <itunes:episode><![CDATA[10]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/fairy-and-folk-tales-of-the-irish-peasantry-by-william-butler-yeats/]]></link>
+            <enclosure url="https://www.archive.org/download/fairyandfolktales_irishpeasantry_1612_librivox/fairytalesoftheirish_10_yeats_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Wed, 14 Dec 2016 00:10:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/fairyandfolktales_irishpeasantry_1612_librivox/fairytalesoftheirish_10_yeats_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Solitary Fairies -The Lepracaun, or, Fairy Shoemaker]]></title>
+    <itunes:episode><![CDATA[11]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/fairy-and-folk-tales-of-the-irish-peasantry-by-william-butler-yeats/]]></link>
+            <enclosure url="https://www.archive.org/download/fairyandfolktales_irishpeasantry_1612_librivox/fairytalesoftheirish_11_yeats_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Wed, 14 Dec 2016 00:11:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/fairyandfolktales_irishpeasantry_1612_librivox/fairytalesoftheirish_11_yeats_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Master and Man - Far Darrig in Donegal]]></title>
+    <itunes:episode><![CDATA[12]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/fairy-and-folk-tales-of-the-irish-peasantry-by-william-butler-yeats/]]></link>
+            <enclosure url="https://www.archive.org/download/fairyandfolktales_irishpeasantry_1612_librivox/fairytalesoftheirish_12_yeats_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Wed, 14 Dec 2016 00:12:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/fairyandfolktales_irishpeasantry_1612_librivox/fairytalesoftheirish_12_yeats_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Piper and the Puca - Daniel O'Rourke]]></title>
+    <itunes:episode><![CDATA[13]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/fairy-and-folk-tales-of-the-irish-peasantry-by-william-butler-yeats/]]></link>
+            <enclosure url="https://www.archive.org/download/fairyandfolktales_irishpeasantry_1612_librivox/fairytalesoftheirish_13_yeats_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Wed, 14 Dec 2016 00:13:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/fairyandfolktales_irishpeasantry_1612_librivox/fairytalesoftheirish_13_yeats_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Kildare Pooka - How Thomas Connolly met the Banshee]]></title>
+    <itunes:episode><![CDATA[14]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/fairy-and-folk-tales-of-the-irish-peasantry-by-william-butler-yeats/]]></link>
+            <enclosure url="https://www.archive.org/download/fairyandfolktales_irishpeasantry_1612_librivox/fairytalesoftheirish_14_yeats_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Wed, 14 Dec 2016 00:14:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/fairyandfolktales_irishpeasantry_1612_librivox/fairytalesoftheirish_14_yeats_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[A Lamantation for the Death of Sir Maurice Fitzgerald - The Banshee of the MacCarthys]]></title>
+    <itunes:episode><![CDATA[15]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/fairy-and-folk-tales-of-the-irish-peasantry-by-william-butler-yeats/]]></link>
+            <enclosure url="https://www.archive.org/download/fairyandfolktales_irishpeasantry_1612_librivox/fairytalesoftheirish_15_yeats_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Wed, 14 Dec 2016 00:15:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/fairyandfolktales_irishpeasantry_1612_librivox/fairytalesoftheirish_15_yeats_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Ghosts - A Dream]]></title>
+    <itunes:episode><![CDATA[16]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/fairy-and-folk-tales-of-the-irish-peasantry-by-william-butler-yeats/]]></link>
+            <enclosure url="https://www.archive.org/download/fairyandfolktales_irishpeasantry_1612_librivox/fairytalesoftheirish_16_yeats_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Wed, 14 Dec 2016 00:16:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/fairyandfolktales_irishpeasantry_1612_librivox/fairytalesoftheirish_16_yeats_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Grace Conner]]></title>
+    <itunes:episode><![CDATA[17]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/fairy-and-folk-tales-of-the-irish-peasantry-by-william-butler-yeats/]]></link>
+            <enclosure url="https://www.archive.org/download/fairyandfolktales_irishpeasantry_1612_librivox/fairytalesoftheirish_17_yeats_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Wed, 14 Dec 2016 00:17:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/fairyandfolktales_irishpeasantry_1612_librivox/fairytalesoftheirish_17_yeats_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[A Legend of Tyrone]]></title>
+    <itunes:episode><![CDATA[18]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/fairy-and-folk-tales-of-the-irish-peasantry-by-william-butler-yeats/]]></link>
+            <enclosure url="https://www.archive.org/download/fairyandfolktales_irishpeasantry_1612_librivox/fairytalesoftheirish_18_yeats_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Wed, 14 Dec 2016 00:18:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/fairyandfolktales_irishpeasantry_1612_librivox/fairytalesoftheirish_18_yeats_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Black Lamb - Song of the Ghost]]></title>
+    <itunes:episode><![CDATA[19]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/fairy-and-folk-tales-of-the-irish-peasantry-by-william-butler-yeats/]]></link>
+            <enclosure url="https://www.archive.org/download/fairyandfolktales_irishpeasantry_1612_librivox/fairytalesoftheirish_19_yeats_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Wed, 14 Dec 2016 00:19:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/fairyandfolktales_irishpeasantry_1612_librivox/fairytalesoftheirish_19_yeats_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Radiant Boy - The Fate of Frank M'Kenna]]></title>
+    <itunes:episode><![CDATA[20]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/fairy-and-folk-tales-of-the-irish-peasantry-by-william-butler-yeats/]]></link>
+            <enclosure url="https://www.archive.org/download/fairyandfolktales_irishpeasantry_1612_librivox/fairytalesoftheirish_20_yeats_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Wed, 14 Dec 2016 00:20:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/fairyandfolktales_irishpeasantry_1612_librivox/fairytalesoftheirish_20_yeats_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Witches, Fairy Doctors  Bewitched]]></title>
+    <itunes:episode><![CDATA[21]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/fairy-and-folk-tales-of-the-irish-peasantry-by-william-butler-yeats/]]></link>
+            <enclosure url="https://www.archive.org/download/fairyandfolktales_irishpeasantry_1612_librivox/fairytalesoftheirish_21_yeats_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Wed, 14 Dec 2016 00:21:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/fairyandfolktales_irishpeasantry_1612_librivox/fairytalesoftheirish_21_yeats_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Bewitched Butter (Donegal) - A Queen's County Witch]]></title>
+    <itunes:episode><![CDATA[22]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/fairy-and-folk-tales-of-the-irish-peasantry-by-william-butler-yeats/]]></link>
+            <enclosure url="https://www.archive.org/download/fairyandfolktales_irishpeasantry_1612_librivox/fairytalesoftheirish_22_yeats_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Wed, 14 Dec 2016 00:22:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/fairyandfolktales_irishpeasantry_1612_librivox/fairytalesoftheirish_22_yeats_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Witch Hare - Bewitched Butter (Queen's County)]]></title>
+    <itunes:episode><![CDATA[23]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/fairy-and-folk-tales-of-the-irish-peasantry-by-william-butler-yeats/]]></link>
+            <enclosure url="https://www.archive.org/download/fairyandfolktales_irishpeasantry_1612_librivox/fairytalesoftheirish_23_yeats_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Wed, 14 Dec 2016 00:23:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/fairyandfolktales_irishpeasantry_1612_librivox/fairytalesoftheirish_23_yeats_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Horned Women  - The Witches Excursion]]></title>
+    <itunes:episode><![CDATA[24]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/fairy-and-folk-tales-of-the-irish-peasantry-by-william-butler-yeats/]]></link>
+            <enclosure url="https://www.archive.org/download/fairyandfolktales_irishpeasantry_1612_librivox/fairytalesoftheirish_24_yeats_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Wed, 14 Dec 2016 00:24:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/fairyandfolktales_irishpeasantry_1612_librivox/fairytalesoftheirish_24_yeats_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Confessions of Tom Bourke]]></title>
+    <itunes:episode><![CDATA[25]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/fairy-and-folk-tales-of-the-irish-peasantry-by-william-butler-yeats/]]></link>
+            <enclosure url="https://www.archive.org/download/fairyandfolktales_irishpeasantry_1612_librivox/fairytalesoftheirish_25_yeats_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Wed, 14 Dec 2016 00:25:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/fairyandfolktales_irishpeasantry_1612_librivox/fairytalesoftheirish_25_yeats_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Pudding Bewitched]]></title>
+    <itunes:episode><![CDATA[26]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/fairy-and-folk-tales-of-the-irish-peasantry-by-william-butler-yeats/]]></link>
+            <enclosure url="https://www.archive.org/download/fairyandfolktales_irishpeasantry_1612_librivox/fairytalesoftheirish_26_yeats_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Wed, 14 Dec 2016 00:26:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/fairyandfolktales_irishpeasantry_1612_librivox/fairytalesoftheirish_26_yeats_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Tyeer-Na-N-Oge The Legend of O'Donoghue]]></title>
+    <itunes:episode><![CDATA[27]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/fairy-and-folk-tales-of-the-irish-peasantry-by-william-butler-yeats/]]></link>
+            <enclosure url="https://www.archive.org/download/fairyandfolktales_irishpeasantry_1612_librivox/fairytalesoftheirish_27_yeats_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Wed, 14 Dec 2016 00:27:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/fairyandfolktales_irishpeasantry_1612_librivox/fairytalesoftheirish_27_yeats_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Rent-Day - Loughleagh (Lake of Healing)]]></title>
+    <itunes:episode><![CDATA[28]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/fairy-and-folk-tales-of-the-irish-peasantry-by-william-butler-yeats/]]></link>
+            <enclosure url="https://www.archive.org/download/fairyandfolktales_irishpeasantry_1612_librivox/fairytalesoftheirish_28_yeats_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Wed, 14 Dec 2016 00:28:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/fairyandfolktales_irishpeasantry_1612_librivox/fairytalesoftheirish_28_yeats_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Hy-Brasail - The Isle of the Blest - The Phantom Isle]]></title>
+    <itunes:episode><![CDATA[29]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/fairy-and-folk-tales-of-the-irish-peasantry-by-william-butler-yeats/]]></link>
+            <enclosure url="https://www.archive.org/download/fairyandfolktales_irishpeasantry_1612_librivox/fairytalesoftheirish_29_yeats_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Wed, 14 Dec 2016 00:29:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/fairyandfolktales_irishpeasantry_1612_librivox/fairytalesoftheirish_29_yeats_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Saints, Priests  The Priest's Soul - The Priest of Coloony]]></title>
+    <itunes:episode><![CDATA[30]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/fairy-and-folk-tales-of-the-irish-peasantry-by-william-butler-yeats/]]></link>
+            <enclosure url="https://www.archive.org/download/fairyandfolktales_irishpeasantry_1612_librivox/fairytalesoftheirish_30_yeats_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Wed, 14 Dec 2016 00:30:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/fairyandfolktales_irishpeasantry_1612_librivox/fairytalesoftheirish_30_yeats_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Story of the Little Bird - Conversion King Laoghaire's  Daughters]]></title>
+    <itunes:episode><![CDATA[31]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/fairy-and-folk-tales-of-the-irish-peasantry-by-william-butler-yeats/]]></link>
+            <enclosure url="https://www.archive.org/download/fairyandfolktales_irishpeasantry_1612_librivox/fairytalesoftheirish_31_yeats_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Wed, 14 Dec 2016 00:31:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/fairyandfolktales_irishpeasantry_1612_librivox/fairytalesoftheirish_31_yeats_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[King O'Toole and His Goose]]></title>
+    <itunes:episode><![CDATA[32]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/fairy-and-folk-tales-of-the-irish-peasantry-by-william-butler-yeats/]]></link>
+            <enclosure url="https://www.archive.org/download/fairyandfolktales_irishpeasantry_1612_librivox/fairytalesoftheirish_32_yeats_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Wed, 14 Dec 2016 00:32:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/fairyandfolktales_irishpeasantry_1612_librivox/fairytalesoftheirish_32_yeats_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Devil  The Demon Cat - The Long Spoon - The Countess Kathleen]]></title>
+    <itunes:episode><![CDATA[33]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/fairy-and-folk-tales-of-the-irish-peasantry-by-william-butler-yeats/]]></link>
+            <enclosure url="https://www.archive.org/download/fairyandfolktales_irishpeasantry_1612_librivox/fairytalesoftheirish_33_yeats_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Wed, 14 Dec 2016 00:33:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/fairyandfolktales_irishpeasantry_1612_librivox/fairytalesoftheirish_33_yeats_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Three Wishes Part 1]]></title>
+    <itunes:episode><![CDATA[34]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/fairy-and-folk-tales-of-the-irish-peasantry-by-william-butler-yeats/]]></link>
+            <enclosure url="https://www.archive.org/download/fairyandfolktales_irishpeasantry_1612_librivox/fairytalesoftheirish_34_yeats_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Wed, 14 Dec 2016 00:34:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/fairyandfolktales_irishpeasantry_1612_librivox/fairytalesoftheirish_34_yeats_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Three Wishes Part 2]]></title>
+    <itunes:episode><![CDATA[35]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/fairy-and-folk-tales-of-the-irish-peasantry-by-william-butler-yeats/]]></link>
+            <enclosure url="https://www.archive.org/download/fairyandfolktales_irishpeasantry_1612_librivox/fairytalesoftheirish_35_yeats_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Wed, 14 Dec 2016 00:35:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/fairyandfolktales_irishpeasantry_1612_librivox/fairytalesoftheirish_35_yeats_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Giants - The Giant's Stairs]]></title>
+    <itunes:episode><![CDATA[36]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/fairy-and-folk-tales-of-the-irish-peasantry-by-william-butler-yeats/]]></link>
+            <enclosure url="https://www.archive.org/download/fairyandfolktales_irishpeasantry_1612_librivox/fairytalesoftheirish_36_yeats_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Wed, 14 Dec 2016 00:36:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/fairyandfolktales_irishpeasantry_1612_librivox/fairytalesoftheirish_36_yeats_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[A Legend of Knockmany]]></title>
+    <itunes:episode><![CDATA[37]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/fairy-and-folk-tales-of-the-irish-peasantry-by-william-butler-yeats/]]></link>
+            <enclosure url="https://www.archive.org/download/fairyandfolktales_irishpeasantry_1612_librivox/fairytalesoftheirish_37_yeats_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Wed, 14 Dec 2016 00:37:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/fairyandfolktales_irishpeasantry_1612_librivox/fairytalesoftheirish_37_yeats_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Kings, Queens, Princesses, Earls, Robbers - The Twelve Wild Geese]]></title>
+    <itunes:episode><![CDATA[38]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/fairy-and-folk-tales-of-the-irish-peasantry-by-william-butler-yeats/]]></link>
+            <enclosure url="https://www.archive.org/download/fairyandfolktales_irishpeasantry_1612_librivox/fairytalesoftheirish_38_yeats_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Wed, 14 Dec 2016 00:38:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/fairyandfolktales_irishpeasantry_1612_librivox/fairytalesoftheirish_38_yeats_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Lazy Beauty and Her Aunts]]></title>
+    <itunes:episode><![CDATA[39]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/fairy-and-folk-tales-of-the-irish-peasantry-by-william-butler-yeats/]]></link>
+            <enclosure url="https://www.archive.org/download/fairyandfolktales_irishpeasantry_1612_librivox/fairytalesoftheirish_39_yeats_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Wed, 14 Dec 2016 00:39:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/fairyandfolktales_irishpeasantry_1612_librivox/fairytalesoftheirish_39_yeats_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Haughty Princess - The Enchantment of Gearoidh Iarla]]></title>
+    <itunes:episode><![CDATA[40]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/fairy-and-folk-tales-of-the-irish-peasantry-by-william-butler-yeats/]]></link>
+            <enclosure url="https://www.archive.org/download/fairyandfolktales_irishpeasantry_1612_librivox/fairytalesoftheirish_40_yeats_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Wed, 14 Dec 2016 00:40:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/fairyandfolktales_irishpeasantry_1612_librivox/fairytalesoftheirish_40_yeats_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Munachar and Manachar - Donald and his Neighbours]]></title>
+    <itunes:episode><![CDATA[41]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/fairy-and-folk-tales-of-the-irish-peasantry-by-william-butler-yeats/]]></link>
+            <enclosure url="https://www.archive.org/download/fairyandfolktales_irishpeasantry_1612_librivox/fairytalesoftheirish_41_yeats_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Wed, 14 Dec 2016 00:41:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/fairyandfolktales_irishpeasantry_1612_librivox/fairytalesoftheirish_41_yeats_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Jackdaw]]></title>
+    <itunes:episode><![CDATA[42]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/fairy-and-folk-tales-of-the-irish-peasantry-by-william-butler-yeats/]]></link>
+            <enclosure url="https://www.archive.org/download/fairyandfolktales_irishpeasantry_1612_librivox/fairytalesoftheirish_42_yeats_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Wed, 14 Dec 2016 00:42:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/fairyandfolktales_irishpeasantry_1612_librivox/fairytalesoftheirish_42_yeats_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Story of Conn-eda]]></title>
+    <itunes:episode><![CDATA[43]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/fairy-and-folk-tales-of-the-irish-peasantry-by-william-butler-yeats/]]></link>
+            <enclosure url="https://www.archive.org/download/fairyandfolktales_irishpeasantry_1612_librivox/fairytalesoftheirish_43_yeats_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Wed, 14 Dec 2016 00:43:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/fairyandfolktales_irishpeasantry_1612_librivox/fairytalesoftheirish_43_yeats_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <!-- end file loop -->
+</channel>
+</rss>

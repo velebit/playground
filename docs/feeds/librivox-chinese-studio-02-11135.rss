@@ -1,0 +1,1273 @@
+<?xml version="1.0" ?><rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+  <title><![CDATA[Strange Stories from a Chinese Studio, Volume 2 by Songling Pu (1640 - 1715)]]></title>
+  <link><![CDATA[https://librivox.org/strange-stories-from-a-chinese-studio-volume-2-by-songling-pu/]]></link>
+  <atom:link rel="self" href="https://librivox.org/rss/11135" />
+  <description><![CDATA["Strange Tales from a Chinese Studio" or "Strange Tales of Liaozhai" is a collection of nearly five hundred mostly supernatural tales written by Pu Songling during the early Qing Dynasty. It was written in Classical Chinese rather than Vernacular Chinese. Pu is believed to have completed the majority of the tales sometime in 1679, though he could have added entries as late as 1707. He borrows from a folk tradition of oral storytelling to put to paper a series of captivating, colorful stories, where the boundary between reality and the odd or fantastic is blurred. The cast of characters includes vixen spirits, ghosts, scholars, court officials, Taoist exorcists and beasts. Moral purposes are often inverted between humans and the supposedly degenerate ghosts or spirits, resulting in a satirical edge to some of the stories. Ghosts and spirits are often bold and trustworthy, while humans are on the other hand weak, indecisive and easily manipulated, reflecting the author's own disillusionment with his society. ( Wikipedia)]]></description>
+  <!--<genre>project element=Genre</genre>-->
+  <!--<language>project element=lang.code</language>-->
+  <itunes:type>serial</itunes:type>
+  <itunes:author>LibriVox</itunes:author>
+  <itunes:summary><![CDATA["Strange Tales from a Chinese Studio" or "Strange Tales of Liaozhai" is a collection of nearly five hundred mostly supernatural tales written by Pu Songling during the early Qing Dynasty. It was written in Classical Chinese rather than Vernacular Chinese. Pu is believed to have completed the majority of the tales sometime in 1679, though he could have added entries as late as 1707. He borrows from a folk tradition of oral storytelling to put to paper a series of captivating, colorful stories, where the boundary between reality and the odd or fantastic is blurred. The cast of characters includes vixen spirits, ghosts, scholars, court officials, Taoist exorcists and beasts. Moral purposes are often inverted between humans and the supposedly degenerate ghosts or spirits, resulting in a satirical edge to some of the stories. Ghosts and spirits are often bold and trustworthy, while humans are on the other hand weak, indecisive and easily manipulated, reflecting the author's own disillusionment with his society. ( Wikipedia)]]></itunes:summary>
+  <itunes:owner>
+    <itunes:name>LibriVox</itunes:name>
+    <itunes:email>info@librivox.org</itunes:email>
+  </itunes:owner>
+  <itunes:category text="Arts">
+    <itunes:category text="Literature" />
+  </itunes:category>
+  <image><url>https://archive.org/download/strangestories2_1711_librivox/chinesestudio_1711.jpg</url></image>
+  <itunes:image href="https://archive.org/download/strangestories2_1711_librivox/chinesestudio_1711.jpg"/>
+  <itunes:explicit>no</itunes:explicit>
+  <!-- file loop -->
+    <item>
+    <title><![CDATA[63 - The Lo-Ch‘a Country and the Sea-market]]></title>
+    <itunes:episode><![CDATA[1]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/strange-stories-from-a-chinese-studio-volume-2-by-songling-pu/]]></link>
+            <enclosure url="https://www.archive.org/download/strangestories2_1711_librivox/strangestories2_001_pu_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 03 Nov 2017 00:00:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/strangestories2_1711_librivox/strangestories2_001_pu_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[64 - The Fighting Cricket]]></title>
+    <itunes:episode><![CDATA[2]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/strange-stories-from-a-chinese-studio-volume-2-by-songling-pu/]]></link>
+            <enclosure url="https://www.archive.org/download/strangestories2_1711_librivox/strangestories2_002_pu_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 03 Nov 2017 00:01:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/strangestories2_1711_librivox/strangestories2_002_pu_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[65 - Taking Revenge]]></title>
+    <itunes:episode><![CDATA[3]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/strange-stories-from-a-chinese-studio-volume-2-by-songling-pu/]]></link>
+            <enclosure url="https://www.archive.org/download/strangestories2_1711_librivox/strangestories2_003_pu_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 03 Nov 2017 00:02:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/strangestories2_1711_librivox/strangestories2_003_pu_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[66 - The Tipsy Turtle]]></title>
+    <itunes:episode><![CDATA[4]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/strange-stories-from-a-chinese-studio-volume-2-by-songling-pu/]]></link>
+            <enclosure url="https://www.archive.org/download/strangestories2_1711_librivox/strangestories2_004_pu_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 03 Nov 2017 00:03:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/strangestories2_1711_librivox/strangestories2_004_pu_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[67 - The Magic Path]]></title>
+    <itunes:episode><![CDATA[5]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/strange-stories-from-a-chinese-studio-volume-2-by-songling-pu/]]></link>
+            <enclosure url="https://www.archive.org/download/strangestories2_1711_librivox/strangestories2_005_pu_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 03 Nov 2017 00:04:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/strangestories2_1711_librivox/strangestories2_005_pu_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[68 - The Faithless Widow]]></title>
+    <itunes:episode><![CDATA[6]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/strange-stories-from-a-chinese-studio-volume-2-by-songling-pu/]]></link>
+            <enclosure url="https://www.archive.org/download/strangestories2_1711_librivox/strangestories2_006_pu_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 03 Nov 2017 00:05:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/strangestories2_1711_librivox/strangestories2_006_pu_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[69 - Princess of the Tung-t‘ing Lake]]></title>
+    <itunes:episode><![CDATA[7]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/strange-stories-from-a-chinese-studio-volume-2-by-songling-pu/]]></link>
+            <enclosure url="https://www.archive.org/download/strangestories2_1711_librivox/strangestories2_007_pu_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 03 Nov 2017 00:06:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/strangestories2_1711_librivox/strangestories2_007_pu_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[70 - The Princess Lily]]></title>
+    <itunes:episode><![CDATA[8]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/strange-stories-from-a-chinese-studio-volume-2-by-songling-pu/]]></link>
+            <enclosure url="https://www.archive.org/download/strangestories2_1711_librivox/strangestories2_008_pu_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 03 Nov 2017 00:07:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/strangestories2_1711_librivox/strangestories2_008_pu_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[71 - The Donkey’s Revenge]]></title>
+    <itunes:episode><![CDATA[9]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/strange-stories-from-a-chinese-studio-volume-2-by-songling-pu/]]></link>
+            <enclosure url="https://www.archive.org/download/strangestories2_1711_librivox/strangestories2_009_pu_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 03 Nov 2017 00:08:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/strangestories2_1711_librivox/strangestories2_009_pu_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[72 - The Wolf Dream]]></title>
+    <itunes:episode><![CDATA[10]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/strange-stories-from-a-chinese-studio-volume-2-by-songling-pu/]]></link>
+            <enclosure url="https://www.archive.org/download/strangestories2_1711_librivox/strangestories2_010_pu_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 03 Nov 2017 00:09:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/strangestories2_1711_librivox/strangestories2_010_pu_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[73 - The Unjust Sentence]]></title>
+    <itunes:episode><![CDATA[11]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/strange-stories-from-a-chinese-studio-volume-2-by-songling-pu/]]></link>
+            <enclosure url="https://www.archive.org/download/strangestories2_1711_librivox/strangestories2_011_pu_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 03 Nov 2017 00:10:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/strangestories2_1711_librivox/strangestories2_011_pu_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[74 - A Chinese Rip van Winkle]]></title>
+    <itunes:episode><![CDATA[12]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/strange-stories-from-a-chinese-studio-volume-2-by-songling-pu/]]></link>
+            <enclosure url="https://www.archive.org/download/strangestories2_1711_librivox/strangestories2_012_pu_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 03 Nov 2017 00:11:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/strangestories2_1711_librivox/strangestories2_012_pu_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[75 - The Three States of Existence]]></title>
+    <itunes:episode><![CDATA[13]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/strange-stories-from-a-chinese-studio-volume-2-by-songling-pu/]]></link>
+            <enclosure url="https://www.archive.org/download/strangestories2_1711_librivox/strangestories2_013_pu_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 03 Nov 2017 00:12:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/strangestories2_1711_librivox/strangestories2_013_pu_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[76 - In the Infernal Regions]]></title>
+    <itunes:episode><![CDATA[14]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/strange-stories-from-a-chinese-studio-volume-2-by-songling-pu/]]></link>
+            <enclosure url="https://www.archive.org/download/strangestories2_1711_librivox/strangestories2_014_pu_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 03 Nov 2017 00:13:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/strangestories2_1711_librivox/strangestories2_014_pu_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[77 - Singular case of Ophthalmia]]></title>
+    <itunes:episode><![CDATA[15]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/strange-stories-from-a-chinese-studio-volume-2-by-songling-pu/]]></link>
+            <enclosure url="https://www.archive.org/download/strangestories2_1711_librivox/strangestories2_015_pu_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 03 Nov 2017 00:14:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/strangestories2_1711_librivox/strangestories2_015_pu_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[78 - Chou K‘o-ch‘ang and his Ghost]]></title>
+    <itunes:episode><![CDATA[16]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/strange-stories-from-a-chinese-studio-volume-2-by-songling-pu/]]></link>
+            <enclosure url="https://www.archive.org/download/strangestories2_1711_librivox/strangestories2_016_pu_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 03 Nov 2017 00:15:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/strangestories2_1711_librivox/strangestories2_016_pu_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[79 - The Spirits of the Po-yang Lake]]></title>
+    <itunes:episode><![CDATA[17]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/strange-stories-from-a-chinese-studio-volume-2-by-songling-pu/]]></link>
+            <enclosure url="https://www.archive.org/download/strangestories2_1711_librivox/strangestories2_017_pu_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 03 Nov 2017 00:16:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/strangestories2_1711_librivox/strangestories2_017_pu_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[80 - The Stream of Cash]]></title>
+    <itunes:episode><![CDATA[18]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/strange-stories-from-a-chinese-studio-volume-2-by-songling-pu/]]></link>
+            <enclosure url="https://www.archive.org/download/strangestories2_1711_librivox/strangestories2_018_pu_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 03 Nov 2017 00:17:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/strangestories2_1711_librivox/strangestories2_018_pu_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[81 - The Injustice of Heaven]]></title>
+    <itunes:episode><![CDATA[19]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/strange-stories-from-a-chinese-studio-volume-2-by-songling-pu/]]></link>
+            <enclosure url="https://www.archive.org/download/strangestories2_1711_librivox/strangestories2_019_pu_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 03 Nov 2017 00:18:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/strangestories2_1711_librivox/strangestories2_019_pu_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[82 - The Sea-serpent]]></title>
+    <itunes:episode><![CDATA[20]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/strange-stories-from-a-chinese-studio-volume-2-by-songling-pu/]]></link>
+            <enclosure url="https://www.archive.org/download/strangestories2_1711_librivox/strangestories2_020_pu_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 03 Nov 2017 00:19:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/strangestories2_1711_librivox/strangestories2_020_pu_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[83 - The Magic Mirror]]></title>
+    <itunes:episode><![CDATA[21]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/strange-stories-from-a-chinese-studio-volume-2-by-songling-pu/]]></link>
+            <enclosure url="https://www.archive.org/download/strangestories2_1711_librivox/strangestories2_021_pu_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 03 Nov 2017 00:20:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/strangestories2_1711_librivox/strangestories2_021_pu_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[84 - Courage Tested]]></title>
+    <itunes:episode><![CDATA[22]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/strange-stories-from-a-chinese-studio-volume-2-by-songling-pu/]]></link>
+            <enclosure url="https://www.archive.org/download/strangestories2_1711_librivox/strangestories2_022_pu_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 03 Nov 2017 00:21:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/strangestories2_1711_librivox/strangestories2_022_pu_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[85 - The Disembodied Friend]]></title>
+    <itunes:episode><![CDATA[23]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/strange-stories-from-a-chinese-studio-volume-2-by-songling-pu/]]></link>
+            <enclosure url="https://www.archive.org/download/strangestories2_1711_librivox/strangestories2_023_pu_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 03 Nov 2017 00:22:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/strangestories2_1711_librivox/strangestories2_023_pu_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[86 - The Cloth Merchant]]></title>
+    <itunes:episode><![CDATA[24]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/strange-stories-from-a-chinese-studio-volume-2-by-songling-pu/]]></link>
+            <enclosure url="https://www.archive.org/download/strangestories2_1711_librivox/strangestories2_024_pu_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 03 Nov 2017 00:23:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/strangestories2_1711_librivox/strangestories2_024_pu_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[87 - A Strange Companion]]></title>
+    <itunes:episode><![CDATA[25]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/strange-stories-from-a-chinese-studio-volume-2-by-songling-pu/]]></link>
+            <enclosure url="https://www.archive.org/download/strangestories2_1711_librivox/strangestories2_025_pu_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 03 Nov 2017 00:24:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/strangestories2_1711_librivox/strangestories2_025_pu_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[88 - Spiritualistic Séances]]></title>
+    <itunes:episode><![CDATA[26]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/strange-stories-from-a-chinese-studio-volume-2-by-songling-pu/]]></link>
+            <enclosure url="https://www.archive.org/download/strangestories2_1711_librivox/strangestories2_026_pu_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 03 Nov 2017 00:25:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/strangestories2_1711_librivox/strangestories2_026_pu_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[89 - The Mysterious Head]]></title>
+    <itunes:episode><![CDATA[27]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/strange-stories-from-a-chinese-studio-volume-2-by-songling-pu/]]></link>
+            <enclosure url="https://www.archive.org/download/strangestories2_1711_librivox/strangestories2_027_pu_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 03 Nov 2017 00:26:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/strangestories2_1711_librivox/strangestories2_027_pu_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[90 - The Spirit of the Hills]]></title>
+    <itunes:episode><![CDATA[28]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/strange-stories-from-a-chinese-studio-volume-2-by-songling-pu/]]></link>
+            <enclosure url="https://www.archive.org/download/strangestories2_1711_librivox/strangestories2_028_pu_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 03 Nov 2017 00:27:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/strangestories2_1711_librivox/strangestories2_028_pu_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[91 - Ingratitude Punished]]></title>
+    <itunes:episode><![CDATA[29]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/strange-stories-from-a-chinese-studio-volume-2-by-songling-pu/]]></link>
+            <enclosure url="https://www.archive.org/download/strangestories2_1711_librivox/strangestories2_029_pu_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 03 Nov 2017 00:28:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/strangestories2_1711_librivox/strangestories2_029_pu_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[92 - Smelling Essays]]></title>
+    <itunes:episode><![CDATA[30]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/strange-stories-from-a-chinese-studio-volume-2-by-songling-pu/]]></link>
+            <enclosure url="https://www.archive.org/download/strangestories2_1711_librivox/strangestories2_030_pu_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 03 Nov 2017 00:29:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/strangestories2_1711_librivox/strangestories2_030_pu_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[93 - His Father’s Ghost]]></title>
+    <itunes:episode><![CDATA[31]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/strange-stories-from-a-chinese-studio-volume-2-by-songling-pu/]]></link>
+            <enclosure url="https://www.archive.org/download/strangestories2_1711_librivox/strangestories2_031_pu_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 03 Nov 2017 00:30:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/strangestories2_1711_librivox/strangestories2_031_pu_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[94 - The Boat-girl Bride]]></title>
+    <itunes:episode><![CDATA[32]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/strange-stories-from-a-chinese-studio-volume-2-by-songling-pu/]]></link>
+            <enclosure url="https://www.archive.org/download/strangestories2_1711_librivox/strangestories2_032_pu_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 03 Nov 2017 00:31:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/strangestories2_1711_librivox/strangestories2_032_pu_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[95 - The Two Brides]]></title>
+    <itunes:episode><![CDATA[33]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/strange-stories-from-a-chinese-studio-volume-2-by-songling-pu/]]></link>
+            <enclosure url="https://www.archive.org/download/strangestories2_1711_librivox/strangestories2_033_pu_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 03 Nov 2017 00:32:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/strangestories2_1711_librivox/strangestories2_033_pu_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[96 - A Supernatural Wife]]></title>
+    <itunes:episode><![CDATA[34]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/strange-stories-from-a-chinese-studio-volume-2-by-songling-pu/]]></link>
+            <enclosure url="https://www.archive.org/download/strangestories2_1711_librivox/strangestories2_034_pu_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 03 Nov 2017 00:33:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/strangestories2_1711_librivox/strangestories2_034_pu_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[97 - Bribery and Corruption]]></title>
+    <itunes:episode><![CDATA[35]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/strange-stories-from-a-chinese-studio-volume-2-by-songling-pu/]]></link>
+            <enclosure url="https://www.archive.org/download/strangestories2_1711_librivox/strangestories2_035_pu_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 03 Nov 2017 00:34:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/strangestories2_1711_librivox/strangestories2_035_pu_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[98 - A Chinese Jonah]]></title>
+    <itunes:episode><![CDATA[36]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/strange-stories-from-a-chinese-studio-volume-2-by-songling-pu/]]></link>
+            <enclosure url="https://www.archive.org/download/strangestories2_1711_librivox/strangestories2_036_pu_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 03 Nov 2017 00:35:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/strangestories2_1711_librivox/strangestories2_036_pu_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[99 - Chang Pu-liang]]></title>
+    <itunes:episode><![CDATA[37]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/strange-stories-from-a-chinese-studio-volume-2-by-songling-pu/]]></link>
+            <enclosure url="https://www.archive.org/download/strangestories2_1711_librivox/strangestories2_037_pu_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 03 Nov 2017 00:36:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/strangestories2_1711_librivox/strangestories2_037_pu_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[100 - The Dutch Carpet]]></title>
+    <itunes:episode><![CDATA[38]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/strange-stories-from-a-chinese-studio-volume-2-by-songling-pu/]]></link>
+            <enclosure url="https://www.archive.org/download/strangestories2_1711_librivox/strangestories2_038_pu_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 03 Nov 2017 00:37:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/strangestories2_1711_librivox/strangestories2_038_pu_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[101 - Carrying a Corpse]]></title>
+    <itunes:episode><![CDATA[39]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/strange-stories-from-a-chinese-studio-volume-2-by-songling-pu/]]></link>
+            <enclosure url="https://www.archive.org/download/strangestories2_1711_librivox/strangestories2_039_pu_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 03 Nov 2017 00:38:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/strangestories2_1711_librivox/strangestories2_039_pu_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[102 - A Taoist Devotee]]></title>
+    <itunes:episode><![CDATA[40]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/strange-stories-from-a-chinese-studio-volume-2-by-songling-pu/]]></link>
+            <enclosure url="https://www.archive.org/download/strangestories2_1711_librivox/strangestories2_040_pu_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 03 Nov 2017 00:39:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/strangestories2_1711_librivox/strangestories2_040_pu_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[103 - Justice for Rebels]]></title>
+    <itunes:episode><![CDATA[41]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/strange-stories-from-a-chinese-studio-volume-2-by-songling-pu/]]></link>
+            <enclosure url="https://www.archive.org/download/strangestories2_1711_librivox/strangestories2_041_pu_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 03 Nov 2017 00:40:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/strangestories2_1711_librivox/strangestories2_041_pu_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[104 - Theft of the Peach]]></title>
+    <itunes:episode><![CDATA[42]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/strange-stories-from-a-chinese-studio-volume-2-by-songling-pu/]]></link>
+            <enclosure url="https://www.archive.org/download/strangestories2_1711_librivox/strangestories2_042_pu_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 03 Nov 2017 00:41:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/strangestories2_1711_librivox/strangestories2_042_pu_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[105 - Killing a Serpent]]></title>
+    <itunes:episode><![CDATA[43]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/strange-stories-from-a-chinese-studio-volume-2-by-songling-pu/]]></link>
+            <enclosure url="https://www.archive.org/download/strangestories2_1711_librivox/strangestories2_043_pu_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 03 Nov 2017 00:42:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/strangestories2_1711_librivox/strangestories2_043_pu_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[106 - The Resuscitated Corpse]]></title>
+    <itunes:episode><![CDATA[44]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/strange-stories-from-a-chinese-studio-volume-2-by-songling-pu/]]></link>
+            <enclosure url="https://www.archive.org/download/strangestories2_1711_librivox/strangestories2_044_pu_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 03 Nov 2017 00:43:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/strangestories2_1711_librivox/strangestories2_044_pu_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[107 - The Fisherman and his Friend]]></title>
+    <itunes:episode><![CDATA[45]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/strange-stories-from-a-chinese-studio-volume-2-by-songling-pu/]]></link>
+            <enclosure url="https://www.archive.org/download/strangestories2_1711_librivox/strangestories2_045_pu_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 03 Nov 2017 00:44:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/strangestories2_1711_librivox/strangestories2_045_pu_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[108 - The Priest’s Warning]]></title>
+    <itunes:episode><![CDATA[46]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/strange-stories-from-a-chinese-studio-volume-2-by-songling-pu/]]></link>
+            <enclosure url="https://www.archive.org/download/strangestories2_1711_librivox/strangestories2_046_pu_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 03 Nov 2017 00:45:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/strangestories2_1711_librivox/strangestories2_046_pu_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[109 - Metempsychosis]]></title>
+    <itunes:episode><![CDATA[47]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/strange-stories-from-a-chinese-studio-volume-2-by-songling-pu/]]></link>
+            <enclosure url="https://www.archive.org/download/strangestories2_1711_librivox/strangestories2_047_pu_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 03 Nov 2017 00:46:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/strangestories2_1711_librivox/strangestories2_047_pu_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[110 - The Forty Strings of Cash]]></title>
+    <itunes:episode><![CDATA[48]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/strange-stories-from-a-chinese-studio-volume-2-by-songling-pu/]]></link>
+            <enclosure url="https://www.archive.org/download/strangestories2_1711_librivox/strangestories2_048_pu_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 03 Nov 2017 00:47:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/strangestories2_1711_librivox/strangestories2_048_pu_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[111 - Saving Life]]></title>
+    <itunes:episode><![CDATA[49]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/strange-stories-from-a-chinese-studio-volume-2-by-songling-pu/]]></link>
+            <enclosure url="https://www.archive.org/download/strangestories2_1711_librivox/strangestories2_049_pu_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 03 Nov 2017 00:48:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/strangestories2_1711_librivox/strangestories2_049_pu_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[112 - The Salt Smuggler]]></title>
+    <itunes:episode><![CDATA[50]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/strange-stories-from-a-chinese-studio-volume-2-by-songling-pu/]]></link>
+            <enclosure url="https://www.archive.org/download/strangestories2_1711_librivox/strangestories2_050_pu_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 03 Nov 2017 00:49:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/strangestories2_1711_librivox/strangestories2_050_pu_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[113 - Collecting Subscriptions]]></title>
+    <itunes:episode><![CDATA[51]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/strange-stories-from-a-chinese-studio-volume-2-by-songling-pu/]]></link>
+            <enclosure url="https://www.archive.org/download/strangestories2_1711_librivox/strangestories2_051_pu_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 03 Nov 2017 00:50:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/strangestories2_1711_librivox/strangestories2_051_pu_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[114 - Taoist Miracles]]></title>
+    <itunes:episode><![CDATA[52]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/strange-stories-from-a-chinese-studio-volume-2-by-songling-pu/]]></link>
+            <enclosure url="https://www.archive.org/download/strangestories2_1711_librivox/strangestories2_052_pu_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 03 Nov 2017 00:51:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/strangestories2_1711_librivox/strangestories2_052_pu_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[115 - Arrival of Buddhist Priests]]></title>
+    <itunes:episode><![CDATA[53]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/strange-stories-from-a-chinese-studio-volume-2-by-songling-pu/]]></link>
+            <enclosure url="https://www.archive.org/download/strangestories2_1711_librivox/strangestories2_053_pu_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 03 Nov 2017 00:52:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/strangestories2_1711_librivox/strangestories2_053_pu_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[116 - The Stolen Eyes]]></title>
+    <itunes:episode><![CDATA[54]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/strange-stories-from-a-chinese-studio-volume-2-by-songling-pu/]]></link>
+            <enclosure url="https://www.archive.org/download/strangestories2_1711_librivox/strangestories2_054_pu_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 03 Nov 2017 00:53:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/strangestories2_1711_librivox/strangestories2_054_pu_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[117 - The Invisible Priest]]></title>
+    <itunes:episode><![CDATA[55]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/strange-stories-from-a-chinese-studio-volume-2-by-songling-pu/]]></link>
+            <enclosure url="https://www.archive.org/download/strangestories2_1711_librivox/strangestories2_055_pu_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 03 Nov 2017 00:54:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/strangestories2_1711_librivox/strangestories2_055_pu_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[118 - The Censor in Purgatory]]></title>
+    <itunes:episode><![CDATA[56]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/strange-stories-from-a-chinese-studio-volume-2-by-songling-pu/]]></link>
+            <enclosure url="https://www.archive.org/download/strangestories2_1711_librivox/strangestories2_056_pu_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 03 Nov 2017 00:55:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/strangestories2_1711_librivox/strangestories2_056_pu_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[119 - Mr. Willow and the Locusts]]></title>
+    <itunes:episode><![CDATA[57]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/strange-stories-from-a-chinese-studio-volume-2-by-songling-pu/]]></link>
+            <enclosure url="https://www.archive.org/download/strangestories2_1711_librivox/strangestories2_057_pu_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 03 Nov 2017 00:56:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/strangestories2_1711_librivox/strangestories2_057_pu_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[120 - Mr. Tung; or, Virtue Rewarded]]></title>
+    <itunes:episode><![CDATA[58]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/strange-stories-from-a-chinese-studio-volume-2-by-songling-pu/]]></link>
+            <enclosure url="https://www.archive.org/download/strangestories2_1711_librivox/strangestories2_058_pu_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 03 Nov 2017 00:57:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/strangestories2_1711_librivox/strangestories2_058_pu_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[121 - The Dead Priest]]></title>
+    <itunes:episode><![CDATA[59]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/strange-stories-from-a-chinese-studio-volume-2-by-songling-pu/]]></link>
+            <enclosure url="https://www.archive.org/download/strangestories2_1711_librivox/strangestories2_059_pu_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 03 Nov 2017 00:58:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/strangestories2_1711_librivox/strangestories2_059_pu_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[122 - The Flying Cow]]></title>
+    <itunes:episode><![CDATA[60]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/strange-stories-from-a-chinese-studio-volume-2-by-songling-pu/]]></link>
+            <enclosure url="https://www.archive.org/download/strangestories2_1711_librivox/strangestories2_060_pu_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 03 Nov 2017 00:59:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/strangestories2_1711_librivox/strangestories2_060_pu_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[123 - The ''Mirror and Listen'' Trick]]></title>
+    <itunes:episode><![CDATA[61]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/strange-stories-from-a-chinese-studio-volume-2-by-songling-pu/]]></link>
+            <enclosure url="https://www.archive.org/download/strangestories2_1711_librivox/strangestories2_061_pu_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 03 Nov 2017 01:00:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/strangestories2_1711_librivox/strangestories2_061_pu_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[124 - The Cattle Plague]]></title>
+    <itunes:episode><![CDATA[62]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/strange-stories-from-a-chinese-studio-volume-2-by-songling-pu/]]></link>
+            <enclosure url="https://www.archive.org/download/strangestories2_1711_librivox/strangestories2_062_pu_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 03 Nov 2017 01:01:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/strangestories2_1711_librivox/strangestories2_062_pu_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[125 - The Marriage of the Virgin Goddess]]></title>
+    <itunes:episode><![CDATA[63]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/strange-stories-from-a-chinese-studio-volume-2-by-songling-pu/]]></link>
+            <enclosure url="https://www.archive.org/download/strangestories2_1711_librivox/strangestories2_063_pu_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 03 Nov 2017 01:02:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/strangestories2_1711_librivox/strangestories2_063_pu_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[126 - The Wine Insect]]></title>
+    <itunes:episode><![CDATA[64]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/strange-stories-from-a-chinese-studio-volume-2-by-songling-pu/]]></link>
+            <enclosure url="https://www.archive.org/download/strangestories2_1711_librivox/strangestories2_064_pu_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 03 Nov 2017 01:03:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/strangestories2_1711_librivox/strangestories2_064_pu_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[127 - The Faithful Dog]]></title>
+    <itunes:episode><![CDATA[65]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/strange-stories-from-a-chinese-studio-volume-2-by-songling-pu/]]></link>
+            <enclosure url="https://www.archive.org/download/strangestories2_1711_librivox/strangestories2_065_pu_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 03 Nov 2017 01:04:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/strangestories2_1711_librivox/strangestories2_065_pu_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[128 - An Earthquake]]></title>
+    <itunes:episode><![CDATA[66]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/strange-stories-from-a-chinese-studio-volume-2-by-songling-pu/]]></link>
+            <enclosure url="https://www.archive.org/download/strangestories2_1711_librivox/strangestories2_066_pu_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 03 Nov 2017 01:05:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/strangestories2_1711_librivox/strangestories2_066_pu_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[129 - Making Animals]]></title>
+    <itunes:episode><![CDATA[67]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/strange-stories-from-a-chinese-studio-volume-2-by-songling-pu/]]></link>
+            <enclosure url="https://www.archive.org/download/strangestories2_1711_librivox/strangestories2_067_pu_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 03 Nov 2017 01:06:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/strangestories2_1711_librivox/strangestories2_067_pu_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[130 - Cruelty Avenged]]></title>
+    <itunes:episode><![CDATA[68]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/strange-stories-from-a-chinese-studio-volume-2-by-songling-pu/]]></link>
+            <enclosure url="https://www.archive.org/download/strangestories2_1711_librivox/strangestories2_068_pu_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 03 Nov 2017 01:07:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/strangestories2_1711_librivox/strangestories2_068_pu_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[131 - The Wei-ch‘i Devil]]></title>
+    <itunes:episode><![CDATA[69]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/strange-stories-from-a-chinese-studio-volume-2-by-songling-pu/]]></link>
+            <enclosure url="https://www.archive.org/download/strangestories2_1711_librivox/strangestories2_069_pu_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 03 Nov 2017 01:08:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/strangestories2_1711_librivox/strangestories2_069_pu_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[132 - The Fortune-hunter Punished]]></title>
+    <itunes:episode><![CDATA[70]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/strange-stories-from-a-chinese-studio-volume-2-by-songling-pu/]]></link>
+            <enclosure url="https://www.archive.org/download/strangestories2_1711_librivox/strangestories2_070_pu_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 03 Nov 2017 01:09:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/strangestories2_1711_librivox/strangestories2_070_pu_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[133 - Life Prolonged]]></title>
+    <itunes:episode><![CDATA[71]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/strange-stories-from-a-chinese-studio-volume-2-by-songling-pu/]]></link>
+            <enclosure url="https://www.archive.org/download/strangestories2_1711_librivox/strangestories2_071_pu_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 03 Nov 2017 01:10:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/strangestories2_1711_librivox/strangestories2_071_pu_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[134 - The Clay Image]]></title>
+    <itunes:episode><![CDATA[72]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/strange-stories-from-a-chinese-studio-volume-2-by-songling-pu/]]></link>
+            <enclosure url="https://www.archive.org/download/strangestories2_1711_librivox/strangestories2_072_pu_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 03 Nov 2017 01:11:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/strangestories2_1711_librivox/strangestories2_072_pu_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[135 - Dishonesty Punished]]></title>
+    <itunes:episode><![CDATA[73]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/strange-stories-from-a-chinese-studio-volume-2-by-songling-pu/]]></link>
+            <enclosure url="https://www.archive.org/download/strangestories2_1711_librivox/strangestories2_073_pu_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 03 Nov 2017 01:12:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/strangestories2_1711_librivox/strangestories2_073_pu_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[136 - The Mad Priest]]></title>
+    <itunes:episode><![CDATA[74]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/strange-stories-from-a-chinese-studio-volume-2-by-songling-pu/]]></link>
+            <enclosure url="https://www.archive.org/download/strangestories2_1711_librivox/strangestories2_074_pu_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 03 Nov 2017 01:13:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/strangestories2_1711_librivox/strangestories2_074_pu_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[137 - Feasting the Ruler of Purgatory]]></title>
+    <itunes:episode><![CDATA[75]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/strange-stories-from-a-chinese-studio-volume-2-by-songling-pu/]]></link>
+            <enclosure url="https://www.archive.org/download/strangestories2_1711_librivox/strangestories2_075_pu_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 03 Nov 2017 01:14:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/strangestories2_1711_librivox/strangestories2_075_pu_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[138 - The Picture Horse]]></title>
+    <itunes:episode><![CDATA[76]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/strange-stories-from-a-chinese-studio-volume-2-by-songling-pu/]]></link>
+            <enclosure url="https://www.archive.org/download/strangestories2_1711_librivox/strangestories2_076_pu_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 03 Nov 2017 01:15:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/strangestories2_1711_librivox/strangestories2_076_pu_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[139 - The Butterfly’s Revenge]]></title>
+    <itunes:episode><![CDATA[77]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/strange-stories-from-a-chinese-studio-volume-2-by-songling-pu/]]></link>
+            <enclosure url="https://www.archive.org/download/strangestories2_1711_librivox/strangestories2_077_pu_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 03 Nov 2017 01:16:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/strangestories2_1711_librivox/strangestories2_077_pu_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[140 - The Doctor]]></title>
+    <itunes:episode><![CDATA[78]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/strange-stories-from-a-chinese-studio-volume-2-by-songling-pu/]]></link>
+            <enclosure url="https://www.archive.org/download/strangestories2_1711_librivox/strangestories2_078_pu_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 03 Nov 2017 01:17:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/strangestories2_1711_librivox/strangestories2_078_pu_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[141 - Snow in Summer]]></title>
+    <itunes:episode><![CDATA[79]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/strange-stories-from-a-chinese-studio-volume-2-by-songling-pu/]]></link>
+            <enclosure url="https://www.archive.org/download/strangestories2_1711_librivox/strangestories2_079_pu_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 03 Nov 2017 01:18:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/strangestories2_1711_librivox/strangestories2_079_pu_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[142 - Planchette]]></title>
+    <itunes:episode><![CDATA[80]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/strange-stories-from-a-chinese-studio-volume-2-by-songling-pu/]]></link>
+            <enclosure url="https://www.archive.org/download/strangestories2_1711_librivox/strangestories2_080_pu_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 03 Nov 2017 01:19:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/strangestories2_1711_librivox/strangestories2_080_pu_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[143 - Friendship with Foxes]]></title>
+    <itunes:episode><![CDATA[81]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/strange-stories-from-a-chinese-studio-volume-2-by-songling-pu/]]></link>
+            <enclosure url="https://www.archive.org/download/strangestories2_1711_librivox/strangestories2_081_pu_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 03 Nov 2017 01:20:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/strangestories2_1711_librivox/strangestories2_081_pu_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[144 - The Great Rat]]></title>
+    <itunes:episode><![CDATA[82]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/strange-stories-from-a-chinese-studio-volume-2-by-songling-pu/]]></link>
+            <enclosure url="https://www.archive.org/download/strangestories2_1711_librivox/strangestories2_082_pu_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 03 Nov 2017 01:21:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/strangestories2_1711_librivox/strangestories2_082_pu_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[145 - Wolves]]></title>
+    <itunes:episode><![CDATA[83]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/strange-stories-from-a-chinese-studio-volume-2-by-songling-pu/]]></link>
+            <enclosure url="https://www.archive.org/download/strangestories2_1711_librivox/strangestories2_083_pu_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 03 Nov 2017 01:22:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/strangestories2_1711_librivox/strangestories2_083_pu_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[146 - Singular Verdict]]></title>
+    <itunes:episode><![CDATA[84]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/strange-stories-from-a-chinese-studio-volume-2-by-songling-pu/]]></link>
+            <enclosure url="https://www.archive.org/download/strangestories2_1711_librivox/strangestories2_084_pu_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 03 Nov 2017 01:23:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/strangestories2_1711_librivox/strangestories2_084_pu_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[147 - The Grateful Dog]]></title>
+    <itunes:episode><![CDATA[85]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/strange-stories-from-a-chinese-studio-volume-2-by-songling-pu/]]></link>
+            <enclosure url="https://www.archive.org/download/strangestories2_1711_librivox/strangestories2_085_pu_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 03 Nov 2017 01:24:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/strangestories2_1711_librivox/strangestories2_085_pu_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[148 - The Great Test]]></title>
+    <itunes:episode><![CDATA[86]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/strange-stories-from-a-chinese-studio-volume-2-by-songling-pu/]]></link>
+            <enclosure url="https://www.archive.org/download/strangestories2_1711_librivox/strangestories2_086_pu_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 03 Nov 2017 01:25:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/strangestories2_1711_librivox/strangestories2_086_pu_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[149 - The Alchemist]]></title>
+    <itunes:episode><![CDATA[87]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/strange-stories-from-a-chinese-studio-volume-2-by-songling-pu/]]></link>
+            <enclosure url="https://www.archive.org/download/strangestories2_1711_librivox/strangestories2_087_pu_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 03 Nov 2017 01:26:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/strangestories2_1711_librivox/strangestories2_087_pu_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[150 - Raising the Dead]]></title>
+    <itunes:episode><![CDATA[88]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/strange-stories-from-a-chinese-studio-volume-2-by-songling-pu/]]></link>
+            <enclosure url="https://www.archive.org/download/strangestories2_1711_librivox/strangestories2_088_pu_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 03 Nov 2017 01:27:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/strangestories2_1711_librivox/strangestories2_088_pu_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[151 - Fêng-shui]]></title>
+    <itunes:episode><![CDATA[89]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/strange-stories-from-a-chinese-studio-volume-2-by-songling-pu/]]></link>
+            <enclosure url="https://www.archive.org/download/strangestories2_1711_librivox/strangestories2_089_pu_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 03 Nov 2017 01:28:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/strangestories2_1711_librivox/strangestories2_089_pu_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[152 - The Lingering Death]]></title>
+    <itunes:episode><![CDATA[90]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/strange-stories-from-a-chinese-studio-volume-2-by-songling-pu/]]></link>
+            <enclosure url="https://www.archive.org/download/strangestories2_1711_librivox/strangestories2_090_pu_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 03 Nov 2017 01:29:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/strangestories2_1711_librivox/strangestories2_090_pu_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[153 - Dreaming Honours]]></title>
+    <itunes:episode><![CDATA[91]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/strange-stories-from-a-chinese-studio-volume-2-by-songling-pu/]]></link>
+            <enclosure url="https://www.archive.org/download/strangestories2_1711_librivox/strangestories2_091_pu_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 03 Nov 2017 01:30:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/strangestories2_1711_librivox/strangestories2_091_pu_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[154 - The She-wolf and the Herd-boys]]></title>
+    <itunes:episode><![CDATA[92]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/strange-stories-from-a-chinese-studio-volume-2-by-songling-pu/]]></link>
+            <enclosure url="https://www.archive.org/download/strangestories2_1711_librivox/strangestories2_092_pu_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 03 Nov 2017 01:31:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/strangestories2_1711_librivox/strangestories2_092_pu_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[155 - Adulteration Punished]]></title>
+    <itunes:episode><![CDATA[93]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/strange-stories-from-a-chinese-studio-volume-2-by-songling-pu/]]></link>
+            <enclosure url="https://www.archive.org/download/strangestories2_1711_librivox/strangestories2_093_pu_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 03 Nov 2017 01:32:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/strangestories2_1711_librivox/strangestories2_093_pu_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[156 - A Chinese Solomon]]></title>
+    <itunes:episode><![CDATA[94]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/strange-stories-from-a-chinese-studio-volume-2-by-songling-pu/]]></link>
+            <enclosure url="https://www.archive.org/download/strangestories2_1711_librivox/strangestories2_094_pu_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 03 Nov 2017 01:33:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/strangestories2_1711_librivox/strangestories2_094_pu_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[157 - The Roc]]></title>
+    <itunes:episode><![CDATA[95]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/strange-stories-from-a-chinese-studio-volume-2-by-songling-pu/]]></link>
+            <enclosure url="https://www.archive.org/download/strangestories2_1711_librivox/strangestories2_095_pu_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 03 Nov 2017 01:34:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/strangestories2_1711_librivox/strangestories2_095_pu_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[158 - The Faithful Gander]]></title>
+    <itunes:episode><![CDATA[96]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/strange-stories-from-a-chinese-studio-volume-2-by-songling-pu/]]></link>
+            <enclosure url="https://www.archive.org/download/strangestories2_1711_librivox/strangestories2_096_pu_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 03 Nov 2017 01:35:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/strangestories2_1711_librivox/strangestories2_096_pu_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[159 - The Elephants and the Lion]]></title>
+    <itunes:episode><![CDATA[97]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/strange-stories-from-a-chinese-studio-volume-2-by-songling-pu/]]></link>
+            <enclosure url="https://www.archive.org/download/strangestories2_1711_librivox/strangestories2_097_pu_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 03 Nov 2017 01:36:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/strangestories2_1711_librivox/strangestories2_097_pu_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[160 - The Hidden Treasure]]></title>
+    <itunes:episode><![CDATA[98]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/strange-stories-from-a-chinese-studio-volume-2-by-songling-pu/]]></link>
+            <enclosure url="https://www.archive.org/download/strangestories2_1711_librivox/strangestories2_098_pu_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 03 Nov 2017 01:37:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/strangestories2_1711_librivox/strangestories2_098_pu_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[161 - The Boatmen of Lao-lung]]></title>
+    <itunes:episode><![CDATA[99]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/strange-stories-from-a-chinese-studio-volume-2-by-songling-pu/]]></link>
+            <enclosure url="https://www.archive.org/download/strangestories2_1711_librivox/strangestories2_099_pu_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 03 Nov 2017 01:38:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/strangestories2_1711_librivox/strangestories2_099_pu_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[162 - The Pious Surgeon]]></title>
+    <itunes:episode><![CDATA[100]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/strange-stories-from-a-chinese-studio-volume-2-by-songling-pu/]]></link>
+            <enclosure url="https://www.archive.org/download/strangestories2_1711_librivox/strangestories2_100_pu_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 03 Nov 2017 01:39:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/strangestories2_1711_librivox/strangestories2_100_pu_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[163 - Another Solomon]]></title>
+    <itunes:episode><![CDATA[101]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/strange-stories-from-a-chinese-studio-volume-2-by-songling-pu/]]></link>
+            <enclosure url="https://www.archive.org/download/strangestories2_1711_librivox/strangestories2_101_pu_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 03 Nov 2017 01:40:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/strangestories2_1711_librivox/strangestories2_101_pu_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[164 - The Incorrupt Official]]></title>
+    <itunes:episode><![CDATA[102]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/strange-stories-from-a-chinese-studio-volume-2-by-songling-pu/]]></link>
+            <enclosure url="https://www.archive.org/download/strangestories2_1711_librivox/strangestories2_102_pu_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 03 Nov 2017 01:41:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/strangestories2_1711_librivox/strangestories2_102_pu_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Appendix A Part I - Taoist Temples]]></title>
+    <itunes:episode><![CDATA[103]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/strange-stories-from-a-chinese-studio-volume-2-by-songling-pu/]]></link>
+            <enclosure url="https://www.archive.org/download/strangestories2_1711_librivox/strangestories2_103_pu_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 03 Nov 2017 01:42:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/strangestories2_1711_librivox/strangestories2_103_pu_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Appendix A Part II - The Ten Courts of Justice]]></title>
+    <itunes:episode><![CDATA[104]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/strange-stories-from-a-chinese-studio-volume-2-by-songling-pu/]]></link>
+            <enclosure url="https://www.archive.org/download/strangestories2_1711_librivox/strangestories2_104_pu_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 03 Nov 2017 01:43:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/strangestories2_1711_librivox/strangestories2_104_pu_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <!-- end file loop -->
+</channel>
+</rss>

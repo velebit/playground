@@ -1,0 +1,49 @@
+<?xml version="1.0" ?><rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+  <title><![CDATA[Fisherman and his Soul, The by Oscar Wilde (1854 - 1900)]]></title>
+  <link><![CDATA[https://librivox.org/the-fisherman-and-his-soul-by-oscar-wilde/]]></link>
+  <atom:link rel="self" href="https://librivox.org/rss/3775" />
+  <description><![CDATA[”The Fisherman and his Soul” is a fairy tale first published in November of 1891 in Wilde’s “A House of Pomegranates”. It tells of a fisherman who nets and falls in love with a mermaid. But to be with her he must shed his soul, which goes off to have adventures of its own. Will forbidden love endure? -- This reader has also recorded the three other tales in “A House of Pomegranates” which can be found in the LibriVox Short Story Collections, volumes 37, 38, and 39. (Summary by Gregg Margarite)]]></description>
+  <!--<genre>project element=Genre</genre>-->
+  <!--<language>project element=lang.code</language>-->
+  <itunes:type>serial</itunes:type>
+  <itunes:author>LibriVox</itunes:author>
+  <itunes:summary><![CDATA[”The Fisherman and his Soul” is a fairy tale first published in November of 1891 in Wilde’s “A House of Pomegranates”. It tells of a fisherman who nets and falls in love with a mermaid. But to be with her he must shed his soul, which goes off to have adventures of its own. Will forbidden love endure? -- This reader has also recorded the three other tales in “A House of Pomegranates” which can be found in the LibriVox Short Story Collections, volumes 37, 38, and 39. (Summary by Gregg Margarite)]]></itunes:summary>
+  <itunes:owner>
+    <itunes:name>LibriVox</itunes:name>
+    <itunes:email>info@librivox.org</itunes:email>
+  </itunes:owner>
+  <itunes:category text="Arts">
+    <itunes:category text="Literature" />
+  </itunes:category>
+  <image><url>https://www.archive.org/download/LibrivoxCdCoverArt9/fisherman_soul_1106.jpg</url></image>
+  <itunes:image href="https://www.archive.org/download/LibrivoxCdCoverArt9/fisherman_soul_1106.jpg"/>
+  <itunes:explicit>no</itunes:explicit>
+  <!-- file loop -->
+    <item>
+    <title><![CDATA[The Fisherman and his Soul (Part 1)]]></title>
+    <itunes:episode><![CDATA[1]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-fisherman-and-his-soul-by-oscar-wilde/]]></link>
+            <enclosure url="https://www.archive.org/download/fisherman_and_soul_gm_librivox/fishermanandhissoul_1_wilde_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:41:13]]></itunes:duration>
+  <pubDate>Sun, 29 Nov 2009 00:00:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/fisherman_and_soul_gm_librivox/fishermanandhissoul_1_wilde_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Fisherman and his Soul (Part 2)]]></title>
+    <itunes:episode><![CDATA[2]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-fisherman-and-his-soul-by-oscar-wilde/]]></link>
+            <enclosure url="https://www.archive.org/download/fisherman_and_soul_gm_librivox/fishermanandhissoul_2_wilde_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:39:07]]></itunes:duration>
+  <pubDate>Sun, 29 Nov 2009 00:01:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/fisherman_and_soul_gm_librivox/fishermanandhissoul_2_wilde_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <!-- end file loop -->
+</channel>
+</rss>

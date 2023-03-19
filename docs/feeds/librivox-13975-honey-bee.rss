@@ -1,0 +1,123 @@
+<?xml version="1.0" ?><rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+  <title><![CDATA[Honey-Bee by Anatole France (1844 - 1924)]]></title>
+  <link><![CDATA[https://librivox.org/honey-bee-by-anatole-france/]]></link>
+  <atom:link rel="self" href="https://librivox.org/rss/13975" />
+  <description><![CDATA[A sweet fairy-tale, Honey-Bee tells the story of two children raised as brother and sister, but who are not. One day they venture out to find the lake where the nixies dwell, though they are forbidden to do so. On this ill-fated journey, young George is kidnapped by the nixies and little Honey-Bee is captured by the dwarves. The tale tells of their seven years in captivity, and has some lessons on morality and love.
+ - Summary by Kate Follis]]></description>
+  <!--<genre>project element=Genre</genre>-->
+  <!--<language>project element=lang.code</language>-->
+  <itunes:type>serial</itunes:type>
+  <itunes:author>LibriVox</itunes:author>
+  <itunes:summary><![CDATA[A sweet fairy-tale, Honey-Bee tells the story of two children raised as brother and sister, but who are not. One day they venture out to find the lake where the nixies dwell, though they are forbidden to do so. On this ill-fated journey, young George is kidnapped by the nixies and little Honey-Bee is captured by the dwarves. The tale tells of their seven years in captivity, and has some lessons on morality and love.
+ - Summary by Kate Follis]]></itunes:summary>
+  <itunes:owner>
+    <itunes:name>LibriVox</itunes:name>
+    <itunes:email>info@librivox.org</itunes:email>
+  </itunes:owner>
+  <itunes:category text="Arts">
+    <itunes:category text="Literature" />
+  </itunes:category>
+  <image><url>https://archive.org/download/honey-bee_kf_1906_librivox/honey_bee_1906.jpg</url></image>
+  <itunes:image href="https://archive.org/download/honey-bee_kf_1906_librivox/honey_bee_1906.jpg"/>
+  <itunes:explicit>no</itunes:explicit>
+  <!-- file loop -->
+    <item>
+    <title><![CDATA[Introduction]]></title>
+    <itunes:episode><![CDATA[0]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/honey-bee-by-anatole-france/]]></link>
+            <enclosure url="https://www.archive.org/download/honey-bee_kf_1906_librivox/honeybee_00_france_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 09 Jun 2019 00:00:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/honey-bee_kf_1906_librivox/honeybee_00_france_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Chapters I-IV]]></title>
+    <itunes:episode><![CDATA[1]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/honey-bee-by-anatole-france/]]></link>
+            <enclosure url="https://www.archive.org/download/honey-bee_kf_1906_librivox/honeybee_01_france_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 09 Jun 2019 00:01:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/honey-bee_kf_1906_librivox/honeybee_01_france_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Chapters V-VII]]></title>
+    <itunes:episode><![CDATA[2]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/honey-bee-by-anatole-france/]]></link>
+            <enclosure url="https://www.archive.org/download/honey-bee_kf_1906_librivox/honeybee_02_france_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 09 Jun 2019 00:02:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/honey-bee_kf_1906_librivox/honeybee_02_france_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Chapters VIII-X]]></title>
+    <itunes:episode><![CDATA[3]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/honey-bee-by-anatole-france/]]></link>
+            <enclosure url="https://www.archive.org/download/honey-bee_kf_1906_librivox/honeybee_03_france_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 09 Jun 2019 00:03:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/honey-bee_kf_1906_librivox/honeybee_03_france_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Chapters XI-XIII]]></title>
+    <itunes:episode><![CDATA[4]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/honey-bee-by-anatole-france/]]></link>
+            <enclosure url="https://www.archive.org/download/honey-bee_kf_1906_librivox/honeybee_04_france_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 09 Jun 2019 00:04:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/honey-bee_kf_1906_librivox/honeybee_04_france_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Chapters XIV-XVI]]></title>
+    <itunes:episode><![CDATA[5]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/honey-bee-by-anatole-france/]]></link>
+            <enclosure url="https://www.archive.org/download/honey-bee_kf_1906_librivox/honeybee_05_france_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 09 Jun 2019 00:05:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/honey-bee_kf_1906_librivox/honeybee_05_france_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Chapters XVII-XIX]]></title>
+    <itunes:episode><![CDATA[6]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/honey-bee-by-anatole-france/]]></link>
+            <enclosure url="https://www.archive.org/download/honey-bee_kf_1906_librivox/honeybee_06_france_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 09 Jun 2019 00:06:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/honey-bee_kf_1906_librivox/honeybee_06_france_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Chapters XX-XXII]]></title>
+    <itunes:episode><![CDATA[7]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/honey-bee-by-anatole-france/]]></link>
+            <enclosure url="https://www.archive.org/download/honey-bee_kf_1906_librivox/honeybee_07_france_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 09 Jun 2019 00:07:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/honey-bee_kf_1906_librivox/honeybee_07_france_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <!-- end file loop -->
+</channel>
+</rss>

@@ -1,0 +1,901 @@
+<?xml version="1.0" ?><rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+  <title><![CDATA[Myths and Legends of the Great Plains by Katharine Berry Judson (1866 - 1929)]]></title>
+  <link><![CDATA[https://librivox.org/myths-and-legends-of-the-great-plains-by-katharine-berry-judson/]]></link>
+  <atom:link rel="self" href="https://librivox.org/rss/10317" />
+  <description><![CDATA[Myths and Legends of the Great Plains is a compendium of myths and legends from the Great Plains region of the US. It includes many short stories, and also quite a few songs and poems. Each tale is tagged with what culture it is from - (Summary by Kyle Van De Glast)]]></description>
+  <!--<genre>project element=Genre</genre>-->
+  <!--<language>project element=lang.code</language>-->
+  <itunes:type>serial</itunes:type>
+  <itunes:author>LibriVox</itunes:author>
+  <itunes:summary><![CDATA[Myths and Legends of the Great Plains is a compendium of myths and legends from the Great Plains region of the US. It includes many short stories, and also quite a few songs and poems. Each tale is tagged with what culture it is from - (Summary by Kyle Van De Glast)]]></itunes:summary>
+  <itunes:owner>
+    <itunes:name>LibriVox</itunes:name>
+    <itunes:email>info@librivox.org</itunes:email>
+  </itunes:owner>
+  <itunes:category text="Arts">
+    <itunes:category text="Literature" />
+  </itunes:category>
+  <image><url>https://archive.org/download/myths_legends_great_plains_1511_librivox/myths_legends_greatplains_1511.jpg</url></image>
+  <itunes:image href="https://archive.org/download/myths_legends_great_plains_1511_librivox/myths_legends_greatplains_1511.jpg"/>
+  <itunes:explicit>no</itunes:explicit>
+  <!-- file loop -->
+    <item>
+    <title><![CDATA[Bianki's Vision / Preface]]></title>
+    <itunes:episode><![CDATA[0]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-of-the-great-plains-by-katharine-berry-judson/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_legends_great_plains_1511_librivox/myths_legends_greatplains_00_judson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 06 Nov 2015 00:00:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_legends_great_plains_1511_librivox/myths_legends_greatplains_00_judson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Creation - Osage]]></title>
+    <itunes:episode><![CDATA[1]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-of-the-great-plains-by-katharine-berry-judson/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_legends_great_plains_1511_librivox/myths_legends_greatplains_01_judson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 06 Nov 2015 00:01:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_legends_great_plains_1511_librivox/myths_legends_greatplains_01_judson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[How the World was Made - Cherokee]]></title>
+    <itunes:episode><![CDATA[2]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-of-the-great-plains-by-katharine-berry-judson/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_legends_great_plains_1511_librivox/myths_legends_greatplains_02_judson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 06 Nov 2015 00:02:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_legends_great_plains_1511_librivox/myths_legends_greatplains_02_judson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Flood and the Rainbow - Lenni-Lenapi (Delaware)]]></title>
+    <itunes:episode><![CDATA[3]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-of-the-great-plains-by-katharine-berry-judson/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_legends_great_plains_1511_librivox/myths_legends_greatplains_03_judson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 06 Nov 2015 00:03:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_legends_great_plains_1511_librivox/myths_legends_greatplains_03_judson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The First Fire - Cherokee]]></title>
+    <itunes:episode><![CDATA[4]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-of-the-great-plains-by-katharine-berry-judson/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_legends_great_plains_1511_librivox/myths_legends_greatplains_04_judson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 06 Nov 2015 00:04:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_legends_great_plains_1511_librivox/myths_legends_greatplains_04_judson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Ancestors of People - Osage]]></title>
+    <itunes:episode><![CDATA[5]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-of-the-great-plains-by-katharine-berry-judson/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_legends_great_plains_1511_librivox/myths_legends_greatplains_05_judson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 06 Nov 2015 00:05:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_legends_great_plains_1511_librivox/myths_legends_greatplains_05_judson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Origin of Strawberries - Cherokee]]></title>
+    <itunes:episode><![CDATA[6]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-of-the-great-plains-by-katharine-berry-judson/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_legends_great_plains_1511_librivox/myths_legends_greatplains_06_judson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 06 Nov 2015 00:06:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_legends_great_plains_1511_librivox/myths_legends_greatplains_06_judson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Sacred Legend - Omaha]]></title>
+    <itunes:episode><![CDATA[7]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-of-the-great-plains-by-katharine-berry-judson/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_legends_great_plains_1511_librivox/myths_legends_greatplains_07_judson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 06 Nov 2015 00:07:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_legends_great_plains_1511_librivox/myths_legends_greatplains_07_judson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Legend of the Peace Pipes - Omaha]]></title>
+    <itunes:episode><![CDATA[8]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-of-the-great-plains-by-katharine-berry-judson/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_legends_great_plains_1511_librivox/myths_legends_greatplains_08_judson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 06 Nov 2015 00:08:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_legends_great_plains_1511_librivox/myths_legends_greatplains_08_judson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[A Tradition of the Calumet - Lenni-Lenapi (Delaware)]]></title>
+    <itunes:episode><![CDATA[9]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-of-the-great-plains-by-katharine-berry-judson/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_legends_great_plains_1511_librivox/myths_legends_greatplains_09_judson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 06 Nov 2015 00:09:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_legends_great_plains_1511_librivox/myths_legends_greatplains_09_judson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Sacred Pole - Omaha]]></title>
+    <itunes:episode><![CDATA[10]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-of-the-great-plains-by-katharine-berry-judson/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_legends_great_plains_1511_librivox/myths_legends_greatplains_10_judson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 06 Nov 2015 00:10:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_legends_great_plains_1511_librivox/myths_legends_greatplains_10_judson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Ikto and the Thunders - Teton]]></title>
+    <itunes:episode><![CDATA[11]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-of-the-great-plains-by-katharine-berry-judson/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_legends_great_plains_1511_librivox/myths_legends_greatplains_11_judson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 06 Nov 2015 00:11:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_legends_great_plains_1511_librivox/myths_legends_greatplains_11_judson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Thunder Bird - Commanche]]></title>
+    <itunes:episode><![CDATA[12]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-of-the-great-plains-by-katharine-berry-judson/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_legends_great_plains_1511_librivox/myths_legends_greatplains_12_judson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 06 Nov 2015 00:12:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_legends_great_plains_1511_librivox/myths_legends_greatplains_12_judson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Thunder Bird - Assiniboin]]></title>
+    <itunes:episode><![CDATA[13]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-of-the-great-plains-by-katharine-berry-judson/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_legends_great_plains_1511_librivox/myths_legends_greatplains_13_judson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 06 Nov 2015 00:13:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_legends_great_plains_1511_librivox/myths_legends_greatplains_13_judson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Song to the Thunder Gods - Omaha]]></title>
+    <itunes:episode><![CDATA[14]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-of-the-great-plains-by-katharine-berry-judson/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_legends_great_plains_1511_librivox/myths_legends_greatplains_14_judson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 06 Nov 2015 00:14:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_legends_great_plains_1511_librivox/myths_legends_greatplains_14_judson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Songs of the Buffalo Hunt - Sioux]]></title>
+    <itunes:episode><![CDATA[15]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-of-the-great-plains-by-katharine-berry-judson/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_legends_great_plains_1511_librivox/myths_legends_greatplains_15_judson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 06 Nov 2015 00:15:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_legends_great_plains_1511_librivox/myths_legends_greatplains_15_judson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Origin of the Buffalo - Teton]]></title>
+    <itunes:episode><![CDATA[16]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-of-the-great-plains-by-katharine-berry-judson/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_legends_great_plains_1511_librivox/myths_legends_greatplains_16_judson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 06 Nov 2015 00:16:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_legends_great_plains_1511_librivox/myths_legends_greatplains_16_judson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Buffalo Being - Teton]]></title>
+    <itunes:episode><![CDATA[17]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-of-the-great-plains-by-katharine-berry-judson/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_legends_great_plains_1511_librivox/myths_legends_greatplains_17_judson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 06 Nov 2015 00:17:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_legends_great_plains_1511_librivox/myths_legends_greatplains_17_judson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Youth and the Underground People - Omaha]]></title>
+    <itunes:episode><![CDATA[18]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-of-the-great-plains-by-katharine-berry-judson/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_legends_great_plains_1511_librivox/myths_legends_greatplains_18_judson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 06 Nov 2015 00:18:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_legends_great_plains_1511_librivox/myths_legends_greatplains_18_judson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Buffalo and the Grizzly Bear - Omaha]]></title>
+    <itunes:episode><![CDATA[19]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-of-the-great-plains-by-katharine-berry-judson/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_legends_great_plains_1511_librivox/myths_legends_greatplains_19_judson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 06 Nov 2015 00:19:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_legends_great_plains_1511_librivox/myths_legends_greatplains_19_judson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[My First Buffalo Hunt - Omaha]]></title>
+    <itunes:episode><![CDATA[20]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-of-the-great-plains-by-katharine-berry-judson/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_legends_great_plains_1511_librivox/myths_legends_greatplains_20_judson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 06 Nov 2015 00:20:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_legends_great_plains_1511_librivox/myths_legends_greatplains_20_judson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Bird Omens - Sioux]]></title>
+    <itunes:episode><![CDATA[21]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-of-the-great-plains-by-katharine-berry-judson/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_legends_great_plains_1511_librivox/myths_legends_greatplains_21_judson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 06 Nov 2015 00:21:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_legends_great_plains_1511_librivox/myths_legends_greatplains_21_judson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Bird Chief - Omaha]]></title>
+    <itunes:episode><![CDATA[22]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-of-the-great-plains-by-katharine-berry-judson/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_legends_great_plains_1511_librivox/myths_legends_greatplains_22_judson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 06 Nov 2015 00:22:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_legends_great_plains_1511_librivox/myths_legends_greatplains_22_judson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Song of the Birds - Pawnee]]></title>
+    <itunes:episode><![CDATA[23]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-of-the-great-plains-by-katharine-berry-judson/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_legends_great_plains_1511_librivox/myths_legends_greatplains_23_judson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 06 Nov 2015 00:23:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_legends_great_plains_1511_librivox/myths_legends_greatplains_23_judson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Song of Kawas, the Eagle - Pawnee]]></title>
+    <itunes:episode><![CDATA[24]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-of-the-great-plains-by-katharine-berry-judson/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_legends_great_plains_1511_librivox/myths_legends_greatplains_24_judson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 06 Nov 2015 00:24:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_legends_great_plains_1511_librivox/myths_legends_greatplains_24_judson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Eagle’s Revenge - Cherokee]]></title>
+    <itunes:episode><![CDATA[25]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-of-the-great-plains-by-katharine-berry-judson/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_legends_great_plains_1511_librivox/myths_legends_greatplains_25_judson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 06 Nov 2015 00:25:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_legends_great_plains_1511_librivox/myths_legends_greatplains_25_judson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Race between Humming Bird and Crane - Cherokee]]></title>
+    <itunes:episode><![CDATA[26]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-of-the-great-plains-by-katharine-berry-judson/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_legends_great_plains_1511_librivox/myths_legends_greatplains_26_judson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 06 Nov 2015 00:26:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_legends_great_plains_1511_librivox/myths_legends_greatplains_26_judson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Rabbit and the Turkeys - Omaha]]></title>
+    <itunes:episode><![CDATA[27]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-of-the-great-plains-by-katharine-berry-judson/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_legends_great_plains_1511_librivox/myths_legends_greatplains_27_judson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 06 Nov 2015 00:27:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_legends_great_plains_1511_librivox/myths_legends_greatplains_27_judson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Unktomi and the Bad Songs - Dakota]]></title>
+    <itunes:episode><![CDATA[28]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-of-the-great-plains-by-katharine-berry-judson/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_legends_great_plains_1511_librivox/myths_legends_greatplains_28_judson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 06 Nov 2015 00:28:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_legends_great_plains_1511_librivox/myths_legends_greatplains_28_judson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[How the Pheasant Beat Corn - Cherokee]]></title>
+    <itunes:episode><![CDATA[29]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-of-the-great-plains-by-katharine-berry-judson/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_legends_great_plains_1511_librivox/myths_legends_greatplains_29_judson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 06 Nov 2015 00:29:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_legends_great_plains_1511_librivox/myths_legends_greatplains_29_judson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Why Turkey Gobbles - Cherokee]]></title>
+    <itunes:episode><![CDATA[30]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-of-the-great-plains-by-katharine-berry-judson/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_legends_great_plains_1511_librivox/myths_legends_greatplains_30_judson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 06 Nov 2015 00:30:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_legends_great_plains_1511_librivox/myths_legends_greatplains_30_judson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Omaha Beliefs - Omaha]]></title>
+    <itunes:episode><![CDATA[31]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-of-the-great-plains-by-katharine-berry-judson/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_legends_great_plains_1511_librivox/myths_legends_greatplains_31_judson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 06 Nov 2015 00:31:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_legends_great_plains_1511_librivox/myths_legends_greatplains_31_judson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Pawnee Beliefs - Pawnee]]></title>
+    <itunes:episode><![CDATA[32]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-of-the-great-plains-by-katharine-berry-judson/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_legends_great_plains_1511_librivox/myths_legends_greatplains_32_judson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 06 Nov 2015 00:32:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_legends_great_plains_1511_librivox/myths_legends_greatplains_32_judson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[A Song of Hospitality - Sioux]]></title>
+    <itunes:episode><![CDATA[33]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-of-the-great-plains-by-katharine-berry-judson/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_legends_great_plains_1511_librivox/myths_legends_greatplains_33_judson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 06 Nov 2015 00:33:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_legends_great_plains_1511_librivox/myths_legends_greatplains_33_judson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[A Song of the March - Sioux]]></title>
+    <itunes:episode><![CDATA[34]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-of-the-great-plains-by-katharine-berry-judson/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_legends_great_plains_1511_librivox/myths_legends_greatplains_34_judson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 06 Nov 2015 00:34:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_legends_great_plains_1511_librivox/myths_legends_greatplains_34_judson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Song of the Prairie Breeze - Kiowa]]></title>
+    <itunes:episode><![CDATA[35]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-of-the-great-plains-by-katharine-berry-judson/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_legends_great_plains_1511_librivox/myths_legends_greatplains_35_judson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 06 Nov 2015 00:35:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_legends_great_plains_1511_librivox/myths_legends_greatplains_35_judson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Old-Woman-Who-Never-Dies - Mandan]]></title>
+    <itunes:episode><![CDATA[36]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-of-the-great-plains-by-katharine-berry-judson/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_legends_great_plains_1511_librivox/myths_legends_greatplains_36_judson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 06 Nov 2015 00:36:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_legends_great_plains_1511_librivox/myths_legends_greatplains_36_judson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Legend of the Corn - Arikara]]></title>
+    <itunes:episode><![CDATA[37]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-of-the-great-plains-by-katharine-berry-judson/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_legends_great_plains_1511_librivox/myths_legends_greatplains_37_judson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 06 Nov 2015 00:37:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_legends_great_plains_1511_librivox/myths_legends_greatplains_37_judson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Tradition of the Finding of Horses - Ponca]]></title>
+    <itunes:episode><![CDATA[38]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-of-the-great-plains-by-katharine-berry-judson/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_legends_great_plains_1511_librivox/myths_legends_greatplains_38_judson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 06 Nov 2015 00:38:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_legends_great_plains_1511_librivox/myths_legends_greatplains_38_judson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Dakota Beliefs and Customs - Dakota]]></title>
+    <itunes:episode><![CDATA[39]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-of-the-great-plains-by-katharine-berry-judson/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_legends_great_plains_1511_librivox/myths_legends_greatplains_39_judson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 06 Nov 2015 00:39:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_legends_great_plains_1511_librivox/myths_legends_greatplains_39_judson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Why the Tetons Bury on Scaffolds - Teton]]></title>
+    <itunes:episode><![CDATA[40]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-of-the-great-plains-by-katharine-berry-judson/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_legends_great_plains_1511_librivox/myths_legends_greatplains_40_judson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 06 Nov 2015 00:40:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_legends_great_plains_1511_librivox/myths_legends_greatplains_40_judson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Ghost’s Resentment - Dakota]]></title>
+    <itunes:episode><![CDATA[41]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-of-the-great-plains-by-katharine-berry-judson/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_legends_great_plains_1511_librivox/myths_legends_greatplains_41_judson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 06 Nov 2015 00:41:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_legends_great_plains_1511_librivox/myths_legends_greatplains_41_judson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Forked Roads - Omaha]]></title>
+    <itunes:episode><![CDATA[42]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-of-the-great-plains-by-katharine-berry-judson/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_legends_great_plains_1511_librivox/myths_legends_greatplains_42_judson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 06 Nov 2015 00:42:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_legends_great_plains_1511_librivox/myths_legends_greatplains_42_judson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Tattooed Ghosts - Dakota]]></title>
+    <itunes:episode><![CDATA[43]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-of-the-great-plains-by-katharine-berry-judson/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_legends_great_plains_1511_librivox/myths_legends_greatplains_43_judson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 06 Nov 2015 00:43:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_legends_great_plains_1511_librivox/myths_legends_greatplains_43_judson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[A Ghost Story - Ponca]]></title>
+    <itunes:episode><![CDATA[44]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-of-the-great-plains-by-katharine-berry-judson/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_legends_great_plains_1511_librivox/myths_legends_greatplains_44_judson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 06 Nov 2015 00:44:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_legends_great_plains_1511_librivox/myths_legends_greatplains_44_judson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Ghost and the Traveler - Teton]]></title>
+    <itunes:episode><![CDATA[45]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-of-the-great-plains-by-katharine-berry-judson/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_legends_great_plains_1511_librivox/myths_legends_greatplains_45_judson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 06 Nov 2015 00:45:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_legends_great_plains_1511_librivox/myths_legends_greatplains_45_judson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Man who Shot a Ghost - Teton]]></title>
+    <itunes:episode><![CDATA[46]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-of-the-great-plains-by-katharine-berry-judson/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_legends_great_plains_1511_librivox/myths_legends_greatplains_46_judson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 06 Nov 2015 00:46:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_legends_great_plains_1511_librivox/myths_legends_greatplains_46_judson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Indian Who Wrestled with a Ghost - Teton]]></title>
+    <itunes:episode><![CDATA[47]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-of-the-great-plains-by-katharine-berry-judson/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_legends_great_plains_1511_librivox/myths_legends_greatplains_47_judson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 06 Nov 2015 00:47:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_legends_great_plains_1511_librivox/myths_legends_greatplains_47_judson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Wakanda, or Water God - Yankton]]></title>
+    <itunes:episode><![CDATA[48]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-of-the-great-plains-by-katharine-berry-judson/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_legends_great_plains_1511_librivox/myths_legends_greatplains_48_judson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 06 Nov 2015 00:48:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_legends_great_plains_1511_librivox/myths_legends_greatplains_48_judson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Spirit Land - Arapahoe]]></title>
+    <itunes:episode><![CDATA[49]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-of-the-great-plains-by-katharine-berry-judson/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_legends_great_plains_1511_librivox/myths_legends_greatplains_49_judson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 06 Nov 2015 00:49:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_legends_great_plains_1511_librivox/myths_legends_greatplains_49_judson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Waziya, the Weather Spirit - Teton]]></title>
+    <itunes:episode><![CDATA[50]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-of-the-great-plains-by-katharine-berry-judson/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_legends_great_plains_1511_librivox/myths_legends_greatplains_50_judson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 06 Nov 2015 00:50:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_legends_great_plains_1511_librivox/myths_legends_greatplains_50_judson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Kansas Blizzards - Kansa]]></title>
+    <itunes:episode><![CDATA[51]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-of-the-great-plains-by-katharine-berry-judson/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_legends_great_plains_1511_librivox/myths_legends_greatplains_51_judson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 06 Nov 2015 00:51:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_legends_great_plains_1511_librivox/myths_legends_greatplains_51_judson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Ikto and the Snowstorm - Teton]]></title>
+    <itunes:episode><![CDATA[52]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-of-the-great-plains-by-katharine-berry-judson/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_legends_great_plains_1511_librivox/myths_legends_greatplains_52_judson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 06 Nov 2015 00:52:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_legends_great_plains_1511_librivox/myths_legends_greatplains_52_judson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Southern Bride - Cherokee]]></title>
+    <itunes:episode><![CDATA[53]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-of-the-great-plains-by-katharine-berry-judson/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_legends_great_plains_1511_librivox/myths_legends_greatplains_53_judson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 06 Nov 2015 00:53:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_legends_great_plains_1511_librivox/myths_legends_greatplains_53_judson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Fallen Star - Dakota]]></title>
+    <itunes:episode><![CDATA[54]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-of-the-great-plains-by-katharine-berry-judson/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_legends_great_plains_1511_librivox/myths_legends_greatplains_54_judson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 06 Nov 2015 00:54:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_legends_great_plains_1511_librivox/myths_legends_greatplains_54_judson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Quarrel of Sun and Moon - Omaha]]></title>
+    <itunes:episode><![CDATA[55]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-of-the-great-plains-by-katharine-berry-judson/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_legends_great_plains_1511_librivox/myths_legends_greatplains_55_judson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 06 Nov 2015 00:55:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_legends_great_plains_1511_librivox/myths_legends_greatplains_55_judson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Why the Possum Plays Dead - Cherokee]]></title>
+    <itunes:episode><![CDATA[56]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-of-the-great-plains-by-katharine-berry-judson/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_legends_great_plains_1511_librivox/myths_legends_greatplains_56_judson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 06 Nov 2015 00:56:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_legends_great_plains_1511_librivox/myths_legends_greatplains_56_judson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Bog Myth - Dakota]]></title>
+    <itunes:episode><![CDATA[57]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-of-the-great-plains-by-katharine-berry-judson/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_legends_great_plains_1511_librivox/myths_legends_greatplains_57_judson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 06 Nov 2015 00:57:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_legends_great_plains_1511_librivox/myths_legends_greatplains_57_judson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Coyote and Snake - Omaha]]></title>
+    <itunes:episode><![CDATA[58]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-of-the-great-plains-by-katharine-berry-judson/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_legends_great_plains_1511_librivox/myths_legends_greatplains_58_judson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 06 Nov 2015 00:58:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_legends_great_plains_1511_librivox/myths_legends_greatplains_58_judson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Why the Wolves Help in War - Dakota]]></title>
+    <itunes:episode><![CDATA[59]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-of-the-great-plains-by-katharine-berry-judson/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_legends_great_plains_1511_librivox/myths_legends_greatplains_59_judson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 06 Nov 2015 00:59:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_legends_great_plains_1511_librivox/myths_legends_greatplains_59_judson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[How Rabbit Escaped from the Wolves - Cherokee]]></title>
+    <itunes:episode><![CDATA[60]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-of-the-great-plains-by-katharine-berry-judson/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_legends_great_plains_1511_librivox/myths_legends_greatplains_60_judson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 06 Nov 2015 01:00:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_legends_great_plains_1511_librivox/myths_legends_greatplains_60_judson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[How Rabbit Lost His Fat - Omaha]]></title>
+    <itunes:episode><![CDATA[61]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-of-the-great-plains-by-katharine-berry-judson/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_legends_great_plains_1511_librivox/myths_legends_greatplains_61_judson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 06 Nov 2015 01:01:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_legends_great_plains_1511_librivox/myths_legends_greatplains_61_judson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[How Flint Visited Rabbit - Cherokee]]></title>
+    <itunes:episode><![CDATA[62]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-of-the-great-plains-by-katharine-berry-judson/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_legends_great_plains_1511_librivox/myths_legends_greatplains_62_judson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 06 Nov 2015 01:02:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_legends_great_plains_1511_librivox/myths_legends_greatplains_62_judson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[How Rabbit Caught the Sun in a Trap - Omaha]]></title>
+    <itunes:episode><![CDATA[63]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-of-the-great-plains-by-katharine-berry-judson/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_legends_great_plains_1511_librivox/myths_legends_greatplains_63_judson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 06 Nov 2015 01:03:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_legends_great_plains_1511_librivox/myths_legends_greatplains_63_judson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[How Rabbit Killed the Giant - Omaha]]></title>
+    <itunes:episode><![CDATA[64]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-of-the-great-plains-by-katharine-berry-judson/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_legends_great_plains_1511_librivox/myths_legends_greatplains_64_judson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 06 Nov 2015 01:04:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_legends_great_plains_1511_librivox/myths_legends_greatplains_64_judson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[How Deer Got His Horns - Cherokee]]></title>
+    <itunes:episode><![CDATA[65]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-of-the-great-plains-by-katharine-berry-judson/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_legends_great_plains_1511_librivox/myths_legends_greatplains_65_judson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 06 Nov 2015 01:05:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_legends_great_plains_1511_librivox/myths_legends_greatplains_65_judson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Why the Deer has Blunt Teeth - Cherokee]]></title>
+    <itunes:episode><![CDATA[66]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-of-the-great-plains-by-katharine-berry-judson/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_legends_great_plains_1511_librivox/myths_legends_greatplains_66_judson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 06 Nov 2015 01:06:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_legends_great_plains_1511_librivox/myths_legends_greatplains_66_judson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Legend of the Head of Gold - Dakota]]></title>
+    <itunes:episode><![CDATA[67]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-of-the-great-plains-by-katharine-berry-judson/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_legends_great_plains_1511_librivox/myths_legends_greatplains_67_judson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 06 Nov 2015 01:07:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_legends_great_plains_1511_librivox/myths_legends_greatplains_67_judson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Milky Way - Cherokee]]></title>
+    <itunes:episode><![CDATA[68]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-of-the-great-plains-by-katharine-berry-judson/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_legends_great_plains_1511_librivox/myths_legends_greatplains_68_judson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 06 Nov 2015 01:08:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_legends_great_plains_1511_librivox/myths_legends_greatplains_68_judson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Coyote and Gray Fox - Ponca]]></title>
+    <itunes:episode><![CDATA[69]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-of-the-great-plains-by-katharine-berry-judson/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_legends_great_plains_1511_librivox/myths_legends_greatplains_69_judson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 06 Nov 2015 01:09:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_legends_great_plains_1511_librivox/myths_legends_greatplains_69_judson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Ictinike and Turtle - Omaha]]></title>
+    <itunes:episode><![CDATA[70]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-of-the-great-plains-by-katharine-berry-judson/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_legends_great_plains_1511_librivox/myths_legends_greatplains_70_judson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 06 Nov 2015 01:10:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_legends_great_plains_1511_librivox/myths_legends_greatplains_70_judson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Ictinike and the Creators - Omaha]]></title>
+    <itunes:episode><![CDATA[71]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-of-the-great-plains-by-katharine-berry-judson/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_legends_great_plains_1511_librivox/myths_legends_greatplains_71_judson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 06 Nov 2015 01:11:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_legends_great_plains_1511_librivox/myths_legends_greatplains_71_judson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[How Big Turtle Went on the War Path - Omaha]]></title>
+    <itunes:episode><![CDATA[72]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-of-the-great-plains-by-katharine-berry-judson/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_legends_great_plains_1511_librivox/myths_legends_greatplains_72_judson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 06 Nov 2015 01:12:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_legends_great_plains_1511_librivox/myths_legends_greatplains_72_judson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <!-- end file loop -->
+</channel>
+</rss>

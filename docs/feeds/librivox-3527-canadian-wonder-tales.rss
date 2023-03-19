@@ -1,0 +1,421 @@
+<?xml version="1.0" ?><rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+  <title><![CDATA[Canadian Wonder Tales by Cyrus Macmillan (1882 - 1953)]]></title>
+  <link><![CDATA[https://librivox.org/canadian-wonder-tales-by-cyrusmacmillan/]]></link>
+  <atom:link rel="self" href="https://librivox.org/rss/3527" />
+  <description><![CDATA[This is a collection of folk tales originating in Canada, some from aboriginal oral tradition and others due to early French, Scottish, Irish and British colonists. They are presented as "fables" though many are without obvious moral. (Summary by Sean Michael Hogan)]]></description>
+  <!--<genre>project element=Genre</genre>-->
+  <!--<language>project element=lang.code</language>-->
+  <itunes:type>serial</itunes:type>
+  <itunes:author>LibriVox</itunes:author>
+  <itunes:summary><![CDATA[This is a collection of folk tales originating in Canada, some from aboriginal oral tradition and others due to early French, Scottish, Irish and British colonists. They are presented as "fables" though many are without obvious moral. (Summary by Sean Michael Hogan)]]></itunes:summary>
+  <itunes:owner>
+    <itunes:name>LibriVox</itunes:name>
+    <itunes:email>info@librivox.org</itunes:email>
+  </itunes:owner>
+  <itunes:category text="Arts">
+    <itunes:category text="Literature" />
+  </itunes:category>
+  <image><url>https://archive.org/download/LibrivoxCdCoverArt20/Canadian_Wonder_Tales_1207.jpg</url></image>
+  <itunes:image href="https://archive.org/download/LibrivoxCdCoverArt20/Canadian_Wonder_Tales_1207.jpg"/>
+  <itunes:explicit>no</itunes:explicit>
+  <!-- file loop -->
+    <item>
+    <title><![CDATA[01 - Foreword and Preface ]]></title>
+    <itunes:episode><![CDATA[1]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/canadian-wonder-tales-by-cyrusmacmillan/]]></link>
+            <enclosure url="https://www.archive.org/download/canadian_wonder_tales_0911_librivox/canadianwondertales_01_macmillan_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:06:08]]></itunes:duration>
+  <pubDate>Mon, 30 Nov 2009 00:00:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/canadian_wonder_tales_0911_librivox/canadianwondertales_01_macmillan_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[02 - The Baker's Magic Wand ]]></title>
+    <itunes:episode><![CDATA[2]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/canadian-wonder-tales-by-cyrusmacmillan/]]></link>
+            <enclosure url="https://www.archive.org/download/canadian_wonder_tales_0911_librivox/canadianwondertales_02_macmillan_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:10:57]]></itunes:duration>
+  <pubDate>Mon, 30 Nov 2009 00:01:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/canadian_wonder_tales_0911_librivox/canadianwondertales_02_macmillan_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[03 - Star-Boy and the Sun Dance ]]></title>
+    <itunes:episode><![CDATA[3]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/canadian-wonder-tales-by-cyrusmacmillan/]]></link>
+            <enclosure url="https://www.archive.org/download/canadian_wonder_tales_0911_librivox/canadianwondertales_03_macmillan_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:10:59]]></itunes:duration>
+  <pubDate>Mon, 30 Nov 2009 00:02:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/canadian_wonder_tales_0911_librivox/canadianwondertales_03_macmillan_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[04 - Jack and His Magic Aids ]]></title>
+    <itunes:episode><![CDATA[4]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/canadian-wonder-tales-by-cyrusmacmillan/]]></link>
+            <enclosure url="https://www.archive.org/download/canadian_wonder_tales_0911_librivox/canadianwondertales_04_macmillan_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:10:49]]></itunes:duration>
+  <pubDate>Mon, 30 Nov 2009 00:03:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/canadian_wonder_tales_0911_librivox/canadianwondertales_04_macmillan_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[05 - The Bad Indian's Ashes ]]></title>
+    <itunes:episode><![CDATA[5]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/canadian-wonder-tales-by-cyrusmacmillan/]]></link>
+            <enclosure url="https://www.archive.org/download/canadian_wonder_tales_0911_librivox/canadianwondertales_05_macmillan_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:05:10]]></itunes:duration>
+  <pubDate>Mon, 30 Nov 2009 00:04:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/canadian_wonder_tales_0911_librivox/canadianwondertales_05_macmillan_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[06 - The Mermaid of the Magdalenes ]]></title>
+    <itunes:episode><![CDATA[6]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/canadian-wonder-tales-by-cyrusmacmillan/]]></link>
+            <enclosure url="https://www.archive.org/download/canadian_wonder_tales_0911_librivox/canadianwondertales_06_macmillan_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:07:40]]></itunes:duration>
+  <pubDate>Mon, 30 Nov 2009 00:05:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/canadian_wonder_tales_0911_librivox/canadianwondertales_06_macmillan_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[07 - The Boy and the Dancing Fairy ]]></title>
+    <itunes:episode><![CDATA[7]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/canadian-wonder-tales-by-cyrusmacmillan/]]></link>
+            <enclosure url="https://www.archive.org/download/canadian_wonder_tales_0911_librivox/canadianwondertales_07_macmillan_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:11:45]]></itunes:duration>
+  <pubDate>Mon, 30 Nov 2009 00:06:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/canadian_wonder_tales_0911_librivox/canadianwondertales_07_macmillan_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[08 - The Mouse and the Sun ]]></title>
+    <itunes:episode><![CDATA[8]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/canadian-wonder-tales-by-cyrusmacmillan/]]></link>
+            <enclosure url="https://www.archive.org/download/canadian_wonder_tales_0911_librivox/canadianwondertales_08_macmillan_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:08:17]]></itunes:duration>
+  <pubDate>Mon, 30 Nov 2009 00:07:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/canadian_wonder_tales_0911_librivox/canadianwondertales_08_macmillan_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[09 - Glooskap's Country ]]></title>
+    <itunes:episode><![CDATA[9]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/canadian-wonder-tales-by-cyrusmacmillan/]]></link>
+            <enclosure url="https://www.archive.org/download/canadian_wonder_tales_0911_librivox/canadianwondertales_09_macmillan_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:11:52]]></itunes:duration>
+  <pubDate>Mon, 30 Nov 2009 00:08:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/canadian_wonder_tales_0911_librivox/canadianwondertales_09_macmillan_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[10 - How Rabbit Lost His Tail ]]></title>
+    <itunes:episode><![CDATA[10]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/canadian-wonder-tales-by-cyrusmacmillan/]]></link>
+            <enclosure url="https://www.archive.org/download/canadian_wonder_tales_0911_librivox/canadianwondertales_10_macmillan_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:08:41]]></itunes:duration>
+  <pubDate>Mon, 30 Nov 2009 00:09:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/canadian_wonder_tales_0911_librivox/canadianwondertales_10_macmillan_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[11 - The Partridge and His Drum ]]></title>
+    <itunes:episode><![CDATA[11]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/canadian-wonder-tales-by-cyrusmacmillan/]]></link>
+            <enclosure url="https://www.archive.org/download/canadian_wonder_tales_0911_librivox/canadianwondertales_11_macmillan_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:11:50]]></itunes:duration>
+  <pubDate>Mon, 30 Nov 2009 00:10:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/canadian_wonder_tales_0911_librivox/canadianwondertales_11_macmillan_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[12 - How Summer Came to Canada ]]></title>
+    <itunes:episode><![CDATA[12]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/canadian-wonder-tales-by-cyrusmacmillan/]]></link>
+            <enclosure url="https://www.archive.org/download/canadian_wonder_tales_0911_librivox/canadianwondertales_12_macmillan_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:11:08]]></itunes:duration>
+  <pubDate>Mon, 30 Nov 2009 00:11:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/canadian_wonder_tales_0911_librivox/canadianwondertales_12_macmillan_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[13 - How Turtle Came ]]></title>
+    <itunes:episode><![CDATA[13]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/canadian-wonder-tales-by-cyrusmacmillan/]]></link>
+            <enclosure url="https://www.archive.org/download/canadian_wonder_tales_0911_librivox/canadianwondertales_13_macmillan_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:08:42]]></itunes:duration>
+  <pubDate>Mon, 30 Nov 2009 00:12:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/canadian_wonder_tales_0911_librivox/canadianwondertales_13_macmillan_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[14 - The First Mosquito ]]></title>
+    <itunes:episode><![CDATA[14]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/canadian-wonder-tales-by-cyrusmacmillan/]]></link>
+            <enclosure url="https://www.archive.org/download/canadian_wonder_tales_0911_librivox/canadianwondertales_14_macmillan_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:10:16]]></itunes:duration>
+  <pubDate>Mon, 30 Nov 2009 00:13:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/canadian_wonder_tales_0911_librivox/canadianwondertales_14_macmillan_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[15 - The Moon and His Frog-Wife ]]></title>
+    <itunes:episode><![CDATA[15]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/canadian-wonder-tales-by-cyrusmacmillan/]]></link>
+            <enclosure url="https://www.archive.org/download/canadian_wonder_tales_0911_librivox/canadianwondertales_15_macmillan_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:06:07]]></itunes:duration>
+  <pubDate>Mon, 30 Nov 2009 00:14:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/canadian_wonder_tales_0911_librivox/canadianwondertales_15_macmillan_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[16 - Glooskap and the Fairy ]]></title>
+    <itunes:episode><![CDATA[16]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/canadian-wonder-tales-by-cyrusmacmillan/]]></link>
+            <enclosure url="https://www.archive.org/download/canadian_wonder_tales_0911_librivox/canadianwondertales_16_macmillan_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:03:07]]></itunes:duration>
+  <pubDate>Mon, 30 Nov 2009 00:15:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/canadian_wonder_tales_0911_librivox/canadianwondertales_16_macmillan_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[17 - The Passing of Glooskap ]]></title>
+    <itunes:episode><![CDATA[17]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/canadian-wonder-tales-by-cyrusmacmillan/]]></link>
+            <enclosure url="https://www.archive.org/download/canadian_wonder_tales_0911_librivox/canadianwondertales_17_macmillan_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:16:50]]></itunes:duration>
+  <pubDate>Mon, 30 Nov 2009 00:16:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/canadian_wonder_tales_0911_librivox/canadianwondertales_17_macmillan_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[18 - The Indian Cinderella ]]></title>
+    <itunes:episode><![CDATA[18]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/canadian-wonder-tales-by-cyrusmacmillan/]]></link>
+            <enclosure url="https://www.archive.org/download/canadian_wonder_tales_0911_librivox/canadianwondertales_18_macmillan_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:05:35]]></itunes:duration>
+  <pubDate>Mon, 30 Nov 2009 00:17:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/canadian_wonder_tales_0911_librivox/canadianwondertales_18_macmillan_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[19 - The Boy and His Three Helpers ]]></title>
+    <itunes:episode><![CDATA[19]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/canadian-wonder-tales-by-cyrusmacmillan/]]></link>
+            <enclosure url="https://www.archive.org/download/canadian_wonder_tales_0911_librivox/canadianwondertales_19_macmillan_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:05:44]]></itunes:duration>
+  <pubDate>Mon, 30 Nov 2009 00:18:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/canadian_wonder_tales_0911_librivox/canadianwondertales_19_macmillan_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[20 - The Duck with the Red Feet ]]></title>
+    <itunes:episode><![CDATA[20]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/canadian-wonder-tales-by-cyrusmacmillan/]]></link>
+            <enclosure url="https://www.archive.org/download/canadian_wonder_tales_0911_librivox/canadianwondertales_20_macmillan_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:05:31]]></itunes:duration>
+  <pubDate>Mon, 30 Nov 2009 00:19:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/canadian_wonder_tales_0911_librivox/canadianwondertales_20_macmillan_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[21 - The Northern Lights]]></title>
+    <itunes:episode><![CDATA[21]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/canadian-wonder-tales-by-cyrusmacmillan/]]></link>
+            <enclosure url="https://www.archive.org/download/canadian_wonder_tales_0911_librivox/canadianwondertales_21_macmillan_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:11:57]]></itunes:duration>
+  <pubDate>Mon, 30 Nov 2009 00:20:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/canadian_wonder_tales_0911_librivox/canadianwondertales_21_macmillan_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[22 - The Boy and the Robbers' Magical Booty]]></title>
+    <itunes:episode><![CDATA[22]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/canadian-wonder-tales-by-cyrusmacmillan/]]></link>
+            <enclosure url="https://www.archive.org/download/canadian_wonder_tales_0911_librivox/canadianwondertales_22_macmillan_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:11:27]]></itunes:duration>
+  <pubDate>Mon, 30 Nov 2009 00:21:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/canadian_wonder_tales_0911_librivox/canadianwondertales_22_macmillan_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[23 - The Coming of the Corn ]]></title>
+    <itunes:episode><![CDATA[23]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/canadian-wonder-tales-by-cyrusmacmillan/]]></link>
+            <enclosure url="https://www.archive.org/download/canadian_wonder_tales_0911_librivox/canadianwondertales_23_macmillan_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:04:50]]></itunes:duration>
+  <pubDate>Mon, 30 Nov 2009 00:22:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/canadian_wonder_tales_0911_librivox/canadianwondertales_23_macmillan_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[24 - The Dance of Death ]]></title>
+    <itunes:episode><![CDATA[24]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/canadian-wonder-tales-by-cyrusmacmillan/]]></link>
+            <enclosure url="https://www.archive.org/download/canadian_wonder_tales_0911_librivox/canadianwondertales_24_macmillan_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:05:44]]></itunes:duration>
+  <pubDate>Mon, 30 Nov 2009 00:23:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/canadian_wonder_tales_0911_librivox/canadianwondertales_24_macmillan_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[25 - The First Pig and Porcupine ]]></title>
+    <itunes:episode><![CDATA[25]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/canadian-wonder-tales-by-cyrusmacmillan/]]></link>
+            <enclosure url="https://www.archive.org/download/canadian_wonder_tales_0911_librivox/canadianwondertales_25_macmillan_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:09:44]]></itunes:duration>
+  <pubDate>Mon, 30 Nov 2009 00:24:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/canadian_wonder_tales_0911_librivox/canadianwondertales_25_macmillan_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[26 - The Shrove Tuesday Visitor ]]></title>
+    <itunes:episode><![CDATA[26]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/canadian-wonder-tales-by-cyrusmacmillan/]]></link>
+            <enclosure url="https://www.archive.org/download/canadian_wonder_tales_0911_librivox/canadianwondertales_26_macmillan_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:07:41]]></itunes:duration>
+  <pubDate>Mon, 30 Nov 2009 00:25:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/canadian_wonder_tales_0911_librivox/canadianwondertales_26_macmillan_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[27 - The Boy of Great Strength and the Giants ]]></title>
+    <itunes:episode><![CDATA[27]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/canadian-wonder-tales-by-cyrusmacmillan/]]></link>
+            <enclosure url="https://www.archive.org/download/canadian_wonder_tales_0911_librivox/canadianwondertales_27_macmillan_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:04:49]]></itunes:duration>
+  <pubDate>Mon, 30 Nov 2009 00:26:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/canadian_wonder_tales_0911_librivox/canadianwondertales_27_macmillan_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[28 - The Strange Tale of Caribou and Moose ]]></title>
+    <itunes:episode><![CDATA[28]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/canadian-wonder-tales-by-cyrusmacmillan/]]></link>
+            <enclosure url="https://www.archive.org/download/canadian_wonder_tales_0911_librivox/canadianwondertales_28_macmillan_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:08:52]]></itunes:duration>
+  <pubDate>Mon, 30 Nov 2009 00:27:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/canadian_wonder_tales_0911_librivox/canadianwondertales_28_macmillan_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[29 - Jack and His Wonderful Hen ]]></title>
+    <itunes:episode><![CDATA[29]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/canadian-wonder-tales-by-cyrusmacmillan/]]></link>
+            <enclosure url="https://www.archive.org/download/canadian_wonder_tales_0911_librivox/canadianwondertales_29_macmillan_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:07:02]]></itunes:duration>
+  <pubDate>Mon, 30 Nov 2009 00:28:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/canadian_wonder_tales_0911_librivox/canadianwondertales_29_macmillan_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[30 - The Sad Tale of Woodpecker and Bluejay ]]></title>
+    <itunes:episode><![CDATA[30]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/canadian-wonder-tales-by-cyrusmacmillan/]]></link>
+            <enclosure url="https://www.archive.org/download/canadian_wonder_tales_0911_librivox/canadianwondertales_30_macmillan_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:05:06]]></itunes:duration>
+  <pubDate>Mon, 30 Nov 2009 00:29:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/canadian_wonder_tales_0911_librivox/canadianwondertales_30_macmillan_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[31 - The Stupid Boy and the Wand ]]></title>
+    <itunes:episode><![CDATA[31]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/canadian-wonder-tales-by-cyrusmacmillan/]]></link>
+            <enclosure url="https://www.archive.org/download/canadian_wonder_tales_0911_librivox/canadianwondertales_31_macmillan_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:06:22]]></itunes:duration>
+  <pubDate>Mon, 30 Nov 2009 00:30:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/canadian_wonder_tales_0911_librivox/canadianwondertales_31_macmillan_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[32 - The Blackfoot and the Bear ]]></title>
+    <itunes:episode><![CDATA[32]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/canadian-wonder-tales-by-cyrusmacmillan/]]></link>
+            <enclosure url="https://www.archive.org/download/canadian_wonder_tales_0911_librivox/canadianwondertales_32_macmillan_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:06:56]]></itunes:duration>
+  <pubDate>Mon, 30 Nov 2009 00:31:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/canadian_wonder_tales_0911_librivox/canadianwondertales_32_macmillan_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[33 - The Boys and the Giant]]></title>
+    <itunes:episode><![CDATA[33]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/canadian-wonder-tales-by-cyrusmacmillan/]]></link>
+            <enclosure url="https://www.archive.org/download/canadian_wonder_tales_0911_librivox/canadianwondertales_33_macmillan_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:02:40]]></itunes:duration>
+  <pubDate>Mon, 30 Nov 2009 00:32:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/canadian_wonder_tales_0911_librivox/canadianwondertales_33_macmillan_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <!-- end file loop -->
+</channel>
+</rss>

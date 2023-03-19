@@ -1,0 +1,169 @@
+<?xml version="1.0" ?><rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+  <title><![CDATA[Sea Lady, The by H. G. Wells (1866 - 1946)]]></title>
+  <link><![CDATA[https://librivox.org/the-sea-lady-by-h-g-wells/]]></link>
+  <atom:link rel="self" href="https://librivox.org/rss/8067" />
+  <description><![CDATA[The Sea Lady is a novel written by H. G. Wells. It was serialized from July to December 1901 in Pearson's Magazine before being published by D. Appleton and Co. in 1902. The story involves a mermaid who comes ashore in Edwardian England. Based on past knowledge gleaned from literature cast into the sea, and with the help of newly made human friends, she attempts to become part of well mannered society. (Summary by Wikipedia)]]></description>
+  <!--<genre>project element=Genre</genre>-->
+  <!--<language>project element=lang.code</language>-->
+  <itunes:type>serial</itunes:type>
+  <itunes:author>LibriVox</itunes:author>
+  <itunes:summary><![CDATA[The Sea Lady is a novel written by H. G. Wells. It was serialized from July to December 1901 in Pearson's Magazine before being published by D. Appleton and Co. in 1902. The story involves a mermaid who comes ashore in Edwardian England. Based on past knowledge gleaned from literature cast into the sea, and with the help of newly made human friends, she attempts to become part of well mannered society. (Summary by Wikipedia)]]></itunes:summary>
+  <itunes:owner>
+    <itunes:name>LibriVox</itunes:name>
+    <itunes:email>info@librivox.org</itunes:email>
+  </itunes:owner>
+  <itunes:category text="Arts">
+    <itunes:category text="Literature" />
+  </itunes:category>
+  <image><url>https://archive.org/download/sea_lady_1412_librivox/sea_lady_1412.jpg</url></image>
+  <itunes:image href="https://archive.org/download/sea_lady_1412_librivox/sea_lady_1412.jpg"/>
+  <itunes:explicit>no</itunes:explicit>
+  <!-- file loop -->
+    <item>
+    <title><![CDATA[The Coming of the Sea Lady]]></title>
+    <itunes:episode><![CDATA[1]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-sea-lady-by-h-g-wells/]]></link>
+            <enclosure url="https://www.archive.org/download/sea_lady_1412_librivox/sealady_01_wells_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 14 Dec 2014 00:00:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/sea_lady_1412_librivox/sealady_01_wells_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Some First Impressions]]></title>
+    <itunes:episode><![CDATA[2]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-sea-lady-by-h-g-wells/]]></link>
+            <enclosure url="https://www.archive.org/download/sea_lady_1412_librivox/sealady_02_wells_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 14 Dec 2014 00:01:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/sea_lady_1412_librivox/sealady_02_wells_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Episode of the Various Journalists]]></title>
+    <itunes:episode><![CDATA[3]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-sea-lady-by-h-g-wells/]]></link>
+            <enclosure url="https://www.archive.org/download/sea_lady_1412_librivox/sealady_03_wells_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 14 Dec 2014 00:02:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/sea_lady_1412_librivox/sealady_03_wells_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Quality of Parker]]></title>
+    <itunes:episode><![CDATA[4]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-sea-lady-by-h-g-wells/]]></link>
+            <enclosure url="https://www.archive.org/download/sea_lady_1412_librivox/sealady_04_wells_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 14 Dec 2014 00:03:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/sea_lady_1412_librivox/sealady_04_wells_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Absence and Return of Mr. Harry Chatteris]]></title>
+    <itunes:episode><![CDATA[5]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-sea-lady-by-h-g-wells/]]></link>
+            <enclosure url="https://www.archive.org/download/sea_lady_1412_librivox/sealady_05_wells_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 14 Dec 2014 00:04:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/sea_lady_1412_librivox/sealady_05_wells_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Symptomatic, part 1]]></title>
+    <itunes:episode><![CDATA[6]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-sea-lady-by-h-g-wells/]]></link>
+            <enclosure url="https://www.archive.org/download/sea_lady_1412_librivox/sealady_06_wells_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 14 Dec 2014 00:05:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/sea_lady_1412_librivox/sealady_06_wells_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Symptomatic, part 2]]></title>
+    <itunes:episode><![CDATA[7]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-sea-lady-by-h-g-wells/]]></link>
+            <enclosure url="https://www.archive.org/download/sea_lady_1412_librivox/sealady_07_wells_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 14 Dec 2014 00:06:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/sea_lady_1412_librivox/sealady_07_wells_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Symptomatic, part 3]]></title>
+    <itunes:episode><![CDATA[8]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-sea-lady-by-h-g-wells/]]></link>
+            <enclosure url="https://www.archive.org/download/sea_lady_1412_librivox/sealady_08_wells_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 14 Dec 2014 00:07:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/sea_lady_1412_librivox/sealady_08_wells_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Crisis, part 1]]></title>
+    <itunes:episode><![CDATA[9]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-sea-lady-by-h-g-wells/]]></link>
+            <enclosure url="https://www.archive.org/download/sea_lady_1412_librivox/sealady_09_wells_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 14 Dec 2014 00:08:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/sea_lady_1412_librivox/sealady_09_wells_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Crisis, part 2]]></title>
+    <itunes:episode><![CDATA[10]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-sea-lady-by-h-g-wells/]]></link>
+            <enclosure url="https://www.archive.org/download/sea_lady_1412_librivox/sealady_10_wells_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 14 Dec 2014 00:09:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/sea_lady_1412_librivox/sealady_10_wells_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Crisis, part 3]]></title>
+    <itunes:episode><![CDATA[11]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-sea-lady-by-h-g-wells/]]></link>
+            <enclosure url="https://www.archive.org/download/sea_lady_1412_librivox/sealady_11_wells_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 14 Dec 2014 00:10:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/sea_lady_1412_librivox/sealady_11_wells_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Moonshine Triumphant]]></title>
+    <itunes:episode><![CDATA[12]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-sea-lady-by-h-g-wells/]]></link>
+            <enclosure url="https://www.archive.org/download/sea_lady_1412_librivox/sealady_12_wells_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 14 Dec 2014 00:11:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/sea_lady_1412_librivox/sealady_12_wells_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <!-- end file loop -->
+</channel>
+</rss>

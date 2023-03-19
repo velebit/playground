@@ -1,0 +1,265 @@
+<?xml version="1.0" ?><rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+  <title><![CDATA[Grimm Tales Made Gay by  Guy Wetmore Carryl (1873 - 1904)]]></title>
+  <link><![CDATA[https://librivox.org/grimm-tales-made-gay-by-guy-wetmore-carryl/]]></link>
+  <atom:link rel="self" href="https://librivox.org/rss/1895" />
+  <description><![CDATA[A comic rendering in verse of well-loved Fairy Tales of the Brothers Grimm, each ending with a moral and full of puns. The titles of the tales themselves make another verse.(Summary by Annise)]]></description>
+  <!--<genre>project element=Genre</genre>-->
+  <!--<language>project element=lang.code</language>-->
+  <itunes:type>serial</itunes:type>
+  <itunes:author>LibriVox</itunes:author>
+  <itunes:summary><![CDATA[A comic rendering in verse of well-loved Fairy Tales of the Brothers Grimm, each ending with a moral and full of puns. The titles of the tales themselves make another verse.(Summary by Annise)]]></itunes:summary>
+  <itunes:owner>
+    <itunes:name>LibriVox</itunes:name>
+    <itunes:email>info@librivox.org</itunes:email>
+  </itunes:owner>
+  <itunes:category text="Arts">
+    <itunes:category text="Literature" />
+  </itunes:category>
+  <image><url>https://www.archive.org/download/LibrivoxCdCoverArt16/Grimm_Tales_Made_Gay_1204.jpg</url></image>
+  <itunes:image href="https://www.archive.org/download/LibrivoxCdCoverArt16/Grimm_Tales_Made_Gay_1204.jpg"/>
+  <itunes:explicit>no</itunes:explicit>
+  <!-- file loop -->
+    <item>
+    <title><![CDATA[01 - How the Babes in the Wood Showed They Couldn’t be Beaten]]></title>
+    <itunes:episode><![CDATA[1]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/grimm-tales-made-gay-by-guy-wetmore-carryl/]]></link>
+            <enclosure url="https://www.archive.org/download/grimmtalesmadegay_0906_librivox/grimmmadegay_01_carryl_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:02:32]]></itunes:duration>
+  <pubDate>Mon, 08 Jun 2009 00:00:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/grimmtalesmadegay_0906_librivox/grimmmadegay_01_carryl_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[02 - How Fair Cinderella Disposed of Her Shoe]]></title>
+    <itunes:episode><![CDATA[2]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/grimm-tales-made-gay-by-guy-wetmore-carryl/]]></link>
+            <enclosure url="https://www.archive.org/download/grimmtalesmadegay_0906_librivox/grimmmadegay_02_carryl_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:02:59]]></itunes:duration>
+  <pubDate>Mon, 08 Jun 2009 00:01:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/grimmtalesmadegay_0906_librivox/grimmmadegay_02_carryl_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[03 - How Little Red Riding Hood Came to be Eaten]]></title>
+    <itunes:episode><![CDATA[3]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/grimm-tales-made-gay-by-guy-wetmore-carryl/]]></link>
+            <enclosure url="https://www.archive.org/download/grimmtalesmadegay_0906_librivox/grimmmadegay_03_carryl_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:03:06]]></itunes:duration>
+  <pubDate>Mon, 08 Jun 2009 00:02:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/grimmtalesmadegay_0906_librivox/grimmmadegay_03_carryl_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[04 - How the Fatuous Wish of a Peasant Came True]]></title>
+    <itunes:episode><![CDATA[4]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/grimm-tales-made-gay-by-guy-wetmore-carryl/]]></link>
+            <enclosure url="https://www.archive.org/download/grimmtalesmadegay_0906_librivox/grimmmadegay_04_carryl_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:03:00]]></itunes:duration>
+  <pubDate>Mon, 08 Jun 2009 00:03:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/grimmtalesmadegay_0906_librivox/grimmmadegay_04_carryl_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[05 - How Hop o'my Thumb got rid of an Onus]]></title>
+    <itunes:episode><![CDATA[5]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/grimm-tales-made-gay-by-guy-wetmore-carryl/]]></link>
+            <enclosure url="https://www.archive.org/download/grimmtalesmadegay_0906_librivox/grimmmadegay_05_carryl_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:03:01]]></itunes:duration>
+  <pubDate>Mon, 08 Jun 2009 00:04:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/grimmtalesmadegay_0906_librivox/grimmmadegay_05_carryl_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[06 - How the Helpmate of Blue Beard made free with a door]]></title>
+    <itunes:episode><![CDATA[6]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/grimm-tales-made-gay-by-guy-wetmore-carryl/]]></link>
+            <enclosure url="https://www.archive.org/download/grimmtalesmadegay_0906_librivox/grimmmadegay_06_carryl_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:03:21]]></itunes:duration>
+  <pubDate>Mon, 08 Jun 2009 00:05:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/grimmtalesmadegay_0906_librivox/grimmmadegay_06_carryl_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[07 - How Rumplestilz Held Out in Vain for a Bonus]]></title>
+    <itunes:episode><![CDATA[7]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/grimm-tales-made-gay-by-guy-wetmore-carryl/]]></link>
+            <enclosure url="https://www.archive.org/download/grimmtalesmadegay_0906_librivox/grimmmadegay_07_carryl_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:03:15]]></itunes:duration>
+  <pubDate>Mon, 08 Jun 2009 00:06:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/grimmtalesmadegay_0906_librivox/grimmmadegay_07_carryl_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[08 - How Jack Made the Giants Uncommonly Sore]]></title>
+    <itunes:episode><![CDATA[8]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/grimm-tales-made-gay-by-guy-wetmore-carryl/]]></link>
+            <enclosure url="https://www.archive.org/download/grimmtalesmadegay_0906_librivox/grimmmadegay_08_carryl_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:02:40]]></itunes:duration>
+  <pubDate>Mon, 08 Jun 2009 00:07:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/grimmtalesmadegay_0906_librivox/grimmmadegay_08_carryl_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[09 - How Rudeness and Kindness Were Justly Rewarded]]></title>
+    <itunes:episode><![CDATA[9]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/grimm-tales-made-gay-by-guy-wetmore-carryl/]]></link>
+            <enclosure url="https://www.archive.org/download/grimmtalesmadegay_0906_librivox/grimmmadegay_09_carryl_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:04:07]]></itunes:duration>
+  <pubDate>Mon, 08 Jun 2009 00:08:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/grimmtalesmadegay_0906_librivox/grimmmadegay_09_carryl_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[10 - How Beauty Contrived to Get Square with the Beast]]></title>
+    <itunes:episode><![CDATA[10]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/grimm-tales-made-gay-by-guy-wetmore-carryl/]]></link>
+            <enclosure url="https://www.archive.org/download/grimmtalesmadegay_0906_librivox/grimmmadegay_10_carryl_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:03:07]]></itunes:duration>
+  <pubDate>Mon, 08 Jun 2009 00:09:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/grimmtalesmadegay_0906_librivox/grimmmadegay_10_carryl_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[11 - How a Fair One no Hope to His Highness Accorded]]></title>
+    <itunes:episode><![CDATA[11]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/grimm-tales-made-gay-by-guy-wetmore-carryl/]]></link>
+            <enclosure url="https://www.archive.org/download/grimmtalesmadegay_0906_librivox/grimmmadegay_11_carryl_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:03:35]]></itunes:duration>
+  <pubDate>Mon, 08 Jun 2009 00:10:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/grimmtalesmadegay_0906_librivox/grimmmadegay_11_carryl_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[12 - How Thomas a Maid from a Dragon Released]]></title>
+    <itunes:episode><![CDATA[12]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/grimm-tales-made-gay-by-guy-wetmore-carryl/]]></link>
+            <enclosure url="https://www.archive.org/download/grimmtalesmadegay_0906_librivox/grimmmadegay_12_carryl_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:03:41]]></itunes:duration>
+  <pubDate>Mon, 08 Jun 2009 00:11:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/grimmtalesmadegay_0906_librivox/grimmmadegay_12_carryl_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[13 - How a Beauty was Waked and Her Suitor was Suited]]></title>
+    <itunes:episode><![CDATA[13]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/grimm-tales-made-gay-by-guy-wetmore-carryl/]]></link>
+            <enclosure url="https://www.archive.org/download/grimmtalesmadegay_0906_librivox/grimmmadegay_13_carryl_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:04:02]]></itunes:duration>
+  <pubDate>Mon, 08 Jun 2009 00:12:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/grimmtalesmadegay_0906_librivox/grimmmadegay_13_carryl_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[14 - How Jack Found that Beans May go Back on a Chap]]></title>
+    <itunes:episode><![CDATA[14]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/grimm-tales-made-gay-by-guy-wetmore-carryl/]]></link>
+            <enclosure url="https://www.archive.org/download/grimmtalesmadegay_0906_librivox/grimmmadegay_14_carryl_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:03:26]]></itunes:duration>
+  <pubDate>Mon, 08 Jun 2009 00:13:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/grimmtalesmadegay_0906_librivox/grimmmadegay_14_carryl_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[15 - How a Cat Was Annoyed and a Poet Was Booted]]></title>
+    <itunes:episode><![CDATA[15]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/grimm-tales-made-gay-by-guy-wetmore-carryl/]]></link>
+            <enclosure url="https://www.archive.org/download/grimmtalesmadegay_0906_librivox/grimmmadegay_15_carryl_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:03:48]]></itunes:duration>
+  <pubDate>Mon, 08 Jun 2009 00:14:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/grimmtalesmadegay_0906_librivox/grimmmadegay_15_carryl_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[16 - How Much Fortunatus Could Do with a Cap]]></title>
+    <itunes:episode><![CDATA[16]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/grimm-tales-made-gay-by-guy-wetmore-carryl/]]></link>
+            <enclosure url="https://www.archive.org/download/grimmtalesmadegay_0906_librivox/grimmmadegay_16_carryl_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:03:51]]></itunes:duration>
+  <pubDate>Mon, 08 Jun 2009 00:15:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/grimmtalesmadegay_0906_librivox/grimmmadegay_16_carryl_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[17 - How a Princess Was Wooed from Habitual Sadness]]></title>
+    <itunes:episode><![CDATA[17]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/grimm-tales-made-gay-by-guy-wetmore-carryl/]]></link>
+            <enclosure url="https://www.archive.org/download/grimmtalesmadegay_0906_librivox/grimmmadegay_17_carryl_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:03:30]]></itunes:duration>
+  <pubDate>Mon, 08 Jun 2009 00:16:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/grimmtalesmadegay_0906_librivox/grimmmadegay_17_carryl_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[18 - How a Girl was too Reckless of Grammar by Far]]></title>
+    <itunes:episode><![CDATA[18]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/grimm-tales-made-gay-by-guy-wetmore-carryl/]]></link>
+            <enclosure url="https://www.archive.org/download/grimmtalesmadegay_0906_librivox/grimmmadegay_18_carryl_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:03:30]]></itunes:duration>
+  <pubDate>Mon, 08 Jun 2009 00:17:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/grimmtalesmadegay_0906_librivox/grimmmadegay_18_carryl_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[19 - How the Peaceful Aladdin Gave Way to His Madness]]></title>
+    <itunes:episode><![CDATA[19]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/grimm-tales-made-gay-by-guy-wetmore-carryl/]]></link>
+            <enclosure url="https://www.archive.org/download/grimmtalesmadegay_0906_librivox/grimmmadegay_19_carryl_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:03:12]]></itunes:duration>
+  <pubDate>Mon, 08 Jun 2009 00:18:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/grimmtalesmadegay_0906_librivox/grimmmadegay_19_carryl_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[20 - How a Fisherman Corked up His Foe in a Jar - Envoi]]></title>
+    <itunes:episode><![CDATA[20]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/grimm-tales-made-gay-by-guy-wetmore-carryl/]]></link>
+            <enclosure url="https://www.archive.org/download/grimmtalesmadegay_0906_librivox/grimmmadegay_20_carryl_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:03:03]]></itunes:duration>
+  <pubDate>Mon, 08 Jun 2009 00:19:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/grimmtalesmadegay_0906_librivox/grimmmadegay_20_carryl_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <!-- end file loop -->
+</channel>
+</rss>

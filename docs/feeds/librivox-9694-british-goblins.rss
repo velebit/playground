@@ -1,0 +1,433 @@
+<?xml version="1.0" ?><rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+  <title><![CDATA[British Goblins: Welsh Folk-lore, Fairy Mythology, Legends and Traditions by Wirt Sikes (1836 - 1883)]]></title>
+  <link><![CDATA[https://librivox.org/british-goblins-welsh-folk-lore-fairy-mythology-legends-and-traditions-by-wirt-sikes/]]></link>
+  <atom:link rel="self" href="https://librivox.org/rss/9694" />
+  <description><![CDATA[The British Isles, in particular Wales, are renowned for legend and folklore. The author, an American journalist working in Europe, was appointed Consul to Wales and thus began his fascination with Welsh folklore. He became a renowned authority and published several books on the subject. This work is more of a scholarly discussion on the origins and geography than a narration of the stories. - Summary by Lynne Thompson]]></description>
+  <!--<genre>project element=Genre</genre>-->
+  <!--<language>project element=lang.code</language>-->
+  <itunes:type>serial</itunes:type>
+  <itunes:author>LibriVox</itunes:author>
+  <itunes:summary><![CDATA[The British Isles, in particular Wales, are renowned for legend and folklore. The author, an American journalist working in Europe, was appointed Consul to Wales and thus began his fascination with Welsh folklore. He became a renowned authority and published several books on the subject. This work is more of a scholarly discussion on the origins and geography than a narration of the stories. - Summary by Lynne Thompson]]></itunes:summary>
+  <itunes:owner>
+    <itunes:name>LibriVox</itunes:name>
+    <itunes:email>info@librivox.org</itunes:email>
+  </itunes:owner>
+  <itunes:category text="Arts">
+    <itunes:category text="Literature" />
+  </itunes:category>
+  <image><url>https://archive.org/download/britishgoblinswelsh_1607_librivox/british_goblins_1607.jpg</url></image>
+  <itunes:image href="https://archive.org/download/britishgoblinswelsh_1607_librivox/british_goblins_1607.jpg"/>
+  <itunes:explicit>no</itunes:explicit>
+  <!-- file loop -->
+    <item>
+    <title><![CDATA[Preface]]></title>
+    <itunes:episode><![CDATA[0]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/british-goblins-welsh-folk-lore-fairy-mythology-legends-and-traditions-by-wirt-sikes/]]></link>
+            <enclosure url="https://www.archive.org/download/britishgoblinswelsh_1607_librivox/britishgoblins_00_sikes_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 25 Jul 2016 00:00:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/britishgoblinswelsh_1607_librivox/britishgoblins_00_sikes_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Book 1 Chapter 1]]></title>
+    <itunes:episode><![CDATA[1]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/british-goblins-welsh-folk-lore-fairy-mythology-legends-and-traditions-by-wirt-sikes/]]></link>
+            <enclosure url="https://www.archive.org/download/britishgoblinswelsh_1607_librivox/britishgoblins_01_sikes_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 25 Jul 2016 00:01:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/britishgoblinswelsh_1607_librivox/britishgoblins_01_sikes_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Book 1 Chapter 2]]></title>
+    <itunes:episode><![CDATA[2]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/british-goblins-welsh-folk-lore-fairy-mythology-legends-and-traditions-by-wirt-sikes/]]></link>
+            <enclosure url="https://www.archive.org/download/britishgoblinswelsh_1607_librivox/britishgoblins_02_sikes_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 25 Jul 2016 00:02:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/britishgoblinswelsh_1607_librivox/britishgoblins_02_sikes_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Book 1 Chapter 3]]></title>
+    <itunes:episode><![CDATA[3]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/british-goblins-welsh-folk-lore-fairy-mythology-legends-and-traditions-by-wirt-sikes/]]></link>
+            <enclosure url="https://www.archive.org/download/britishgoblinswelsh_1607_librivox/britishgoblins_03_sikes_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 25 Jul 2016 00:03:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/britishgoblinswelsh_1607_librivox/britishgoblins_03_sikes_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Book 1 Chapter 4]]></title>
+    <itunes:episode><![CDATA[4]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/british-goblins-welsh-folk-lore-fairy-mythology-legends-and-traditions-by-wirt-sikes/]]></link>
+            <enclosure url="https://www.archive.org/download/britishgoblinswelsh_1607_librivox/britishgoblins_04_sikes_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 25 Jul 2016 00:04:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/britishgoblinswelsh_1607_librivox/britishgoblins_04_sikes_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Book 1 Chapter 5]]></title>
+    <itunes:episode><![CDATA[5]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/british-goblins-welsh-folk-lore-fairy-mythology-legends-and-traditions-by-wirt-sikes/]]></link>
+            <enclosure url="https://www.archive.org/download/britishgoblinswelsh_1607_librivox/britishgoblins_05_sikes_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 25 Jul 2016 00:05:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/britishgoblinswelsh_1607_librivox/britishgoblins_05_sikes_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Book 1 Chapter 6 Parts 1-7]]></title>
+    <itunes:episode><![CDATA[6]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/british-goblins-welsh-folk-lore-fairy-mythology-legends-and-traditions-by-wirt-sikes/]]></link>
+            <enclosure url="https://www.archive.org/download/britishgoblinswelsh_1607_librivox/britishgoblins_06_sikes_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 25 Jul 2016 00:06:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/britishgoblinswelsh_1607_librivox/britishgoblins_06_sikes_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Book 1 Chapter 6 Parts 8-13]]></title>
+    <itunes:episode><![CDATA[7]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/british-goblins-welsh-folk-lore-fairy-mythology-legends-and-traditions-by-wirt-sikes/]]></link>
+            <enclosure url="https://www.archive.org/download/britishgoblinswelsh_1607_librivox/britishgoblins_07_sikes_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 25 Jul 2016 00:07:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/britishgoblinswelsh_1607_librivox/britishgoblins_07_sikes_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Book 1 Chapter 7]]></title>
+    <itunes:episode><![CDATA[8]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/british-goblins-welsh-folk-lore-fairy-mythology-legends-and-traditions-by-wirt-sikes/]]></link>
+            <enclosure url="https://www.archive.org/download/britishgoblinswelsh_1607_librivox/britishgoblins_08_sikes_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 25 Jul 2016 00:08:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/britishgoblinswelsh_1607_librivox/britishgoblins_08_sikes_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Book 1 Chapter 8]]></title>
+    <itunes:episode><![CDATA[9]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/british-goblins-welsh-folk-lore-fairy-mythology-legends-and-traditions-by-wirt-sikes/]]></link>
+            <enclosure url="https://www.archive.org/download/britishgoblinswelsh_1607_librivox/britishgoblins_09_sikes_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 25 Jul 2016 00:09:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/britishgoblinswelsh_1607_librivox/britishgoblins_09_sikes_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Book 1 Chapter 9]]></title>
+    <itunes:episode><![CDATA[10]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/british-goblins-welsh-folk-lore-fairy-mythology-legends-and-traditions-by-wirt-sikes/]]></link>
+            <enclosure url="https://www.archive.org/download/britishgoblinswelsh_1607_librivox/britishgoblins_10_sikes_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 25 Jul 2016 00:10:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/britishgoblinswelsh_1607_librivox/britishgoblins_10_sikes_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Book 1 Chapter 10]]></title>
+    <itunes:episode><![CDATA[11]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/british-goblins-welsh-folk-lore-fairy-mythology-legends-and-traditions-by-wirt-sikes/]]></link>
+            <enclosure url="https://www.archive.org/download/britishgoblinswelsh_1607_librivox/britishgoblins_11_sikes_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 25 Jul 2016 00:11:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/britishgoblinswelsh_1607_librivox/britishgoblins_11_sikes_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Book 1 Chapter 11]]></title>
+    <itunes:episode><![CDATA[12]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/british-goblins-welsh-folk-lore-fairy-mythology-legends-and-traditions-by-wirt-sikes/]]></link>
+            <enclosure url="https://www.archive.org/download/britishgoblinswelsh_1607_librivox/britishgoblins_12_sikes_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 25 Jul 2016 00:12:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/britishgoblinswelsh_1607_librivox/britishgoblins_12_sikes_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Book 2 Chapter 1]]></title>
+    <itunes:episode><![CDATA[13]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/british-goblins-welsh-folk-lore-fairy-mythology-legends-and-traditions-by-wirt-sikes/]]></link>
+            <enclosure url="https://www.archive.org/download/britishgoblinswelsh_1607_librivox/britishgoblins_13_sikes_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 25 Jul 2016 00:13:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/britishgoblinswelsh_1607_librivox/britishgoblins_13_sikes_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Book 2 Chapter 2]]></title>
+    <itunes:episode><![CDATA[14]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/british-goblins-welsh-folk-lore-fairy-mythology-legends-and-traditions-by-wirt-sikes/]]></link>
+            <enclosure url="https://www.archive.org/download/britishgoblinswelsh_1607_librivox/britishgoblins_14_sikes_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 25 Jul 2016 00:14:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/britishgoblinswelsh_1607_librivox/britishgoblins_14_sikes_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Book 2 Chapter 3]]></title>
+    <itunes:episode><![CDATA[15]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/british-goblins-welsh-folk-lore-fairy-mythology-legends-and-traditions-by-wirt-sikes/]]></link>
+            <enclosure url="https://www.archive.org/download/britishgoblinswelsh_1607_librivox/britishgoblins_15_sikes_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 25 Jul 2016 00:15:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/britishgoblinswelsh_1607_librivox/britishgoblins_15_sikes_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Book 2 Chapter 4]]></title>
+    <itunes:episode><![CDATA[16]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/british-goblins-welsh-folk-lore-fairy-mythology-legends-and-traditions-by-wirt-sikes/]]></link>
+            <enclosure url="https://www.archive.org/download/britishgoblinswelsh_1607_librivox/britishgoblins_16_sikes_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 25 Jul 2016 00:16:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/britishgoblinswelsh_1607_librivox/britishgoblins_16_sikes_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Book 2 Chapter 5]]></title>
+    <itunes:episode><![CDATA[17]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/british-goblins-welsh-folk-lore-fairy-mythology-legends-and-traditions-by-wirt-sikes/]]></link>
+            <enclosure url="https://www.archive.org/download/britishgoblinswelsh_1607_librivox/britishgoblins_17_sikes_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 25 Jul 2016 00:17:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/britishgoblinswelsh_1607_librivox/britishgoblins_17_sikes_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Book 2 Chapter 6]]></title>
+    <itunes:episode><![CDATA[18]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/british-goblins-welsh-folk-lore-fairy-mythology-legends-and-traditions-by-wirt-sikes/]]></link>
+            <enclosure url="https://www.archive.org/download/britishgoblinswelsh_1607_librivox/britishgoblins_18_sikes_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 25 Jul 2016 00:18:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/britishgoblinswelsh_1607_librivox/britishgoblins_18_sikes_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Book 2 Chapter 7]]></title>
+    <itunes:episode><![CDATA[19]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/british-goblins-welsh-folk-lore-fairy-mythology-legends-and-traditions-by-wirt-sikes/]]></link>
+            <enclosure url="https://www.archive.org/download/britishgoblinswelsh_1607_librivox/britishgoblins_19_sikes_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 25 Jul 2016 00:19:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/britishgoblinswelsh_1607_librivox/britishgoblins_19_sikes_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Book 2 Chapter 8]]></title>
+    <itunes:episode><![CDATA[20]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/british-goblins-welsh-folk-lore-fairy-mythology-legends-and-traditions-by-wirt-sikes/]]></link>
+            <enclosure url="https://www.archive.org/download/britishgoblinswelsh_1607_librivox/britishgoblins_20_sikes_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 25 Jul 2016 00:20:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/britishgoblinswelsh_1607_librivox/britishgoblins_20_sikes_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Book 2 Chapter 9]]></title>
+    <itunes:episode><![CDATA[21]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/british-goblins-welsh-folk-lore-fairy-mythology-legends-and-traditions-by-wirt-sikes/]]></link>
+            <enclosure url="https://www.archive.org/download/britishgoblinswelsh_1607_librivox/britishgoblins_21_sikes_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 25 Jul 2016 00:21:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/britishgoblinswelsh_1607_librivox/britishgoblins_21_sikes_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Book 3 Chapter 1]]></title>
+    <itunes:episode><![CDATA[22]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/british-goblins-welsh-folk-lore-fairy-mythology-legends-and-traditions-by-wirt-sikes/]]></link>
+            <enclosure url="https://www.archive.org/download/britishgoblinswelsh_1607_librivox/britishgoblins_22_sikes_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 25 Jul 2016 00:22:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/britishgoblinswelsh_1607_librivox/britishgoblins_22_sikes_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Book 3 Chapter 2]]></title>
+    <itunes:episode><![CDATA[23]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/british-goblins-welsh-folk-lore-fairy-mythology-legends-and-traditions-by-wirt-sikes/]]></link>
+            <enclosure url="https://www.archive.org/download/britishgoblinswelsh_1607_librivox/britishgoblins_23_sikes_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 25 Jul 2016 00:23:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/britishgoblinswelsh_1607_librivox/britishgoblins_23_sikes_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Book 3 Chapter 3]]></title>
+    <itunes:episode><![CDATA[24]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/british-goblins-welsh-folk-lore-fairy-mythology-legends-and-traditions-by-wirt-sikes/]]></link>
+            <enclosure url="https://www.archive.org/download/britishgoblinswelsh_1607_librivox/britishgoblins_24_sikes_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 25 Jul 2016 00:24:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/britishgoblinswelsh_1607_librivox/britishgoblins_24_sikes_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Book 3 Chapter 4]]></title>
+    <itunes:episode><![CDATA[25]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/british-goblins-welsh-folk-lore-fairy-mythology-legends-and-traditions-by-wirt-sikes/]]></link>
+            <enclosure url="https://www.archive.org/download/britishgoblinswelsh_1607_librivox/britishgoblins_25_sikes_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 25 Jul 2016 00:25:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/britishgoblinswelsh_1607_librivox/britishgoblins_25_sikes_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Book 3 Chapter 5]]></title>
+    <itunes:episode><![CDATA[26]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/british-goblins-welsh-folk-lore-fairy-mythology-legends-and-traditions-by-wirt-sikes/]]></link>
+            <enclosure url="https://www.archive.org/download/britishgoblinswelsh_1607_librivox/britishgoblins_26_sikes_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 25 Jul 2016 00:26:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/britishgoblinswelsh_1607_librivox/britishgoblins_26_sikes_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Book 3 Chapter 6]]></title>
+    <itunes:episode><![CDATA[27]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/british-goblins-welsh-folk-lore-fairy-mythology-legends-and-traditions-by-wirt-sikes/]]></link>
+            <enclosure url="https://www.archive.org/download/britishgoblinswelsh_1607_librivox/britishgoblins_27_sikes_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 25 Jul 2016 00:27:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/britishgoblinswelsh_1607_librivox/britishgoblins_27_sikes_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Book 3 Chapter 7]]></title>
+    <itunes:episode><![CDATA[28]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/british-goblins-welsh-folk-lore-fairy-mythology-legends-and-traditions-by-wirt-sikes/]]></link>
+            <enclosure url="https://www.archive.org/download/britishgoblinswelsh_1607_librivox/britishgoblins_28_sikes_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 25 Jul 2016 00:28:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/britishgoblinswelsh_1607_librivox/britishgoblins_28_sikes_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Book 4 Chapter 1]]></title>
+    <itunes:episode><![CDATA[29]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/british-goblins-welsh-folk-lore-fairy-mythology-legends-and-traditions-by-wirt-sikes/]]></link>
+            <enclosure url="https://www.archive.org/download/britishgoblinswelsh_1607_librivox/britishgoblins_29_sikes_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 25 Jul 2016 00:29:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/britishgoblinswelsh_1607_librivox/britishgoblins_29_sikes_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Book 4 Chapter 2]]></title>
+    <itunes:episode><![CDATA[30]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/british-goblins-welsh-folk-lore-fairy-mythology-legends-and-traditions-by-wirt-sikes/]]></link>
+            <enclosure url="https://www.archive.org/download/britishgoblinswelsh_1607_librivox/britishgoblins_30_sikes_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 25 Jul 2016 00:30:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/britishgoblinswelsh_1607_librivox/britishgoblins_30_sikes_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Book 4 Chapter 3]]></title>
+    <itunes:episode><![CDATA[31]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/british-goblins-welsh-folk-lore-fairy-mythology-legends-and-traditions-by-wirt-sikes/]]></link>
+            <enclosure url="https://www.archive.org/download/britishgoblinswelsh_1607_librivox/britishgoblins_31_sikes_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 25 Jul 2016 00:31:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/britishgoblinswelsh_1607_librivox/britishgoblins_31_sikes_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Book 4 Chapter 4]]></title>
+    <itunes:episode><![CDATA[32]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/british-goblins-welsh-folk-lore-fairy-mythology-legends-and-traditions-by-wirt-sikes/]]></link>
+            <enclosure url="https://www.archive.org/download/britishgoblinswelsh_1607_librivox/britishgoblins_32_sikes_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 25 Jul 2016 00:32:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/britishgoblinswelsh_1607_librivox/britishgoblins_32_sikes_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Book 4 Chapter 5]]></title>
+    <itunes:episode><![CDATA[33]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/british-goblins-welsh-folk-lore-fairy-mythology-legends-and-traditions-by-wirt-sikes/]]></link>
+            <enclosure url="https://www.archive.org/download/britishgoblinswelsh_1607_librivox/britishgoblins_33_sikes_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 25 Jul 2016 00:33:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/britishgoblinswelsh_1607_librivox/britishgoblins_33_sikes_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <!-- end file loop -->
+</channel>
+</rss>

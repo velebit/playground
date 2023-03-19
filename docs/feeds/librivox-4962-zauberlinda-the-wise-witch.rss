@@ -1,0 +1,229 @@
+<?xml version="1.0" ?><rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+  <title><![CDATA[Zauberlinda, the Wise Witch by  Eva Katherine Gibson (1857 - 1916)]]></title>
+  <link><![CDATA[https://librivox.org/zauberlinda-the-wise-witch-by-eva-katherine-gibson/]]></link>
+  <atom:link rel="self" href="https://librivox.org/rss/4962" />
+  <description><![CDATA[Annie Elfrida McLane lives in a little brown house of the South Dakota prairie, within sight of the Black Hills. Her father is a widower and prospects for gold there; Annie lives at home with her grandmother and the servants, Marthy Stubbs and Pete Pumpernickle. Annie has no neighbours, no other children to play with, and no school to attend; she is sometimes lonely and despondent. She is dependent for company on her black cat Silvertip, the farm animals around her, and creatures of the surrounding fields and meadows that she sometimes makes her pets. In the summer when she turns six years old, Annie rescues a wounded prairie dog from a trap. It is a strange little animal, and the other creatures of Annie's world are afraid of it. Annie makes a little house for the prairie dog, but the animal soon escapes back to the wild. Follow their adventures. ( Michele Eaton )]]></description>
+  <!--<genre>project element=Genre</genre>-->
+  <!--<language>project element=lang.code</language>-->
+  <itunes:type>serial</itunes:type>
+  <itunes:author>LibriVox</itunes:author>
+  <itunes:summary><![CDATA[Annie Elfrida McLane lives in a little brown house of the South Dakota prairie, within sight of the Black Hills. Her father is a widower and prospects for gold there; Annie lives at home with her grandmother and the servants, Marthy Stubbs and Pete Pumpernickle. Annie has no neighbours, no other children to play with, and no school to attend; she is sometimes lonely and despondent. She is dependent for company on her black cat Silvertip, the farm animals around her, and creatures of the surrounding fields and meadows that she sometimes makes her pets. In the summer when she turns six years old, Annie rescues a wounded prairie dog from a trap. It is a strange little animal, and the other creatures of Annie's world are afraid of it. Annie makes a little house for the prairie dog, but the animal soon escapes back to the wild. Follow their adventures. ( Michele Eaton )]]></itunes:summary>
+  <itunes:owner>
+    <itunes:name>LibriVox</itunes:name>
+    <itunes:email>info@librivox.org</itunes:email>
+  </itunes:owner>
+  <itunes:category text="Arts">
+    <itunes:category text="Literature" />
+  </itunes:category>
+  <image><url>https://archive.org/download/zauberlinda_the_wise_witch_1411_librivox/zauberlinda_1411.jpg</url></image>
+  <itunes:image href="https://archive.org/download/zauberlinda_the_wise_witch_1411_librivox/zauberlinda_1411.jpg"/>
+  <itunes:explicit>no</itunes:explicit>
+  <!-- file loop -->
+    <item>
+    <title><![CDATA[Introduction]]></title>
+    <itunes:episode><![CDATA[0]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/zauberlinda-the-wise-witch-by-eva-katherine-gibson/]]></link>
+            <enclosure url="https://www.archive.org/download/zauberlinda_the_wise_witch_1411_librivox/zauberlinda_00_gibson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 07 Nov 2014 00:00:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/zauberlinda_the_wise_witch_1411_librivox/zauberlinda_00_gibson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Chapter 1 - Annie's Home]]></title>
+    <itunes:episode><![CDATA[1]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/zauberlinda-the-wise-witch-by-eva-katherine-gibson/]]></link>
+            <enclosure url="https://www.archive.org/download/zauberlinda_the_wise_witch_1411_librivox/zauberlinda_01_gibson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 07 Nov 2014 00:01:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/zauberlinda_the_wise_witch_1411_librivox/zauberlinda_01_gibson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Chapter 2 - Annie's Friends and Pets]]></title>
+    <itunes:episode><![CDATA[2]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/zauberlinda-the-wise-witch-by-eva-katherine-gibson/]]></link>
+            <enclosure url="https://www.archive.org/download/zauberlinda_the_wise_witch_1411_librivox/zauberlinda_02_gibson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 07 Nov 2014 00:02:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/zauberlinda_the_wise_witch_1411_librivox/zauberlinda_02_gibson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Chapter 3 - The Rescue of the Young Prairie Dog]]></title>
+    <itunes:episode><![CDATA[3]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/zauberlinda-the-wise-witch-by-eva-katherine-gibson/]]></link>
+            <enclosure url="https://www.archive.org/download/zauberlinda_the_wise_witch_1411_librivox/zauberlinda_03_gibson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 07 Nov 2014 00:03:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/zauberlinda_the_wise_witch_1411_librivox/zauberlinda_03_gibson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Chapter 4 - Pete Pumpernickel Tells about the Fairies]]></title>
+    <itunes:episode><![CDATA[4]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/zauberlinda-the-wise-witch-by-eva-katherine-gibson/]]></link>
+            <enclosure url="https://www.archive.org/download/zauberlinda_the_wise_witch_1411_librivox/zauberlinda_04_gibson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 07 Nov 2014 00:04:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/zauberlinda_the_wise_witch_1411_librivox/zauberlinda_04_gibson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Chapter 5 - Annie's Seventh Birthday]]></title>
+    <itunes:episode><![CDATA[5]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/zauberlinda-the-wise-witch-by-eva-katherine-gibson/]]></link>
+            <enclosure url="https://www.archive.org/download/zauberlinda_the_wise_witch_1411_librivox/zauberlinda_05_gibson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 07 Nov 2014 00:05:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/zauberlinda_the_wise_witch_1411_librivox/zauberlinda_05_gibson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Chapter 6 - The Prairie Dog Sings a Funny Song]]></title>
+    <itunes:episode><![CDATA[6]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/zauberlinda-the-wise-witch-by-eva-katherine-gibson/]]></link>
+            <enclosure url="https://www.archive.org/download/zauberlinda_the_wise_witch_1411_librivox/zauberlinda_06_gibson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 07 Nov 2014 00:06:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/zauberlinda_the_wise_witch_1411_librivox/zauberlinda_06_gibson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Chapter 7 -  Annie is Taken to the Gnome King's Palace]]></title>
+    <itunes:episode><![CDATA[7]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/zauberlinda-the-wise-witch-by-eva-katherine-gibson/]]></link>
+            <enclosure url="https://www.archive.org/download/zauberlinda_the_wise_witch_1411_librivox/zauberlinda_07_gibson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 07 Nov 2014 00:07:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/zauberlinda_the_wise_witch_1411_librivox/zauberlinda_07_gibson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Chapter 8 - Annie Meets King Goldemar]]></title>
+    <itunes:episode><![CDATA[8]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/zauberlinda-the-wise-witch-by-eva-katherine-gibson/]]></link>
+            <enclosure url="https://www.archive.org/download/zauberlinda_the_wise_witch_1411_librivox/zauberlinda_08_gibson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 07 Nov 2014 00:08:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/zauberlinda_the_wise_witch_1411_librivox/zauberlinda_08_gibson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Chapter 9 - Annie is Shown the Magic Crystal]]></title>
+    <itunes:episode><![CDATA[9]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/zauberlinda-the-wise-witch-by-eva-katherine-gibson/]]></link>
+            <enclosure url="https://www.archive.org/download/zauberlinda_the_wise_witch_1411_librivox/zauberlinda_09_gibson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 07 Nov 2014 00:09:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/zauberlinda_the_wise_witch_1411_librivox/zauberlinda_09_gibson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Chapter 10 - Annie Sees the Court Goblin]]></title>
+    <itunes:episode><![CDATA[10]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/zauberlinda-the-wise-witch-by-eva-katherine-gibson/]]></link>
+            <enclosure url="https://www.archive.org/download/zauberlinda_the_wise_witch_1411_librivox/zauberlinda_10_gibson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 07 Nov 2014 00:10:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/zauberlinda_the_wise_witch_1411_librivox/zauberlinda_10_gibson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Chapter 11 - The Gnome King's Smithy]]></title>
+    <itunes:episode><![CDATA[11]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/zauberlinda-the-wise-witch-by-eva-katherine-gibson/]]></link>
+            <enclosure url="https://www.archive.org/download/zauberlinda_the_wise_witch_1411_librivox/zauberlinda_11_gibson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 07 Nov 2014 00:11:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/zauberlinda_the_wise_witch_1411_librivox/zauberlinda_11_gibson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Chapter 12 - Annie's Escape and the Fat-Heads]]></title>
+    <itunes:episode><![CDATA[12]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/zauberlinda-the-wise-witch-by-eva-katherine-gibson/]]></link>
+            <enclosure url="https://www.archive.org/download/zauberlinda_the_wise_witch_1411_librivox/zauberlinda_12_gibson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 07 Nov 2014 00:12:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/zauberlinda_the_wise_witch_1411_librivox/zauberlinda_12_gibson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Chapter 13 - Annie Wanders Through the Valley of the Yubbs]]></title>
+    <itunes:episode><![CDATA[13]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/zauberlinda-the-wise-witch-by-eva-katherine-gibson/]]></link>
+            <enclosure url="https://www.archive.org/download/zauberlinda_the_wise_witch_1411_librivox/zauberlinda_13_gibson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 07 Nov 2014 00:13:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/zauberlinda_the_wise_witch_1411_librivox/zauberlinda_13_gibson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Chapter 14 -The Craw-Fish and the Crow]]></title>
+    <itunes:episode><![CDATA[14]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/zauberlinda-the-wise-witch-by-eva-katherine-gibson/]]></link>
+            <enclosure url="https://www.archive.org/download/zauberlinda_the_wise_witch_1411_librivox/zauberlinda_14_gibson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 07 Nov 2014 00:14:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/zauberlinda_the_wise_witch_1411_librivox/zauberlinda_14_gibson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Chapter 15 - Annie Meets Zauberlinda]]></title>
+    <itunes:episode><![CDATA[15]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/zauberlinda-the-wise-witch-by-eva-katherine-gibson/]]></link>
+            <enclosure url="https://www.archive.org/download/zauberlinda_the_wise_witch_1411_librivox/zauberlinda_15_gibson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 07 Nov 2014 00:15:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/zauberlinda_the_wise_witch_1411_librivox/zauberlinda_15_gibson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Chapter 16 - The Lost Child is Carried Home]]></title>
+    <itunes:episode><![CDATA[16]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/zauberlinda-the-wise-witch-by-eva-katherine-gibson/]]></link>
+            <enclosure url="https://www.archive.org/download/zauberlinda_the_wise_witch_1411_librivox/zauberlinda_16_gibson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 07 Nov 2014 00:16:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/zauberlinda_the_wise_witch_1411_librivox/zauberlinda_16_gibson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <!-- end file loop -->
+</channel>
+</rss>

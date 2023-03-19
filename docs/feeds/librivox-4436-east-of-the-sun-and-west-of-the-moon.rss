@@ -1,0 +1,217 @@
+<?xml version="1.0" ?><rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+  <title><![CDATA[East of the Sun and West of the Moon by Peter Christen Asbjørnsen (1812 - 1885) and Jørgen Engebretsen Moe (1813 - 1882)]]></title>
+  <link><![CDATA[https://librivox.org/east-of-the-sun-and-west-of-the-moon-by-peter-christen-asbjornsen-and-jorgen-engebretsen-moe/]]></link>
+  <atom:link rel="self" href="https://librivox.org/rss/4436" />
+  <description><![CDATA[Once on a time there was a poor husbandman who had so many children that he hadn’t much of either food or clothing to give them. Pretty children they all were, but the prettiest was the youngest daughter, who was so lovely there was no end to her loveliness.So one day, ’twas on a Thursday evening late at the fall of the year, the weather was so wild and rough outside, and it was so cruelly dark, and rain fell and wind blew, till the walls of the cottage shook again. There they all sat round the fire, busy with this thing and that. But just then, all at once something gave three taps on the window-pane. Then the father went out to see what was the matter; and, when he got out of doors, what should he see but a great big White Bear.“Good-evening to you!” said the White Bear.“The same to you!” said the man.“Will you give me your youngest daughter? If you will, I’ll make you as rich as you are now poor,” said the Bear. (from the book)This collection of old Scandinavian fairy tales will enchant you with stories of trolls, enchanted castles, princesses and a White Bear (summary by Nadine)]]></description>
+  <!--<genre>project element=Genre</genre>-->
+  <!--<language>project element=lang.code</language>-->
+  <itunes:type>serial</itunes:type>
+  <itunes:author>LibriVox</itunes:author>
+  <itunes:summary><![CDATA[Once on a time there was a poor husbandman who had so many children that he hadn’t much of either food or clothing to give them. Pretty children they all were, but the prettiest was the youngest daughter, who was so lovely there was no end to her loveliness.So one day, ’twas on a Thursday evening late at the fall of the year, the weather was so wild and rough outside, and it was so cruelly dark, and rain fell and wind blew, till the walls of the cottage shook again. There they all sat round the fire, busy with this thing and that. But just then, all at once something gave three taps on the window-pane. Then the father went out to see what was the matter; and, when he got out of doors, what should he see but a great big White Bear.“Good-evening to you!” said the White Bear.“The same to you!” said the man.“Will you give me your youngest daughter? If you will, I’ll make you as rich as you are now poor,” said the Bear. (from the book)This collection of old Scandinavian fairy tales will enchant you with stories of trolls, enchanted castles, princesses and a White Bear (summary by Nadine)]]></itunes:summary>
+  <itunes:owner>
+    <itunes:name>LibriVox</itunes:name>
+    <itunes:email>info@librivox.org</itunes:email>
+  </itunes:owner>
+  <itunes:category text="Arts">
+    <itunes:category text="Literature" />
+  </itunes:category>
+  <image><url>https://www.archive.org/download/LibrivoxCdCoverArt6/eastsunwestmoon_1011.jpg</url></image>
+  <itunes:image href="https://www.archive.org/download/LibrivoxCdCoverArt6/eastsunwestmoon_1011.jpg"/>
+  <itunes:explicit>no</itunes:explicit>
+  <!-- file loop -->
+    <item>
+    <title><![CDATA[00 - Preface]]></title>
+    <itunes:episode><![CDATA[0]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/east-of-the-sun-and-west-of-the-moon-by-peter-christen-asbjornsen-and-jorgen-engebretsen-moe/]]></link>
+            <enclosure url="https://www.archive.org/download/eastsunwestmoon_1011_librivox/eastsunwestmoon_00_asbjoernsen_moe_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:02:22]]></itunes:duration>
+  <pubDate>Fri, 19 Nov 2010 00:00:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/eastsunwestmoon_1011_librivox/eastsunwestmoon_00_asbjoernsen_moe_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[01 - East of the Sun and West of the Moon]]></title>
+    <itunes:episode><![CDATA[1]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/east-of-the-sun-and-west-of-the-moon-by-peter-christen-asbjornsen-and-jorgen-engebretsen-moe/]]></link>
+            <enclosure url="https://www.archive.org/download/eastsunwestmoon_1011_librivox/eastsunwestmoon_01_asbjoernsen_moe_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:27:17]]></itunes:duration>
+  <pubDate>Fri, 19 Nov 2010 00:01:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/eastsunwestmoon_1011_librivox/eastsunwestmoon_01_asbjoernsen_moe_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[02 - The Blue Belt]]></title>
+    <itunes:episode><![CDATA[2]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/east-of-the-sun-and-west-of-the-moon-by-peter-christen-asbjornsen-and-jorgen-engebretsen-moe/]]></link>
+            <enclosure url="https://www.archive.org/download/eastsunwestmoon_1011_librivox/eastsunwestmoon_02_asbjoernsen_moe_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:32:46]]></itunes:duration>
+  <pubDate>Fri, 19 Nov 2010 00:02:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/eastsunwestmoon_1011_librivox/eastsunwestmoon_02_asbjoernsen_moe_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[03 - Prince Lindworm]]></title>
+    <itunes:episode><![CDATA[3]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/east-of-the-sun-and-west-of-the-moon-by-peter-christen-asbjornsen-and-jorgen-engebretsen-moe/]]></link>
+            <enclosure url="https://www.archive.org/download/eastsunwestmoon_1011_librivox/eastsunwestmoon_03_asbjoernsen_moe_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:15:03]]></itunes:duration>
+  <pubDate>Fri, 19 Nov 2010 00:03:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/eastsunwestmoon_1011_librivox/eastsunwestmoon_03_asbjoernsen_moe_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[04 - The Lassie and her Godmother]]></title>
+    <itunes:episode><![CDATA[4]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/east-of-the-sun-and-west-of-the-moon-by-peter-christen-asbjornsen-and-jorgen-engebretsen-moe/]]></link>
+            <enclosure url="https://www.archive.org/download/eastsunwestmoon_1011_librivox/eastsunwestmoon_04_asbjoernsen_moe_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:10:15]]></itunes:duration>
+  <pubDate>Fri, 19 Nov 2010 00:04:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/eastsunwestmoon_1011_librivox/eastsunwestmoon_04_asbjoernsen_moe_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[05 - The Husband Who was to Mind the House]]></title>
+    <itunes:episode><![CDATA[5]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/east-of-the-sun-and-west-of-the-moon-by-peter-christen-asbjornsen-and-jorgen-engebretsen-moe/]]></link>
+            <enclosure url="https://www.archive.org/download/eastsunwestmoon_1011_librivox/eastsunwestmoon_05_asbjoernsen_moe_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:06:06]]></itunes:duration>
+  <pubDate>Fri, 19 Nov 2010 00:05:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/eastsunwestmoon_1011_librivox/eastsunwestmoon_05_asbjoernsen_moe_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[06 - The Lad Who went to the North Wind]]></title>
+    <itunes:episode><![CDATA[6]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/east-of-the-sun-and-west-of-the-moon-by-peter-christen-asbjornsen-and-jorgen-engebretsen-moe/]]></link>
+            <enclosure url="https://www.archive.org/download/eastsunwestmoon_1011_librivox/eastsunwestmoon_06_asbjoernsen_moe_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:07:36]]></itunes:duration>
+  <pubDate>Fri, 19 Nov 2010 00:06:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/eastsunwestmoon_1011_librivox/eastsunwestmoon_06_asbjoernsen_moe_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[07 - The Three Princesses of Whiteland]]></title>
+    <itunes:episode><![CDATA[7]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/east-of-the-sun-and-west-of-the-moon-by-peter-christen-asbjornsen-and-jorgen-engebretsen-moe/]]></link>
+            <enclosure url="https://www.archive.org/download/eastsunwestmoon_1011_librivox/eastsunwestmoon_07_asbjoernsen_moe_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:13:48]]></itunes:duration>
+  <pubDate>Fri, 19 Nov 2010 00:07:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/eastsunwestmoon_1011_librivox/eastsunwestmoon_07_asbjoernsen_moe_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[08 - Soria Moria Castle]]></title>
+    <itunes:episode><![CDATA[8]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/east-of-the-sun-and-west-of-the-moon-by-peter-christen-asbjornsen-and-jorgen-engebretsen-moe/]]></link>
+            <enclosure url="https://www.archive.org/download/eastsunwestmoon_1011_librivox/eastsunwestmoon_08_asbjoernsen_moe_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:22:02]]></itunes:duration>
+  <pubDate>Fri, 19 Nov 2010 00:08:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/eastsunwestmoon_1011_librivox/eastsunwestmoon_08_asbjoernsen_moe_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[09 - The Giant Who had no Heart in his Body]]></title>
+    <itunes:episode><![CDATA[9]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/east-of-the-sun-and-west-of-the-moon-by-peter-christen-asbjornsen-and-jorgen-engebretsen-moe/]]></link>
+            <enclosure url="https://www.archive.org/download/eastsunwestmoon_1011_librivox/eastsunwestmoon_09_asbjoernsen_moe_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:16:08]]></itunes:duration>
+  <pubDate>Fri, 19 Nov 2010 00:09:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/eastsunwestmoon_1011_librivox/eastsunwestmoon_09_asbjoernsen_moe_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[10 - The Princess on the Glass Hill]]></title>
+    <itunes:episode><![CDATA[10]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/east-of-the-sun-and-west-of-the-moon-by-peter-christen-asbjornsen-and-jorgen-engebretsen-moe/]]></link>
+            <enclosure url="https://www.archive.org/download/eastsunwestmoon_1011_librivox/eastsunwestmoon_10_asbjoernsen_moe_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:22:32]]></itunes:duration>
+  <pubDate>Fri, 19 Nov 2010 00:10:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/eastsunwestmoon_1011_librivox/eastsunwestmoon_10_asbjoernsen_moe_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[11 - The Widow's Son]]></title>
+    <itunes:episode><![CDATA[11]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/east-of-the-sun-and-west-of-the-moon-by-peter-christen-asbjornsen-and-jorgen-engebretsen-moe/]]></link>
+            <enclosure url="https://www.archive.org/download/eastsunwestmoon_1011_librivox/eastsunwestmoon_11_asbjoernsen_moe_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:19:14]]></itunes:duration>
+  <pubDate>Fri, 19 Nov 2010 00:11:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/eastsunwestmoon_1011_librivox/eastsunwestmoon_11_asbjoernsen_moe_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[12 - The Three Billy Goats Gruff]]></title>
+    <itunes:episode><![CDATA[12]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/east-of-the-sun-and-west-of-the-moon-by-peter-christen-asbjornsen-and-jorgen-engebretsen-moe/]]></link>
+            <enclosure url="https://www.archive.org/download/eastsunwestmoon_1011_librivox/eastsunwestmoon_12_asbjoernsen_moe_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:03:32]]></itunes:duration>
+  <pubDate>Fri, 19 Nov 2010 00:12:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/eastsunwestmoon_1011_librivox/eastsunwestmoon_12_asbjoernsen_moe_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[13 - The Three Princesses in the Blue Mountain]]></title>
+    <itunes:episode><![CDATA[13]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/east-of-the-sun-and-west-of-the-moon-by-peter-christen-asbjornsen-and-jorgen-engebretsen-moe/]]></link>
+            <enclosure url="https://www.archive.org/download/eastsunwestmoon_1011_librivox/eastsunwestmoon_13_asbjoernsen_moe_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:33:25]]></itunes:duration>
+  <pubDate>Fri, 19 Nov 2010 00:13:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/eastsunwestmoon_1011_librivox/eastsunwestmoon_13_asbjoernsen_moe_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[14 - The Cat on the Dovrefell]]></title>
+    <itunes:episode><![CDATA[14]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/east-of-the-sun-and-west-of-the-moon-by-peter-christen-asbjornsen-and-jorgen-engebretsen-moe/]]></link>
+            <enclosure url="https://www.archive.org/download/eastsunwestmoon_1011_librivox/eastsunwestmoon_14_asbjoernsen_moe_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:03:07]]></itunes:duration>
+  <pubDate>Fri, 19 Nov 2010 00:14:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/eastsunwestmoon_1011_librivox/eastsunwestmoon_14_asbjoernsen_moe_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[15 - One's Own Children are always Prettiest]]></title>
+    <itunes:episode><![CDATA[15]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/east-of-the-sun-and-west-of-the-moon-by-peter-christen-asbjornsen-and-jorgen-engebretsen-moe/]]></link>
+            <enclosure url="https://www.archive.org/download/eastsunwestmoon_1011_librivox/eastsunwestmoon_15_asbjoernsen_moe_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:02:01]]></itunes:duration>
+  <pubDate>Fri, 19 Nov 2010 00:15:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/eastsunwestmoon_1011_librivox/eastsunwestmoon_15_asbjoernsen_moe_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <!-- end file loop -->
+</channel>
+</rss>

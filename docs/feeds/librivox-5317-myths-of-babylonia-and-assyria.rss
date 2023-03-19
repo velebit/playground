@@ -1,0 +1,345 @@
+<?xml version="1.0" ?><rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+  <title><![CDATA[Myths of Babylonia and Assyria by Donald Alexander Mackenzie (1873 - 1936)]]></title>
+  <link><![CDATA[https://librivox.org/myths-and-legends-myths-of-babylonia-and-assyria-by-donald-alexander-mackenzie/]]></link>
+  <atom:link rel="self" href="https://librivox.org/rss/5317" />
+  <description><![CDATA[Donald Alexander Mackenzie (1873 – March 2, 1936) was a Scottish journalist and prolific writer on religion, mythology and anthropology in the early 20th century. His works included Indian Myth and Legend, Celtic Folklore and Myths of China and Japan.
+As well as writing books, articles and poems, he often gave lectures, and also broadcast talks on Celtic mythology.
+
+This volume deals with the myths and legends of Babylonia and Assyria, and as these reflect the civilization in which they developed, a historical narrative has been provided, beginning with the early Sumerian Age and concluding with the periods of the Persian and Grecian Empires. Over thirty centuries of human progress are thus passed under review.
+(Summary extracted from Wikipedia and the Preface of this book)]]></description>
+  <!--<genre>project element=Genre</genre>-->
+  <!--<language>project element=lang.code</language>-->
+  <itunes:type>serial</itunes:type>
+  <itunes:author>LibriVox</itunes:author>
+  <itunes:summary><![CDATA[Donald Alexander Mackenzie (1873 – March 2, 1936) was a Scottish journalist and prolific writer on religion, mythology and anthropology in the early 20th century. His works included Indian Myth and Legend, Celtic Folklore and Myths of China and Japan.
+As well as writing books, articles and poems, he often gave lectures, and also broadcast talks on Celtic mythology.
+
+This volume deals with the myths and legends of Babylonia and Assyria, and as these reflect the civilization in which they developed, a historical narrative has been provided, beginning with the early Sumerian Age and concluding with the periods of the Persian and Grecian Empires. Over thirty centuries of human progress are thus passed under review.
+(Summary extracted from Wikipedia and the Preface of this book)]]></itunes:summary>
+  <itunes:owner>
+    <itunes:name>LibriVox</itunes:name>
+    <itunes:email>info@librivox.org</itunes:email>
+  </itunes:owner>
+  <itunes:category text="Arts">
+    <itunes:category text="Literature" />
+  </itunes:category>
+  <image><url>https://archive.org/download/LibrivoxCdCoverArt29/myths_babylon_assyria_1302.jpg</url></image>
+  <itunes:image href="https://archive.org/download/LibrivoxCdCoverArt29/myths_babylon_assyria_1302.jpg"/>
+  <itunes:explicit>no</itunes:explicit>
+  <!-- file loop -->
+    <item>
+    <title><![CDATA[00 - Preface]]></title>
+    <itunes:episode><![CDATA[0]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-myths-of-babylonia-and-assyria-by-donald-alexander-mackenzie/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_of_babylonia_1201_librivox/mythsofbabyloniaandassyria_00_mackenzie_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:14:07]]></itunes:duration>
+  <pubDate>Sun, 29 Jan 2012 00:00:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_of_babylonia_1201_librivox/mythsofbabyloniaandassyria_00_mackenzie_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[01 - Introduction]]></title>
+    <itunes:episode><![CDATA[1]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-myths-of-babylonia-and-assyria-by-donald-alexander-mackenzie/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_of_babylonia_1201_librivox/mythsofbabyloniaandassyria_01_mackenzie_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:32:52]]></itunes:duration>
+  <pubDate>Sun, 29 Jan 2012 00:01:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_of_babylonia_1201_librivox/mythsofbabyloniaandassyria_01_mackenzie_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[02 - Chapter 1: The Races and Early Civilization of Babylonia]]></title>
+    <itunes:episode><![CDATA[2]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-myths-of-babylonia-and-assyria-by-donald-alexander-mackenzie/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_of_babylonia_1201_librivox/mythsofbabyloniaandassyria_02_mackenzie_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:33:44]]></itunes:duration>
+  <pubDate>Sun, 29 Jan 2012 00:02:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_of_babylonia_1201_librivox/mythsofbabyloniaandassyria_02_mackenzie_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[03 - Chapter 2: The Land of Rivers and the God of the Deep]]></title>
+    <itunes:episode><![CDATA[3]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-myths-of-babylonia-and-assyria-by-donald-alexander-mackenzie/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_of_babylonia_1201_librivox/mythsofbabyloniaandassyria_03_mackenzie_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:33:58]]></itunes:duration>
+  <pubDate>Sun, 29 Jan 2012 00:03:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_of_babylonia_1201_librivox/mythsofbabyloniaandassyria_03_mackenzie_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[04 - Chapter 3: Rival Pantheons and Representative Deities]]></title>
+    <itunes:episode><![CDATA[4]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-myths-of-babylonia-and-assyria-by-donald-alexander-mackenzie/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_of_babylonia_1201_librivox/mythsofbabyloniaandassyria_04_mackenzie_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:37:34]]></itunes:duration>
+  <pubDate>Sun, 29 Jan 2012 00:04:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_of_babylonia_1201_librivox/mythsofbabyloniaandassyria_04_mackenzie_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[05 - Chapter 4: Demons, Fairies, and Ghosts]]></title>
+    <itunes:episode><![CDATA[5]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-myths-of-babylonia-and-assyria-by-donald-alexander-mackenzie/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_of_babylonia_1201_librivox/mythsofbabyloniaandassyria_05_mackenzie_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:35:03]]></itunes:duration>
+  <pubDate>Sun, 29 Jan 2012 00:05:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_of_babylonia_1201_librivox/mythsofbabyloniaandassyria_05_mackenzie_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[06 - Chapter 5: Myths of Tammuz and Ishtar]]></title>
+    <itunes:episode><![CDATA[6]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-myths-of-babylonia-and-assyria-by-donald-alexander-mackenzie/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_of_babylonia_1201_librivox/mythsofbabyloniaandassyria_06_mackenzie_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:59:53]]></itunes:duration>
+  <pubDate>Sun, 29 Jan 2012 00:06:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_of_babylonia_1201_librivox/mythsofbabyloniaandassyria_06_mackenzie_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[07 - Chapter 6: Wars of the City States of Sumer and Akkad (Part 1)]]></title>
+    <itunes:episode><![CDATA[7]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-myths-of-babylonia-and-assyria-by-donald-alexander-mackenzie/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_of_babylonia_1201_librivox/mythsofbabyloniaandassyria_07_mackenzie_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:24:58]]></itunes:duration>
+  <pubDate>Sun, 29 Jan 2012 00:07:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_of_babylonia_1201_librivox/mythsofbabyloniaandassyria_07_mackenzie_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[08 - Chapter 6: Wars of the City States of Sumer and Akkad (Part 2)]]></title>
+    <itunes:episode><![CDATA[8]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-myths-of-babylonia-and-assyria-by-donald-alexander-mackenzie/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_of_babylonia_1201_librivox/mythsofbabyloniaandassyria_08_mackenzie_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:31:57]]></itunes:duration>
+  <pubDate>Sun, 29 Jan 2012 00:08:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_of_babylonia_1201_librivox/mythsofbabyloniaandassyria_08_mackenzie_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[09 - Chapter 7: Creation Legend: Merodach the Dragon Slayer]]></title>
+    <itunes:episode><![CDATA[9]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-myths-of-babylonia-and-assyria-by-donald-alexander-mackenzie/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_of_babylonia_1201_librivox/mythsofbabyloniaandassyria_09_mackenzie_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:45:22]]></itunes:duration>
+  <pubDate>Sun, 29 Jan 2012 00:09:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_of_babylonia_1201_librivox/mythsofbabyloniaandassyria_09_mackenzie_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[10 - Chapter 8: Deified Heroes: Etana and Gilgamesh]]></title>
+    <itunes:episode><![CDATA[10]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-myths-of-babylonia-and-assyria-by-donald-alexander-mackenzie/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_of_babylonia_1201_librivox/mythsofbabyloniaandassyria_10_mackenzie_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:39:35]]></itunes:duration>
+  <pubDate>Sun, 29 Jan 2012 00:10:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_of_babylonia_1201_librivox/mythsofbabyloniaandassyria_10_mackenzie_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[11 - Chapter 9: Deluge Legend, the Island of the Blessed, and Hades]]></title>
+    <itunes:episode><![CDATA[11]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-myths-of-babylonia-and-assyria-by-donald-alexander-mackenzie/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_of_babylonia_1201_librivox/mythsofbabyloniaandassyria_11_mackenzie_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:47:35]]></itunes:duration>
+  <pubDate>Sun, 29 Jan 2012 00:11:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_of_babylonia_1201_librivox/mythsofbabyloniaandassyria_11_mackenzie_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[12 - Chapter 10: Buildings and Laws and Customs of Babylon]]></title>
+    <itunes:episode><![CDATA[12]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-myths-of-babylonia-and-assyria-by-donald-alexander-mackenzie/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_of_babylonia_1201_librivox/mythsofbabyloniaandassyria_12_mackenzie_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:36:59]]></itunes:duration>
+  <pubDate>Sun, 29 Jan 2012 00:12:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_of_babylonia_1201_librivox/mythsofbabyloniaandassyria_12_mackenzie_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[13 - Chapter 11: The Golden Age of Babylonia]]></title>
+    <itunes:episode><![CDATA[13]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-myths-of-babylonia-and-assyria-by-donald-alexander-mackenzie/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_of_babylonia_1201_librivox/mythsofbabyloniaandassyria_13_mackenzie_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:33:35]]></itunes:duration>
+  <pubDate>Sun, 29 Jan 2012 00:13:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_of_babylonia_1201_librivox/mythsofbabyloniaandassyria_13_mackenzie_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[14 - Chapter 12: Rise of the Hittites, Mitannians, Kassites, Hyksos, and Assyrians]]></title>
+    <itunes:episode><![CDATA[14]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-myths-of-babylonia-and-assyria-by-donald-alexander-mackenzie/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_of_babylonia_1201_librivox/mythsofbabyloniaandassyria_14_mackenzie_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:48:18]]></itunes:duration>
+  <pubDate>Sun, 29 Jan 2012 00:14:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_of_babylonia_1201_librivox/mythsofbabyloniaandassyria_14_mackenzie_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[15 - Chapter 13: Astrology and Astronomy (Part 1)]]></title>
+    <itunes:episode><![CDATA[15]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-myths-of-babylonia-and-assyria-by-donald-alexander-mackenzie/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_of_babylonia_1201_librivox/mythsofbabyloniaandassyria_15_mackenzie_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:48:12]]></itunes:duration>
+  <pubDate>Sun, 29 Jan 2012 00:15:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_of_babylonia_1201_librivox/mythsofbabyloniaandassyria_15_mackenzie_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[16 - Chapter 13: Astrology and Astronomy (Part 2)]]></title>
+    <itunes:episode><![CDATA[16]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-myths-of-babylonia-and-assyria-by-donald-alexander-mackenzie/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_of_babylonia_1201_librivox/mythsofbabyloniaandassyria_16_mackenzie_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:40:19]]></itunes:duration>
+  <pubDate>Sun, 29 Jan 2012 00:16:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_of_babylonia_1201_librivox/mythsofbabyloniaandassyria_16_mackenzie_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[17 - Chapter 14: Ashur the National God of Assyria (Part 1)]]></title>
+    <itunes:episode><![CDATA[17]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-myths-of-babylonia-and-assyria-by-donald-alexander-mackenzie/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_of_babylonia_1201_librivox/mythsofbabyloniaandassyria_17_mackenzie_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:25:41]]></itunes:duration>
+  <pubDate>Sun, 29 Jan 2012 00:17:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_of_babylonia_1201_librivox/mythsofbabyloniaandassyria_17_mackenzie_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[18 - Chapter 14: Ashur the National God of Assyria (Part 2)]]></title>
+    <itunes:episode><![CDATA[18]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-myths-of-babylonia-and-assyria-by-donald-alexander-mackenzie/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_of_babylonia_1201_librivox/mythsofbabyloniaandassyria_18_mackenzie_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:26:24]]></itunes:duration>
+  <pubDate>Sun, 29 Jan 2012 00:18:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_of_babylonia_1201_librivox/mythsofbabyloniaandassyria_18_mackenzie_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[19 - Chapter 15: Conflicts for Trade and Supremacy]]></title>
+    <itunes:episode><![CDATA[19]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-myths-of-babylonia-and-assyria-by-donald-alexander-mackenzie/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_of_babylonia_1201_librivox/mythsofbabyloniaandassyria_19_mackenzie_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:32:55]]></itunes:duration>
+  <pubDate>Sun, 29 Jan 2012 00:19:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_of_babylonia_1201_librivox/mythsofbabyloniaandassyria_19_mackenzie_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[20 - Chapter 16: Race Movements that Shattered Empires]]></title>
+    <itunes:episode><![CDATA[20]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-myths-of-babylonia-and-assyria-by-donald-alexander-mackenzie/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_of_babylonia_1201_librivox/mythsofbabyloniaandassyria_20_mackenzie_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:30:15]]></itunes:duration>
+  <pubDate>Sun, 29 Jan 2012 00:20:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_of_babylonia_1201_librivox/mythsofbabyloniaandassyria_20_mackenzie_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[21 - Chapter 17: The Hebrews in Assyrian History]]></title>
+    <itunes:episode><![CDATA[21]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-myths-of-babylonia-and-assyria-by-donald-alexander-mackenzie/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_of_babylonia_1201_librivox/mythsofbabyloniaandassyria_21_mackenzie_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:43:00]]></itunes:duration>
+  <pubDate>Sun, 29 Jan 2012 00:21:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_of_babylonia_1201_librivox/mythsofbabyloniaandassyria_21_mackenzie_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[22 - Chapter 18: The Age of Semiramis]]></title>
+    <itunes:episode><![CDATA[22]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-myths-of-babylonia-and-assyria-by-donald-alexander-mackenzie/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_of_babylonia_1201_librivox/mythsofbabyloniaandassyria_22_mackenzie_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:51:13]]></itunes:duration>
+  <pubDate>Sun, 29 Jan 2012 00:22:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_of_babylonia_1201_librivox/mythsofbabyloniaandassyria_22_mackenzie_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[23 - Chapter 19: Assyria's Age of Splendour (Part 1)]]></title>
+    <itunes:episode><![CDATA[23]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-myths-of-babylonia-and-assyria-by-donald-alexander-mackenzie/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_of_babylonia_1201_librivox/mythsofbabyloniaandassyria_23_mackenzie_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:36:39]]></itunes:duration>
+  <pubDate>Sun, 29 Jan 2012 00:23:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_of_babylonia_1201_librivox/mythsofbabyloniaandassyria_23_mackenzie_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[24 - Chapter 19: Assyria's Age of Splendour (Part 2)]]></title>
+    <itunes:episode><![CDATA[24]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-myths-of-babylonia-and-assyria-by-donald-alexander-mackenzie/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_of_babylonia_1201_librivox/mythsofbabyloniaandassyria_24_mackenzie_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:36:12]]></itunes:duration>
+  <pubDate>Sun, 29 Jan 2012 00:24:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_of_babylonia_1201_librivox/mythsofbabyloniaandassyria_24_mackenzie_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[25 - Chapter 20: The Last Days of Assyria and Babylonia]]></title>
+    <itunes:episode><![CDATA[25]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-myths-of-babylonia-and-assyria-by-donald-alexander-mackenzie/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_of_babylonia_1201_librivox/mythsofbabyloniaandassyria_25_mackenzie_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:47:38]]></itunes:duration>
+  <pubDate>Sun, 29 Jan 2012 00:25:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_of_babylonia_1201_librivox/mythsofbabyloniaandassyria_25_mackenzie_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <!-- end file loop -->
+</channel>
+</rss>

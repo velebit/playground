@@ -1,0 +1,97 @@
+<?xml version="1.0" ?><rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+  <title><![CDATA[Lady of the Lake, The by Sir Walter Scott (1771 - 1832)]]></title>
+  <link><![CDATA[https://librivox.org/the-lady-of-the-lake-by-sir-walter-scott/]]></link>
+  <atom:link rel="self" href="https://librivox.org/rss/7021" />
+  <description><![CDATA[The scene of the following Poem is laid chiefly in the vicinity of Loch Katrine, in the Western Highlands of Perthshire. The time of Action includes Six Days, and the transactions of each Day occupy a Canto. (Summary by William J. Rolfe, ed.)]]></description>
+  <!--<genre>project element=Genre</genre>-->
+  <!--<language>project element=lang.code</language>-->
+  <itunes:type>serial</itunes:type>
+  <itunes:author>LibriVox</itunes:author>
+  <itunes:summary><![CDATA[The scene of the following Poem is laid chiefly in the vicinity of Loch Katrine, in the Western Highlands of Perthshire. The time of Action includes Six Days, and the transactions of each Day occupy a Canto. (Summary by William J. Rolfe, ed.)]]></itunes:summary>
+  <itunes:owner>
+    <itunes:name>LibriVox</itunes:name>
+    <itunes:email>info@librivox.org</itunes:email>
+  </itunes:owner>
+  <itunes:category text="Arts">
+    <itunes:category text="Literature" />
+  </itunes:category>
+  <image><url>https://archive.org/download/LibrivoxCdCoverArt22/lady_lake_1209.jpg</url></image>
+  <itunes:image href="https://archive.org/download/LibrivoxCdCoverArt22/lady_lake_1209.jpg"/>
+  <itunes:explicit>no</itunes:explicit>
+  <!-- file loop -->
+    <item>
+    <title><![CDATA[01 - Canto First - The Chase]]></title>
+    <itunes:episode><![CDATA[1]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-lady-of-the-lake-by-sir-walter-scott/]]></link>
+            <enclosure url="https://www.archive.org/download/lady_lake_1209_librivox/ladyofthelake_01_scott_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:41:25]]></itunes:duration>
+  <pubDate>Sat, 22 Sep 2012 00:00:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/lady_lake_1209_librivox/ladyofthelake_01_scott_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[02 - Canto Second - The Island]]></title>
+    <itunes:episode><![CDATA[2]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-lady-of-the-lake-by-sir-walter-scott/]]></link>
+            <enclosure url="https://www.archive.org/download/lady_lake_1209_librivox/ladyofthelake_02_scott_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:48:54]]></itunes:duration>
+  <pubDate>Sat, 22 Sep 2012 00:01:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/lady_lake_1209_librivox/ladyofthelake_02_scott_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[03 - Canto Third - The Gathering]]></title>
+    <itunes:episode><![CDATA[3]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-lady-of-the-lake-by-sir-walter-scott/]]></link>
+            <enclosure url="https://www.archive.org/download/lady_lake_1209_librivox/ladyofthelake_03_scott_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:41:33]]></itunes:duration>
+  <pubDate>Sat, 22 Sep 2012 00:02:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/lady_lake_1209_librivox/ladyofthelake_03_scott_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[04 - Canto Fourth - The Prophecy]]></title>
+    <itunes:episode><![CDATA[4]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-lady-of-the-lake-by-sir-walter-scott/]]></link>
+            <enclosure url="https://www.archive.org/download/lady_lake_1209_librivox/ladyofthelake_04_scott_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:44:28]]></itunes:duration>
+  <pubDate>Sat, 22 Sep 2012 00:03:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/lady_lake_1209_librivox/ladyofthelake_04_scott_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[05 - Canto Fifth - The Combat]]></title>
+    <itunes:episode><![CDATA[5]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-lady-of-the-lake-by-sir-walter-scott/]]></link>
+            <enclosure url="https://www.archive.org/download/lady_lake_1209_librivox/ladyofthelake_05_scott_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:50:34]]></itunes:duration>
+  <pubDate>Sat, 22 Sep 2012 00:04:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/lady_lake_1209_librivox/ladyofthelake_05_scott_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[06 - Canto Sixth - The Guard-room]]></title>
+    <itunes:episode><![CDATA[6]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-lady-of-the-lake-by-sir-walter-scott/]]></link>
+            <enclosure url="https://www.archive.org/download/lady_lake_1209_librivox/ladyofthelake_06_scott_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:50:29]]></itunes:duration>
+  <pubDate>Sat, 22 Sep 2012 00:05:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/lady_lake_1209_librivox/ladyofthelake_06_scott_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <!-- end file loop -->
+</channel>
+</rss>

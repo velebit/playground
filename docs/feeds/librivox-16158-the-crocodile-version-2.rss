@@ -1,0 +1,73 @@
+<?xml version="1.0" ?><rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+  <title><![CDATA[Crocodile (Version 2), The by Fyodor Dostoyevsky (1821 - 1881)]]></title>
+  <link><![CDATA[https://librivox.org/the-crocodile-by-fyodor-dostoyevsky-2/]]></link>
+  <atom:link rel="self" href="https://librivox.org/rss/16158" />
+  <description><![CDATA[ Fyodor Dostoevesky's "The Crocodile," first published in 1865 in the magazine "Epoch," is the story of Ivan Matveitch, a young man who gets swallowed by a crocodile, and survives. What will life be like for him, inside the crocodile? How will his marriage with Elena Ivanovna fare? (Summary by Phillip Cryan)]]></description>
+  <!--<genre>project element=Genre</genre>-->
+  <!--<language>project element=lang.code</language>-->
+  <itunes:type>serial</itunes:type>
+  <itunes:author>LibriVox</itunes:author>
+  <itunes:summary><![CDATA[ Fyodor Dostoevesky's "The Crocodile," first published in 1865 in the magazine "Epoch," is the story of Ivan Matveitch, a young man who gets swallowed by a crocodile, and survives. What will life be like for him, inside the crocodile? How will his marriage with Elena Ivanovna fare? (Summary by Phillip Cryan)]]></itunes:summary>
+  <itunes:owner>
+    <itunes:name>LibriVox</itunes:name>
+    <itunes:email>info@librivox.org</itunes:email>
+  </itunes:owner>
+  <itunes:category text="Arts">
+    <itunes:category text="Literature" />
+  </itunes:category>
+  <image><url>https://archive.org/download/crocodile_2103_librivox/crocodile_2103.jpg</url></image>
+  <itunes:image href="https://archive.org/download/crocodile_2103_librivox/crocodile_2103.jpg"/>
+  <itunes:explicit>no</itunes:explicit>
+  <!-- file loop -->
+    <item>
+    <title><![CDATA[Chapter 1]]></title>
+    <itunes:episode><![CDATA[1]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-crocodile-by-fyodor-dostoyevsky-2/]]></link>
+            <enclosure url="https://www.archive.org/download/crocodile_2103_librivox/crocodile_01_dostoyevsky_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Tue, 09 Mar 2021 00:00:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/crocodile_2103_librivox/crocodile_01_dostoyevsky_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Chapter 2]]></title>
+    <itunes:episode><![CDATA[2]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-crocodile-by-fyodor-dostoyevsky-2/]]></link>
+            <enclosure url="https://www.archive.org/download/crocodile_2103_librivox/crocodile_02_dostoyevsky_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Tue, 09 Mar 2021 00:01:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/crocodile_2103_librivox/crocodile_02_dostoyevsky_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Chapter 3]]></title>
+    <itunes:episode><![CDATA[3]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-crocodile-by-fyodor-dostoyevsky-2/]]></link>
+            <enclosure url="https://www.archive.org/download/crocodile_2103_librivox/crocodile_03_dostoyevsky_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Tue, 09 Mar 2021 00:02:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/crocodile_2103_librivox/crocodile_03_dostoyevsky_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Chapter 4]]></title>
+    <itunes:episode><![CDATA[4]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-crocodile-by-fyodor-dostoyevsky-2/]]></link>
+            <enclosure url="https://www.archive.org/download/crocodile_2103_librivox/crocodile_04_dostoyevsky_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Tue, 09 Mar 2021 00:03:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/crocodile_2103_librivox/crocodile_04_dostoyevsky_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <!-- end file loop -->
+</channel>
+</rss>

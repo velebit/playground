@@ -1,0 +1,289 @@
+<?xml version="1.0" ?><rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+  <title><![CDATA[Singing Mouse Stories, The by Emerson Hough (1857 - 1923)]]></title>
+  <link><![CDATA[https://librivox.org/the-singing-mouse-stories-by-emerson-hough/]]></link>
+  <atom:link rel="self" href="https://librivox.org/rss/4165" />
+  <description><![CDATA[The singing mouse tells tales of nature in songs. This book is for those who want to know how the mountains ate up the plains, what the waters said or where the city went. (summary by Nadine)]]></description>
+  <!--<genre>project element=Genre</genre>-->
+  <!--<language>project element=lang.code</language>-->
+  <itunes:type>serial</itunes:type>
+  <itunes:author>LibriVox</itunes:author>
+  <itunes:summary><![CDATA[The singing mouse tells tales of nature in songs. This book is for those who want to know how the mountains ate up the plains, what the waters said or where the city went. (summary by Nadine)]]></itunes:summary>
+  <itunes:owner>
+    <itunes:name>LibriVox</itunes:name>
+    <itunes:email>info@librivox.org</itunes:email>
+  </itunes:owner>
+  <itunes:category text="Arts">
+    <itunes:category text="Literature" />
+  </itunes:category>
+  <image><url>https://www.archive.org/download/LibrivoxCdCoverArt5/singingmousestories_1007.jpg</url></image>
+  <itunes:image href="https://www.archive.org/download/LibrivoxCdCoverArt5/singingmousestories_1007.jpg"/>
+  <itunes:explicit>no</itunes:explicit>
+  <!-- file loop -->
+    <item>
+    <title><![CDATA[01 - The Land of the Singing Mouse]]></title>
+    <itunes:episode><![CDATA[1]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-singing-mouse-stories-by-emerson-hough/]]></link>
+            <enclosure url="https://www.archive.org/download/singing_mouse_1006_librivox/singingmousestories_01_hough_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:03:14]]></itunes:duration>
+  <pubDate>Tue, 22 Jun 2010 00:00:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/singing_mouse_1006_librivox/singingmousestories_01_hough_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[02 - The Burden of a Song]]></title>
+    <itunes:episode><![CDATA[2]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-singing-mouse-stories-by-emerson-hough/]]></link>
+            <enclosure url="https://www.archive.org/download/singing_mouse_1006_librivox/singingmousestories_02_hough_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:09:08]]></itunes:duration>
+  <pubDate>Tue, 22 Jun 2010 00:01:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/singing_mouse_1006_librivox/singingmousestories_02_hough_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[03 - The Little River]]></title>
+    <itunes:episode><![CDATA[3]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-singing-mouse-stories-by-emerson-hough/]]></link>
+            <enclosure url="https://www.archive.org/download/singing_mouse_1006_librivox/singingmousestories_03_hough_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:07:09]]></itunes:duration>
+  <pubDate>Tue, 22 Jun 2010 00:02:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/singing_mouse_1006_librivox/singingmousestories_03_hough_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[04 - What the Waters Said]]></title>
+    <itunes:episode><![CDATA[4]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-singing-mouse-stories-by-emerson-hough/]]></link>
+            <enclosure url="https://www.archive.org/download/singing_mouse_1006_librivox/singingmousestories_04_hough_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:07:55]]></itunes:duration>
+  <pubDate>Tue, 22 Jun 2010 00:03:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/singing_mouse_1006_librivox/singingmousestories_04_hough_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[05 - Lake Belle-Marie]]></title>
+    <itunes:episode><![CDATA[5]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-singing-mouse-stories-by-emerson-hough/]]></link>
+            <enclosure url="https://www.archive.org/download/singing_mouse_1006_librivox/singingmousestories_05_hough_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:06:34]]></itunes:duration>
+  <pubDate>Tue, 22 Jun 2010 00:04:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/singing_mouse_1006_librivox/singingmousestories_05_hough_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[06 - The Skull and the Rose]]></title>
+    <itunes:episode><![CDATA[6]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-singing-mouse-stories-by-emerson-hough/]]></link>
+            <enclosure url="https://www.archive.org/download/singing_mouse_1006_librivox/singingmousestories_06_hough_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:06:38]]></itunes:duration>
+  <pubDate>Tue, 22 Jun 2010 00:05:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/singing_mouse_1006_librivox/singingmousestories_06_hough_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[07 - The Man of the Mountain]]></title>
+    <itunes:episode><![CDATA[7]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-singing-mouse-stories-by-emerson-hough/]]></link>
+            <enclosure url="https://www.archive.org/download/singing_mouse_1006_librivox/singingmousestories_07_hough_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:03:06]]></itunes:duration>
+  <pubDate>Tue, 22 Jun 2010 00:06:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/singing_mouse_1006_librivox/singingmousestories_07_hough_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[08 - At the Place of the Oaks]]></title>
+    <itunes:episode><![CDATA[8]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-singing-mouse-stories-by-emerson-hough/]]></link>
+            <enclosure url="https://www.archive.org/download/singing_mouse_1006_librivox/singingmousestories_08_hough_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:11:40]]></itunes:duration>
+  <pubDate>Tue, 22 Jun 2010 00:07:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/singing_mouse_1006_librivox/singingmousestories_08_hough_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[09 - The Birth of the Hours]]></title>
+    <itunes:episode><![CDATA[9]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-singing-mouse-stories-by-emerson-hough/]]></link>
+            <enclosure url="https://www.archive.org/download/singing_mouse_1006_librivox/singingmousestories_09_hough_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:04:10]]></itunes:duration>
+  <pubDate>Tue, 22 Jun 2010 00:08:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/singing_mouse_1006_librivox/singingmousestories_09_hough_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[10 - The Stone That Had No Thought]]></title>
+    <itunes:episode><![CDATA[10]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-singing-mouse-stories-by-emerson-hough/]]></link>
+            <enclosure url="https://www.archive.org/download/singing_mouse_1006_librivox/singingmousestories_10_hough_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:01:54]]></itunes:duration>
+  <pubDate>Tue, 22 Jun 2010 00:09:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/singing_mouse_1006_librivox/singingmousestories_10_hough_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[11 - The Tear and the Smile]]></title>
+    <itunes:episode><![CDATA[11]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-singing-mouse-stories-by-emerson-hough/]]></link>
+            <enclosure url="https://www.archive.org/download/singing_mouse_1006_librivox/singingmousestories_11_hough_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:07:19]]></itunes:duration>
+  <pubDate>Tue, 22 Jun 2010 00:10:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/singing_mouse_1006_librivox/singingmousestories_11_hough_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[12 - How the Mountains Ate Up the Plains]]></title>
+    <itunes:episode><![CDATA[12]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-singing-mouse-stories-by-emerson-hough/]]></link>
+            <enclosure url="https://www.archive.org/download/singing_mouse_1006_librivox/singingmousestories_12_hough_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:03:23]]></itunes:duration>
+  <pubDate>Tue, 22 Jun 2010 00:11:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/singing_mouse_1006_librivox/singingmousestories_12_hough_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[13 - The Savage and Its Heart]]></title>
+    <itunes:episode><![CDATA[13]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-singing-mouse-stories-by-emerson-hough/]]></link>
+            <enclosure url="https://www.archive.org/download/singing_mouse_1006_librivox/singingmousestories_13_hough_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:01:28]]></itunes:duration>
+  <pubDate>Tue, 22 Jun 2010 00:12:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/singing_mouse_1006_librivox/singingmousestories_13_hough_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[14 - The Beast Terrible]]></title>
+    <itunes:episode><![CDATA[14]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-singing-mouse-stories-by-emerson-hough/]]></link>
+            <enclosure url="https://www.archive.org/download/singing_mouse_1006_librivox/singingmousestories_14_hough_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:12:39]]></itunes:duration>
+  <pubDate>Tue, 22 Jun 2010 00:13:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/singing_mouse_1006_librivox/singingmousestories_14_hough_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[15 - The Passing of Men]]></title>
+    <itunes:episode><![CDATA[15]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-singing-mouse-stories-by-emerson-hough/]]></link>
+            <enclosure url="https://www.archive.org/download/singing_mouse_1006_librivox/singingmousestories_15_hough_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:08:17]]></itunes:duration>
+  <pubDate>Tue, 22 Jun 2010 00:14:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/singing_mouse_1006_librivox/singingmousestories_15_hough_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[16 - The House of Truth]]></title>
+    <itunes:episode><![CDATA[16]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-singing-mouse-stories-by-emerson-hough/]]></link>
+            <enclosure url="https://www.archive.org/download/singing_mouse_1006_librivox/singingmousestories_16_hough_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:11:01]]></itunes:duration>
+  <pubDate>Tue, 22 Jun 2010 00:15:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/singing_mouse_1006_librivox/singingmousestories_16_hough_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[17 - Where the City Went]]></title>
+    <itunes:episode><![CDATA[17]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-singing-mouse-stories-by-emerson-hough/]]></link>
+            <enclosure url="https://www.archive.org/download/singing_mouse_1006_librivox/singingmousestories_17_hough_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:08:09]]></itunes:duration>
+  <pubDate>Tue, 22 Jun 2010 00:16:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/singing_mouse_1006_librivox/singingmousestories_17_hough_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[18 - The Bell and the Shadows]]></title>
+    <itunes:episode><![CDATA[18]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-singing-mouse-stories-by-emerson-hough/]]></link>
+            <enclosure url="https://www.archive.org/download/singing_mouse_1006_librivox/singingmousestories_18_hough_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:09:23]]></itunes:duration>
+  <pubDate>Tue, 22 Jun 2010 00:17:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/singing_mouse_1006_librivox/singingmousestories_18_hough_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[19 - Of the Greatest Sorrow]]></title>
+    <itunes:episode><![CDATA[19]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-singing-mouse-stories-by-emerson-hough/]]></link>
+            <enclosure url="https://www.archive.org/download/singing_mouse_1006_librivox/singingmousestories_19_hough_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:06:19]]></itunes:duration>
+  <pubDate>Tue, 22 Jun 2010 00:18:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/singing_mouse_1006_librivox/singingmousestories_19_hough_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[20 - The Shoes of the Princess]]></title>
+    <itunes:episode><![CDATA[20]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-singing-mouse-stories-by-emerson-hough/]]></link>
+            <enclosure url="https://www.archive.org/download/singing_mouse_1006_librivox/singingmousestories_20_hough_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:08:43]]></itunes:duration>
+  <pubDate>Tue, 22 Jun 2010 00:19:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/singing_mouse_1006_librivox/singingmousestories_20_hough_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[21 - Of White Moths]]></title>
+    <itunes:episode><![CDATA[21]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-singing-mouse-stories-by-emerson-hough/]]></link>
+            <enclosure url="https://www.archive.org/download/singing_mouse_1006_librivox/singingmousestories_21_hough_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:02:23]]></itunes:duration>
+  <pubDate>Tue, 22 Jun 2010 00:20:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/singing_mouse_1006_librivox/singingmousestories_21_hough_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[22 - The House of Dreams]]></title>
+    <itunes:episode><![CDATA[22]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-singing-mouse-stories-by-emerson-hough/]]></link>
+            <enclosure url="https://www.archive.org/download/singing_mouse_1006_librivox/singingmousestories_22_hough_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:03:30]]></itunes:duration>
+  <pubDate>Tue, 22 Jun 2010 00:21:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/singing_mouse_1006_librivox/singingmousestories_22_hough_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <!-- end file loop -->
+</channel>
+</rss>

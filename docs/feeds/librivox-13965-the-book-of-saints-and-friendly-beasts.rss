@@ -1,0 +1,265 @@
+<?xml version="1.0" ?><rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+  <title><![CDATA[Book of Saints and Friendly Beasts, The by Abbie Farwell Brown (1871 - 1927)]]></title>
+  <link><![CDATA[https://librivox.org/the-book-of-saints-and-friendly-beasts-by-abbie-farwell-brown/]]></link>
+  <atom:link rel="self" href="https://librivox.org/rss/13965" />
+  <description><![CDATA[Poems and Christian stories of the animal encounters of various saints. - Summary by Wikipedia]]></description>
+  <!--<genre>project element=Genre</genre>-->
+  <!--<language>project element=lang.code</language>-->
+  <itunes:type>serial</itunes:type>
+  <itunes:author>LibriVox</itunes:author>
+  <itunes:summary><![CDATA[Poems and Christian stories of the animal encounters of various saints. - Summary by Wikipedia]]></itunes:summary>
+  <itunes:owner>
+    <itunes:name>LibriVox</itunes:name>
+    <itunes:email>info@librivox.org</itunes:email>
+  </itunes:owner>
+  <itunes:category text="Arts">
+    <itunes:category text="Literature" />
+  </itunes:category>
+  <image><url>https://archive.org/download/saintsandfriendlybeasts_1909_librivox/book_saints_friendly_beasts_1909.jpg</url></image>
+  <itunes:image href="https://archive.org/download/saintsandfriendlybeasts_1909_librivox/book_saints_friendly_beasts_1909.jpg"/>
+  <itunes:explicit>no</itunes:explicit>
+  <!-- file loop -->
+    <item>
+    <title><![CDATA[Saint Bridget and the King's Wolf]]></title>
+    <itunes:episode><![CDATA[1]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-book-of-saints-and-friendly-beasts-by-abbie-farwell-brown/]]></link>
+            <enclosure url="https://www.archive.org/download/saintsandfriendlybeasts_1909_librivox/saintsandbeasts_01_brown_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Tue, 10 Sep 2019 00:00:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/saintsandfriendlybeasts_1909_librivox/saintsandbeasts_01_brown_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Saint Gerasimus and the Lion]]></title>
+    <itunes:episode><![CDATA[2]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-book-of-saints-and-friendly-beasts-by-abbie-farwell-brown/]]></link>
+            <enclosure url="https://www.archive.org/download/saintsandfriendlybeasts_1909_librivox/saintsandbeasts_02_brown_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Tue, 10 Sep 2019 00:01:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/saintsandfriendlybeasts_1909_librivox/saintsandbeasts_02_brown_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Saint Keneth of the Gulls]]></title>
+    <itunes:episode><![CDATA[3]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-book-of-saints-and-friendly-beasts-by-abbie-farwell-brown/]]></link>
+            <enclosure url="https://www.archive.org/download/saintsandfriendlybeasts_1909_librivox/saintsandbeasts_03_brown_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Tue, 10 Sep 2019 00:02:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/saintsandfriendlybeasts_1909_librivox/saintsandbeasts_03_brown_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Saint Launomar's Cow]]></title>
+    <itunes:episode><![CDATA[4]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-book-of-saints-and-friendly-beasts-by-abbie-farwell-brown/]]></link>
+            <enclosure url="https://www.archive.org/download/saintsandfriendlybeasts_1909_librivox/saintsandbeasts_04_brown_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Tue, 10 Sep 2019 00:03:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/saintsandfriendlybeasts_1909_librivox/saintsandbeasts_04_brown_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Saint Werburgh and her Goose]]></title>
+    <itunes:episode><![CDATA[5]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-book-of-saints-and-friendly-beasts-by-abbie-farwell-brown/]]></link>
+            <enclosure url="https://www.archive.org/download/saintsandfriendlybeasts_1909_librivox/saintsandbeasts_05_brown_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Tue, 10 Sep 2019 00:04:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/saintsandfriendlybeasts_1909_librivox/saintsandbeasts_05_brown_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Ballad of Saint Athracta's Stags]]></title>
+    <itunes:episode><![CDATA[6]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-book-of-saints-and-friendly-beasts-by-abbie-farwell-brown/]]></link>
+            <enclosure url="https://www.archive.org/download/saintsandfriendlybeasts_1909_librivox/saintsandbeasts_06_brown_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Tue, 10 Sep 2019 00:05:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/saintsandfriendlybeasts_1909_librivox/saintsandbeasts_06_brown_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Saint Kentigern and the Robin]]></title>
+    <itunes:episode><![CDATA[7]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-book-of-saints-and-friendly-beasts-by-abbie-farwell-brown/]]></link>
+            <enclosure url="https://www.archive.org/download/saintsandfriendlybeasts_1909_librivox/saintsandbeasts_07_brown_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Tue, 10 Sep 2019 00:06:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/saintsandfriendlybeasts_1909_librivox/saintsandbeasts_07_brown_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Saint Blaise and his Beasts]]></title>
+    <itunes:episode><![CDATA[8]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-book-of-saints-and-friendly-beasts-by-abbie-farwell-brown/]]></link>
+            <enclosure url="https://www.archive.org/download/saintsandfriendlybeasts_1909_librivox/saintsandbeasts_08_brown_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Tue, 10 Sep 2019 00:07:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/saintsandfriendlybeasts_1909_librivox/saintsandbeasts_08_brown_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Saint Cuthbert's Peace]]></title>
+    <itunes:episode><![CDATA[9]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-book-of-saints-and-friendly-beasts-by-abbie-farwell-brown/]]></link>
+            <enclosure url="https://www.archive.org/download/saintsandfriendlybeasts_1909_librivox/saintsandbeasts_09_brown_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Tue, 10 Sep 2019 00:08:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/saintsandfriendlybeasts_1909_librivox/saintsandbeasts_09_brown_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Ballad of Saint Felix]]></title>
+    <itunes:episode><![CDATA[10]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-book-of-saints-and-friendly-beasts-by-abbie-farwell-brown/]]></link>
+            <enclosure url="https://www.archive.org/download/saintsandfriendlybeasts_1909_librivox/saintsandbeasts_10_brown_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Tue, 10 Sep 2019 00:09:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/saintsandfriendlybeasts_1909_librivox/saintsandbeasts_10_brown_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Saint Fronto's Camels]]></title>
+    <itunes:episode><![CDATA[11]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-book-of-saints-and-friendly-beasts-by-abbie-farwell-brown/]]></link>
+            <enclosure url="https://www.archive.org/download/saintsandfriendlybeasts_1909_librivox/saintsandbeasts_11_brown_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Tue, 10 Sep 2019 00:10:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/saintsandfriendlybeasts_1909_librivox/saintsandbeasts_11_brown_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Blind Singer, Saint Hervé]]></title>
+    <itunes:episode><![CDATA[12]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-book-of-saints-and-friendly-beasts-by-abbie-farwell-brown/]]></link>
+            <enclosure url="https://www.archive.org/download/saintsandfriendlybeasts_1909_librivox/saintsandbeasts_12_brown_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Tue, 10 Sep 2019 00:11:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/saintsandfriendlybeasts_1909_librivox/saintsandbeasts_12_brown_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Saint Comgall and the Mice]]></title>
+    <itunes:episode><![CDATA[13]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-book-of-saints-and-friendly-beasts-by-abbie-farwell-brown/]]></link>
+            <enclosure url="https://www.archive.org/download/saintsandfriendlybeasts_1909_librivox/saintsandbeasts_13_brown_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Tue, 10 Sep 2019 00:12:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/saintsandfriendlybeasts_1909_librivox/saintsandbeasts_13_brown_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Wonders of Saint Berach]]></title>
+    <itunes:episode><![CDATA[14]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-book-of-saints-and-friendly-beasts-by-abbie-farwell-brown/]]></link>
+            <enclosure url="https://www.archive.org/download/saintsandfriendlybeasts_1909_librivox/saintsandbeasts_14_brown_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Tue, 10 Sep 2019 00:13:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/saintsandfriendlybeasts_1909_librivox/saintsandbeasts_14_brown_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Saint Prisca, the Child Martyr]]></title>
+    <itunes:episode><![CDATA[15]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-book-of-saints-and-friendly-beasts-by-abbie-farwell-brown/]]></link>
+            <enclosure url="https://www.archive.org/download/saintsandfriendlybeasts_1909_librivox/saintsandbeasts_15_brown_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Tue, 10 Sep 2019 00:14:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/saintsandfriendlybeasts_1909_librivox/saintsandbeasts_15_brown_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[  The Fish who helped Saint Gudwall]]></title>
+    <itunes:episode><![CDATA[16]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-book-of-saints-and-friendly-beasts-by-abbie-farwell-brown/]]></link>
+            <enclosure url="https://www.archive.org/download/saintsandfriendlybeasts_1909_librivox/saintsandbeasts_16_brown_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Tue, 10 Sep 2019 00:15:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/saintsandfriendlybeasts_1909_librivox/saintsandbeasts_16_brown_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Ballad of Saint Giles and the Deer]]></title>
+    <itunes:episode><![CDATA[17]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-book-of-saints-and-friendly-beasts-by-abbie-farwell-brown/]]></link>
+            <enclosure url="https://www.archive.org/download/saintsandfriendlybeasts_1909_librivox/saintsandbeasts_17_brown_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Tue, 10 Sep 2019 00:16:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/saintsandfriendlybeasts_1909_librivox/saintsandbeasts_17_brown_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Wolf-Mother of Saint Ailbe]]></title>
+    <itunes:episode><![CDATA[18]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-book-of-saints-and-friendly-beasts-by-abbie-farwell-brown/]]></link>
+            <enclosure url="https://www.archive.org/download/saintsandfriendlybeasts_1909_librivox/saintsandbeasts_18_brown_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Tue, 10 Sep 2019 00:17:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/saintsandfriendlybeasts_1909_librivox/saintsandbeasts_18_brown_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Saint Rigobert's Dinner]]></title>
+    <itunes:episode><![CDATA[19]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-book-of-saints-and-friendly-beasts-by-abbie-farwell-brown/]]></link>
+            <enclosure url="https://www.archive.org/download/saintsandfriendlybeasts_1909_librivox/saintsandbeasts_19_brown_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Tue, 10 Sep 2019 00:18:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/saintsandfriendlybeasts_1909_librivox/saintsandbeasts_19_brown_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Saint Francis of Assisi]]></title>
+    <itunes:episode><![CDATA[20]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-book-of-saints-and-friendly-beasts-by-abbie-farwell-brown/]]></link>
+            <enclosure url="https://www.archive.org/download/saintsandfriendlybeasts_1909_librivox/saintsandbeasts_20_brown_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Tue, 10 Sep 2019 00:19:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/saintsandfriendlybeasts_1909_librivox/saintsandbeasts_20_brown_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <!-- end file loop -->
+</channel>
+</rss>

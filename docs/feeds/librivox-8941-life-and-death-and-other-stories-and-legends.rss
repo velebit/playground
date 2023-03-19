@@ -1,0 +1,85 @@
+<?xml version="1.0" ?><rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+  <title><![CDATA[Life and Death, and Other Stories and Legends by Henryk Sienkiewicz (1846 - 1916)]]></title>
+  <link><![CDATA[https://librivox.org/life-and-death-and-other-stories-and-legends-by-henryk-sienkiewicz/]]></link>
+  <atom:link rel="self" href="https://librivox.org/rss/8941" />
+  <description><![CDATA[Henryk Sienkiewicz won the Nobel Prize for Literature in 1905, but as he wrote in Polish many English-speakers are unfamiliar with his work. This short story collection is a sampler of five myths and legends which he collected. The "Life and Death" of the title is a Hindu legend, the rest of Polish stories. All are short and together form a little taste of this great author who is too often unknown to English readers. - Summary by Beth Thomas]]></description>
+  <!--<genre>project element=Genre</genre>-->
+  <!--<language>project element=lang.code</language>-->
+  <itunes:type>serial</itunes:type>
+  <itunes:author>LibriVox</itunes:author>
+  <itunes:summary><![CDATA[Henryk Sienkiewicz won the Nobel Prize for Literature in 1905, but as he wrote in Polish many English-speakers are unfamiliar with his work. This short story collection is a sampler of five myths and legends which he collected. The "Life and Death" of the title is a Hindu legend, the rest of Polish stories. All are short and together form a little taste of this great author who is too often unknown to English readers. - Summary by Beth Thomas]]></itunes:summary>
+  <itunes:owner>
+    <itunes:name>LibriVox</itunes:name>
+    <itunes:email>info@librivox.org</itunes:email>
+  </itunes:owner>
+  <itunes:category text="Arts">
+    <itunes:category text="Literature" />
+  </itunes:category>
+  <image><url>https://archive.org/download/lifeanddeath_1406_librivox/life_death_1406.jpg</url></image>
+  <itunes:image href="https://archive.org/download/lifeanddeath_1406_librivox/life_death_1406.jpg"/>
+  <itunes:explicit>no</itunes:explicit>
+  <!-- file loop -->
+    <item>
+    <title><![CDATA[Life and Death]]></title>
+    <itunes:episode><![CDATA[1]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/life-and-death-and-other-stories-and-legends-by-henryk-sienkiewicz/]]></link>
+            <enclosure url="https://www.archive.org/download/lifeanddeath_1406_librivox/lifeanddeath_01_sienkiewicz_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Tue, 17 Jun 2014 00:00:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/lifeanddeath_1406_librivox/lifeanddeath_01_sienkiewicz_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Is He the Dearest One?]]></title>
+    <itunes:episode><![CDATA[2]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/life-and-death-and-other-stories-and-legends-by-henryk-sienkiewicz/]]></link>
+            <enclosure url="https://www.archive.org/download/lifeanddeath_1406_librivox/lifeanddeath_02_sienkiewicz_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Tue, 17 Jun 2014 00:01:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/lifeanddeath_1406_librivox/lifeanddeath_02_sienkiewicz_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[A Legend of the Sea]]></title>
+    <itunes:episode><![CDATA[3]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/life-and-death-and-other-stories-and-legends-by-henryk-sienkiewicz/]]></link>
+            <enclosure url="https://www.archive.org/download/lifeanddeath_1406_librivox/lifeanddeath_03_sienkiewicz_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Tue, 17 Jun 2014 00:02:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/lifeanddeath_1406_librivox/lifeanddeath_03_sienkiewicz_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Cranes]]></title>
+    <itunes:episode><![CDATA[4]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/life-and-death-and-other-stories-and-legends-by-henryk-sienkiewicz/]]></link>
+            <enclosure url="https://www.archive.org/download/lifeanddeath_1406_librivox/lifeanddeath_04_sienkiewicz_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Tue, 17 Jun 2014 00:03:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/lifeanddeath_1406_librivox/lifeanddeath_04_sienkiewicz_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Judgement of Peter and Paul on Olympus]]></title>
+    <itunes:episode><![CDATA[5]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/life-and-death-and-other-stories-and-legends-by-henryk-sienkiewicz/]]></link>
+            <enclosure url="https://www.archive.org/download/lifeanddeath_1406_librivox/lifeanddeath_05_sienkiewicz_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Tue, 17 Jun 2014 00:04:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/lifeanddeath_1406_librivox/lifeanddeath_05_sienkiewicz_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <!-- end file loop -->
+</channel>
+</rss>

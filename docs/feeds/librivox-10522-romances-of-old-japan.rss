@@ -1,0 +1,217 @@
+<?xml version="1.0" ?><rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+  <title><![CDATA[Romances of Old Japan by Yei Theodora Ozaki (1871 - 1932)]]></title>
+  <link><![CDATA[https://librivox.org/romances-of-old-japan-by-yei-theodora-ozaki/]]></link>
+  <atom:link rel="self" href="https://librivox.org/rss/10522" />
+  <description><![CDATA[A collection of romances from old Japan rendered into English by Yei Theodora Ozaki. Filled with tales of honor, adventure, tragedy, and romance, this collection will surely give anyone interested in Japanese culture and literature (as well as anyone who can appreciate a good story well-told) an insightful and enjoyable experience. (Summary by mlcui) ]]></description>
+  <!--<genre>project element=Genre</genre>-->
+  <!--<language>project element=lang.code</language>-->
+  <itunes:type>serial</itunes:type>
+  <itunes:author>LibriVox</itunes:author>
+  <itunes:summary><![CDATA[A collection of romances from old Japan rendered into English by Yei Theodora Ozaki. Filled with tales of honor, adventure, tragedy, and romance, this collection will surely give anyone interested in Japanese culture and literature (as well as anyone who can appreciate a good story well-told) an insightful and enjoyable experience. (Summary by mlcui) ]]></itunes:summary>
+  <itunes:owner>
+    <itunes:name>LibriVox</itunes:name>
+    <itunes:email>info@librivox.org</itunes:email>
+  </itunes:owner>
+  <itunes:category text="Arts">
+    <itunes:category text="Literature" />
+  </itunes:category>
+  <image><url>https://archive.org/download/librivoxcCDCoverArt35/oldjapan_1612.jpg</url></image>
+  <itunes:image href="https://archive.org/download/librivoxcCDCoverArt35/oldjapan_1612.jpg"/>
+  <itunes:explicit>no</itunes:explicit>
+  <!-- file loop -->
+    <item>
+    <title><![CDATA[The Quest of the Sword - Part 1]]></title>
+    <itunes:episode><![CDATA[1]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/romances-of-old-japan-by-yei-theodora-ozaki/]]></link>
+            <enclosure url="https://www.archive.org/download/romances_of_old_japan_1612_librivox/romancesofoldjapan_01_ozaki_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 09 Dec 2016 00:00:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/romances_of_old_japan_1612_librivox/romancesofoldjapan_01_ozaki_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Quest of the Sword - Part 2]]></title>
+    <itunes:episode><![CDATA[2]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/romances-of-old-japan-by-yei-theodora-ozaki/]]></link>
+            <enclosure url="https://www.archive.org/download/romances_of_old_japan_1612_librivox/romancesofoldjapan_02_ozaki_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 09 Dec 2016 00:01:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/romances_of_old_japan_1612_librivox/romancesofoldjapan_02_ozaki_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Quest of the Sword - Part 3]]></title>
+    <itunes:episode><![CDATA[3]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/romances-of-old-japan-by-yei-theodora-ozaki/]]></link>
+            <enclosure url="https://www.archive.org/download/romances_of_old_japan_1612_librivox/romancesofoldjapan_03_ozaki_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 09 Dec 2016 00:02:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/romances_of_old_japan_1612_librivox/romancesofoldjapan_03_ozaki_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Quest of the Sword - Part 4]]></title>
+    <itunes:episode><![CDATA[4]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/romances-of-old-japan-by-yei-theodora-ozaki/]]></link>
+            <enclosure url="https://www.archive.org/download/romances_of_old_japan_1612_librivox/romancesofoldjapan_04_ozaki_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 09 Dec 2016 00:03:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/romances_of_old_japan_1612_librivox/romancesofoldjapan_04_ozaki_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Tragedy of Kesa Gozen]]></title>
+    <itunes:episode><![CDATA[5]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/romances-of-old-japan-by-yei-theodora-ozaki/]]></link>
+            <enclosure url="https://www.archive.org/download/romances_of_old_japan_1612_librivox/romancesofoldjapan_05_ozaki_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 09 Dec 2016 00:04:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/romances_of_old_japan_1612_librivox/romancesofoldjapan_05_ozaki_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Spirit of the Lantern]]></title>
+    <itunes:episode><![CDATA[6]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/romances-of-old-japan-by-yei-theodora-ozaki/]]></link>
+            <enclosure url="https://www.archive.org/download/romances_of_old_japan_1612_librivox/romancesofoldjapan_06_ozaki_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 09 Dec 2016 00:05:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/romances_of_old_japan_1612_librivox/romancesofoldjapan_06_ozaki_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Reincarnation of Tama]]></title>
+    <itunes:episode><![CDATA[7]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/romances-of-old-japan-by-yei-theodora-ozaki/]]></link>
+            <enclosure url="https://www.archive.org/download/romances_of_old_japan_1612_librivox/romancesofoldjapan_07_ozaki_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 09 Dec 2016 00:06:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/romances_of_old_japan_1612_librivox/romancesofoldjapan_07_ozaki_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Lady of the Picture]]></title>
+    <itunes:episode><![CDATA[8]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/romances-of-old-japan-by-yei-theodora-ozaki/]]></link>
+            <enclosure url="https://www.archive.org/download/romances_of_old_japan_1612_librivox/romancesofoldjapan_08_ozaki_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 09 Dec 2016 00:07:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/romances_of_old_japan_1612_librivox/romancesofoldjapan_08_ozaki_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Urasato, or The Crow of Dawn]]></title>
+    <itunes:episode><![CDATA[9]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/romances-of-old-japan-by-yei-theodora-ozaki/]]></link>
+            <enclosure url="https://www.archive.org/download/romances_of_old_japan_1612_librivox/romancesofoldjapan_09_ozaki_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 09 Dec 2016 00:08:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/romances_of_old_japan_1612_librivox/romancesofoldjapan_09_ozaki_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Tsubosaka]]></title>
+    <itunes:episode><![CDATA[10]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/romances-of-old-japan-by-yei-theodora-ozaki/]]></link>
+            <enclosure url="https://www.archive.org/download/romances_of_old_japan_1612_librivox/romancesofoldjapan_10_ozaki_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 09 Dec 2016 00:09:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/romances_of_old_japan_1612_librivox/romancesofoldjapan_10_ozaki_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Loyal, Even Unto Death - Part 1]]></title>
+    <itunes:episode><![CDATA[11]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/romances-of-old-japan-by-yei-theodora-ozaki/]]></link>
+            <enclosure url="https://www.archive.org/download/romances_of_old_japan_1612_librivox/romancesofoldjapan_11_ozaki_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 09 Dec 2016 00:10:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/romances_of_old_japan_1612_librivox/romancesofoldjapan_11_ozaki_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Loyal, Even Unto Death - Part 2]]></title>
+    <itunes:episode><![CDATA[12]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/romances-of-old-japan-by-yei-theodora-ozaki/]]></link>
+            <enclosure url="https://www.archive.org/download/romances_of_old_japan_1612_librivox/romancesofoldjapan_12_ozaki_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 09 Dec 2016 00:11:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/romances_of_old_japan_1612_librivox/romancesofoldjapan_12_ozaki_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Loyal, Even Unto Death - Part 3]]></title>
+    <itunes:episode><![CDATA[13]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/romances-of-old-japan-by-yei-theodora-ozaki/]]></link>
+            <enclosure url="https://www.archive.org/download/romances_of_old_japan_1612_librivox/romancesofoldjapan_13_ozaki_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 09 Dec 2016 00:12:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/romances_of_old_japan_1612_librivox/romancesofoldjapan_13_ozaki_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Kinu Returns from the Grave]]></title>
+    <itunes:episode><![CDATA[14]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/romances-of-old-japan-by-yei-theodora-ozaki/]]></link>
+            <enclosure url="https://www.archive.org/download/romances_of_old_japan_1612_librivox/romancesofoldjapan_14_ozaki_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 09 Dec 2016 00:13:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/romances_of_old_japan_1612_librivox/romancesofoldjapan_14_ozaki_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[A Cherry-Flower Idyll]]></title>
+    <itunes:episode><![CDATA[15]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/romances-of-old-japan-by-yei-theodora-ozaki/]]></link>
+            <enclosure url="https://www.archive.org/download/romances_of_old_japan_1612_librivox/romancesofoldjapan_15_ozaki_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 09 Dec 2016 00:14:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/romances_of_old_japan_1612_librivox/romancesofoldjapan_15_ozaki_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Badger-Haunted Temple]]></title>
+    <itunes:episode><![CDATA[16]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/romances-of-old-japan-by-yei-theodora-ozaki/]]></link>
+            <enclosure url="https://www.archive.org/download/romances_of_old_japan_1612_librivox/romancesofoldjapan_16_ozaki_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 09 Dec 2016 00:15:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/romances_of_old_japan_1612_librivox/romancesofoldjapan_16_ozaki_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <!-- end file loop -->
+</channel>
+</rss>

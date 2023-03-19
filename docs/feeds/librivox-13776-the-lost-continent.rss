@@ -1,0 +1,277 @@
+<?xml version="1.0" ?><rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+  <title><![CDATA[Lost Continent, The by C. J. Cutcliffe Hyne (1866 - 1944)]]></title>
+  <link><![CDATA[https://librivox.org/the-lost-continent-by-c-j-cutcliffe-hyne/]]></link>
+  <atom:link rel="self" href="https://librivox.org/rss/13776" />
+  <description><![CDATA[During an expedition in the Canary Islands, an archeologist discovers a cave containing tablets with unknown writing. When translated, they tell the tale of decline and fall of Atlantis, which for centuries had been the center of the world. The tablets’ author, Deucalion, chronicles the usurpation of Atlantis’ throne by force, the oppressive rule of Empress Phorenice, the inevitable rebellion and ultimate destruction of Atlantis, the Lost Continent. (summary by sjmarky)]]></description>
+  <!--<genre>project element=Genre</genre>-->
+  <!--<language>project element=lang.code</language>-->
+  <itunes:type>serial</itunes:type>
+  <itunes:author>LibriVox</itunes:author>
+  <itunes:summary><![CDATA[During an expedition in the Canary Islands, an archeologist discovers a cave containing tablets with unknown writing. When translated, they tell the tale of decline and fall of Atlantis, which for centuries had been the center of the world. The tablets’ author, Deucalion, chronicles the usurpation of Atlantis’ throne by force, the oppressive rule of Empress Phorenice, the inevitable rebellion and ultimate destruction of Atlantis, the Lost Continent. (summary by sjmarky)]]></itunes:summary>
+  <itunes:owner>
+    <itunes:name>LibriVox</itunes:name>
+    <itunes:email>info@librivox.org</itunes:email>
+  </itunes:owner>
+  <itunes:category text="Arts">
+    <itunes:category text="Literature" />
+  </itunes:category>
+  <image><url>https://archive.org/download/the_lost_continent_2008_librivox/lost_continent_2008.jpg</url></image>
+  <itunes:image href="https://archive.org/download/the_lost_continent_2008_librivox/lost_continent_2008.jpg"/>
+  <itunes:explicit>no</itunes:explicit>
+  <!-- file loop -->
+    <item>
+    <title><![CDATA[Prefatory]]></title>
+    <itunes:episode><![CDATA[0]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-lost-continent-by-c-j-cutcliffe-hyne/]]></link>
+            <enclosure url="https://www.archive.org/download/the_lost_continent_2008_librivox/lostcontinent_00_hyne_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 28 Aug 2020 00:00:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/the_lost_continent_2008_librivox/lostcontinent_00_hyne_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[My Recall]]></title>
+    <itunes:episode><![CDATA[1]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-lost-continent-by-c-j-cutcliffe-hyne/]]></link>
+            <enclosure url="https://www.archive.org/download/the_lost_continent_2008_librivox/lostcontinent_01_hyne_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 28 Aug 2020 00:01:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/the_lost_continent_2008_librivox/lostcontinent_01_hyne_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Back to Atlantis]]></title>
+    <itunes:episode><![CDATA[2]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-lost-continent-by-c-j-cutcliffe-hyne/]]></link>
+            <enclosure url="https://www.archive.org/download/the_lost_continent_2008_librivox/lostcontinent_02_hyne_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 28 Aug 2020 00:02:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/the_lost_continent_2008_librivox/lostcontinent_02_hyne_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[A Rival Navy]]></title>
+    <itunes:episode><![CDATA[3]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-lost-continent-by-c-j-cutcliffe-hyne/]]></link>
+            <enclosure url="https://www.archive.org/download/the_lost_continent_2008_librivox/lostcontinent_03_hyne_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 28 Aug 2020 00:03:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/the_lost_continent_2008_librivox/lostcontinent_03_hyne_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Welcome of Phorenice]]></title>
+    <itunes:episode><![CDATA[4]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-lost-continent-by-c-j-cutcliffe-hyne/]]></link>
+            <enclosure url="https://www.archive.org/download/the_lost_continent_2008_librivox/lostcontinent_04_hyne_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 28 Aug 2020 00:04:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/the_lost_continent_2008_librivox/lostcontinent_04_hyne_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Zaemon’s Curse]]></title>
+    <itunes:episode><![CDATA[5]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-lost-continent-by-c-j-cutcliffe-hyne/]]></link>
+            <enclosure url="https://www.archive.org/download/the_lost_continent_2008_librivox/lostcontinent_05_hyne_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 28 Aug 2020 00:05:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/the_lost_continent_2008_librivox/lostcontinent_05_hyne_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Biters of the City Walls]]></title>
+    <itunes:episode><![CDATA[6]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-lost-continent-by-c-j-cutcliffe-hyne/]]></link>
+            <enclosure url="https://www.archive.org/download/the_lost_continent_2008_librivox/lostcontinent_06_hyne_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 28 Aug 2020 00:06:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/the_lost_continent_2008_librivox/lostcontinent_06_hyne_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Biters of the Walls (Further Account)]]></title>
+    <itunes:episode><![CDATA[7]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-lost-continent-by-c-j-cutcliffe-hyne/]]></link>
+            <enclosure url="https://www.archive.org/download/the_lost_continent_2008_librivox/lostcontinent_07_hyne_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 28 Aug 2020 00:07:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/the_lost_continent_2008_librivox/lostcontinent_07_hyne_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Preacher from the Mountains]]></title>
+    <itunes:episode><![CDATA[8]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-lost-continent-by-c-j-cutcliffe-hyne/]]></link>
+            <enclosure url="https://www.archive.org/download/the_lost_continent_2008_librivox/lostcontinent_08_hyne_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 28 Aug 2020 00:08:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/the_lost_continent_2008_librivox/lostcontinent_08_hyne_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Phorenice, Goddess]]></title>
+    <itunes:episode><![CDATA[9]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-lost-continent-by-c-j-cutcliffe-hyne/]]></link>
+            <enclosure url="https://www.archive.org/download/the_lost_continent_2008_librivox/lostcontinent_09_hyne_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 28 Aug 2020 00:09:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/the_lost_continent_2008_librivox/lostcontinent_09_hyne_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[A Wooing]]></title>
+    <itunes:episode><![CDATA[10]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-lost-continent-by-c-j-cutcliffe-hyne/]]></link>
+            <enclosure url="https://www.archive.org/download/the_lost_continent_2008_librivox/lostcontinent_10_hyne_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 28 Aug 2020 00:10:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/the_lost_continent_2008_librivox/lostcontinent_10_hyne_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[An Affair with the Barbarous Fishers]]></title>
+    <itunes:episode><![CDATA[11]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-lost-continent-by-c-j-cutcliffe-hyne/]]></link>
+            <enclosure url="https://www.archive.org/download/the_lost_continent_2008_librivox/lostcontinent_11_hyne_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 28 Aug 2020 00:11:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/the_lost_continent_2008_librivox/lostcontinent_11_hyne_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Drug of Our Lady the Moon]]></title>
+    <itunes:episode><![CDATA[12]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-lost-continent-by-c-j-cutcliffe-hyne/]]></link>
+            <enclosure url="https://www.archive.org/download/the_lost_continent_2008_librivox/lostcontinent_12_hyne_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 28 Aug 2020 00:12:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/the_lost_continent_2008_librivox/lostcontinent_12_hyne_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Burying Alive of Nais]]></title>
+    <itunes:episode><![CDATA[13]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-lost-continent-by-c-j-cutcliffe-hyne/]]></link>
+            <enclosure url="https://www.archive.org/download/the_lost_continent_2008_librivox/lostcontinent_13_hyne_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 28 Aug 2020 00:13:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/the_lost_continent_2008_librivox/lostcontinent_13_hyne_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Again the Gods Make Change]]></title>
+    <itunes:episode><![CDATA[14]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-lost-continent-by-c-j-cutcliffe-hyne/]]></link>
+            <enclosure url="https://www.archive.org/download/the_lost_continent_2008_librivox/lostcontinent_14_hyne_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 28 Aug 2020 00:14:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/the_lost_continent_2008_librivox/lostcontinent_14_hyne_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Zaemon's Summons]]></title>
+    <itunes:episode><![CDATA[15]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-lost-continent-by-c-j-cutcliffe-hyne/]]></link>
+            <enclosure url="https://www.archive.org/download/the_lost_continent_2008_librivox/lostcontinent_15_hyne_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 28 Aug 2020 00:15:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/the_lost_continent_2008_librivox/lostcontinent_15_hyne_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Siege of the Sacred Mountain]]></title>
+    <itunes:episode><![CDATA[16]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-lost-continent-by-c-j-cutcliffe-hyne/]]></link>
+            <enclosure url="https://www.archive.org/download/the_lost_continent_2008_librivox/lostcontinent_16_hyne_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 28 Aug 2020 00:16:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/the_lost_continent_2008_librivox/lostcontinent_16_hyne_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Nais the Regained]]></title>
+    <itunes:episode><![CDATA[17]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-lost-continent-by-c-j-cutcliffe-hyne/]]></link>
+            <enclosure url="https://www.archive.org/download/the_lost_continent_2008_librivox/lostcontinent_17_hyne_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 28 Aug 2020 00:17:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/the_lost_continent_2008_librivox/lostcontinent_17_hyne_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Storm of the Sacred Mountain]]></title>
+    <itunes:episode><![CDATA[18]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-lost-continent-by-c-j-cutcliffe-hyne/]]></link>
+            <enclosure url="https://www.archive.org/download/the_lost_continent_2008_librivox/lostcontinent_18_hyne_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 28 Aug 2020 00:18:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/the_lost_continent_2008_librivox/lostcontinent_18_hyne_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Destruction of Atlantis]]></title>
+    <itunes:episode><![CDATA[19]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-lost-continent-by-c-j-cutcliffe-hyne/]]></link>
+            <enclosure url="https://www.archive.org/download/the_lost_continent_2008_librivox/lostcontinent_19_hyne_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 28 Aug 2020 00:19:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/the_lost_continent_2008_librivox/lostcontinent_19_hyne_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[On the Bosom of the Deep]]></title>
+    <itunes:episode><![CDATA[20]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-lost-continent-by-c-j-cutcliffe-hyne/]]></link>
+            <enclosure url="https://www.archive.org/download/the_lost_continent_2008_librivox/lostcontinent_20_hyne_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 28 Aug 2020 00:20:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/the_lost_continent_2008_librivox/lostcontinent_20_hyne_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <!-- end file loop -->
+</channel>
+</rss>

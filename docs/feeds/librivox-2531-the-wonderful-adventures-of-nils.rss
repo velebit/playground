@@ -1,0 +1,569 @@
+<?xml version="1.0" ?><rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+  <title><![CDATA[Wonderful Adventures of Nils, The by Selma Lagerlöf (1858 - 1940)]]></title>
+  <link><![CDATA[https://librivox.org/the-wonderful-adventures-of-nils-by-selma-lagerloef/]]></link>
+  <atom:link rel="self" href="https://librivox.org/rss/2531" />
+  <description><![CDATA[Selma Lagerlöf was born in Vaermland, Sweden, in 1858 and enjoyed a long and very successful career as a writer, receiving the Nobel-Price in Literature in 1909. She died in Vaermland in 1940. The Wonderful Adventures of Nils (Orig. Nils Holgerssons underbara resa genom Sverige) is a famous work of fiction by Selma Lagerlöf, published in two parts in 1906 and 1907. The background for publication was a commission from the National Teachers Association in 1902 to write a geography reader for the public schools.
+"She devoted three years to Nature study and to familiarizing herself with animal and bird life. She has sought out hitherto unpublished folklore and legends of the different provinces. These she has ingeniously woven into her story." (From translator Velma Swanston Howard's introduction.)
+(Summary by Lars Rolander and Wikipedia)]]></description>
+  <!--<genre>project element=Genre</genre>-->
+  <!--<language>project element=lang.code</language>-->
+  <itunes:type>serial</itunes:type>
+  <itunes:author>LibriVox</itunes:author>
+  <itunes:summary><![CDATA[Selma Lagerlöf was born in Vaermland, Sweden, in 1858 and enjoyed a long and very successful career as a writer, receiving the Nobel-Price in Literature in 1909. She died in Vaermland in 1940. The Wonderful Adventures of Nils (Orig. Nils Holgerssons underbara resa genom Sverige) is a famous work of fiction by Selma Lagerlöf, published in two parts in 1906 and 1907. The background for publication was a commission from the National Teachers Association in 1902 to write a geography reader for the public schools.
+"She devoted three years to Nature study and to familiarizing herself with animal and bird life. She has sought out hitherto unpublished folklore and legends of the different provinces. These she has ingeniously woven into her story." (From translator Velma Swanston Howard's introduction.)
+(Summary by Lars Rolander and Wikipedia)]]></itunes:summary>
+  <itunes:owner>
+    <itunes:name>LibriVox</itunes:name>
+    <itunes:email>info@librivox.org</itunes:email>
+  </itunes:owner>
+  <itunes:category text="Arts">
+    <itunes:category text="Literature" />
+  </itunes:category>
+  <image><url>https://www.archive.org/download/LibrivoxCdCoverArt4/Wonderful_Adventures_of_Nils_1004.jpg</url></image>
+  <itunes:image href="https://www.archive.org/download/LibrivoxCdCoverArt4/Wonderful_Adventures_of_Nils_1004.jpg"/>
+  <itunes:explicit>no</itunes:explicit>
+  <!-- file loop -->
+    <item>
+    <title><![CDATA[The Boy]]></title>
+    <itunes:episode><![CDATA[1]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-wonderful-adventures-of-nils-by-selma-lagerloef/]]></link>
+            <enclosure url="https://www.archive.org/download/wonderful_adventures_nils_0901_librivox/adventuresofnils_01_lagerloef_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:42:08]]></itunes:duration>
+  <pubDate>Mon, 19 Jan 2009 00:00:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/wonderful_adventures_nils_0901_librivox/adventuresofnils_01_lagerloef_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Akka from Kebnekaise]]></title>
+    <itunes:episode><![CDATA[2]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-wonderful-adventures-of-nils-by-selma-lagerloef/]]></link>
+            <enclosure url="https://www.archive.org/download/wonderful_adventures_nils_0901_librivox/adventuresofnils_02_lagerloef_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:41:17]]></itunes:duration>
+  <pubDate>Mon, 19 Jan 2009 00:01:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/wonderful_adventures_nils_0901_librivox/adventuresofnils_02_lagerloef_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Wonderful Journey of Nils]]></title>
+    <itunes:episode><![CDATA[3]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-wonderful-adventures-of-nils-by-selma-lagerloef/]]></link>
+            <enclosure url="https://www.archive.org/download/wonderful_adventures_nils_0901_librivox/adventuresofnils_03_lagerloef_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:51:12]]></itunes:duration>
+  <pubDate>Mon, 19 Jan 2009 00:02:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/wonderful_adventures_nils_0901_librivox/adventuresofnils_03_lagerloef_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Glimminge Castle]]></title>
+    <itunes:episode><![CDATA[4]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-wonderful-adventures-of-nils-by-selma-lagerloef/]]></link>
+            <enclosure url="https://www.archive.org/download/wonderful_adventures_nils_0901_librivox/adventuresofnils_04_lagerloef_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:34:07]]></itunes:duration>
+  <pubDate>Mon, 19 Jan 2009 00:03:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/wonderful_adventures_nils_0901_librivox/adventuresofnils_04_lagerloef_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Great Crane Dance on Kullaberg]]></title>
+    <itunes:episode><![CDATA[5]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-wonderful-adventures-of-nils-by-selma-lagerloef/]]></link>
+            <enclosure url="https://www.archive.org/download/wonderful_adventures_nils_0901_librivox/adventuresofnils_05_lagerloef_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:25:33]]></itunes:duration>
+  <pubDate>Mon, 19 Jan 2009 00:04:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/wonderful_adventures_nils_0901_librivox/adventuresofnils_05_lagerloef_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[In Rainy Weather]]></title>
+    <itunes:episode><![CDATA[6]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-wonderful-adventures-of-nils-by-selma-lagerloef/]]></link>
+            <enclosure url="https://www.archive.org/download/wonderful_adventures_nils_0901_librivox/adventuresofnils_06_lagerloef_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:16:17]]></itunes:duration>
+  <pubDate>Mon, 19 Jan 2009 00:05:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/wonderful_adventures_nils_0901_librivox/adventuresofnils_06_lagerloef_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Stairway with the Three Steps]]></title>
+    <itunes:episode><![CDATA[7]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-wonderful-adventures-of-nils-by-selma-lagerloef/]]></link>
+            <enclosure url="https://www.archive.org/download/wonderful_adventures_nils_0901_librivox/adventuresofnils_07_lagerloef_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:10:31]]></itunes:duration>
+  <pubDate>Mon, 19 Jan 2009 00:06:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/wonderful_adventures_nils_0901_librivox/adventuresofnils_07_lagerloef_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[By Ronneby River]]></title>
+    <itunes:episode><![CDATA[8]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-wonderful-adventures-of-nils-by-selma-lagerloef/]]></link>
+            <enclosure url="https://www.archive.org/download/wonderful_adventures_nils_0901_librivox/adventuresofnils_08_lagerloef_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:24:20]]></itunes:duration>
+  <pubDate>Mon, 19 Jan 2009 00:07:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/wonderful_adventures_nils_0901_librivox/adventuresofnils_08_lagerloef_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Karlskrona]]></title>
+    <itunes:episode><![CDATA[9]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-wonderful-adventures-of-nils-by-selma-lagerloef/]]></link>
+            <enclosure url="https://www.archive.org/download/wonderful_adventures_nils_0901_librivox/adventuresofnils_09_lagerloef_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:22:11]]></itunes:duration>
+  <pubDate>Mon, 19 Jan 2009 00:08:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/wonderful_adventures_nils_0901_librivox/adventuresofnils_09_lagerloef_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Trip to Oeland]]></title>
+    <itunes:episode><![CDATA[10]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-wonderful-adventures-of-nils-by-selma-lagerloef/]]></link>
+            <enclosure url="https://www.archive.org/download/wonderful_adventures_nils_0901_librivox/adventuresofnils_10_lagerloef_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:11:12]]></itunes:duration>
+  <pubDate>Mon, 19 Jan 2009 00:09:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/wonderful_adventures_nils_0901_librivox/adventuresofnils_10_lagerloef_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Oeland's Southern Point]]></title>
+    <itunes:episode><![CDATA[11]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-wonderful-adventures-of-nils-by-selma-lagerloef/]]></link>
+            <enclosure url="https://www.archive.org/download/wonderful_adventures_nils_0901_librivox/adventuresofnils_11_lagerloef_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:21:52]]></itunes:duration>
+  <pubDate>Mon, 19 Jan 2009 00:10:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/wonderful_adventures_nils_0901_librivox/adventuresofnils_11_lagerloef_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Big Butterfly]]></title>
+    <itunes:episode><![CDATA[12]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-wonderful-adventures-of-nils-by-selma-lagerloef/]]></link>
+            <enclosure url="https://www.archive.org/download/wonderful_adventures_nils_0901_librivox/adventuresofnils_12_lagerloef_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:11:14]]></itunes:duration>
+  <pubDate>Mon, 19 Jan 2009 00:11:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/wonderful_adventures_nils_0901_librivox/adventuresofnils_12_lagerloef_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Little Karl's Island]]></title>
+    <itunes:episode><![CDATA[13]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-wonderful-adventures-of-nils-by-selma-lagerloef/]]></link>
+            <enclosure url="https://www.archive.org/download/wonderful_adventures_nils_0901_librivox/adventuresofnils_13_lagerloef_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:31:50]]></itunes:duration>
+  <pubDate>Mon, 19 Jan 2009 00:12:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/wonderful_adventures_nils_0901_librivox/adventuresofnils_13_lagerloef_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Two Cities]]></title>
+    <itunes:episode><![CDATA[14]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-wonderful-adventures-of-nils-by-selma-lagerloef/]]></link>
+            <enclosure url="https://www.archive.org/download/wonderful_adventures_nils_0901_librivox/adventuresofnils_14_lagerloef_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:30:55]]></itunes:duration>
+  <pubDate>Mon, 19 Jan 2009 00:13:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/wonderful_adventures_nils_0901_librivox/adventuresofnils_14_lagerloef_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Legend of Smaland]]></title>
+    <itunes:episode><![CDATA[15]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-wonderful-adventures-of-nils-by-selma-lagerloef/]]></link>
+            <enclosure url="https://www.archive.org/download/wonderful_adventures_nils_0901_librivox/adventuresofnils_15_lagerloef_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:13:41]]></itunes:duration>
+  <pubDate>Mon, 19 Jan 2009 00:14:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/wonderful_adventures_nils_0901_librivox/adventuresofnils_15_lagerloef_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Crows]]></title>
+    <itunes:episode><![CDATA[16]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-wonderful-adventures-of-nils-by-selma-lagerloef/]]></link>
+            <enclosure url="https://www.archive.org/download/wonderful_adventures_nils_0901_librivox/adventuresofnils_16_lagerloef_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:44:28]]></itunes:duration>
+  <pubDate>Mon, 19 Jan 2009 00:15:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/wonderful_adventures_nils_0901_librivox/adventuresofnils_16_lagerloef_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Old Peasant Woman]]></title>
+    <itunes:episode><![CDATA[17]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-wonderful-adventures-of-nils-by-selma-lagerloef/]]></link>
+            <enclosure url="https://www.archive.org/download/wonderful_adventures_nils_0901_librivox/adventuresofnils_17_lagerloef_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:26:42]]></itunes:duration>
+  <pubDate>Mon, 19 Jan 2009 00:16:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/wonderful_adventures_nils_0901_librivox/adventuresofnils_17_lagerloef_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[From Taberg to Huskvarna]]></title>
+    <itunes:episode><![CDATA[18]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-wonderful-adventures-of-nils-by-selma-lagerloef/]]></link>
+            <enclosure url="https://www.archive.org/download/wonderful_adventures_nils_0901_librivox/adventuresofnils_18_lagerloef_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:10:38]]></itunes:duration>
+  <pubDate>Mon, 19 Jan 2009 00:17:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/wonderful_adventures_nils_0901_librivox/adventuresofnils_18_lagerloef_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Big Bird Lake]]></title>
+    <itunes:episode><![CDATA[19]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-wonderful-adventures-of-nils-by-selma-lagerloef/]]></link>
+            <enclosure url="https://www.archive.org/download/wonderful_adventures_nils_0901_librivox/adventuresofnils_19_lagerloef_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:39:52]]></itunes:duration>
+  <pubDate>Mon, 19 Jan 2009 00:18:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/wonderful_adventures_nils_0901_librivox/adventuresofnils_19_lagerloef_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Ulvasa Lady]]></title>
+    <itunes:episode><![CDATA[20]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-wonderful-adventures-of-nils-by-selma-lagerloef/]]></link>
+            <enclosure url="https://www.archive.org/download/wonderful_adventures_nils_0901_librivox/adventuresofnils_20_lagerloef_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:14:06]]></itunes:duration>
+  <pubDate>Mon, 19 Jan 2009 00:19:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/wonderful_adventures_nils_0901_librivox/adventuresofnils_20_lagerloef_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Homespun Cloth]]></title>
+    <itunes:episode><![CDATA[21]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-wonderful-adventures-of-nils-by-selma-lagerloef/]]></link>
+            <enclosure url="https://www.archive.org/download/wonderful_adventures_nils_0901_librivox/adventuresofnils_21_lagerloef_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:10:00]]></itunes:duration>
+  <pubDate>Mon, 19 Jan 2009 00:20:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/wonderful_adventures_nils_0901_librivox/adventuresofnils_21_lagerloef_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Story of Karr and Grayskin Pt 1 - Karr]]></title>
+    <itunes:episode><![CDATA[22]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-wonderful-adventures-of-nils-by-selma-lagerloef/]]></link>
+            <enclosure url="https://www.archive.org/download/wonderful_adventures_nils_0901_librivox/adventuresofnils_22_lagerloef_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:23:16]]></itunes:duration>
+  <pubDate>Mon, 19 Jan 2009 00:21:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/wonderful_adventures_nils_0901_librivox/adventuresofnils_22_lagerloef_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Story of Karr and Grayskin Pt 2 - Helpless the Water Snake]]></title>
+    <itunes:episode><![CDATA[23]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-wonderful-adventures-of-nils-by-selma-lagerloef/]]></link>
+            <enclosure url="https://www.archive.org/download/wonderful_adventures_nils_0901_librivox/adventuresofnils_23_lagerloef_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:20:02]]></itunes:duration>
+  <pubDate>Mon, 19 Jan 2009 00:22:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/wonderful_adventures_nils_0901_librivox/adventuresofnils_23_lagerloef_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Story of Karr and Grayskin Pt 3 - The Big War of the Moths]]></title>
+    <itunes:episode><![CDATA[24]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-wonderful-adventures-of-nils-by-selma-lagerloef/]]></link>
+            <enclosure url="https://www.archive.org/download/wonderful_adventures_nils_0901_librivox/adventuresofnils_24_lagerloef_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:29:16]]></itunes:duration>
+  <pubDate>Mon, 19 Jan 2009 00:23:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/wonderful_adventures_nils_0901_librivox/adventuresofnils_24_lagerloef_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Wind Witch]]></title>
+    <itunes:episode><![CDATA[25]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-wonderful-adventures-of-nils-by-selma-lagerloef/]]></link>
+            <enclosure url="https://www.archive.org/download/wonderful_adventures_nils_0901_librivox/adventuresofnils_25_lagerloef_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:35:34]]></itunes:duration>
+  <pubDate>Mon, 19 Jan 2009 00:24:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/wonderful_adventures_nils_0901_librivox/adventuresofnils_25_lagerloef_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Breaking up of the Ice]]></title>
+    <itunes:episode><![CDATA[26]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-wonderful-adventures-of-nils-by-selma-lagerloef/]]></link>
+            <enclosure url="https://www.archive.org/download/wonderful_adventures_nils_0901_librivox/adventuresofnils_26_lagerloef_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:10:23]]></itunes:duration>
+  <pubDate>Mon, 19 Jan 2009 00:25:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/wonderful_adventures_nils_0901_librivox/adventuresofnils_26_lagerloef_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Thumbietot and the Bears]]></title>
+    <itunes:episode><![CDATA[27]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-wonderful-adventures-of-nils-by-selma-lagerloef/]]></link>
+            <enclosure url="https://www.archive.org/download/wonderful_adventures_nils_0901_librivox/adventuresofnils_27_lagerloef_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:35:12]]></itunes:duration>
+  <pubDate>Mon, 19 Jan 2009 00:26:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/wonderful_adventures_nils_0901_librivox/adventuresofnils_27_lagerloef_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Flood]]></title>
+    <itunes:episode><![CDATA[28]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-wonderful-adventures-of-nils-by-selma-lagerloef/]]></link>
+            <enclosure url="https://www.archive.org/download/wonderful_adventures_nils_0901_librivox/adventuresofnils_28_lagerloef_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:22:58]]></itunes:duration>
+  <pubDate>Mon, 19 Jan 2009 00:27:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/wonderful_adventures_nils_0901_librivox/adventuresofnils_28_lagerloef_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Dunfin]]></title>
+    <itunes:episode><![CDATA[29]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-wonderful-adventures-of-nils-by-selma-lagerloef/]]></link>
+            <enclosure url="https://www.archive.org/download/wonderful_adventures_nils_0901_librivox/adventuresofnils_29_lagerloef_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:26:20]]></itunes:duration>
+  <pubDate>Mon, 19 Jan 2009 00:28:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/wonderful_adventures_nils_0901_librivox/adventuresofnils_29_lagerloef_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Stockholm]]></title>
+    <itunes:episode><![CDATA[30]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-wonderful-adventures-of-nils-by-selma-lagerloef/]]></link>
+            <enclosure url="https://www.archive.org/download/wonderful_adventures_nils_0901_librivox/adventuresofnils_30_lagerloef_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:34:19]]></itunes:duration>
+  <pubDate>Mon, 19 Jan 2009 00:29:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/wonderful_adventures_nils_0901_librivox/adventuresofnils_30_lagerloef_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Gorgo the Eagle]]></title>
+    <itunes:episode><![CDATA[31]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-wonderful-adventures-of-nils-by-selma-lagerloef/]]></link>
+            <enclosure url="https://www.archive.org/download/wonderful_adventures_nils_0901_librivox/adventuresofnils_31_lagerloef_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:26:45]]></itunes:duration>
+  <pubDate>Mon, 19 Jan 2009 00:30:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/wonderful_adventures_nils_0901_librivox/adventuresofnils_31_lagerloef_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[On over Gaestrikland]]></title>
+    <itunes:episode><![CDATA[32]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-wonderful-adventures-of-nils-by-selma-lagerloef/]]></link>
+            <enclosure url="https://www.archive.org/download/wonderful_adventures_nils_0901_librivox/adventuresofnils_32_lagerloef_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:15:04]]></itunes:duration>
+  <pubDate>Mon, 19 Jan 2009 00:31:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/wonderful_adventures_nils_0901_librivox/adventuresofnils_32_lagerloef_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[A Day in Haelsingland]]></title>
+    <itunes:episode><![CDATA[33]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-wonderful-adventures-of-nils-by-selma-lagerloef/]]></link>
+            <enclosure url="https://www.archive.org/download/wonderful_adventures_nils_0901_librivox/adventuresofnils_33_lagerloef_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:33:25]]></itunes:duration>
+  <pubDate>Mon, 19 Jan 2009 00:32:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/wonderful_adventures_nils_0901_librivox/adventuresofnils_33_lagerloef_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[In Medelpad]]></title>
+    <itunes:episode><![CDATA[34]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-wonderful-adventures-of-nils-by-selma-lagerloef/]]></link>
+            <enclosure url="https://www.archive.org/download/wonderful_adventures_nils_0901_librivox/adventuresofnils_34_lagerloef_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:13:50]]></itunes:duration>
+  <pubDate>Mon, 19 Jan 2009 00:33:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/wonderful_adventures_nils_0901_librivox/adventuresofnils_34_lagerloef_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[A Morning in Angermanland]]></title>
+    <itunes:episode><![CDATA[35]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-wonderful-adventures-of-nils-by-selma-lagerloef/]]></link>
+            <enclosure url="https://www.archive.org/download/wonderful_adventures_nils_0901_librivox/adventuresofnils_35_lagerloef_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:18:04]]></itunes:duration>
+  <pubDate>Mon, 19 Jan 2009 00:34:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/wonderful_adventures_nils_0901_librivox/adventuresofnils_35_lagerloef_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Westbottom and Lappland]]></title>
+    <itunes:episode><![CDATA[36]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-wonderful-adventures-of-nils-by-selma-lagerloef/]]></link>
+            <enclosure url="https://www.archive.org/download/wonderful_adventures_nils_0901_librivox/adventuresofnils_36_lagerloef_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:31:01]]></itunes:duration>
+  <pubDate>Mon, 19 Jan 2009 00:35:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/wonderful_adventures_nils_0901_librivox/adventuresofnils_36_lagerloef_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Osa, the Goose Girl, and Little Mats]]></title>
+    <itunes:episode><![CDATA[37]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-wonderful-adventures-of-nils-by-selma-lagerloef/]]></link>
+            <enclosure url="https://www.archive.org/download/wonderful_adventures_nils_0901_librivox/adventuresofnils_37_lagerloef_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:17:36]]></itunes:duration>
+  <pubDate>Mon, 19 Jan 2009 00:36:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/wonderful_adventures_nils_0901_librivox/adventuresofnils_37_lagerloef_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[With the Lapplanders]]></title>
+    <itunes:episode><![CDATA[38]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-wonderful-adventures-of-nils-by-selma-lagerloef/]]></link>
+            <enclosure url="https://www.archive.org/download/wonderful_adventures_nils_0901_librivox/adventuresofnils_38_lagerloef_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:19:48]]></itunes:duration>
+  <pubDate>Mon, 19 Jan 2009 00:37:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/wonderful_adventures_nils_0901_librivox/adventuresofnils_38_lagerloef_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Homeward Bound]]></title>
+    <itunes:episode><![CDATA[39]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-wonderful-adventures-of-nils-by-selma-lagerloef/]]></link>
+            <enclosure url="https://www.archive.org/download/wonderful_adventures_nils_0901_librivox/adventuresofnils_39_lagerloef_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:08:35]]></itunes:duration>
+  <pubDate>Mon, 19 Jan 2009 00:38:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/wonderful_adventures_nils_0901_librivox/adventuresofnils_39_lagerloef_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Legends from Haerjedalen]]></title>
+    <itunes:episode><![CDATA[40]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-wonderful-adventures-of-nils-by-selma-lagerloef/]]></link>
+            <enclosure url="https://www.archive.org/download/wonderful_adventures_nils_0901_librivox/adventuresofnils_40_lagerloef_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:21:25]]></itunes:duration>
+  <pubDate>Mon, 19 Jan 2009 00:39:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/wonderful_adventures_nils_0901_librivox/adventuresofnils_40_lagerloef_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Vermland and Dalsland]]></title>
+    <itunes:episode><![CDATA[41]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-wonderful-adventures-of-nils-by-selma-lagerloef/]]></link>
+            <enclosure url="https://www.archive.org/download/wonderful_adventures_nils_0901_librivox/adventuresofnils_41_lagerloef_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:26:28]]></itunes:duration>
+  <pubDate>Mon, 19 Jan 2009 00:40:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/wonderful_adventures_nils_0901_librivox/adventuresofnils_41_lagerloef_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Treasure on the Island]]></title>
+    <itunes:episode><![CDATA[42]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-wonderful-adventures-of-nils-by-selma-lagerloef/]]></link>
+            <enclosure url="https://www.archive.org/download/wonderful_adventures_nils_0901_librivox/adventuresofnils_42_lagerloef_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:17:33]]></itunes:duration>
+  <pubDate>Mon, 19 Jan 2009 00:41:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/wonderful_adventures_nils_0901_librivox/adventuresofnils_42_lagerloef_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Journey to Vemminghoeg]]></title>
+    <itunes:episode><![CDATA[43]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-wonderful-adventures-of-nils-by-selma-lagerloef/]]></link>
+            <enclosure url="https://www.archive.org/download/wonderful_adventures_nils_0901_librivox/adventuresofnils_43_lagerloef_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:06:30]]></itunes:duration>
+  <pubDate>Mon, 19 Jan 2009 00:42:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/wonderful_adventures_nils_0901_librivox/adventuresofnils_43_lagerloef_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Home at last]]></title>
+    <itunes:episode><![CDATA[44]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-wonderful-adventures-of-nils-by-selma-lagerloef/]]></link>
+            <enclosure url="https://www.archive.org/download/wonderful_adventures_nils_0901_librivox/adventuresofnils_44_lagerloef_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:23:45]]></itunes:duration>
+  <pubDate>Mon, 19 Jan 2009 00:43:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/wonderful_adventures_nils_0901_librivox/adventuresofnils_44_lagerloef_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Parting with the Wild Geese]]></title>
+    <itunes:episode><![CDATA[45]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-wonderful-adventures-of-nils-by-selma-lagerloef/]]></link>
+            <enclosure url="https://www.archive.org/download/wonderful_adventures_nils_0901_librivox/adventuresofnils_45_lagerloef_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:06:57]]></itunes:duration>
+  <pubDate>Mon, 19 Jan 2009 00:44:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/wonderful_adventures_nils_0901_librivox/adventuresofnils_45_lagerloef_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <!-- end file loop -->
+</channel>
+</rss>

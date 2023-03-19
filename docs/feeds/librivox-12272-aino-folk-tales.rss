@@ -1,0 +1,121 @@
+<?xml version="1.0" ?><rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+  <title><![CDATA[Aino Folk-Tales by Basil Hall Chamberlain (1850 - 1935)]]></title>
+  <link><![CDATA[https://librivox.org/aino-folk-tales-by-basil-hall-chamberlain/]]></link>
+  <atom:link rel="self" href="https://librivox.org/rss/12272" />
+  <description><![CDATA[Not for the squeamish or for children, these folk-tales are from the Ainu, the somewhat mysterious indigenous people of Japan, thousands of whom still live in the northern Japanese island of Hokkaido. Ranging over all of the usual themes of folklore, from creation to marriage to war, these stories have a pungent, ribald frankness concerning all aspects of human life that offended their scholarly collector Basil Hall Chamberlain (his apologies to the reader are themselves entertaining) but that make them fresh, provocative, and amusing to the twenty-first century reader. Attention to the Ainu is especially timely because of the revival in Japan of Ainu activism on behalf of indigenous rights, pride, and culture, but are well worth reading for their purely entertainment value.]]></description>
+  <!--<genre>project element=Genre</genre>-->
+  <!--<language>project element=lang.code</language>-->
+  <itunes:type>serial</itunes:type>
+  <itunes:author>LibriVox</itunes:author>
+  <itunes:summary><![CDATA[Not for the squeamish or for children, these folk-tales are from the Ainu, the somewhat mysterious indigenous people of Japan, thousands of whom still live in the northern Japanese island of Hokkaido. Ranging over all of the usual themes of folklore, from creation to marriage to war, these stories have a pungent, ribald frankness concerning all aspects of human life that offended their scholarly collector Basil Hall Chamberlain (his apologies to the reader are themselves entertaining) but that make them fresh, provocative, and amusing to the twenty-first century reader. Attention to the Ainu is especially timely because of the revival in Japan of Ainu activism on behalf of indigenous rights, pride, and culture, but are well worth reading for their purely entertainment value.]]></itunes:summary>
+  <itunes:owner>
+    <itunes:name>LibriVox</itunes:name>
+    <itunes:email>info@librivox.org</itunes:email>
+  </itunes:owner>
+  <itunes:category text="Arts">
+    <itunes:category text="Literature" />
+  </itunes:category>
+  <image><url>https://archive.org/download/librivoxcCDCoverArt35/ainofolktales_1708.jpg</url></image>
+  <itunes:image href="https://archive.org/download/librivoxcCDCoverArt35/ainofolktales_1708.jpg"/>
+  <itunes:explicit>no</itunes:explicit>
+  <!-- file loop -->
+    <item>
+    <title><![CDATA[Introductory Material]]></title>
+    <itunes:episode><![CDATA[1]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/aino-folk-tales-by-basil-hall-chamberlain/]]></link>
+            <enclosure url="https://www.archive.org/download/aino_folktales_1708_librivox/ainofolktales_01_chamberlain_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 27 Aug 2017 00:00:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/aino_folktales_1708_librivox/ainofolktales_01_chamberlain_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[I.a. Tales Accounting for the Origin of All Phenomena (01-10)]]></title>
+    <itunes:episode><![CDATA[2]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/aino-folk-tales-by-basil-hall-chamberlain/]]></link>
+            <enclosure url="https://www.archive.org/download/aino_folktales_1708_librivox/ainofolktales_02_chamberlain_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 27 Aug 2017 00:01:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/aino_folktales_1708_librivox/ainofolktales_02_chamberlain_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[I.b. Tales Accounting for the Origin of All Phenomena (11-20)]]></title>
+    <itunes:episode><![CDATA[3]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/aino-folk-tales-by-basil-hall-chamberlain/]]></link>
+            <enclosure url="https://www.archive.org/download/aino_folktales_1708_librivox/ainofolktales_03_chamberlain_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 27 Aug 2017 00:02:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/aino_folktales_1708_librivox/ainofolktales_03_chamberlain_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[II. Moral Tales (21-27)]]></title>
+    <itunes:episode><![CDATA[4]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/aino-folk-tales-by-basil-hall-chamberlain/]]></link>
+            <enclosure url="https://www.archive.org/download/aino_folktales_1708_librivox/ainofolktales_04_chamberlain_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 27 Aug 2017 00:03:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/aino_folktales_1708_librivox/ainofolktales_04_chamberlain_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[III. Tales of the Panaumbe &amp; Penaumbe Cycle (28-32)]]></title>
+    <itunes:episode><![CDATA[5]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/aino-folk-tales-by-basil-hall-chamberlain/]]></link>
+            <enclosure url="https://www.archive.org/download/aino_folktales_1708_librivox/ainofolktales_05_chamberlain_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 27 Aug 2017 00:04:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/aino_folktales_1708_librivox/ainofolktales_05_chamberlain_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[IV.a. Miscellaneous Tales (33-37)]]></title>
+    <itunes:episode><![CDATA[6]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/aino-folk-tales-by-basil-hall-chamberlain/]]></link>
+            <enclosure url="https://www.archive.org/download/aino_folktales_1708_librivox/ainofolktales_06_chamberlain_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 27 Aug 2017 00:05:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/aino_folktales_1708_librivox/ainofolktales_06_chamberlain_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[IV.b. Miscellaneous Tales (38-43)]]></title>
+    <itunes:episode><![CDATA[7]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/aino-folk-tales-by-basil-hall-chamberlain/]]></link>
+            <enclosure url="https://www.archive.org/download/aino_folktales_1708_librivox/ainofolktales_07_chamberlain_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 27 Aug 2017 00:06:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/aino_folktales_1708_librivox/ainofolktales_07_chamberlain_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[V. Scraps of Folklore (44-54)]]></title>
+    <itunes:episode><![CDATA[8]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/aino-folk-tales-by-basil-hall-chamberlain/]]></link>
+            <enclosure url="https://www.archive.org/download/aino_folktales_1708_librivox/ainofolktales_08_chamberlain_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 27 Aug 2017 00:07:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/aino_folktales_1708_librivox/ainofolktales_08_chamberlain_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <!-- end file loop -->
+</channel>
+</rss>

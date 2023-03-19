@@ -1,0 +1,109 @@
+<?xml version="1.0" ?><rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+  <title><![CDATA[Race Of The Swift, The by Edwin Carlile Litsey (1874 - 1970)]]></title>
+  <link><![CDATA[https://librivox.org/the-race-of-the-swift-by-edwin-carlile-litsey/]]></link>
+  <atom:link rel="self" href="https://librivox.org/rss/12706" />
+  <description><![CDATA[This 1905 collection is of the author’s short animal stories, some previously published in magazines. - Summary by David Wales]]></description>
+  <!--<genre>project element=Genre</genre>-->
+  <!--<language>project element=lang.code</language>-->
+  <itunes:type>serial</itunes:type>
+  <itunes:author>LibriVox</itunes:author>
+  <itunes:summary><![CDATA[This 1905 collection is of the author’s short animal stories, some previously published in magazines. - Summary by David Wales]]></itunes:summary>
+  <itunes:owner>
+    <itunes:name>LibriVox</itunes:name>
+    <itunes:email>info@librivox.org</itunes:email>
+  </itunes:owner>
+  <itunes:category text="Arts">
+    <itunes:category text="Literature" />
+  </itunes:category>
+  <image><url>https://archive.org/download/the_race_of_the_swift_1802_librivox/raceswift_1801.jpg</url></image>
+  <itunes:image href="https://archive.org/download/the_race_of_the_swift_1802_librivox/raceswift_1801.jpg"/>
+  <itunes:explicit>no</itunes:explicit>
+  <!-- file loop -->
+    <item>
+    <title><![CDATA[The Race Of The Swift]]></title>
+    <itunes:episode><![CDATA[1]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-race-of-the-swift-by-edwin-carlile-litsey/]]></link>
+            <enclosure url="https://www.archive.org/download/the_race_of_the_swift_1802_librivox/raceswift_01_litsey_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 03 Feb 2018 00:00:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/the_race_of_the_swift_1802_librivox/raceswift_01_litsey_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Robber Baron]]></title>
+    <itunes:episode><![CDATA[2]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-race-of-the-swift-by-edwin-carlile-litsey/]]></link>
+            <enclosure url="https://www.archive.org/download/the_race_of_the_swift_1802_librivox/raceswift_02_litsey_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 03 Feb 2018 00:01:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/the_race_of_the_swift_1802_librivox/raceswift_02_litsey_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Ghost Coon]]></title>
+    <itunes:episode><![CDATA[3]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-race-of-the-swift-by-edwin-carlile-litsey/]]></link>
+            <enclosure url="https://www.archive.org/download/the_race_of_the_swift_1802_librivox/raceswift_03_litsey_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 03 Feb 2018 00:02:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/the_race_of_the_swift_1802_librivox/raceswift_03_litsey_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Spoiler Of The Folds]]></title>
+    <itunes:episode><![CDATA[4]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-race-of-the-swift-by-edwin-carlile-litsey/]]></link>
+            <enclosure url="https://www.archive.org/download/the_race_of_the_swift_1802_librivox/raceswift_04_litsey_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 03 Feb 2018 00:03:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/the_race_of_the_swift_1802_librivox/raceswift_04_litsey_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Fight On The Tree-Bridge]]></title>
+    <itunes:episode><![CDATA[5]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-race-of-the-swift-by-edwin-carlile-litsey/]]></link>
+            <enclosure url="https://www.archive.org/download/the_race_of_the_swift_1802_librivox/raceswift_05_litsey_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 03 Feb 2018 00:04:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/the_race_of_the_swift_1802_librivox/raceswift_05_litsey_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Guardian Of The Flock]]></title>
+    <itunes:episode><![CDATA[6]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-race-of-the-swift-by-edwin-carlile-litsey/]]></link>
+            <enclosure url="https://www.archive.org/download/the_race_of_the_swift_1802_librivox/raceswift_06_litsey_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 03 Feb 2018 00:05:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/the_race_of_the_swift_1802_librivox/raceswift_06_litsey_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The King Of The Northern Slope]]></title>
+    <itunes:episode><![CDATA[7]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-race-of-the-swift-by-edwin-carlile-litsey/]]></link>
+            <enclosure url="https://www.archive.org/download/the_race_of_the_swift_1802_librivox/raceswift_07_litsey_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 03 Feb 2018 00:06:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/the_race_of_the_swift_1802_librivox/raceswift_07_litsey_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <!-- end file loop -->
+</channel>
+</rss>

@@ -1,0 +1,327 @@
+<?xml version="1.0" ?><rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+  <title><![CDATA[Russian Fairy Tales by Peter Nikolaevich Polevoi (1839 - 1902)]]></title>
+  <link><![CDATA[https://librivox.org/russian-fairy-tales-by-peter-nikolaevich-polevoi/]]></link>
+  <atom:link rel="self" href="https://librivox.org/rss/9581" />
+  <description><![CDATA[The existence of the Russian Skazki or Märchen was first made generally known to the British public by Mr W. R. S. Ralston in his “Russian Folk-Tales.” That excellent and most engrossing volume was, primarily, a treatise on Slavonic folk-lore, illustrated with admirable skill and judgment by stories, mainly selected from the vast collection of Afanasiev, who did for the Russian what Asbjörnsen has done for the Norwegian folk-tale. A year after the appearance of Mr Ralston's book, the eminent Russian historian and archaeologist, Peter Nikolaevich Polevoi (well known, too, as an able and ardent Shakespearean scholar), selected from the inexhaustible stores of Afanasiev some three dozen of the Skazki, and worked them up into a fairy-tale book which was published at St Petersburg in 1874, under the title of “Narodnuiya Russkiya Skazki” (“Popular Russian Tales”).  M. Polevoi did his work excellently well, and, while softening the crudities and smoothing out the occasional roughness of these charming stories, neither injured their simple texture nor overlaid the original pattern.  It is from the first Russian edition of M. Polevoi's book that the following selection has been made. With the single exception of Morozko, a variant of which will be familiar to those who know Mr Ralston's volume, none of these tales had seen the light in an English dress before the publication of the first edition of my book; for though both Ralston and Polevoi drew, for the most part, from the same copious stock, their purposes were so different that their selections naturally proved to be different also.  As to the merits of these Skazki, they must be left to speak for themselves. It is a significant fact, however, that scholars who are equally familiar with the Russian Skazki and the German Märchen unhesitatingly give the palm, both for fun and fancy, to the former. 
+ - Summary by Robert Nisbet Bain]]></description>
+  <!--<genre>project element=Genre</genre>-->
+  <!--<language>project element=lang.code</language>-->
+  <itunes:type>serial</itunes:type>
+  <itunes:author>LibriVox</itunes:author>
+  <itunes:summary><![CDATA[The existence of the Russian Skazki or Märchen was first made generally known to the British public by Mr W. R. S. Ralston in his “Russian Folk-Tales.” That excellent and most engrossing volume was, primarily, a treatise on Slavonic folk-lore, illustrated with admirable skill and judgment by stories, mainly selected from the vast collection of Afanasiev, who did for the Russian what Asbjörnsen has done for the Norwegian folk-tale. A year after the appearance of Mr Ralston's book, the eminent Russian historian and archaeologist, Peter Nikolaevich Polevoi (well known, too, as an able and ardent Shakespearean scholar), selected from the inexhaustible stores of Afanasiev some three dozen of the Skazki, and worked them up into a fairy-tale book which was published at St Petersburg in 1874, under the title of “Narodnuiya Russkiya Skazki” (“Popular Russian Tales”).  M. Polevoi did his work excellently well, and, while softening the crudities and smoothing out the occasional roughness of these charming stories, neither injured their simple texture nor overlaid the original pattern.  It is from the first Russian edition of M. Polevoi's book that the following selection has been made. With the single exception of Morozko, a variant of which will be familiar to those who know Mr Ralston's volume, none of these tales had seen the light in an English dress before the publication of the first edition of my book; for though both Ralston and Polevoi drew, for the most part, from the same copious stock, their purposes were so different that their selections naturally proved to be different also.  As to the merits of these Skazki, they must be left to speak for themselves. It is a significant fact, however, that scholars who are equally familiar with the Russian Skazki and the German Märchen unhesitatingly give the palm, both for fun and fancy, to the former. 
+ - Summary by Robert Nisbet Bain]]></itunes:summary>
+  <itunes:owner>
+    <itunes:name>LibriVox</itunes:name>
+    <itunes:email>info@librivox.org</itunes:email>
+  </itunes:owner>
+  <itunes:category text="Arts">
+    <itunes:category text="Literature" />
+  </itunes:category>
+  <image><url>https://archive.org/download/LibrivoxCdCoverArt17/russianfairytales_1505.jpg</url></image>
+  <itunes:image href="https://archive.org/download/LibrivoxCdCoverArt17/russianfairytales_1505.jpg"/>
+  <itunes:explicit>no</itunes:explicit>
+  <!-- file loop -->
+    <item>
+    <title><![CDATA[Translator's Preface]]></title>
+    <itunes:episode><![CDATA[0]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/russian-fairy-tales-by-peter-nikolaevich-polevoi/]]></link>
+            <enclosure url="https://www.archive.org/download/russianfairytales_1505_librivox/russianfairytales_00_polevoi_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 15 May 2015 00:00:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/russianfairytales_1505_librivox/russianfairytales_00_polevoi_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Golden Mountain]]></title>
+    <itunes:episode><![CDATA[1]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/russian-fairy-tales-by-peter-nikolaevich-polevoi/]]></link>
+            <enclosure url="https://www.archive.org/download/russianfairytales_1505_librivox/russianfairytales_01_polevoi_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 15 May 2015 00:01:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/russianfairytales_1505_librivox/russianfairytales_01_polevoi_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Morozko]]></title>
+    <itunes:episode><![CDATA[2]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/russian-fairy-tales-by-peter-nikolaevich-polevoi/]]></link>
+            <enclosure url="https://www.archive.org/download/russianfairytales_1505_librivox/russianfairytales_02_polevoi_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 15 May 2015 00:02:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/russianfairytales_1505_librivox/russianfairytales_02_polevoi_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Flying Ship]]></title>
+    <itunes:episode><![CDATA[3]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/russian-fairy-tales-by-peter-nikolaevich-polevoi/]]></link>
+            <enclosure url="https://www.archive.org/download/russianfairytales_1505_librivox/russianfairytales_03_polevoi_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 15 May 2015 00:03:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/russianfairytales_1505_librivox/russianfairytales_03_polevoi_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Muzhichek As Big As Your Thumb With Moustaches Seven Versts Long]]></title>
+    <itunes:episode><![CDATA[4]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/russian-fairy-tales-by-peter-nikolaevich-polevoi/]]></link>
+            <enclosure url="https://www.archive.org/download/russianfairytales_1505_librivox/russianfairytales_04_polevoi_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 15 May 2015 00:04:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/russianfairytales_1505_librivox/russianfairytales_04_polevoi_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Story of the Tsarevich Ivan &amp; of the Harp that Harped without a Harper]]></title>
+    <itunes:episode><![CDATA[5]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/russian-fairy-tales-by-peter-nikolaevich-polevoi/]]></link>
+            <enclosure url="https://www.archive.org/download/russianfairytales_1505_librivox/russianfairytales_05_polevoi_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 15 May 2015 00:05:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/russianfairytales_1505_librivox/russianfairytales_05_polevoi_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Story of Gore-Gorinskoe]]></title>
+    <itunes:episode><![CDATA[6]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/russian-fairy-tales-by-peter-nikolaevich-polevoi/]]></link>
+            <enclosure url="https://www.archive.org/download/russianfairytales_1505_librivox/russianfairytales_06_polevoi_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 15 May 2015 00:06:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/russianfairytales_1505_librivox/russianfairytales_06_polevoi_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Go I Know Not Whither; Fetch I Know Not What]]></title>
+    <itunes:episode><![CDATA[7]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/russian-fairy-tales-by-peter-nikolaevich-polevoi/]]></link>
+            <enclosure url="https://www.archive.org/download/russianfairytales_1505_librivox/russianfairytales_07_polevoi_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 15 May 2015 00:07:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/russianfairytales_1505_librivox/russianfairytales_07_polevoi_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Kuz’ma Skorobogaty]]></title>
+    <itunes:episode><![CDATA[8]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/russian-fairy-tales-by-peter-nikolaevich-polevoi/]]></link>
+            <enclosure url="https://www.archive.org/download/russianfairytales_1505_librivox/russianfairytales_08_polevoi_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 15 May 2015 00:08:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/russianfairytales_1505_librivox/russianfairytales_08_polevoi_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Tsarevna Loveliness Inexhaustible]]></title>
+    <itunes:episode><![CDATA[9]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/russian-fairy-tales-by-peter-nikolaevich-polevoi/]]></link>
+            <enclosure url="https://www.archive.org/download/russianfairytales_1505_librivox/russianfairytales_09_polevoi_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 15 May 2015 00:09:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/russianfairytales_1505_librivox/russianfairytales_09_polevoi_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Verlioka]]></title>
+    <itunes:episode><![CDATA[10]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/russian-fairy-tales-by-peter-nikolaevich-polevoi/]]></link>
+            <enclosure url="https://www.archive.org/download/russianfairytales_1505_librivox/russianfairytales_10_polevoi_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 15 May 2015 00:10:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/russianfairytales_1505_librivox/russianfairytales_10_polevoi_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Frog Tsarevna]]></title>
+    <itunes:episode><![CDATA[11]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/russian-fairy-tales-by-peter-nikolaevich-polevoi/]]></link>
+            <enclosure url="https://www.archive.org/download/russianfairytales_1505_librivox/russianfairytales_11_polevoi_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 15 May 2015 00:11:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/russianfairytales_1505_librivox/russianfairytales_11_polevoi_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Two Sons of Ivan the Soldier]]></title>
+    <itunes:episode><![CDATA[12]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/russian-fairy-tales-by-peter-nikolaevich-polevoi/]]></link>
+            <enclosure url="https://www.archive.org/download/russianfairytales_1505_librivox/russianfairytales_12_polevoi_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 15 May 2015 00:12:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/russianfairytales_1505_librivox/russianfairytales_12_polevoi_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Woman-Accuser]]></title>
+    <itunes:episode><![CDATA[13]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/russian-fairy-tales-by-peter-nikolaevich-polevoi/]]></link>
+            <enclosure url="https://www.archive.org/download/russianfairytales_1505_librivox/russianfairytales_13_polevoi_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 15 May 2015 00:13:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/russianfairytales_1505_librivox/russianfairytales_13_polevoi_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Thomas Berennikov]]></title>
+    <itunes:episode><![CDATA[14]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/russian-fairy-tales-by-peter-nikolaevich-polevoi/]]></link>
+            <enclosure url="https://www.archive.org/download/russianfairytales_1505_librivox/russianfairytales_14_polevoi_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 15 May 2015 00:14:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/russianfairytales_1505_librivox/russianfairytales_14_polevoi_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The White Duck]]></title>
+    <itunes:episode><![CDATA[15]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/russian-fairy-tales-by-peter-nikolaevich-polevoi/]]></link>
+            <enclosure url="https://www.archive.org/download/russianfairytales_1505_librivox/russianfairytales_15_polevoi_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 15 May 2015 00:15:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/russianfairytales_1505_librivox/russianfairytales_15_polevoi_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Tale of Little Fool Ivan]]></title>
+    <itunes:episode><![CDATA[16]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/russian-fairy-tales-by-peter-nikolaevich-polevoi/]]></link>
+            <enclosure url="https://www.archive.org/download/russianfairytales_1505_librivox/russianfairytales_16_polevoi_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 15 May 2015 00:16:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/russianfairytales_1505_librivox/russianfairytales_16_polevoi_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Little Feather of Fenist the Bright Falcon]]></title>
+    <itunes:episode><![CDATA[17]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/russian-fairy-tales-by-peter-nikolaevich-polevoi/]]></link>
+            <enclosure url="https://www.archive.org/download/russianfairytales_1505_librivox/russianfairytales_17_polevoi_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 15 May 2015 00:17:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/russianfairytales_1505_librivox/russianfairytales_17_polevoi_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Tale of the Peasant Demyan]]></title>
+    <itunes:episode><![CDATA[18]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/russian-fairy-tales-by-peter-nikolaevich-polevoi/]]></link>
+            <enclosure url="https://www.archive.org/download/russianfairytales_1505_librivox/russianfairytales_18_polevoi_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 15 May 2015 00:18:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/russianfairytales_1505_librivox/russianfairytales_18_polevoi_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Enchanted Ring]]></title>
+    <itunes:episode><![CDATA[19]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/russian-fairy-tales-by-peter-nikolaevich-polevoi/]]></link>
+            <enclosure url="https://www.archive.org/download/russianfairytales_1505_librivox/russianfairytales_19_polevoi_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 15 May 2015 00:19:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/russianfairytales_1505_librivox/russianfairytales_19_polevoi_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Brave Labourer]]></title>
+    <itunes:episode><![CDATA[20]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/russian-fairy-tales-by-peter-nikolaevich-polevoi/]]></link>
+            <enclosure url="https://www.archive.org/download/russianfairytales_1505_librivox/russianfairytales_20_polevoi_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 15 May 2015 00:20:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/russianfairytales_1505_librivox/russianfairytales_20_polevoi_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Sage Damsel]]></title>
+    <itunes:episode><![CDATA[21]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/russian-fairy-tales-by-peter-nikolaevich-polevoi/]]></link>
+            <enclosure url="https://www.archive.org/download/russianfairytales_1505_librivox/russianfairytales_21_polevoi_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 15 May 2015 00:21:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/russianfairytales_1505_librivox/russianfairytales_21_polevoi_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Prophetic Dream]]></title>
+    <itunes:episode><![CDATA[22]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/russian-fairy-tales-by-peter-nikolaevich-polevoi/]]></link>
+            <enclosure url="https://www.archive.org/download/russianfairytales_1505_librivox/russianfairytales_22_polevoi_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 15 May 2015 00:22:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/russianfairytales_1505_librivox/russianfairytales_22_polevoi_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Two Out of the Knapsack]]></title>
+    <itunes:episode><![CDATA[23]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/russian-fairy-tales-by-peter-nikolaevich-polevoi/]]></link>
+            <enclosure url="https://www.archive.org/download/russianfairytales_1505_librivox/russianfairytales_23_polevoi_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 15 May 2015 00:23:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/russianfairytales_1505_librivox/russianfairytales_23_polevoi_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Story of Marko the Rich and Vasily the Luckless]]></title>
+    <itunes:episode><![CDATA[24]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/russian-fairy-tales-by-peter-nikolaevich-polevoi/]]></link>
+            <enclosure url="https://www.archive.org/download/russianfairytales_1505_librivox/russianfairytales_24_polevoi_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 15 May 2015 00:24:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/russianfairytales_1505_librivox/russianfairytales_24_polevoi_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <!-- end file loop -->
+</channel>
+</rss>

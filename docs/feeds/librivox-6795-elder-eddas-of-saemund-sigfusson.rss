@@ -1,0 +1,1045 @@
+<?xml version="1.0" ?><rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+  <title><![CDATA[Elder Eddas of Saemund Sigfusson; and the Younger Eddas of Snorre Sturleson by Sæmund Sigfusson (1056 - 1133) and Snorri Sturleson (1178 - 1241)]]></title>
+  <link><![CDATA[https://librivox.org/elder-eddas-younger-eddas-by-saemund-sigfusson/]]></link>
+  <atom:link rel="self" href="https://librivox.org/rss/6795" />
+  <description><![CDATA[The most complete set of the epic Norse eddas, or poems. It contains in beautiful verse the pagan beliefs of the Old Norse. Luckily in this work both the Elder Eddas of Saemund Sigfusson and the Younger Eddas of Snorre Sturleson are presented, and you may find a version of the Nibelunglied that you aren't as familiar with. Numerous authors including Tolkien and Martin have acknowledge their debt to and appreciation for these traditional works. (Summary by Becky Cook) ]]></description>
+  <!--<genre>project element=Genre</genre>-->
+  <!--<language>project element=lang.code</language>-->
+  <itunes:type>serial</itunes:type>
+  <itunes:author>LibriVox</itunes:author>
+  <itunes:summary><![CDATA[The most complete set of the epic Norse eddas, or poems. It contains in beautiful verse the pagan beliefs of the Old Norse. Luckily in this work both the Elder Eddas of Saemund Sigfusson and the Younger Eddas of Snorre Sturleson are presented, and you may find a version of the Nibelunglied that you aren't as familiar with. Numerous authors including Tolkien and Martin have acknowledge their debt to and appreciation for these traditional works. (Summary by Becky Cook) ]]></itunes:summary>
+  <itunes:owner>
+    <itunes:name>LibriVox</itunes:name>
+    <itunes:email>info@librivox.org</itunes:email>
+  </itunes:owner>
+  <itunes:category text="Arts">
+    <itunes:category text="Literature" />
+  </itunes:category>
+  <image><url>https://archive.org/download/eddas_elder_younger_1810_librivox/elder_younger_edda_1810.jpg</url></image>
+  <itunes:image href="https://archive.org/download/eddas_elder_younger_1810_librivox/elder_younger_edda_1810.jpg"/>
+  <itunes:explicit>no</itunes:explicit>
+  <!-- file loop -->
+    <item>
+    <title><![CDATA[00 - Preface]]></title>
+    <itunes:episode><![CDATA[0]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/elder-eddas-younger-eddas-by-saemund-sigfusson/]]></link>
+            <enclosure url="https://www.archive.org/download/eddas_elder_younger_1810_librivox/eddas_00_sigfusson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 20 Oct 2018 00:00:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/eddas_elder_younger_1810_librivox/eddas_00_sigfusson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[01 - Introduction to the Voluspa]]></title>
+    <itunes:episode><![CDATA[1]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/elder-eddas-younger-eddas-by-saemund-sigfusson/]]></link>
+            <enclosure url="https://www.archive.org/download/eddas_elder_younger_1810_librivox/eddas_01_sigfusson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 20 Oct 2018 00:01:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/eddas_elder_younger_1810_librivox/eddas_01_sigfusson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[02 - Voluspa, The Vala's Prophecy]]></title>
+    <itunes:episode><![CDATA[2]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/elder-eddas-younger-eddas-by-saemund-sigfusson/]]></link>
+            <enclosure url="https://www.archive.org/download/eddas_elder_younger_1810_librivox/eddas_02_sigfusson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 20 Oct 2018 00:02:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/eddas_elder_younger_1810_librivox/eddas_02_sigfusson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[03 - The Lay of Vafthrudnir]]></title>
+    <itunes:episode><![CDATA[3]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/elder-eddas-younger-eddas-by-saemund-sigfusson/]]></link>
+            <enclosure url="https://www.archive.org/download/eddas_elder_younger_1810_librivox/eddas_03_sigfusson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 20 Oct 2018 00:03:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/eddas_elder_younger_1810_librivox/eddas_03_sigfusson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[04 - The Lay of Grimnir]]></title>
+    <itunes:episode><![CDATA[4]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/elder-eddas-younger-eddas-by-saemund-sigfusson/]]></link>
+            <enclosure url="https://www.archive.org/download/eddas_elder_younger_1810_librivox/eddas_04_sigfusson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 20 Oct 2018 00:04:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/eddas_elder_younger_1810_librivox/eddas_04_sigfusson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[05 - The Lay of Vegtam, Or Baldr's Dreams]]></title>
+    <itunes:episode><![CDATA[5]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/elder-eddas-younger-eddas-by-saemund-sigfusson/]]></link>
+            <enclosure url="https://www.archive.org/download/eddas_elder_younger_1810_librivox/eddas_05_sigfusson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 20 Oct 2018 00:05:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/eddas_elder_younger_1810_librivox/eddas_05_sigfusson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[06 - The High One's Lay]]></title>
+    <itunes:episode><![CDATA[6]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/elder-eddas-younger-eddas-by-saemund-sigfusson/]]></link>
+            <enclosure url="https://www.archive.org/download/eddas_elder_younger_1810_librivox/eddas_06_sigfusson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 20 Oct 2018 00:06:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/eddas_elder_younger_1810_librivox/eddas_06_sigfusson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[07 - Odin's Rune-song]]></title>
+    <itunes:episode><![CDATA[7]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/elder-eddas-younger-eddas-by-saemund-sigfusson/]]></link>
+            <enclosure url="https://www.archive.org/download/eddas_elder_younger_1810_librivox/eddas_07_sigfusson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 20 Oct 2018 00:07:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/eddas_elder_younger_1810_librivox/eddas_07_sigfusson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[08 - The Lay of Hymir]]></title>
+    <itunes:episode><![CDATA[8]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/elder-eddas-younger-eddas-by-saemund-sigfusson/]]></link>
+            <enclosure url="https://www.archive.org/download/eddas_elder_younger_1810_librivox/eddas_08_sigfusson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 20 Oct 2018 00:08:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/eddas_elder_younger_1810_librivox/eddas_08_sigfusson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[09 - The Lay of Thrym, Or The Hammer Recovered]]></title>
+    <itunes:episode><![CDATA[9]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/elder-eddas-younger-eddas-by-saemund-sigfusson/]]></link>
+            <enclosure url="https://www.archive.org/download/eddas_elder_younger_1810_librivox/eddas_09_sigfusson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 20 Oct 2018 00:09:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/eddas_elder_younger_1810_librivox/eddas_09_sigfusson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[10 - The Lay of the Dwarf Alvis]]></title>
+    <itunes:episode><![CDATA[10]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/elder-eddas-younger-eddas-by-saemund-sigfusson/]]></link>
+            <enclosure url="https://www.archive.org/download/eddas_elder_younger_1810_librivox/eddas_10_sigfusson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 20 Oct 2018 00:10:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/eddas_elder_younger_1810_librivox/eddas_10_sigfusson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[11 - The Lay of Harbard]]></title>
+    <itunes:episode><![CDATA[11]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/elder-eddas-younger-eddas-by-saemund-sigfusson/]]></link>
+            <enclosure url="https://www.archive.org/download/eddas_elder_younger_1810_librivox/eddas_11_sigfusson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 20 Oct 2018 00:11:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/eddas_elder_younger_1810_librivox/eddas_11_sigfusson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[12 - The Journey or Lay of Skirnir]]></title>
+    <itunes:episode><![CDATA[12]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/elder-eddas-younger-eddas-by-saemund-sigfusson/]]></link>
+            <enclosure url="https://www.archive.org/download/eddas_elder_younger_1810_librivox/eddas_12_sigfusson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 20 Oct 2018 00:12:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/eddas_elder_younger_1810_librivox/eddas_12_sigfusson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[13 - The Lay of Rig]]></title>
+    <itunes:episode><![CDATA[13]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/elder-eddas-younger-eddas-by-saemund-sigfusson/]]></link>
+            <enclosure url="https://www.archive.org/download/eddas_elder_younger_1810_librivox/eddas_13_sigfusson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 20 Oct 2018 00:13:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/eddas_elder_younger_1810_librivox/eddas_13_sigfusson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[14 - Oegir's Compotation, or Loki's Altercation]]></title>
+    <itunes:episode><![CDATA[14]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/elder-eddas-younger-eddas-by-saemund-sigfusson/]]></link>
+            <enclosure url="https://www.archive.org/download/eddas_elder_younger_1810_librivox/eddas_14_sigfusson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 20 Oct 2018 00:14:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/eddas_elder_younger_1810_librivox/eddas_14_sigfusson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[15 - The Lay of Fiolsvith]]></title>
+    <itunes:episode><![CDATA[15]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/elder-eddas-younger-eddas-by-saemund-sigfusson/]]></link>
+            <enclosure url="https://www.archive.org/download/eddas_elder_younger_1810_librivox/eddas_15_sigfusson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 20 Oct 2018 00:15:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/eddas_elder_younger_1810_librivox/eddas_15_sigfusson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[16 - The Lay of Hyndla]]></title>
+    <itunes:episode><![CDATA[16]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/elder-eddas-younger-eddas-by-saemund-sigfusson/]]></link>
+            <enclosure url="https://www.archive.org/download/eddas_elder_younger_1810_librivox/eddas_16_sigfusson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 20 Oct 2018 00:16:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/eddas_elder_younger_1810_librivox/eddas_16_sigfusson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[17 - The Incantation of Groa]]></title>
+    <itunes:episode><![CDATA[17]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/elder-eddas-younger-eddas-by-saemund-sigfusson/]]></link>
+            <enclosure url="https://www.archive.org/download/eddas_elder_younger_1810_librivox/eddas_17_sigfusson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 20 Oct 2018 00:17:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/eddas_elder_younger_1810_librivox/eddas_17_sigfusson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[18 - The Song of The Sun]]></title>
+    <itunes:episode><![CDATA[18]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/elder-eddas-younger-eddas-by-saemund-sigfusson/]]></link>
+            <enclosure url="https://www.archive.org/download/eddas_elder_younger_1810_librivox/eddas_18_sigfusson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 20 Oct 2018 00:18:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/eddas_elder_younger_1810_librivox/eddas_18_sigfusson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[19 - The Lay of Volund]]></title>
+    <itunes:episode><![CDATA[19]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/elder-eddas-younger-eddas-by-saemund-sigfusson/]]></link>
+            <enclosure url="https://www.archive.org/download/eddas_elder_younger_1810_librivox/eddas_19_sigfusson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 20 Oct 2018 00:19:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/eddas_elder_younger_1810_librivox/eddas_19_sigfusson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[20 - The Lay of Helgi Hiorvard's Son]]></title>
+    <itunes:episode><![CDATA[20]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/elder-eddas-younger-eddas-by-saemund-sigfusson/]]></link>
+            <enclosure url="https://www.archive.org/download/eddas_elder_younger_1810_librivox/eddas_20_sigfusson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 20 Oct 2018 00:20:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/eddas_elder_younger_1810_librivox/eddas_20_sigfusson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[21 - The First Lay of Helgi Hundingcid]]></title>
+    <itunes:episode><![CDATA[21]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/elder-eddas-younger-eddas-by-saemund-sigfusson/]]></link>
+            <enclosure url="https://www.archive.org/download/eddas_elder_younger_1810_librivox/eddas_21_sigfusson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 20 Oct 2018 00:21:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/eddas_elder_younger_1810_librivox/eddas_21_sigfusson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[22 - The Second Lay of Helgi Hundingcide]]></title>
+    <itunes:episode><![CDATA[22]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/elder-eddas-younger-eddas-by-saemund-sigfusson/]]></link>
+            <enclosure url="https://www.archive.org/download/eddas_elder_younger_1810_librivox/eddas_22_sigfusson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 20 Oct 2018 00:22:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/eddas_elder_younger_1810_librivox/eddas_22_sigfusson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[23 - Sinfiotli's End]]></title>
+    <itunes:episode><![CDATA[23]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/elder-eddas-younger-eddas-by-saemund-sigfusson/]]></link>
+            <enclosure url="https://www.archive.org/download/eddas_elder_younger_1810_librivox/eddas_23_sigfusson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 20 Oct 2018 00:23:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/eddas_elder_younger_1810_librivox/eddas_23_sigfusson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[24 - The First Lay of Siguard Fafnicide, or Gripir's Prophecy]]></title>
+    <itunes:episode><![CDATA[24]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/elder-eddas-younger-eddas-by-saemund-sigfusson/]]></link>
+            <enclosure url="https://www.archive.org/download/eddas_elder_younger_1810_librivox/eddas_24_sigfusson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 20 Oct 2018 00:24:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/eddas_elder_younger_1810_librivox/eddas_24_sigfusson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[25 - The Second Lay of Sigurd Fafnicide]]></title>
+    <itunes:episode><![CDATA[25]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/elder-eddas-younger-eddas-by-saemund-sigfusson/]]></link>
+            <enclosure url="https://www.archive.org/download/eddas_elder_younger_1810_librivox/eddas_25_sigfusson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 20 Oct 2018 00:25:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/eddas_elder_younger_1810_librivox/eddas_25_sigfusson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[26 - The Lay of Fafnir]]></title>
+    <itunes:episode><![CDATA[26]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/elder-eddas-younger-eddas-by-saemund-sigfusson/]]></link>
+            <enclosure url="https://www.archive.org/download/eddas_elder_younger_1810_librivox/eddas_26_sigfusson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 20 Oct 2018 00:26:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/eddas_elder_younger_1810_librivox/eddas_26_sigfusson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[27 - The Lay of Sigrdrifa]]></title>
+    <itunes:episode><![CDATA[27]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/elder-eddas-younger-eddas-by-saemund-sigfusson/]]></link>
+            <enclosure url="https://www.archive.org/download/eddas_elder_younger_1810_librivox/eddas_27_sigfusson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 20 Oct 2018 00:27:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/eddas_elder_younger_1810_librivox/eddas_27_sigfusson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[28 - Fragments of the Lay of Sigurd and Brynhild]]></title>
+    <itunes:episode><![CDATA[28]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/elder-eddas-younger-eddas-by-saemund-sigfusson/]]></link>
+            <enclosure url="https://www.archive.org/download/eddas_elder_younger_1810_librivox/eddas_28_sigfusson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 20 Oct 2018 00:28:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/eddas_elder_younger_1810_librivox/eddas_28_sigfusson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[29 - The Third Lay of Sigurd Fafnicide]]></title>
+    <itunes:episode><![CDATA[29]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/elder-eddas-younger-eddas-by-saemund-sigfusson/]]></link>
+            <enclosure url="https://www.archive.org/download/eddas_elder_younger_1810_librivox/eddas_29_sigfusson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 20 Oct 2018 00:29:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/eddas_elder_younger_1810_librivox/eddas_29_sigfusson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[30 - Fragments of te Lay of Brynhild]]></title>
+    <itunes:episode><![CDATA[30]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/elder-eddas-younger-eddas-by-saemund-sigfusson/]]></link>
+            <enclosure url="https://www.archive.org/download/eddas_elder_younger_1810_librivox/eddas_30_sigfusson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 20 Oct 2018 00:30:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/eddas_elder_younger_1810_librivox/eddas_30_sigfusson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[31 - The First Lay of Gudrun]]></title>
+    <itunes:episode><![CDATA[31]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/elder-eddas-younger-eddas-by-saemund-sigfusson/]]></link>
+            <enclosure url="https://www.archive.org/download/eddas_elder_younger_1810_librivox/eddas_31_sigfusson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 20 Oct 2018 00:31:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/eddas_elder_younger_1810_librivox/eddas_31_sigfusson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[32 - Brynhild's Hel-ride]]></title>
+    <itunes:episode><![CDATA[32]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/elder-eddas-younger-eddas-by-saemund-sigfusson/]]></link>
+            <enclosure url="https://www.archive.org/download/eddas_elder_younger_1810_librivox/eddas_32_sigfusson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 20 Oct 2018 00:32:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/eddas_elder_younger_1810_librivox/eddas_32_sigfusson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[33 - The Slaughter of the Niflungs]]></title>
+    <itunes:episode><![CDATA[33]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/elder-eddas-younger-eddas-by-saemund-sigfusson/]]></link>
+            <enclosure url="https://www.archive.org/download/eddas_elder_younger_1810_librivox/eddas_33_sigfusson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 20 Oct 2018 00:33:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/eddas_elder_younger_1810_librivox/eddas_33_sigfusson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[34 - The Second Lay of Gudrun]]></title>
+    <itunes:episode><![CDATA[34]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/elder-eddas-younger-eddas-by-saemund-sigfusson/]]></link>
+            <enclosure url="https://www.archive.org/download/eddas_elder_younger_1810_librivox/eddas_34_sigfusson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 20 Oct 2018 00:34:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/eddas_elder_younger_1810_librivox/eddas_34_sigfusson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[35 - The Third Lay of Gudrun]]></title>
+    <itunes:episode><![CDATA[35]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/elder-eddas-younger-eddas-by-saemund-sigfusson/]]></link>
+            <enclosure url="https://www.archive.org/download/eddas_elder_younger_1810_librivox/eddas_35_sigfusson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 20 Oct 2018 00:35:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/eddas_elder_younger_1810_librivox/eddas_35_sigfusson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[36 - Oddrun's Lament]]></title>
+    <itunes:episode><![CDATA[36]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/elder-eddas-younger-eddas-by-saemund-sigfusson/]]></link>
+            <enclosure url="https://www.archive.org/download/eddas_elder_younger_1810_librivox/eddas_36_sigfusson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 20 Oct 2018 00:36:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/eddas_elder_younger_1810_librivox/eddas_36_sigfusson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[37 - The Lay of Atli]]></title>
+    <itunes:episode><![CDATA[37]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/elder-eddas-younger-eddas-by-saemund-sigfusson/]]></link>
+            <enclosure url="https://www.archive.org/download/eddas_elder_younger_1810_librivox/eddas_37_sigfusson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 20 Oct 2018 00:37:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/eddas_elder_younger_1810_librivox/eddas_37_sigfusson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[38 - The Groenland Lay of Atli]]></title>
+    <itunes:episode><![CDATA[38]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/elder-eddas-younger-eddas-by-saemund-sigfusson/]]></link>
+            <enclosure url="https://www.archive.org/download/eddas_elder_younger_1810_librivox/eddas_38_sigfusson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 20 Oct 2018 00:38:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/eddas_elder_younger_1810_librivox/eddas_38_sigfusson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[39 - Gudrun's Incitement]]></title>
+    <itunes:episode><![CDATA[39]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/elder-eddas-younger-eddas-by-saemund-sigfusson/]]></link>
+            <enclosure url="https://www.archive.org/download/eddas_elder_younger_1810_librivox/eddas_39_sigfusson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 20 Oct 2018 00:39:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/eddas_elder_younger_1810_librivox/eddas_39_sigfusson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[40 - The Lay of Hamdir]]></title>
+    <itunes:episode><![CDATA[40]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/elder-eddas-younger-eddas-by-saemund-sigfusson/]]></link>
+            <enclosure url="https://www.archive.org/download/eddas_elder_younger_1810_librivox/eddas_40_sigfusson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 20 Oct 2018 00:40:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/eddas_elder_younger_1810_librivox/eddas_40_sigfusson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[41 - The Deluding of Gylfi]]></title>
+    <itunes:episode><![CDATA[41]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/elder-eddas-younger-eddas-by-saemund-sigfusson/]]></link>
+            <enclosure url="https://www.archive.org/download/eddas_elder_younger_1810_librivox/eddas_41_sigfusson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 20 Oct 2018 00:41:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/eddas_elder_younger_1810_librivox/eddas_41_sigfusson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[42 - Gylfi's Journey to Asgard]]></title>
+    <itunes:episode><![CDATA[42]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/elder-eddas-younger-eddas-by-saemund-sigfusson/]]></link>
+            <enclosure url="https://www.archive.org/download/eddas_elder_younger_1810_librivox/eddas_42_sigfusson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 20 Oct 2018 00:42:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/eddas_elder_younger_1810_librivox/eddas_42_sigfusson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[43 - Of The Supreme Deity]]></title>
+    <itunes:episode><![CDATA[43]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/elder-eddas-younger-eddas-by-saemund-sigfusson/]]></link>
+            <enclosure url="https://www.archive.org/download/eddas_elder_younger_1810_librivox/eddas_43_sigfusson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 20 Oct 2018 00:43:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/eddas_elder_younger_1810_librivox/eddas_43_sigfusson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[44 - Of The Primordial State of the Universe]]></title>
+    <itunes:episode><![CDATA[44]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/elder-eddas-younger-eddas-by-saemund-sigfusson/]]></link>
+            <enclosure url="https://www.archive.org/download/eddas_elder_younger_1810_librivox/eddas_44_sigfusson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 20 Oct 2018 00:44:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/eddas_elder_younger_1810_librivox/eddas_44_sigfusson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[45 - Origin of the Hrimthursar, or Frost-Giants]]></title>
+    <itunes:episode><![CDATA[45]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/elder-eddas-younger-eddas-by-saemund-sigfusson/]]></link>
+            <enclosure url="https://www.archive.org/download/eddas_elder_younger_1810_librivox/eddas_45_sigfusson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 20 Oct 2018 00:45:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/eddas_elder_younger_1810_librivox/eddas_45_sigfusson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[46 - Of the Cow Audhumla, and the Birth of Odin]]></title>
+    <itunes:episode><![CDATA[46]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/elder-eddas-younger-eddas-by-saemund-sigfusson/]]></link>
+            <enclosure url="https://www.archive.org/download/eddas_elder_younger_1810_librivox/eddas_46_sigfusson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 20 Oct 2018 00:46:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/eddas_elder_younger_1810_librivox/eddas_46_sigfusson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[47 - How the Sons of Bor Slew Ymir, and from His Body Made Heaven and Earth]]></title>
+    <itunes:episode><![CDATA[47]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/elder-eddas-younger-eddas-by-saemund-sigfusson/]]></link>
+            <enclosure url="https://www.archive.org/download/eddas_elder_younger_1810_librivox/eddas_47_sigfusson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 20 Oct 2018 00:47:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/eddas_elder_younger_1810_librivox/eddas_47_sigfusson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[48 - Of The Formation of the First Man and Woman]]></title>
+    <itunes:episode><![CDATA[48]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/elder-eddas-younger-eddas-by-saemund-sigfusson/]]></link>
+            <enclosure url="https://www.archive.org/download/eddas_elder_younger_1810_librivox/eddas_48_sigfusson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 20 Oct 2018 00:48:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/eddas_elder_younger_1810_librivox/eddas_48_sigfusson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[49 - Of Night and Day]]></title>
+    <itunes:episode><![CDATA[49]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/elder-eddas-younger-eddas-by-saemund-sigfusson/]]></link>
+            <enclosure url="https://www.archive.org/download/eddas_elder_younger_1810_librivox/eddas_49_sigfusson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 20 Oct 2018 00:49:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/eddas_elder_younger_1810_librivox/eddas_49_sigfusson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[50 - Of the Sun and Moon]]></title>
+    <itunes:episode><![CDATA[50]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/elder-eddas-younger-eddas-by-saemund-sigfusson/]]></link>
+            <enclosure url="https://www.archive.org/download/eddas_elder_younger_1810_librivox/eddas_50_sigfusson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 20 Oct 2018 00:50:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/eddas_elder_younger_1810_librivox/eddas_50_sigfusson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[51 - Of the Wolves that Pursue the Sun and Moon]]></title>
+    <itunes:episode><![CDATA[51]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/elder-eddas-younger-eddas-by-saemund-sigfusson/]]></link>
+            <enclosure url="https://www.archive.org/download/eddas_elder_younger_1810_librivox/eddas_51_sigfusson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 20 Oct 2018 00:51:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/eddas_elder_younger_1810_librivox/eddas_51_sigfusson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[52 - Of the Way that Leads to Heaven]]></title>
+    <itunes:episode><![CDATA[52]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/elder-eddas-younger-eddas-by-saemund-sigfusson/]]></link>
+            <enclosure url="https://www.archive.org/download/eddas_elder_younger_1810_librivox/eddas_52_sigfusson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 20 Oct 2018 00:52:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/eddas_elder_younger_1810_librivox/eddas_52_sigfusson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[53 - The Golden Age]]></title>
+    <itunes:episode><![CDATA[53]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/elder-eddas-younger-eddas-by-saemund-sigfusson/]]></link>
+            <enclosure url="https://www.archive.org/download/eddas_elder_younger_1810_librivox/eddas_53_sigfusson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 20 Oct 2018 00:53:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/eddas_elder_younger_1810_librivox/eddas_53_sigfusson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[54 - Origin of the Dwarfs]]></title>
+    <itunes:episode><![CDATA[54]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/elder-eddas-younger-eddas-by-saemund-sigfusson/]]></link>
+            <enclosure url="https://www.archive.org/download/eddas_elder_younger_1810_librivox/eddas_54_sigfusson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 20 Oct 2018 00:54:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/eddas_elder_younger_1810_librivox/eddas_54_sigfusson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[55 - Of the Ash Yggdrasill, Mimir's Well, and the Norns or Destinies]]></title>
+    <itunes:episode><![CDATA[55]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/elder-eddas-younger-eddas-by-saemund-sigfusson/]]></link>
+            <enclosure url="https://www.archive.org/download/eddas_elder_younger_1810_librivox/eddas_55_sigfusson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 20 Oct 2018 00:55:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/eddas_elder_younger_1810_librivox/eddas_55_sigfusson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[56 - Of the Various Celestial Regions]]></title>
+    <itunes:episode><![CDATA[56]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/elder-eddas-younger-eddas-by-saemund-sigfusson/]]></link>
+            <enclosure url="https://www.archive.org/download/eddas_elder_younger_1810_librivox/eddas_56_sigfusson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 20 Oct 2018 00:56:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/eddas_elder_younger_1810_librivox/eddas_56_sigfusson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[57 - Of the Wind and the Seasons]]></title>
+    <itunes:episode><![CDATA[57]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/elder-eddas-younger-eddas-by-saemund-sigfusson/]]></link>
+            <enclosure url="https://www.archive.org/download/eddas_elder_younger_1810_librivox/eddas_57_sigfusson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 20 Oct 2018 00:57:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/eddas_elder_younger_1810_librivox/eddas_57_sigfusson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[58 - Of Odin]]></title>
+    <itunes:episode><![CDATA[58]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/elder-eddas-younger-eddas-by-saemund-sigfusson/]]></link>
+            <enclosure url="https://www.archive.org/download/eddas_elder_younger_1810_librivox/eddas_58_sigfusson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 20 Oct 2018 00:58:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/eddas_elder_younger_1810_librivox/eddas_58_sigfusson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[59 - Of Thor]]></title>
+    <itunes:episode><![CDATA[59]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/elder-eddas-younger-eddas-by-saemund-sigfusson/]]></link>
+            <enclosure url="https://www.archive.org/download/eddas_elder_younger_1810_librivox/eddas_59_sigfusson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 20 Oct 2018 00:59:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/eddas_elder_younger_1810_librivox/eddas_59_sigfusson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[60 - Of Baldur]]></title>
+    <itunes:episode><![CDATA[60]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/elder-eddas-younger-eddas-by-saemund-sigfusson/]]></link>
+            <enclosure url="https://www.archive.org/download/eddas_elder_younger_1810_librivox/eddas_60_sigfusson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 20 Oct 2018 01:00:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/eddas_elder_younger_1810_librivox/eddas_60_sigfusson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[61 - Of Njord]]></title>
+    <itunes:episode><![CDATA[61]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/elder-eddas-younger-eddas-by-saemund-sigfusson/]]></link>
+            <enclosure url="https://www.archive.org/download/eddas_elder_younger_1810_librivox/eddas_61_sigfusson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 20 Oct 2018 01:01:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/eddas_elder_younger_1810_librivox/eddas_61_sigfusson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[62 - Of the God Frey, and the Goddess Freyja]]></title>
+    <itunes:episode><![CDATA[62]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/elder-eddas-younger-eddas-by-saemund-sigfusson/]]></link>
+            <enclosure url="https://www.archive.org/download/eddas_elder_younger_1810_librivox/eddas_62_sigfusson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 20 Oct 2018 01:02:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/eddas_elder_younger_1810_librivox/eddas_62_sigfusson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[63 - Of Tyr]]></title>
+    <itunes:episode><![CDATA[63]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/elder-eddas-younger-eddas-by-saemund-sigfusson/]]></link>
+            <enclosure url="https://www.archive.org/download/eddas_elder_younger_1810_librivox/eddas_63_sigfusson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 20 Oct 2018 01:03:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/eddas_elder_younger_1810_librivox/eddas_63_sigfusson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[64 - Of the Other God]]></title>
+    <itunes:episode><![CDATA[64]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/elder-eddas-younger-eddas-by-saemund-sigfusson/]]></link>
+            <enclosure url="https://www.archive.org/download/eddas_elder_younger_1810_librivox/eddas_64_sigfusson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 20 Oct 2018 01:04:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/eddas_elder_younger_1810_librivox/eddas_64_sigfusson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[65 - Hodur, The Blind Assassin of Baldur]]></title>
+    <itunes:episode><![CDATA[65]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/elder-eddas-younger-eddas-by-saemund-sigfusson/]]></link>
+            <enclosure url="https://www.archive.org/download/eddas_elder_younger_1810_librivox/eddas_65_sigfusson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 20 Oct 2018 01:05:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/eddas_elder_younger_1810_librivox/eddas_65_sigfusson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[66 - Of Loki and His Progeny]]></title>
+    <itunes:episode><![CDATA[66]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/elder-eddas-younger-eddas-by-saemund-sigfusson/]]></link>
+            <enclosure url="https://www.archive.org/download/eddas_elder_younger_1810_librivox/eddas_66_sigfusson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 20 Oct 2018 01:06:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/eddas_elder_younger_1810_librivox/eddas_66_sigfusson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[67 - Binding the Wolf Fenir]]></title>
+    <itunes:episode><![CDATA[67]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/elder-eddas-younger-eddas-by-saemund-sigfusson/]]></link>
+            <enclosure url="https://www.archive.org/download/eddas_elder_younger_1810_librivox/eddas_67_sigfusson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 20 Oct 2018 01:07:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/eddas_elder_younger_1810_librivox/eddas_67_sigfusson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[68 - Of the Godesses]]></title>
+    <itunes:episode><![CDATA[68]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/elder-eddas-younger-eddas-by-saemund-sigfusson/]]></link>
+            <enclosure url="https://www.archive.org/download/eddas_elder_younger_1810_librivox/eddas_68_sigfusson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 20 Oct 2018 01:08:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/eddas_elder_younger_1810_librivox/eddas_68_sigfusson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[69 - Of Frey and Gerda]]></title>
+    <itunes:episode><![CDATA[69]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/elder-eddas-younger-eddas-by-saemund-sigfusson/]]></link>
+            <enclosure url="https://www.archive.org/download/eddas_elder_younger_1810_librivox/eddas_69_sigfusson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 20 Oct 2018 01:09:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/eddas_elder_younger_1810_librivox/eddas_69_sigfusson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[70 - Of the Joys of Valhalla]]></title>
+    <itunes:episode><![CDATA[70]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/elder-eddas-younger-eddas-by-saemund-sigfusson/]]></link>
+            <enclosure url="https://www.archive.org/download/eddas_elder_younger_1810_librivox/eddas_70_sigfusson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 20 Oct 2018 01:10:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/eddas_elder_younger_1810_librivox/eddas_70_sigfusson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[71 - Of the Horse Sleipnir]]></title>
+    <itunes:episode><![CDATA[71]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/elder-eddas-younger-eddas-by-saemund-sigfusson/]]></link>
+            <enclosure url="https://www.archive.org/download/eddas_elder_younger_1810_librivox/eddas_71_sigfusson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 20 Oct 2018 01:11:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/eddas_elder_younger_1810_librivox/eddas_71_sigfusson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[72 - Of the Ship Skidbladnir]]></title>
+    <itunes:episode><![CDATA[72]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/elder-eddas-younger-eddas-by-saemund-sigfusson/]]></link>
+            <enclosure url="https://www.archive.org/download/eddas_elder_younger_1810_librivox/eddas_72_sigfusson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 20 Oct 2018 01:12:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/eddas_elder_younger_1810_librivox/eddas_72_sigfusson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[73 - Thor's Adventures on His Journey to the Land of the Giants]]></title>
+    <itunes:episode><![CDATA[73]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/elder-eddas-younger-eddas-by-saemund-sigfusson/]]></link>
+            <enclosure url="https://www.archive.org/download/eddas_elder_younger_1810_librivox/eddas_73_sigfusson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 20 Oct 2018 01:13:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/eddas_elder_younger_1810_librivox/eddas_73_sigfusson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[74 - How Thor Went to Fish for the Midgard Serpent]]></title>
+    <itunes:episode><![CDATA[74]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/elder-eddas-younger-eddas-by-saemund-sigfusson/]]></link>
+            <enclosure url="https://www.archive.org/download/eddas_elder_younger_1810_librivox/eddas_74_sigfusson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 20 Oct 2018 01:14:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/eddas_elder_younger_1810_librivox/eddas_74_sigfusson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[75 - The Death of Baldur the Good]]></title>
+    <itunes:episode><![CDATA[75]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/elder-eddas-younger-eddas-by-saemund-sigfusson/]]></link>
+            <enclosure url="https://www.archive.org/download/eddas_elder_younger_1810_librivox/eddas_75_sigfusson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 20 Oct 2018 01:15:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/eddas_elder_younger_1810_librivox/eddas_75_sigfusson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[76 - Baldur in the Abode of the Dead]]></title>
+    <itunes:episode><![CDATA[76]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/elder-eddas-younger-eddas-by-saemund-sigfusson/]]></link>
+            <enclosure url="https://www.archive.org/download/eddas_elder_younger_1810_librivox/eddas_76_sigfusson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 20 Oct 2018 01:16:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/eddas_elder_younger_1810_librivox/eddas_76_sigfusson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[77 - The Flight and Punishment of Loki]]></title>
+    <itunes:episode><![CDATA[77]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/elder-eddas-younger-eddas-by-saemund-sigfusson/]]></link>
+            <enclosure url="https://www.archive.org/download/eddas_elder_younger_1810_librivox/eddas_77_sigfusson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 20 Oct 2018 01:17:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/eddas_elder_younger_1810_librivox/eddas_77_sigfusson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[78 - Of Ragnarok, or the Twilight Of the Gods, and the Conflagration of the Universe]]></title>
+    <itunes:episode><![CDATA[78]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/elder-eddas-younger-eddas-by-saemund-sigfusson/]]></link>
+            <enclosure url="https://www.archive.org/download/eddas_elder_younger_1810_librivox/eddas_78_sigfusson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 20 Oct 2018 01:18:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/eddas_elder_younger_1810_librivox/eddas_78_sigfusson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[79 - Abodes of Future Bliss and Misery]]></title>
+    <itunes:episode><![CDATA[79]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/elder-eddas-younger-eddas-by-saemund-sigfusson/]]></link>
+            <enclosure url="https://www.archive.org/download/eddas_elder_younger_1810_librivox/eddas_79_sigfusson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 20 Oct 2018 01:19:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/eddas_elder_younger_1810_librivox/eddas_79_sigfusson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[80 - The Renovation of the Universe]]></title>
+    <itunes:episode><![CDATA[80]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/elder-eddas-younger-eddas-by-saemund-sigfusson/]]></link>
+            <enclosure url="https://www.archive.org/download/eddas_elder_younger_1810_librivox/eddas_80_sigfusson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 20 Oct 2018 01:20:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/eddas_elder_younger_1810_librivox/eddas_80_sigfusson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[81 - Aegir's Journey to Asgard]]></title>
+    <itunes:episode><![CDATA[81]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/elder-eddas-younger-eddas-by-saemund-sigfusson/]]></link>
+            <enclosure url="https://www.archive.org/download/eddas_elder_younger_1810_librivox/eddas_81_sigfusson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 20 Oct 2018 01:21:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/eddas_elder_younger_1810_librivox/eddas_81_sigfusson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[82 - Iduna and Her Apples]]></title>
+    <itunes:episode><![CDATA[82]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/elder-eddas-younger-eddas-by-saemund-sigfusson/]]></link>
+            <enclosure url="https://www.archive.org/download/eddas_elder_younger_1810_librivox/eddas_82_sigfusson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 20 Oct 2018 01:22:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/eddas_elder_younger_1810_librivox/eddas_82_sigfusson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[83 - The Origin of Poetry]]></title>
+    <itunes:episode><![CDATA[83]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/elder-eddas-younger-eddas-by-saemund-sigfusson/]]></link>
+            <enclosure url="https://www.archive.org/download/eddas_elder_younger_1810_librivox/eddas_83_sigfusson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 20 Oct 2018 01:23:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/eddas_elder_younger_1810_librivox/eddas_83_sigfusson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[84 - Odin Beguiles the Daughter of Baugi]]></title>
+    <itunes:episode><![CDATA[84]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/elder-eddas-younger-eddas-by-saemund-sigfusson/]]></link>
+            <enclosure url="https://www.archive.org/download/eddas_elder_younger_1810_librivox/eddas_84_sigfusson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 20 Oct 2018 01:24:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/eddas_elder_younger_1810_librivox/eddas_84_sigfusson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <!-- end file loop -->
+</channel>
+</rss>

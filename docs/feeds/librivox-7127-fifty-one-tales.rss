@@ -1,0 +1,49 @@
+<?xml version="1.0" ?><rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+  <title><![CDATA[Fifty-One Tales by Lord Dunsany (1878 - 1957)]]></title>
+  <link><![CDATA[https://librivox.org/fifty-one-tales-by-lord-dunsany-edward-j-m-d-plunkett/]]></link>
+  <atom:link rel="self" href="https://librivox.org/rss/7127" />
+  <description><![CDATA[Very brief, well-crafted stories, many having surprise endings, all steeped in the dye of myth and calling to every reader's neglected imagination. (Summary by Thomas Copeland)]]></description>
+  <!--<genre>project element=Genre</genre>-->
+  <!--<language>project element=lang.code</language>-->
+  <itunes:type>serial</itunes:type>
+  <itunes:author>LibriVox</itunes:author>
+  <itunes:summary><![CDATA[Very brief, well-crafted stories, many having surprise endings, all steeped in the dye of myth and calling to every reader's neglected imagination. (Summary by Thomas Copeland)]]></itunes:summary>
+  <itunes:owner>
+    <itunes:name>LibriVox</itunes:name>
+    <itunes:email>info@librivox.org</itunes:email>
+  </itunes:owner>
+  <itunes:category text="Arts">
+    <itunes:category text="Literature" />
+  </itunes:category>
+  <image><url>https://archive.org/download/fiftyonetales_1210_librivox_tc/Fifty-One_Tales_1212.jpg</url></image>
+  <itunes:image href="https://archive.org/download/fiftyonetales_1210_librivox_tc/Fifty-One_Tales_1212.jpg"/>
+  <itunes:explicit>no</itunes:explicit>
+  <!-- file loop -->
+    <item>
+    <title><![CDATA[Fifty-One Tales]]></title>
+    <itunes:episode><![CDATA[1]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/fifty-one-tales-by-lord-dunsany-edward-j-m-d-plunkett/]]></link>
+            <enclosure url="https://www.archive.org/download/fiftyonetales_1210_librivox_tc/51_tales_01_dunsany_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:46:25]]></itunes:duration>
+  <pubDate>Wed, 24 Oct 2012 00:00:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/fiftyonetales_1210_librivox_tc/51_tales_01_dunsany_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Fifty-One Tales]]></title>
+    <itunes:episode><![CDATA[2]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/fifty-one-tales-by-lord-dunsany-edward-j-m-d-plunkett/]]></link>
+            <enclosure url="https://www.archive.org/download/fiftyonetales_1210_librivox_tc/51_tales_02_dunsany_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[01:04:06]]></itunes:duration>
+  <pubDate>Wed, 24 Oct 2012 00:01:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/fiftyonetales_1210_librivox_tc/51_tales_02_dunsany_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <!-- end file loop -->
+</channel>
+</rss>

@@ -1,0 +1,385 @@
+<?xml version="1.0" ?><rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+  <title><![CDATA[Indian Fairy Tales by Joseph Jacobs (1854 - 1916)]]></title>
+  <link><![CDATA[https://librivox.org/indian-fairy-tales-by-joseph-jacobs/]]></link>
+  <atom:link rel="self" href="https://librivox.org/rss/7104" />
+  <description><![CDATA[This book is a fine collection of Indian fairy tales, some are folklore, some are from the Jataka tales, and some from panchatantra. (Summary by sidhu177)]]></description>
+  <!--<genre>project element=Genre</genre>-->
+  <!--<language>project element=lang.code</language>-->
+  <itunes:type>serial</itunes:type>
+  <itunes:author>LibriVox</itunes:author>
+  <itunes:summary><![CDATA[This book is a fine collection of Indian fairy tales, some are folklore, some are from the Jataka tales, and some from panchatantra. (Summary by sidhu177)]]></itunes:summary>
+  <itunes:owner>
+    <itunes:name>LibriVox</itunes:name>
+    <itunes:email>info@librivox.org</itunes:email>
+  </itunes:owner>
+  <itunes:category text="Arts">
+    <itunes:category text="Literature" />
+  </itunes:category>
+  <image><url>https://archive.org/download/LibrivoxCdCoverArt31/Indian_Fairy_Tales_1304.jpg</url></image>
+  <itunes:image href="https://archive.org/download/LibrivoxCdCoverArt31/Indian_Fairy_Tales_1304.jpg"/>
+  <itunes:explicit>no</itunes:explicit>
+  <!-- file loop -->
+    <item>
+    <title><![CDATA[00 - Preface]]></title>
+    <itunes:episode><![CDATA[0]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/indian-fairy-tales-by-joseph-jacobs/]]></link>
+            <enclosure url="https://www.archive.org/download/indian_fairy_tales_1304_librivox/indianfairytales_00_jacobs_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:10:41]]></itunes:duration>
+  <pubDate>Sun, 07 Apr 2013 00:00:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/indian_fairy_tales_1304_librivox/indianfairytales_00_jacobs_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[01 - The Lion and the Crane]]></title>
+    <itunes:episode><![CDATA[1]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/indian-fairy-tales-by-joseph-jacobs/]]></link>
+            <enclosure url="https://www.archive.org/download/indian_fairy_tales_1304_librivox/indianfairytales_01_jacobs_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:03:09]]></itunes:duration>
+  <pubDate>Sun, 07 Apr 2013 00:01:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/indian_fairy_tales_1304_librivox/indianfairytales_01_jacobs_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[02 - How the Raja's Son won the Princess Labam.]]></title>
+    <itunes:episode><![CDATA[2]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/indian-fairy-tales-by-joseph-jacobs/]]></link>
+            <enclosure url="https://www.archive.org/download/indian_fairy_tales_1304_librivox/indianfairytales_02_jacobs_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:22:34]]></itunes:duration>
+  <pubDate>Sun, 07 Apr 2013 00:02:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/indian_fairy_tales_1304_librivox/indianfairytales_02_jacobs_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[03 - The Lambikin]]></title>
+    <itunes:episode><![CDATA[3]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/indian-fairy-tales-by-joseph-jacobs/]]></link>
+            <enclosure url="https://www.archive.org/download/indian_fairy_tales_1304_librivox/indianfairytales_03_jacobs_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:05:09]]></itunes:duration>
+  <pubDate>Sun, 07 Apr 2013 00:03:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/indian_fairy_tales_1304_librivox/indianfairytales_03_jacobs_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[04 - Punchkin]]></title>
+    <itunes:episode><![CDATA[4]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/indian-fairy-tales-by-joseph-jacobs/]]></link>
+            <enclosure url="https://www.archive.org/download/indian_fairy_tales_1304_librivox/indianfairytales_04_jacobs_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:27:46]]></itunes:duration>
+  <pubDate>Sun, 07 Apr 2013 00:04:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/indian_fairy_tales_1304_librivox/indianfairytales_04_jacobs_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[05 - The Broken Pot]]></title>
+    <itunes:episode><![CDATA[5]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/indian-fairy-tales-by-joseph-jacobs/]]></link>
+            <enclosure url="https://www.archive.org/download/indian_fairy_tales_1304_librivox/indianfairytales_05_jacobs_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:02:49]]></itunes:duration>
+  <pubDate>Sun, 07 Apr 2013 00:05:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/indian_fairy_tales_1304_librivox/indianfairytales_05_jacobs_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[06 - The Magic Fiddle]]></title>
+    <itunes:episode><![CDATA[6]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/indian-fairy-tales-by-joseph-jacobs/]]></link>
+            <enclosure url="https://www.archive.org/download/indian_fairy_tales_1304_librivox/indianfairytales_06_jacobs_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:09:53]]></itunes:duration>
+  <pubDate>Sun, 07 Apr 2013 00:06:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/indian_fairy_tales_1304_librivox/indianfairytales_06_jacobs_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[07 - The Cruel Crane Outwitted]]></title>
+    <itunes:episode><![CDATA[7]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/indian-fairy-tales-by-joseph-jacobs/]]></link>
+            <enclosure url="https://www.archive.org/download/indian_fairy_tales_1304_librivox/indianfairytales_07_jacobs_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:08:06]]></itunes:duration>
+  <pubDate>Sun, 07 Apr 2013 00:07:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/indian_fairy_tales_1304_librivox/indianfairytales_07_jacobs_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[08 - Loving Laili]]></title>
+    <itunes:episode><![CDATA[8]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/indian-fairy-tales-by-joseph-jacobs/]]></link>
+            <enclosure url="https://www.archive.org/download/indian_fairy_tales_1304_librivox/indianfairytales_08_jacobs_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:32:02]]></itunes:duration>
+  <pubDate>Sun, 07 Apr 2013 00:08:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/indian_fairy_tales_1304_librivox/indianfairytales_08_jacobs_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[09 - The Tiger, the Brahman, and the Jackal]]></title>
+    <itunes:episode><![CDATA[9]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/indian-fairy-tales-by-joseph-jacobs/]]></link>
+            <enclosure url="https://www.archive.org/download/indian_fairy_tales_1304_librivox/indianfairytales_09_jacobs_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:07:00]]></itunes:duration>
+  <pubDate>Sun, 07 Apr 2013 00:09:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/indian_fairy_tales_1304_librivox/indianfairytales_09_jacobs_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[10 - The Soothsayer's Son]]></title>
+    <itunes:episode><![CDATA[10]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/indian-fairy-tales-by-joseph-jacobs/]]></link>
+            <enclosure url="https://www.archive.org/download/indian_fairy_tales_1304_librivox/indianfairytales_10_jacobs_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:32:52]]></itunes:duration>
+  <pubDate>Sun, 07 Apr 2013 00:10:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/indian_fairy_tales_1304_librivox/indianfairytales_10_jacobs_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[11 - Harisarman]]></title>
+    <itunes:episode><![CDATA[11]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/indian-fairy-tales-by-joseph-jacobs/]]></link>
+            <enclosure url="https://www.archive.org/download/indian_fairy_tales_1304_librivox/indianfairytales_11_jacobs_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:09:52]]></itunes:duration>
+  <pubDate>Sun, 07 Apr 2013 00:11:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/indian_fairy_tales_1304_librivox/indianfairytales_11_jacobs_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[12 - The Charmed Ring]]></title>
+    <itunes:episode><![CDATA[12]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/indian-fairy-tales-by-joseph-jacobs/]]></link>
+            <enclosure url="https://www.archive.org/download/indian_fairy_tales_1304_librivox/indianfairytales_12_jacobs_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:19:41]]></itunes:duration>
+  <pubDate>Sun, 07 Apr 2013 00:12:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/indian_fairy_tales_1304_librivox/indianfairytales_12_jacobs_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[13 - The Talkative Tortoise]]></title>
+    <itunes:episode><![CDATA[13]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/indian-fairy-tales-by-joseph-jacobs/]]></link>
+            <enclosure url="https://www.archive.org/download/indian_fairy_tales_1304_librivox/indianfairytales_13_jacobs_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:04:28]]></itunes:duration>
+  <pubDate>Sun, 07 Apr 2013 00:13:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/indian_fairy_tales_1304_librivox/indianfairytales_13_jacobs_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[14 - A Lac of Rupees for a Bit of Advice]]></title>
+    <itunes:episode><![CDATA[14]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/indian-fairy-tales-by-joseph-jacobs/]]></link>
+            <enclosure url="https://www.archive.org/download/indian_fairy_tales_1304_librivox/indianfairytales_14_jacobs_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:15:32]]></itunes:duration>
+  <pubDate>Sun, 07 Apr 2013 00:14:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/indian_fairy_tales_1304_librivox/indianfairytales_14_jacobs_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[15 - The Gold-giving Serpent]]></title>
+    <itunes:episode><![CDATA[15]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/indian-fairy-tales-by-joseph-jacobs/]]></link>
+            <enclosure url="https://www.archive.org/download/indian_fairy_tales_1304_librivox/indianfairytales_15_jacobs_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:03:18]]></itunes:duration>
+  <pubDate>Sun, 07 Apr 2013 00:15:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/indian_fairy_tales_1304_librivox/indianfairytales_15_jacobs_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[16 - The Son of Seven Queens]]></title>
+    <itunes:episode><![CDATA[16]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/indian-fairy-tales-by-joseph-jacobs/]]></link>
+            <enclosure url="https://www.archive.org/download/indian_fairy_tales_1304_librivox/indianfairytales_16_jacobs_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:23:26]]></itunes:duration>
+  <pubDate>Sun, 07 Apr 2013 00:16:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/indian_fairy_tales_1304_librivox/indianfairytales_16_jacobs_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[17 - A Lesson for Kings]]></title>
+    <itunes:episode><![CDATA[17]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/indian-fairy-tales-by-joseph-jacobs/]]></link>
+            <enclosure url="https://www.archive.org/download/indian_fairy_tales_1304_librivox/indianfairytales_17_jacobs_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:06:01]]></itunes:duration>
+  <pubDate>Sun, 07 Apr 2013 00:17:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/indian_fairy_tales_1304_librivox/indianfairytales_17_jacobs_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[18- Pride goeth before a Fall]]></title>
+    <itunes:episode><![CDATA[18]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/indian-fairy-tales-by-joseph-jacobs/]]></link>
+            <enclosure url="https://www.archive.org/download/indian_fairy_tales_1304_librivox/indianfairytales_18_jacobs_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:05:17]]></itunes:duration>
+  <pubDate>Sun, 07 Apr 2013 00:18:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/indian_fairy_tales_1304_librivox/indianfairytales_18_jacobs_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[ 19 - Raja Rasalu]]></title>
+    <itunes:episode><![CDATA[19]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/indian-fairy-tales-by-joseph-jacobs/]]></link>
+            <enclosure url="https://www.archive.org/download/indian_fairy_tales_1304_librivox/indianfairytales_19_jacobs_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:28:38]]></itunes:duration>
+  <pubDate>Sun, 07 Apr 2013 00:19:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/indian_fairy_tales_1304_librivox/indianfairytales_19_jacobs_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[20 - The Ass in the Lion's Skin]]></title>
+    <itunes:episode><![CDATA[20]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/indian-fairy-tales-by-joseph-jacobs/]]></link>
+            <enclosure url="https://www.archive.org/download/indian_fairy_tales_1304_librivox/indianfairytales_20_jacobs_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:02:24]]></itunes:duration>
+  <pubDate>Sun, 07 Apr 2013 00:20:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/indian_fairy_tales_1304_librivox/indianfairytales_20_jacobs_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[21 - The Farmer and the Money-lender]]></title>
+    <itunes:episode><![CDATA[21]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/indian-fairy-tales-by-joseph-jacobs/]]></link>
+            <enclosure url="https://www.archive.org/download/indian_fairy_tales_1304_librivox/indianfairytales_21_jacobs_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:05:17]]></itunes:duration>
+  <pubDate>Sun, 07 Apr 2013 00:21:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/indian_fairy_tales_1304_librivox/indianfairytales_21_jacobs_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[22 - The Boy who had a Moon on his Forehead and a Star on his Chin]]></title>
+    <itunes:episode><![CDATA[22]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/indian-fairy-tales-by-joseph-jacobs/]]></link>
+            <enclosure url="https://www.archive.org/download/indian_fairy_tales_1304_librivox/indianfairytales_22_jacobs_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:35:00]]></itunes:duration>
+  <pubDate>Sun, 07 Apr 2013 00:22:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/indian_fairy_tales_1304_librivox/indianfairytales_22_jacobs_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[23 - The Prince and the Fakir]]></title>
+    <itunes:episode><![CDATA[23]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/indian-fairy-tales-by-joseph-jacobs/]]></link>
+            <enclosure url="https://www.archive.org/download/indian_fairy_tales_1304_librivox/indianfairytales_23_jacobs_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:09:07]]></itunes:duration>
+  <pubDate>Sun, 07 Apr 2013 00:23:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/indian_fairy_tales_1304_librivox/indianfairytales_23_jacobs_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[24 - Why the Fish Laughed.]]></title>
+    <itunes:episode><![CDATA[24]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/indian-fairy-tales-by-joseph-jacobs/]]></link>
+            <enclosure url="https://www.archive.org/download/indian_fairy_tales_1304_librivox/indianfairytales_24_jacobs_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:11:31]]></itunes:duration>
+  <pubDate>Sun, 07 Apr 2013 00:24:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/indian_fairy_tales_1304_librivox/indianfairytales_24_jacobs_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[25 - The Demon with the Matted Hair]]></title>
+    <itunes:episode><![CDATA[25]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/indian-fairy-tales-by-joseph-jacobs/]]></link>
+            <enclosure url="https://www.archive.org/download/indian_fairy_tales_1304_librivox/indianfairytales_25_jacobs_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:08:11]]></itunes:duration>
+  <pubDate>Sun, 07 Apr 2013 00:25:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/indian_fairy_tales_1304_librivox/indianfairytales_25_jacobs_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[26 - The Ivory City and its Fairy Princess]]></title>
+    <itunes:episode><![CDATA[26]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/indian-fairy-tales-by-joseph-jacobs/]]></link>
+            <enclosure url="https://www.archive.org/download/indian_fairy_tales_1304_librivox/indianfairytales_26_jacobs_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:37:56]]></itunes:duration>
+  <pubDate>Sun, 07 Apr 2013 00:26:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/indian_fairy_tales_1304_librivox/indianfairytales_26_jacobs_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[27 - How Sun, Moon, and Wind went out to Dinner]]></title>
+    <itunes:episode><![CDATA[27]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/indian-fairy-tales-by-joseph-jacobs/]]></link>
+            <enclosure url="https://www.archive.org/download/indian_fairy_tales_1304_librivox/indianfairytales_27_jacobs_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:03:40]]></itunes:duration>
+  <pubDate>Sun, 07 Apr 2013 00:27:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/indian_fairy_tales_1304_librivox/indianfairytales_27_jacobs_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[28 - How the Wicked Sons were Duped.]]></title>
+    <itunes:episode><![CDATA[28]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/indian-fairy-tales-by-joseph-jacobs/]]></link>
+            <enclosure url="https://www.archive.org/download/indian_fairy_tales_1304_librivox/indianfairytales_28_jacobs_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:02:22]]></itunes:duration>
+  <pubDate>Sun, 07 Apr 2013 00:28:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/indian_fairy_tales_1304_librivox/indianfairytales_28_jacobs_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[29 - The Pigeon and the Crow]]></title>
+    <itunes:episode><![CDATA[29]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/indian-fairy-tales-by-joseph-jacobs/]]></link>
+            <enclosure url="https://www.archive.org/download/indian_fairy_tales_1304_librivox/indianfairytales_29_jacobs_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:04:24]]></itunes:duration>
+  <pubDate>Sun, 07 Apr 2013 00:29:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/indian_fairy_tales_1304_librivox/indianfairytales_29_jacobs_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <!-- end file loop -->
+</channel>
+</rss>

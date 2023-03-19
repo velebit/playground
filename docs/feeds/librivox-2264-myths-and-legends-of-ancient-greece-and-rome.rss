@@ -1,0 +1,397 @@
+<?xml version="1.0" ?><rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+  <title><![CDATA[Myths and Legends of Ancient Greece and Rome by E. M. Berens]]></title>
+  <link><![CDATA[https://librivox.org/myths-legends-of-ancient-greece-rome-by-em-berens/]]></link>
+  <atom:link rel="self" href="https://librivox.org/rss/2264" />
+  <description><![CDATA[This is a comprehensive collection of all the major and minor gods of Rome and Greece, with descriptions of festivals and retellings of major mythological stories. (Summary by Sibella)]]></description>
+  <!--<genre>project element=Genre</genre>-->
+  <!--<language>project element=lang.code</language>-->
+  <itunes:type>serial</itunes:type>
+  <itunes:author>LibriVox</itunes:author>
+  <itunes:summary><![CDATA[This is a comprehensive collection of all the major and minor gods of Rome and Greece, with descriptions of festivals and retellings of major mythological stories. (Summary by Sibella)]]></itunes:summary>
+  <itunes:owner>
+    <itunes:name>LibriVox</itunes:name>
+    <itunes:email>info@librivox.org</itunes:email>
+  </itunes:owner>
+  <itunes:category text="Arts">
+    <itunes:category text="Literature" />
+  </itunes:category>
+  <image><url>https://www.archive.org/download/LibrivoxCdCoverArt6/myths_and_legends_of_ancient_greece_and_rome_1101.jpg</url></image>
+  <itunes:image href="https://www.archive.org/download/LibrivoxCdCoverArt6/myths_and_legends_of_ancient_greece_and_rome_1101.jpg"/>
+  <itunes:explicit>no</itunes:explicit>
+  <!-- file loop -->
+    <item>
+    <title><![CDATA[01 - Preface, Part I: Myths, and The First Dynasty]]></title>
+    <itunes:episode><![CDATA[1]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-legends-of-ancient-greece-rome-by-em-berens/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_and_legends_0810_librivox/mythsandlegends_01_berens_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:17:28]]></itunes:duration>
+  <pubDate>Sun, 05 Oct 2008 00:00:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_and_legends_0810_librivox/mythsandlegends_01_berens_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[02 - The Second Dynasty: Chronus, Rhea, Division of the World, Theories as to the Origin of Man]]></title>
+    <itunes:episode><![CDATA[2]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-legends-of-ancient-greece-rome-by-em-berens/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_and_legends_0810_librivox/mythsandlegends_02_berens_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:23:45]]></itunes:duration>
+  <pubDate>Sun, 05 Oct 2008 00:01:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_and_legends_0810_librivox/mythsandlegends_02_berens_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[03 - Third Dynasty: Olympian Divinities- Zeus (Jupiter)]]></title>
+    <itunes:episode><![CDATA[3]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-legends-of-ancient-greece-rome-by-em-berens/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_and_legends_0810_librivox/mythsandlegends_03_berens_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:11:29]]></itunes:duration>
+  <pubDate>Sun, 05 Oct 2008 00:02:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_and_legends_0810_librivox/mythsandlegends_03_berens_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[04 - Third Dynasty: Olympian Divinities- Hera, Pallas Athene, Themis, and Hestia]]></title>
+    <itunes:episode><![CDATA[4]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-legends-of-ancient-greece-rome-by-em-berens/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_and_legends_0810_librivox/mythsandlegends_04_berens_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:17:25]]></itunes:duration>
+  <pubDate>Sun, 05 Oct 2008 00:03:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_and_legends_0810_librivox/mythsandlegends_04_berens_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[05 - Third Dynasty: Olympian Divinities- Demeter and Aphrodite]]></title>
+    <itunes:episode><![CDATA[5]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-legends-of-ancient-greece-rome-by-em-berens/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_and_legends_0810_librivox/mythsandlegends_05_berens_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:28:09]]></itunes:duration>
+  <pubDate>Sun, 05 Oct 2008 00:04:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_and_legends_0810_librivox/mythsandlegends_05_berens_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[06 - Third Dynasty: Olympian Divinities- Phoebus-Apollo]]></title>
+    <itunes:episode><![CDATA[6]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-legends-of-ancient-greece-rome-by-em-berens/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_and_legends_0810_librivox/mythsandlegends_06_berens_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:40:38]]></itunes:duration>
+  <pubDate>Sun, 05 Oct 2008 00:05:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_and_legends_0810_librivox/mythsandlegends_06_berens_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[07 - Third Dynasty: Olympian Divinities- Hecate and Selene]]></title>
+    <itunes:episode><![CDATA[7]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-legends-of-ancient-greece-rome-by-em-berens/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_and_legends_0810_librivox/mythsandlegends_07_berens_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:05:16]]></itunes:duration>
+  <pubDate>Sun, 05 Oct 2008 00:06:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_and_legends_0810_librivox/mythsandlegends_07_berens_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[08 - Third Dynasty: Olympian Divinities- Artemis]]></title>
+    <itunes:episode><![CDATA[8]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-legends-of-ancient-greece-rome-by-em-berens/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_and_legends_0810_librivox/mythsandlegends_08_berens_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:24:47]]></itunes:duration>
+  <pubDate>Sun, 05 Oct 2008 00:07:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_and_legends_0810_librivox/mythsandlegends_08_berens_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[09 - Third Dynasty: Olympian Divinities- Hephaetus and Poseidon]]></title>
+    <itunes:episode><![CDATA[9]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-legends-of-ancient-greece-rome-by-em-berens/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_and_legends_0810_librivox/mythsandlegends_09_berens_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:21:28]]></itunes:duration>
+  <pubDate>Sun, 05 Oct 2008 00:08:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_and_legends_0810_librivox/mythsandlegends_09_berens_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[10 - Third Dynasty: Sea Divinities- Oceanus through Nike]]></title>
+    <itunes:episode><![CDATA[10]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-legends-of-ancient-greece-rome-by-em-berens/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_and_legends_0810_librivox/mythsandlegends_10_berens_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:21:19]]></itunes:duration>
+  <pubDate>Sun, 05 Oct 2008 00:09:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_and_legends_0810_librivox/mythsandlegends_10_berens_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[11 - Third Dynasty: Sea Divinities- Hermes]]></title>
+    <itunes:episode><![CDATA[11]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-legends-of-ancient-greece-rome-by-em-berens/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_and_legends_0810_librivox/mythsandlegends_11_berens_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:14:33]]></itunes:duration>
+  <pubDate>Sun, 05 Oct 2008 00:10:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_and_legends_0810_librivox/mythsandlegends_11_berens_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[12 - Third Dynasty: Sea Divinities- Dionysus]]></title>
+    <itunes:episode><![CDATA[12]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-legends-of-ancient-greece-rome-by-em-berens/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_and_legends_0810_librivox/mythsandlegends_12_berens_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:16:52]]></itunes:duration>
+  <pubDate>Sun, 05 Oct 2008 00:11:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_and_legends_0810_librivox/mythsandlegends_12_berens_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[13 - Third Dynasty: Sea Divinities- Aides and Plutus]]></title>
+    <itunes:episode><![CDATA[13]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-legends-of-ancient-greece-rome-by-em-berens/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_and_legends_0810_librivox/mythsandlegends_13_berens_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:14:03]]></itunes:duration>
+  <pubDate>Sun, 05 Oct 2008 00:12:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_and_legends_0810_librivox/mythsandlegends_13_berens_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[14 - Third Dynasty: Minor Divinities]]></title>
+    <itunes:episode><![CDATA[14]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-legends-of-ancient-greece-rome-by-em-berens/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_and_legends_0810_librivox/mythsandlegends_14_berens_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:10:08]]></itunes:duration>
+  <pubDate>Sun, 05 Oct 2008 00:13:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_and_legends_0810_librivox/mythsandlegends_14_berens_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[15 - Third Dynasty: Night and Her Children- Nyx through Eros and Psyche ]]></title>
+    <itunes:episode><![CDATA[15]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-legends-of-ancient-greece-rome-by-em-berens/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_and_legends_0810_librivox/mythsandlegends_15_berens_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:29:15]]></itunes:duration>
+  <pubDate>Sun, 05 Oct 2008 00:14:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_and_legends_0810_librivox/mythsandlegends_15_berens_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[16 - Third Dynasty: Night and Her Children- Hymen through the Charities or Graces]]></title>
+    <itunes:episode><![CDATA[16]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-legends-of-ancient-greece-rome-by-em-berens/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_and_legends_0810_librivox/mythsandlegends_16_berens_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:18:20]]></itunes:duration>
+  <pubDate>Sun, 05 Oct 2008 00:15:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_and_legends_0810_librivox/mythsandlegends_16_berens_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[17 - Third Dynasty: Night and Her Children- Horae through Asclepias]]></title>
+    <itunes:episode><![CDATA[17]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-legends-of-ancient-greece-rome-by-em-berens/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_and_legends_0810_librivox/mythsandlegends_17_berens_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:32:11]]></itunes:duration>
+  <pubDate>Sun, 05 Oct 2008 00:16:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_and_legends_0810_librivox/mythsandlegends_17_berens_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[18 - Third Dynasty: Roman Divinities]]></title>
+    <itunes:episode><![CDATA[18]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-legends-of-ancient-greece-rome-by-em-berens/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_and_legends_0810_librivox/mythsandlegends_18_berens_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:18:47]]></itunes:duration>
+  <pubDate>Sun, 05 Oct 2008 00:17:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_and_legends_0810_librivox/mythsandlegends_18_berens_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[19 - Public Worship of the Ancient Greeks and Romans]]></title>
+    <itunes:episode><![CDATA[19]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-legends-of-ancient-greece-rome-by-em-berens/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_and_legends_0810_librivox/mythsandlegends_19_berens_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:17:38]]></itunes:duration>
+  <pubDate>Sun, 05 Oct 2008 00:18:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_and_legends_0810_librivox/mythsandlegends_19_berens_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[20 - Greek Festivals]]></title>
+    <itunes:episode><![CDATA[20]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-legends-of-ancient-greece-rome-by-em-berens/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_and_legends_0810_librivox/mythsandlegends_20_berens_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:06:56]]></itunes:duration>
+  <pubDate>Sun, 05 Oct 2008 00:19:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_and_legends_0810_librivox/mythsandlegends_20_berens_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[21 - Roman Festivals]]></title>
+    <itunes:episode><![CDATA[21]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-legends-of-ancient-greece-rome-by-em-berens/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_and_legends_0810_librivox/mythsandlegends_21_berens_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:03:22]]></itunes:duration>
+  <pubDate>Sun, 05 Oct 2008 00:20:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_and_legends_0810_librivox/mythsandlegends_21_berens_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[22 - Legends: Cadmus and Perseus]]></title>
+    <itunes:episode><![CDATA[22]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-legends-of-ancient-greece-rome-by-em-berens/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_and_legends_0810_librivox/mythsandlegends_22_berens_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:17:33]]></itunes:duration>
+  <pubDate>Sun, 05 Oct 2008 00:21:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_and_legends_0810_librivox/mythsandlegends_22_berens_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[23 - Legends: Ion and Daedelus and Icarus]]></title>
+    <itunes:episode><![CDATA[23]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-legends-of-ancient-greece-rome-by-em-berens/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_and_legends_0810_librivox/mythsandlegends_23_berens_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:07:33]]></itunes:duration>
+  <pubDate>Sun, 05 Oct 2008 00:22:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_and_legends_0810_librivox/mythsandlegends_23_berens_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[24 - Legends: The Argonauts]]></title>
+    <itunes:episode><![CDATA[24]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-legends-of-ancient-greece-rome-by-em-berens/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_and_legends_0810_librivox/mythsandlegends_24_berens_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:47:52]]></itunes:duration>
+  <pubDate>Sun, 05 Oct 2008 00:23:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_and_legends_0810_librivox/mythsandlegends_24_berens_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[25 - Legends: Pelops and Heracles - part 1]]></title>
+    <itunes:episode><![CDATA[25]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-legends-of-ancient-greece-rome-by-em-berens/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_and_legends_0810_librivox/mythsandlegends_25-1_berens_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:31:24]]></itunes:duration>
+  <pubDate>Sun, 05 Oct 2008 00:24:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_and_legends_0810_librivox/mythsandlegends_25-1_berens_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[25 - Legends: Pelops and Heracles - part 2]]></title>
+    <itunes:episode><![CDATA[26]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-legends-of-ancient-greece-rome-by-em-berens/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_and_legends_0810_librivox/mythsandlegends_25-2_berens_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:30:53]]></itunes:duration>
+  <pubDate>Sun, 05 Oct 2008 00:25:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_and_legends_0810_librivox/mythsandlegends_25-2_berens_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[26 - Legends: Bellerophon and Theseus]]></title>
+    <itunes:episode><![CDATA[27]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-legends-of-ancient-greece-rome-by-em-berens/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_and_legends_0810_librivox/mythsandlegends_26_berens_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:25:33]]></itunes:duration>
+  <pubDate>Sun, 05 Oct 2008 00:26:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_and_legends_0810_librivox/mythsandlegends_26_berens_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[27 - Legends: Oedipus and The Seven against Thebes]]></title>
+    <itunes:episode><![CDATA[28]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-legends-of-ancient-greece-rome-by-em-berens/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_and_legends_0810_librivox/mythsandlegends_27_berens_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:16:12]]></itunes:duration>
+  <pubDate>Sun, 05 Oct 2008 00:27:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_and_legends_0810_librivox/mythsandlegends_27_berens_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[28 - Legends: The Epigoni, Alcmaeon and the Necklace, and The Heraclidae]]></title>
+    <itunes:episode><![CDATA[29]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-legends-of-ancient-greece-rome-by-em-berens/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_and_legends_0810_librivox/mythsandlegends_28_berens_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:15:47]]></itunes:duration>
+  <pubDate>Sun, 05 Oct 2008 00:28:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_and_legends_0810_librivox/mythsandlegends_28_berens_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[29 - Legends: The Siege of Troy]]></title>
+    <itunes:episode><![CDATA[30]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-legends-of-ancient-greece-rome-by-em-berens/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_and_legends_0810_librivox/mythsandlegends_29_berens_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:49:31]]></itunes:duration>
+  <pubDate>Sun, 05 Oct 2008 00:29:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_and_legends_0810_librivox/mythsandlegends_29_berens_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[30 - Return of the Greeks and Romans from Troy]]></title>
+    <itunes:episode><![CDATA[31]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-legends-of-ancient-greece-rome-by-em-berens/]]></link>
+            <enclosure url="https://archive.org/download/myths_and_legends_0810_librivox/mythsandlegends_30_berens_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 05 Oct 2008 00:30:00 +0000</pubDate>
+  <media:content url="https://archive.org/download/myths_and_legends_0810_librivox/mythsandlegends_30_berens_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <!-- end file loop -->
+</channel>
+</rss>

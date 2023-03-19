@@ -1,0 +1,517 @@
+<?xml version="1.0" ?><rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+  <title><![CDATA[Arabian Nights Entertainments, The by Andrew Lang (1844 - 1912)]]></title>
+  <link><![CDATA[https://librivox.org/the-arabian-nights-entertainments-by-andrew-lang/]]></link>
+  <atom:link rel="self" href="https://librivox.org/rss/3241" />
+  <description><![CDATA[The Arabian Nights is a collection of Perso-Arabic folk tales and other stories. The collection, or at least certain stories drawn from it (or purporting to be drawn from it), became widely known in the West from the 18th century, after it was translated from the Arabic — first into French and then into English and other European languages. The first English language edition, based on Galland's French rather than the original Arabic, rendered the title as The Arabian Nights' Entertainment - and this, or simply The Arabian Nights, has been the title by which it has been best known to English-speaking people ever since. (Summary from Wikipedia)]]></description>
+  <!--<genre>project element=Genre</genre>-->
+  <!--<language>project element=lang.code</language>-->
+  <itunes:type>serial</itunes:type>
+  <itunes:author>LibriVox</itunes:author>
+  <itunes:summary><![CDATA[The Arabian Nights is a collection of Perso-Arabic folk tales and other stories. The collection, or at least certain stories drawn from it (or purporting to be drawn from it), became widely known in the West from the 18th century, after it was translated from the Arabic — first into French and then into English and other European languages. The first English language edition, based on Galland's French rather than the original Arabic, rendered the title as The Arabian Nights' Entertainment - and this, or simply The Arabian Nights, has been the title by which it has been best known to English-speaking people ever since. (Summary from Wikipedia)]]></itunes:summary>
+  <itunes:owner>
+    <itunes:name>LibriVox</itunes:name>
+    <itunes:email>info@librivox.org</itunes:email>
+  </itunes:owner>
+  <itunes:category text="Arts">
+    <itunes:category text="Literature" />
+  </itunes:category>
+  <image><url>https://www.archive.org/download/LibrivoxCdCoverArt/Arabian_Nights_Entertainments_1002.jpg</url></image>
+  <itunes:image href="https://www.archive.org/download/LibrivoxCdCoverArt/Arabian_Nights_Entertainments_1002.jpg"/>
+  <itunes:explicit>no</itunes:explicit>
+  <!-- file loop -->
+    <item>
+    <title><![CDATA[Preface]]></title>
+    <itunes:episode><![CDATA[0]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-arabian-nights-entertainments-by-andrew-lang/]]></link>
+            <enclosure url="https://www.archive.org/download/arabian_nights_0911_librivox/arabiannights_00_lang_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:05:38]]></itunes:duration>
+  <pubDate>Thu, 26 Nov 2009 00:00:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/arabian_nights_0911_librivox/arabiannights_00_lang_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Arabian Nights]]></title>
+    <itunes:episode><![CDATA[1]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-arabian-nights-entertainments-by-andrew-lang/]]></link>
+            <enclosure url="https://www.archive.org/download/arabian_nights_0911_librivox/arabiannights_01_lang_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:07:06]]></itunes:duration>
+  <pubDate>Thu, 26 Nov 2009 00:01:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/arabian_nights_0911_librivox/arabiannights_01_lang_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Story of the Merchant and the Genius]]></title>
+    <itunes:episode><![CDATA[2]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-arabian-nights-entertainments-by-andrew-lang/]]></link>
+            <enclosure url="https://www.archive.org/download/arabian_nights_0911_librivox/arabiannights_02_lang_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:07:50]]></itunes:duration>
+  <pubDate>Thu, 26 Nov 2009 00:02:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/arabian_nights_0911_librivox/arabiannights_02_lang_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Story of the First Old Man and of the Hind]]></title>
+    <itunes:episode><![CDATA[3]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-arabian-nights-entertainments-by-andrew-lang/]]></link>
+            <enclosure url="https://www.archive.org/download/arabian_nights_0911_librivox/arabiannights_03_lang_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:06:09]]></itunes:duration>
+  <pubDate>Thu, 26 Nov 2009 00:03:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/arabian_nights_0911_librivox/arabiannights_03_lang_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Story of the Second Old Man and of the Two Black Dogs]]></title>
+    <itunes:episode><![CDATA[4]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-arabian-nights-entertainments-by-andrew-lang/]]></link>
+            <enclosure url="https://www.archive.org/download/arabian_nights_0911_librivox/arabiannights_04_lang_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:06:01]]></itunes:duration>
+  <pubDate>Thu, 26 Nov 2009 00:04:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/arabian_nights_0911_librivox/arabiannights_04_lang_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Story of the Fisherman]]></title>
+    <itunes:episode><![CDATA[5]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-arabian-nights-entertainments-by-andrew-lang/]]></link>
+            <enclosure url="https://www.archive.org/download/arabian_nights_0911_librivox/arabiannights_05_lang_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:06:11]]></itunes:duration>
+  <pubDate>Thu, 26 Nov 2009 00:05:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/arabian_nights_0911_librivox/arabiannights_05_lang_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Story of the Greek King and the Physician Douban]]></title>
+    <itunes:episode><![CDATA[6]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-arabian-nights-entertainments-by-andrew-lang/]]></link>
+            <enclosure url="https://www.archive.org/download/arabian_nights_0911_librivox/arabiannights_06_lang_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:04:53]]></itunes:duration>
+  <pubDate>Thu, 26 Nov 2009 00:06:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/arabian_nights_0911_librivox/arabiannights_06_lang_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Story of the Husband and the Parrot]]></title>
+    <itunes:episode><![CDATA[7]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-arabian-nights-entertainments-by-andrew-lang/]]></link>
+            <enclosure url="https://www.archive.org/download/arabian_nights_0911_librivox/arabiannights_07_lang_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:03:33]]></itunes:duration>
+  <pubDate>Thu, 26 Nov 2009 00:07:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/arabian_nights_0911_librivox/arabiannights_07_lang_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Story of the Vizir Who Was Punished]]></title>
+    <itunes:episode><![CDATA[8]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-arabian-nights-entertainments-by-andrew-lang/]]></link>
+            <enclosure url="https://www.archive.org/download/arabian_nights_0911_librivox/arabiannights_08_lang_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:16:57]]></itunes:duration>
+  <pubDate>Thu, 26 Nov 2009 00:08:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/arabian_nights_0911_librivox/arabiannights_08_lang_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Story of the Young King of the Black Isles]]></title>
+    <itunes:episode><![CDATA[9]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-arabian-nights-entertainments-by-andrew-lang/]]></link>
+            <enclosure url="https://www.archive.org/download/arabian_nights_0911_librivox/arabiannights_09_lang_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:06:04]]></itunes:duration>
+  <pubDate>Thu, 26 Nov 2009 00:09:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/arabian_nights_0911_librivox/arabiannights_09_lang_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Story of the Three Calendars, Sons of Kings and of Five Ladies of Bagdad]]></title>
+    <itunes:episode><![CDATA[10]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-arabian-nights-entertainments-by-andrew-lang/]]></link>
+            <enclosure url="https://www.archive.org/download/arabian_nights_0911_librivox/arabiannights_10_lang_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:19:49]]></itunes:duration>
+  <pubDate>Thu, 26 Nov 2009 00:10:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/arabian_nights_0911_librivox/arabiannights_10_lang_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Story of the First Calendar, Son of a King]]></title>
+    <itunes:episode><![CDATA[11]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-arabian-nights-entertainments-by-andrew-lang/]]></link>
+            <enclosure url="https://www.archive.org/download/arabian_nights_0911_librivox/arabiannights_11_lang_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:11:17]]></itunes:duration>
+  <pubDate>Thu, 26 Nov 2009 00:11:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/arabian_nights_0911_librivox/arabiannights_11_lang_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Story of the Second Calendar, Son of a King]]></title>
+    <itunes:episode><![CDATA[12]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-arabian-nights-entertainments-by-andrew-lang/]]></link>
+            <enclosure url="https://www.archive.org/download/arabian_nights_0911_librivox/arabiannights_12_lang_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:14:55]]></itunes:duration>
+  <pubDate>Thu, 26 Nov 2009 00:12:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/arabian_nights_0911_librivox/arabiannights_12_lang_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Story of the Envious Man and of Him Who Was Envied]]></title>
+    <itunes:episode><![CDATA[13]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-arabian-nights-entertainments-by-andrew-lang/]]></link>
+            <enclosure url="https://www.archive.org/download/arabian_nights_0911_librivox/arabiannights_13_lang_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:25:30]]></itunes:duration>
+  <pubDate>Thu, 26 Nov 2009 00:13:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/arabian_nights_0911_librivox/arabiannights_13_lang_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Story of the Third Calendar, Son of a King]]></title>
+    <itunes:episode><![CDATA[14]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-arabian-nights-entertainments-by-andrew-lang/]]></link>
+            <enclosure url="https://www.archive.org/download/arabian_nights_0911_librivox/arabiannights_14_lang_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:27:56]]></itunes:duration>
+  <pubDate>Thu, 26 Nov 2009 00:14:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/arabian_nights_0911_librivox/arabiannights_14_lang_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Seven Voyages of Sinbad the Sailor]]></title>
+    <itunes:episode><![CDATA[15]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-arabian-nights-entertainments-by-andrew-lang/]]></link>
+            <enclosure url="https://www.archive.org/download/arabian_nights_0911_librivox/arabiannights_15_lang_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:06:59]]></itunes:duration>
+  <pubDate>Thu, 26 Nov 2009 00:15:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/arabian_nights_0911_librivox/arabiannights_15_lang_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[First Voyage]]></title>
+    <itunes:episode><![CDATA[16]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-arabian-nights-entertainments-by-andrew-lang/]]></link>
+            <enclosure url="https://www.archive.org/download/arabian_nights_0911_librivox/arabiannights_16_lang_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:11:29]]></itunes:duration>
+  <pubDate>Thu, 26 Nov 2009 00:16:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/arabian_nights_0911_librivox/arabiannights_16_lang_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Second Voyage]]></title>
+    <itunes:episode><![CDATA[17]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-arabian-nights-entertainments-by-andrew-lang/]]></link>
+            <enclosure url="https://www.archive.org/download/arabian_nights_0911_librivox/arabiannights_17_lang_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:13:02]]></itunes:duration>
+  <pubDate>Thu, 26 Nov 2009 00:17:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/arabian_nights_0911_librivox/arabiannights_17_lang_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Third Voyage]]></title>
+    <itunes:episode><![CDATA[18]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-arabian-nights-entertainments-by-andrew-lang/]]></link>
+            <enclosure url="https://www.archive.org/download/arabian_nights_0911_librivox/arabiannights_18_lang_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:14:37]]></itunes:duration>
+  <pubDate>Thu, 26 Nov 2009 00:18:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/arabian_nights_0911_librivox/arabiannights_18_lang_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Fourth Voyage]]></title>
+    <itunes:episode><![CDATA[19]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-arabian-nights-entertainments-by-andrew-lang/]]></link>
+            <enclosure url="https://www.archive.org/download/arabian_nights_0911_librivox/arabiannights_19_lang_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:13:47]]></itunes:duration>
+  <pubDate>Thu, 26 Nov 2009 00:19:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/arabian_nights_0911_librivox/arabiannights_19_lang_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Fifth Voyage]]></title>
+    <itunes:episode><![CDATA[20]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-arabian-nights-entertainments-by-andrew-lang/]]></link>
+            <enclosure url="https://www.archive.org/download/arabian_nights_0911_librivox/arabiannights_20_lang_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:10:48]]></itunes:duration>
+  <pubDate>Thu, 26 Nov 2009 00:20:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/arabian_nights_0911_librivox/arabiannights_20_lang_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Sixth Voyage]]></title>
+    <itunes:episode><![CDATA[21]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-arabian-nights-entertainments-by-andrew-lang/]]></link>
+            <enclosure url="https://www.archive.org/download/arabian_nights_0911_librivox/arabiannights_21_lang_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:13:05]]></itunes:duration>
+  <pubDate>Thu, 26 Nov 2009 00:21:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/arabian_nights_0911_librivox/arabiannights_21_lang_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Seventh and Last Voyage]]></title>
+    <itunes:episode><![CDATA[22]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-arabian-nights-entertainments-by-andrew-lang/]]></link>
+            <enclosure url="https://www.archive.org/download/arabian_nights_0911_librivox/arabiannights_22_lang_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:10:52]]></itunes:duration>
+  <pubDate>Thu, 26 Nov 2009 00:22:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/arabian_nights_0911_librivox/arabiannights_22_lang_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Little Hunchback]]></title>
+    <itunes:episode><![CDATA[23]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-arabian-nights-entertainments-by-andrew-lang/]]></link>
+            <enclosure url="https://www.archive.org/download/arabian_nights_0911_librivox/arabiannights_23_lang_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:15:34]]></itunes:duration>
+  <pubDate>Thu, 26 Nov 2009 00:23:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/arabian_nights_0911_librivox/arabiannights_23_lang_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Story of the Barber's Fifth Brother]]></title>
+    <itunes:episode><![CDATA[24]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-arabian-nights-entertainments-by-andrew-lang/]]></link>
+            <enclosure url="https://www.archive.org/download/arabian_nights_0911_librivox/arabiannights_24_lang_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:19:22]]></itunes:duration>
+  <pubDate>Thu, 26 Nov 2009 00:24:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/arabian_nights_0911_librivox/arabiannights_24_lang_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Story of the Barber's Sixth Brother]]></title>
+    <itunes:episode><![CDATA[25]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-arabian-nights-entertainments-by-andrew-lang/]]></link>
+            <enclosure url="https://www.archive.org/download/arabian_nights_0911_librivox/arabiannights_25_lang_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:11:21]]></itunes:duration>
+  <pubDate>Thu, 26 Nov 2009 00:25:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/arabian_nights_0911_librivox/arabiannights_25_lang_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Adventures of Prince Camaralzaman and the Princess Badoura (Part I)]]></title>
+    <itunes:episode><![CDATA[26]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-arabian-nights-entertainments-by-andrew-lang/]]></link>
+            <enclosure url="https://www.archive.org/download/arabian_nights_0911_librivox/arabiannights_26_lang_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:22:39]]></itunes:duration>
+  <pubDate>Thu, 26 Nov 2009 00:26:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/arabian_nights_0911_librivox/arabiannights_26_lang_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Adventures of Prince Camaralzaman and the Princess Badoura (Part II)]]></title>
+    <itunes:episode><![CDATA[27]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-arabian-nights-entertainments-by-andrew-lang/]]></link>
+            <enclosure url="https://www.archive.org/download/arabian_nights_0911_librivox/arabiannights_27_lang_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:26:39]]></itunes:duration>
+  <pubDate>Thu, 26 Nov 2009 00:27:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/arabian_nights_0911_librivox/arabiannights_27_lang_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Adventures of Prince Camaralzaman and the Princess Badoura (Part III)]]></title>
+    <itunes:episode><![CDATA[28]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-arabian-nights-entertainments-by-andrew-lang/]]></link>
+            <enclosure url="https://www.archive.org/download/arabian_nights_0911_librivox/arabiannights_28_lang_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:27:04]]></itunes:duration>
+  <pubDate>Thu, 26 Nov 2009 00:28:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/arabian_nights_0911_librivox/arabiannights_28_lang_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Noureddin and the Fair Persian (Part I)]]></title>
+    <itunes:episode><![CDATA[29]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-arabian-nights-entertainments-by-andrew-lang/]]></link>
+            <enclosure url="https://www.archive.org/download/arabian_nights_0911_librivox/arabiannights_29_lang_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:24:50]]></itunes:duration>
+  <pubDate>Thu, 26 Nov 2009 00:29:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/arabian_nights_0911_librivox/arabiannights_29_lang_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Noureddin and the Fair Persian (Part II)]]></title>
+    <itunes:episode><![CDATA[30]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-arabian-nights-entertainments-by-andrew-lang/]]></link>
+            <enclosure url="https://www.archive.org/download/arabian_nights_0911_librivox/arabiannights_30_lang_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:24:45]]></itunes:duration>
+  <pubDate>Thu, 26 Nov 2009 00:30:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/arabian_nights_0911_librivox/arabiannights_30_lang_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Aladdin and the Wonderful Lamp]]></title>
+    <itunes:episode><![CDATA[31]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-arabian-nights-entertainments-by-andrew-lang/]]></link>
+            <enclosure url="https://www.archive.org/download/arabian_nights_0911_librivox/arabiannights_31_lang_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:31:37]]></itunes:duration>
+  <pubDate>Thu, 26 Nov 2009 00:31:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/arabian_nights_0911_librivox/arabiannights_31_lang_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Adventures of Haroun-al-Raschid, the Caliph of Bagdad]]></title>
+    <itunes:episode><![CDATA[32]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-arabian-nights-entertainments-by-andrew-lang/]]></link>
+            <enclosure url="https://www.archive.org/download/arabian_nights_0911_librivox/arabiannights_32_lang_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:05:41]]></itunes:duration>
+  <pubDate>Thu, 26 Nov 2009 00:32:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/arabian_nights_0911_librivox/arabiannights_32_lang_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Story of the Blind Baba-Abdalla]]></title>
+    <itunes:episode><![CDATA[33]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-arabian-nights-entertainments-by-andrew-lang/]]></link>
+            <enclosure url="https://www.archive.org/download/arabian_nights_0911_librivox/arabiannights_33_lang_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:16:03]]></itunes:duration>
+  <pubDate>Thu, 26 Nov 2009 00:33:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/arabian_nights_0911_librivox/arabiannights_33_lang_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Story of Sidi-Nouman]]></title>
+    <itunes:episode><![CDATA[34]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-arabian-nights-entertainments-by-andrew-lang/]]></link>
+            <enclosure url="https://www.archive.org/download/arabian_nights_0911_librivox/arabiannights_34_lang_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:22:07]]></itunes:duration>
+  <pubDate>Thu, 26 Nov 2009 00:34:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/arabian_nights_0911_librivox/arabiannights_34_lang_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Story of Ali-Colia, Merchant of Bagdad]]></title>
+    <itunes:episode><![CDATA[35]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-arabian-nights-entertainments-by-andrew-lang/]]></link>
+            <enclosure url="https://www.archive.org/download/arabian_nights_0911_librivox/arabiannights_35_lang_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:19:30]]></itunes:duration>
+  <pubDate>Thu, 26 Nov 2009 00:35:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/arabian_nights_0911_librivox/arabiannights_35_lang_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Enchanted Horse (Part I)]]></title>
+    <itunes:episode><![CDATA[36]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-arabian-nights-entertainments-by-andrew-lang/]]></link>
+            <enclosure url="https://www.archive.org/download/arabian_nights_0911_librivox/arabiannights_36_lang_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:22:19]]></itunes:duration>
+  <pubDate>Thu, 26 Nov 2009 00:36:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/arabian_nights_0911_librivox/arabiannights_36_lang_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Enchanted Horse (Part II)]]></title>
+    <itunes:episode><![CDATA[37]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-arabian-nights-entertainments-by-andrew-lang/]]></link>
+            <enclosure url="https://www.archive.org/download/arabian_nights_0911_librivox/arabiannights_37_lang_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:21:34]]></itunes:duration>
+  <pubDate>Thu, 26 Nov 2009 00:37:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/arabian_nights_0911_librivox/arabiannights_37_lang_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Story of the Two Sisters Who Were Jealous of Their Younger Sister (Part I)]]></title>
+    <itunes:episode><![CDATA[38]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-arabian-nights-entertainments-by-andrew-lang/]]></link>
+            <enclosure url="https://www.archive.org/download/arabian_nights_0911_librivox/arabiannights_38_lang_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:20:05]]></itunes:duration>
+  <pubDate>Thu, 26 Nov 2009 00:38:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/arabian_nights_0911_librivox/arabiannights_38_lang_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Story of the Two Sisters Who Were Jealous of Their Younger Sister (Part II)]]></title>
+    <itunes:episode><![CDATA[39]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-arabian-nights-entertainments-by-andrew-lang/]]></link>
+            <enclosure url="https://www.archive.org/download/arabian_nights_0911_librivox/arabiannights_39_lang_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:19:33]]></itunes:duration>
+  <pubDate>Thu, 26 Nov 2009 00:39:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/arabian_nights_0911_librivox/arabiannights_39_lang_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Story of the Two Sisters Who Were Jealous of Their Younger Sister (Part III)]]></title>
+    <itunes:episode><![CDATA[40]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-arabian-nights-entertainments-by-andrew-lang/]]></link>
+            <enclosure url="https://www.archive.org/download/arabian_nights_0911_librivox/arabiannights_40_lang_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:19:02]]></itunes:duration>
+  <pubDate>Thu, 26 Nov 2009 00:40:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/arabian_nights_0911_librivox/arabiannights_40_lang_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <!-- end file loop -->
+</channel>
+</rss>

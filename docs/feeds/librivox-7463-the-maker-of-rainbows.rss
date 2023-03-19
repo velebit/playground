@@ -1,0 +1,205 @@
+<?xml version="1.0" ?><rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+  <title><![CDATA[Maker of Rainbows, The by Richard le Gallienne (1866 - 1947)]]></title>
+  <link><![CDATA[https://librivox.org/the-maker-of-rainbows-by-richard-le-gallienne/]]></link>
+  <atom:link rel="self" href="https://librivox.org/rss/7463" />
+  <description><![CDATA[A collection of Fairy Tales from Richard Le Gallienne.]]></description>
+  <!--<genre>project element=Genre</genre>-->
+  <!--<language>project element=lang.code</language>-->
+  <itunes:type>serial</itunes:type>
+  <itunes:author>LibriVox</itunes:author>
+  <itunes:summary><![CDATA[A collection of Fairy Tales from Richard Le Gallienne.]]></itunes:summary>
+  <itunes:owner>
+    <itunes:name>LibriVox</itunes:name>
+    <itunes:email>info@librivox.org</itunes:email>
+  </itunes:owner>
+  <itunes:category text="Arts">
+    <itunes:category text="Literature" />
+  </itunes:category>
+  <image><url>https://archive.org/download/LibrivoxCdCoverArt31/Maker_of_Rainbows_1305.jpg</url></image>
+  <itunes:image href="https://archive.org/download/LibrivoxCdCoverArt31/Maker_of_Rainbows_1305.jpg"/>
+  <itunes:explicit>no</itunes:explicit>
+  <!-- file loop -->
+    <item>
+    <title><![CDATA[01 - The Old Coat of Dreams]]></title>
+    <itunes:episode><![CDATA[1]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-maker-of-rainbows-by-richard-le-gallienne/]]></link>
+            <enclosure url="https://www.archive.org/download/maker_of_rainbows_1305_librivox/makerofrainbows_01_legallienne_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:09:31]]></itunes:duration>
+  <pubDate>Sat, 18 May 2013 00:00:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/maker_of_rainbows_1305_librivox/makerofrainbows_01_legallienne_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[02 - The Maker of Rainbows]]></title>
+    <itunes:episode><![CDATA[2]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-maker-of-rainbows-by-richard-le-gallienne/]]></link>
+            <enclosure url="https://www.archive.org/download/maker_of_rainbows_1305_librivox/makerofrainbows_02_legallienne_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:08:52]]></itunes:duration>
+  <pubDate>Sat, 18 May 2013 00:01:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/maker_of_rainbows_1305_librivox/makerofrainbows_02_legallienne_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[03 - The Man with Something in his Eye]]></title>
+    <itunes:episode><![CDATA[3]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-maker-of-rainbows-by-richard-le-gallienne/]]></link>
+            <enclosure url="https://www.archive.org/download/maker_of_rainbows_1305_librivox/makerofrainbows_03_legallienne_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:04:11]]></itunes:duration>
+  <pubDate>Sat, 18 May 2013 00:02:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/maker_of_rainbows_1305_librivox/makerofrainbows_03_legallienne_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[04 - Mother-of-Pearl]]></title>
+    <itunes:episode><![CDATA[4]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-maker-of-rainbows-by-richard-le-gallienne/]]></link>
+            <enclosure url="https://www.archive.org/download/maker_of_rainbows_1305_librivox/makerofrainbows_04_legallienne_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:18:09]]></itunes:duration>
+  <pubDate>Sat, 18 May 2013 00:03:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/maker_of_rainbows_1305_librivox/makerofrainbows_04_legallienne_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[05 - The Mer-Mother]]></title>
+    <itunes:episode><![CDATA[5]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-maker-of-rainbows-by-richard-le-gallienne/]]></link>
+            <enclosure url="https://www.archive.org/download/maker_of_rainbows_1305_librivox/makerofrainbows_05_legallienne_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:01:32]]></itunes:duration>
+  <pubDate>Sat, 18 May 2013 00:04:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/maker_of_rainbows_1305_librivox/makerofrainbows_05_legallienne_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[06 - The Sleepless Lord]]></title>
+    <itunes:episode><![CDATA[6]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-maker-of-rainbows-by-richard-le-gallienne/]]></link>
+            <enclosure url="https://www.archive.org/download/maker_of_rainbows_1305_librivox/makerofrainbows_06_legallienne_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:11:32]]></itunes:duration>
+  <pubDate>Sat, 18 May 2013 00:05:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/maker_of_rainbows_1305_librivox/makerofrainbows_06_legallienne_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[07 - The Man with No Money]]></title>
+    <itunes:episode><![CDATA[7]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-maker-of-rainbows-by-richard-le-gallienne/]]></link>
+            <enclosure url="https://www.archive.org/download/maker_of_rainbows_1305_librivox/makerofrainbows_07_legallienne_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:04:05]]></itunes:duration>
+  <pubDate>Sat, 18 May 2013 00:06:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/maker_of_rainbows_1305_librivox/makerofrainbows_07_legallienne_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[08 - The Rags of Queen Cophetua ]]></title>
+    <itunes:episode><![CDATA[8]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-maker-of-rainbows-by-richard-le-gallienne/]]></link>
+            <enclosure url="https://www.archive.org/download/maker_of_rainbows_1305_librivox/makerofrainbows_08_legallienne_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:12:54]]></itunes:duration>
+  <pubDate>Sat, 18 May 2013 00:07:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/maker_of_rainbows_1305_librivox/makerofrainbows_08_legallienne_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[09 - The Wife from Fairy-Land]]></title>
+    <itunes:episode><![CDATA[9]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-maker-of-rainbows-by-richard-le-gallienne/]]></link>
+            <enclosure url="https://www.archive.org/download/maker_of_rainbows_1305_librivox/makerofrainbows_09_legallienne_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:02:11]]></itunes:duration>
+  <pubDate>Sat, 18 May 2013 00:08:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/maker_of_rainbows_1305_librivox/makerofrainbows_09_legallienne_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[10 - The Buyer of Sorrows]]></title>
+    <itunes:episode><![CDATA[10]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-maker-of-rainbows-by-richard-le-gallienne/]]></link>
+            <enclosure url="https://www.archive.org/download/maker_of_rainbows_1305_librivox/makerofrainbows_10_legallienne_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:09:16]]></itunes:duration>
+  <pubDate>Sat, 18 May 2013 00:09:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/maker_of_rainbows_1305_librivox/makerofrainbows_10_legallienne_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[11 - The Princess's Mirror]]></title>
+    <itunes:episode><![CDATA[11]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-maker-of-rainbows-by-richard-le-gallienne/]]></link>
+            <enclosure url="https://www.archive.org/download/maker_of_rainbows_1305_librivox/makerofrainbows_11_legallienne_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:18:41]]></itunes:duration>
+  <pubDate>Sat, 18 May 2013 00:10:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/maker_of_rainbows_1305_librivox/makerofrainbows_11_legallienne_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[12 - The Pine Lady]]></title>
+    <itunes:episode><![CDATA[12]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-maker-of-rainbows-by-richard-le-gallienne/]]></link>
+            <enclosure url="https://www.archive.org/download/maker_of_rainbows_1305_librivox/makerofrainbows_12_legallienne_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:01:20]]></itunes:duration>
+  <pubDate>Sat, 18 May 2013 00:11:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/maker_of_rainbows_1305_librivox/makerofrainbows_12_legallienne_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[13 - The King on his Way to be Crowned]]></title>
+    <itunes:episode><![CDATA[13]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-maker-of-rainbows-by-richard-le-gallienne/]]></link>
+            <enclosure url="https://www.archive.org/download/maker_of_rainbows_1305_librivox/makerofrainbows_13_legallienne_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:16:15]]></itunes:duration>
+  <pubDate>Sat, 18 May 2013 00:12:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/maker_of_rainbows_1305_librivox/makerofrainbows_13_legallienne_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[14 - The Stolen Dream]]></title>
+    <itunes:episode><![CDATA[14]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-maker-of-rainbows-by-richard-le-gallienne/]]></link>
+            <enclosure url="https://www.archive.org/download/maker_of_rainbows_1305_librivox/makerofrainbows_14_legallienne_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:21:24]]></itunes:duration>
+  <pubDate>Sat, 18 May 2013 00:13:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/maker_of_rainbows_1305_librivox/makerofrainbows_14_legallienne_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[15 - The Stern Education of Clowns]]></title>
+    <itunes:episode><![CDATA[15]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-maker-of-rainbows-by-richard-le-gallienne/]]></link>
+            <enclosure url="https://www.archive.org/download/maker_of_rainbows_1305_librivox/makerofrainbows_15_legallienne_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:04:19]]></itunes:duration>
+  <pubDate>Sat, 18 May 2013 00:14:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/maker_of_rainbows_1305_librivox/makerofrainbows_15_legallienne_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <!-- end file loop -->
+</channel>
+</rss>

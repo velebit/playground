@@ -4,6 +4,7 @@ import bs4
 import glob
 import os
 import regex as re
+import sys
 import urllib.parse
 
 FEEDS_BASE_URL = 'https://velebit.github.io/feeds/'
@@ -30,13 +31,16 @@ def write_feeds_list(feeds, path):
     with open(path, 'w') as out:
         for i in feeds:
             print(i, file=out)
+    print(f"Wrote {path}", file=sys.stderr)
 
 
 def read_title_from_feed_file(url):
     path = re.sub(r'.*/', '', url)
     with open(path, 'rb') as f:
         feed_xml = bs4.BeautifulSoup(f, features="xml")
-        return feed_xml.title.get_text()
+    title = feed_xml.title.get_text()
+    print(f"Read title from {path}", file=sys.stderr)
+    return title
 
 
 def make_overcast_subscribe_url(feed_url):
@@ -67,6 +71,7 @@ def write_overcast_html(feeds, path):
     html = make_overcast_html(feeds)
     with open(path, 'wb') as out:
         out.write(html)
+    print(f"Wrote {path}", file=sys.stderr)
 
 
 def main():

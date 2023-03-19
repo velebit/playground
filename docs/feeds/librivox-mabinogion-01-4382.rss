@@ -1,0 +1,205 @@
+<?xml version="1.0" ?><rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+  <title><![CDATA[Mabinogion, Volume 1, The by Anonymous]]></title>
+  <link><![CDATA[https://librivox.org/the-mabinogion-volume-1/]]></link>
+  <atom:link rel="self" href="https://librivox.org/rss/4382" />
+  <description><![CDATA[Sample a moment of magic realism from the Red Book of Hergest:On one side of the river he saw a flock of white sheep, and on the other a flock of black sheep. And whenever one of the white sheep bleated, one of the black sheep would cross over, and become white; and when one of the black sheep bleated, one of the white sheep would cross over, and become black.Before passing on to the Mabinogion proper, Lady Charlotte Guest devotes Volume I of her compilation of medieval Welsh tales to three brief romances of Arthur’s Court. The centrepiece is the story of Peredur, the Dumb Youth – known elsewhere as Perceval, Parzifal, the Holy Fool, et al.This is the violent world of satin-clad knights and their clashing encounters, peremptory slayings of giants and cave-dwelling monsters – a world where love is as sudden and final as death. (Introduction by Martin Geeson)]]></description>
+  <!--<genre>project element=Genre</genre>-->
+  <!--<language>project element=lang.code</language>-->
+  <itunes:type>serial</itunes:type>
+  <itunes:author>LibriVox</itunes:author>
+  <itunes:summary><![CDATA[Sample a moment of magic realism from the Red Book of Hergest:On one side of the river he saw a flock of white sheep, and on the other a flock of black sheep. And whenever one of the white sheep bleated, one of the black sheep would cross over, and become white; and when one of the black sheep bleated, one of the white sheep would cross over, and become black.Before passing on to the Mabinogion proper, Lady Charlotte Guest devotes Volume I of her compilation of medieval Welsh tales to three brief romances of Arthur’s Court. The centrepiece is the story of Peredur, the Dumb Youth – known elsewhere as Perceval, Parzifal, the Holy Fool, et al.This is the violent world of satin-clad knights and their clashing encounters, peremptory slayings of giants and cave-dwelling monsters – a world where love is as sudden and final as death. (Introduction by Martin Geeson)]]></itunes:summary>
+  <itunes:owner>
+    <itunes:name>LibriVox</itunes:name>
+    <itunes:email>info@librivox.org</itunes:email>
+  </itunes:owner>
+  <itunes:category text="Arts">
+    <itunes:category text="Literature" />
+  </itunes:category>
+  <image><url>https://archive.org/download/LibrivoxCdCoverArt20/mabinogion_1206.jpg</url></image>
+  <itunes:image href="https://archive.org/download/LibrivoxCdCoverArt20/mabinogion_1206.jpg"/>
+  <itunes:explicit>no</itunes:explicit>
+  <!-- file loop -->
+    <item>
+    <title><![CDATA[The Lady of the Fountain]]></title>
+    <itunes:episode><![CDATA[1]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-mabinogion-volume-1/]]></link>
+            <enclosure url="https://www.archive.org/download/mabinogion_1008_librivox/mabinogion1_01_anonymous_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[25:30:00]]></itunes:duration>
+  <pubDate>Sat, 07 Aug 2010 00:00:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/mabinogion_1008_librivox/mabinogion1_01_anonymous_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Then the horn for washing was sounded...]]></title>
+    <itunes:episode><![CDATA[2]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-mabinogion-volume-1/]]></link>
+            <enclosure url="https://www.archive.org/download/mabinogion_1008_librivox/mabinogion1_02_anonymous_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[21:20:00]]></itunes:duration>
+  <pubDate>Sat, 07 Aug 2010 00:01:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/mabinogion_1008_librivox/mabinogion1_02_anonymous_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Luned set out, under the pretence...]]></title>
+    <itunes:episode><![CDATA[3]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-mabinogion-volume-1/]]></link>
+            <enclosure url="https://www.archive.org/download/mabinogion_1008_librivox/mabinogion1_03_anonymous_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[16:25:00]]></itunes:duration>
+  <pubDate>Sat, 07 Aug 2010 00:02:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/mabinogion_1008_librivox/mabinogion1_03_anonymous_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[And as Owain one day sat at meat...]]></title>
+    <itunes:episode><![CDATA[4]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-mabinogion-volume-1/]]></link>
+            <enclosure url="https://www.archive.org/download/mabinogion_1008_librivox/mabinogion1_04_anonymous_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[28:29:00]]></itunes:duration>
+  <pubDate>Sat, 07 Aug 2010 00:03:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/mabinogion_1008_librivox/mabinogion1_04_anonymous_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Peredur the Son of Evrawc]]></title>
+    <itunes:episode><![CDATA[5]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-mabinogion-volume-1/]]></link>
+            <enclosure url="https://www.archive.org/download/mabinogion_1008_librivox/mabinogion1_05_anonymous_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[20:49:00]]></itunes:duration>
+  <pubDate>Sat, 07 Aug 2010 00:04:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/mabinogion_1008_librivox/mabinogion1_05_anonymous_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[And Peredur rode forward]]></title>
+    <itunes:episode><![CDATA[6]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-mabinogion-volume-1/]]></link>
+            <enclosure url="https://www.archive.org/download/mabinogion_1008_librivox/mabinogion1_06_anonymous_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[26:17:00]]></itunes:duration>
+  <pubDate>Sat, 07 Aug 2010 00:05:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/mabinogion_1008_librivox/mabinogion1_06_anonymous_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[And the next day Peredur rode forth...]]></title>
+    <itunes:episode><![CDATA[7]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-mabinogion-volume-1/]]></link>
+            <enclosure url="https://www.archive.org/download/mabinogion_1008_librivox/mabinogion1_07_anonymous_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[19:49:00]]></itunes:duration>
+  <pubDate>Sat, 07 Aug 2010 00:06:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/mabinogion_1008_librivox/mabinogion1_07_anonymous_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[And the first night Peredur came to Caerlleon...]]></title>
+    <itunes:episode><![CDATA[8]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-mabinogion-volume-1/]]></link>
+            <enclosure url="https://www.archive.org/download/mabinogion_1008_librivox/mabinogion1_08_anonymous_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[16:54:00]]></itunes:duration>
+  <pubDate>Sat, 07 Aug 2010 00:07:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/mabinogion_1008_librivox/mabinogion1_08_anonymous_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Arthur was in Caerlleon...]]></title>
+    <itunes:episode><![CDATA[9]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-mabinogion-volume-1/]]></link>
+            <enclosure url="https://www.archive.org/download/mabinogion_1008_librivox/mabinogion1_09_anonymous_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[19:40:00]]></itunes:duration>
+  <pubDate>Sat, 07 Aug 2010 00:08:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/mabinogion_1008_librivox/mabinogion1_09_anonymous_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[And the next day Peredur set forth...]]></title>
+    <itunes:episode><![CDATA[10]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-mabinogion-volume-1/]]></link>
+            <enclosure url="https://www.archive.org/download/mabinogion_1008_librivox/mabinogion1_10_anonymous_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[13:08:00]]></itunes:duration>
+  <pubDate>Sat, 07 Aug 2010 00:09:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/mabinogion_1008_librivox/mabinogion1_10_anonymous_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Arthur was at Caerlleon upon Usk...]]></title>
+    <itunes:episode><![CDATA[11]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-mabinogion-volume-1/]]></link>
+            <enclosure url="https://www.archive.org/download/mabinogion_1008_librivox/mabinogion1_11_anonymous_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[15:42:00]]></itunes:duration>
+  <pubDate>Sat, 07 Aug 2010 00:10:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/mabinogion_1008_librivox/mabinogion1_11_anonymous_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Then Peredur rode forward]]></title>
+    <itunes:episode><![CDATA[12]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-mabinogion-volume-1/]]></link>
+            <enclosure url="https://www.archive.org/download/mabinogion_1008_librivox/mabinogion1_12_anonymous_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[19:23:00]]></itunes:duration>
+  <pubDate>Sat, 07 Aug 2010 00:11:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/mabinogion_1008_librivox/mabinogion1_12_anonymous_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Dream of Rhonabwy]]></title>
+    <itunes:episode><![CDATA[13]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-mabinogion-volume-1/]]></link>
+            <enclosure url="https://www.archive.org/download/mabinogion_1008_librivox/mabinogion1_13_anonymous_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[15:09:00]]></itunes:duration>
+  <pubDate>Sat, 07 Aug 2010 00:12:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/mabinogion_1008_librivox/mabinogion1_13_anonymous_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[After this they saw a troop...]]></title>
+    <itunes:episode><![CDATA[14]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-mabinogion-volume-1/]]></link>
+            <enclosure url="https://www.archive.org/download/mabinogion_1008_librivox/mabinogion1_14_anonymous_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[18:10:00]]></itunes:duration>
+  <pubDate>Sat, 07 Aug 2010 00:13:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/mabinogion_1008_librivox/mabinogion1_14_anonymous_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[And Arthur and Owain marvelled...]]></title>
+    <itunes:episode><![CDATA[15]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-mabinogion-volume-1/]]></link>
+            <enclosure url="https://www.archive.org/download/mabinogion_1008_librivox/mabinogion1_15_anonymous_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[15:46:00]]></itunes:duration>
+  <pubDate>Sat, 07 Aug 2010 00:14:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/mabinogion_1008_librivox/mabinogion1_15_anonymous_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <!-- end file loop -->
+</channel>
+</rss>

@@ -1,0 +1,277 @@
+<?xml version="1.0" ?><rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+  <title><![CDATA[Kottō : being Japanese curios, with sundry cobwebs by Lafcadio Hearn (1850 - 1904)]]></title>
+  <link><![CDATA[https://librivox.org/kotto-being-japanese-curios-with-sundry-cobwebs-by-lafcadio-hearn/]]></link>
+  <atom:link rel="self" href="https://librivox.org/rss/4374" />
+  <description><![CDATA[Kottō contains 20 Japanese stories, collected from different sources and translated by Lafcadio Hearn. The types of stories in this collection are widespread: There are old ghost stories Hearn is best known for (The Legend of Yurei-Daki), his own observations and musings (Pathological), as well as the translation of 'A Woman's Diary', a touching account of the life of the poorer classes in Tokyo, written at the end of the 19th century.  (Summary by Availle)]]></description>
+  <!--<genre>project element=Genre</genre>-->
+  <!--<language>project element=lang.code</language>-->
+  <itunes:type>serial</itunes:type>
+  <itunes:author>LibriVox</itunes:author>
+  <itunes:summary><![CDATA[Kottō contains 20 Japanese stories, collected from different sources and translated by Lafcadio Hearn. The types of stories in this collection are widespread: There are old ghost stories Hearn is best known for (The Legend of Yurei-Daki), his own observations and musings (Pathological), as well as the translation of 'A Woman's Diary', a touching account of the life of the poorer classes in Tokyo, written at the end of the 19th century.  (Summary by Availle)]]></itunes:summary>
+  <itunes:owner>
+    <itunes:name>LibriVox</itunes:name>
+    <itunes:email>info@librivox.org</itunes:email>
+  </itunes:owner>
+  <itunes:category text="Arts">
+    <itunes:category text="Literature" />
+  </itunes:category>
+  <image><url>https://www.archive.org/download/LibrivoxCdCoverArt5/kotto_1006.jpg</url></image>
+  <itunes:image href="https://www.archive.org/download/LibrivoxCdCoverArt5/kotto_1006.jpg"/>
+  <itunes:explicit>no</itunes:explicit>
+  <!-- file loop -->
+    <item>
+    <title><![CDATA[The Legend Of Yurei-Daki]]></title>
+    <itunes:episode><![CDATA[1]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/kotto-being-japanese-curios-with-sundry-cobwebs-by-lafcadio-hearn/]]></link>
+            <enclosure url="https://www.archive.org/download/kotto_1006_librivox/kotto_01_hearn_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:06:05]]></itunes:duration>
+  <pubDate>Mon, 28 Jun 2010 00:00:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/kotto_1006_librivox/kotto_01_hearn_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[In a Cup of Tea]]></title>
+    <itunes:episode><![CDATA[2]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/kotto-being-japanese-curios-with-sundry-cobwebs-by-lafcadio-hearn/]]></link>
+            <enclosure url="https://www.archive.org/download/kotto_1006_librivox/kotto_02_hearn_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:07:19]]></itunes:duration>
+  <pubDate>Mon, 28 Jun 2010 00:01:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/kotto_1006_librivox/kotto_02_hearn_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Common Sense]]></title>
+    <itunes:episode><![CDATA[3]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/kotto-being-japanese-curios-with-sundry-cobwebs-by-lafcadio-hearn/]]></link>
+            <enclosure url="https://www.archive.org/download/kotto_1006_librivox/kotto_03_hearn_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:06:31]]></itunes:duration>
+  <pubDate>Mon, 28 Jun 2010 00:02:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/kotto_1006_librivox/kotto_03_hearn_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Ikiryō]]></title>
+    <itunes:episode><![CDATA[4]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/kotto-being-japanese-curios-with-sundry-cobwebs-by-lafcadio-hearn/]]></link>
+            <enclosure url="https://www.archive.org/download/kotto_1006_librivox/kotto_04_hearn_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:10:04]]></itunes:duration>
+  <pubDate>Mon, 28 Jun 2010 00:03:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/kotto_1006_librivox/kotto_04_hearn_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Shiryō]]></title>
+    <itunes:episode><![CDATA[5]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/kotto-being-japanese-curios-with-sundry-cobwebs-by-lafcadio-hearn/]]></link>
+            <enclosure url="https://www.archive.org/download/kotto_1006_librivox/kotto_05_hearn_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:06:39]]></itunes:duration>
+  <pubDate>Mon, 28 Jun 2010 00:04:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/kotto_1006_librivox/kotto_05_hearn_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Story of O-Kamé]]></title>
+    <itunes:episode><![CDATA[6]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/kotto-being-japanese-curios-with-sundry-cobwebs-by-lafcadio-hearn/]]></link>
+            <enclosure url="https://www.archive.org/download/kotto_1006_librivox/kotto_06_hearn_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:08:06]]></itunes:duration>
+  <pubDate>Mon, 28 Jun 2010 00:05:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/kotto_1006_librivox/kotto_06_hearn_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Story of a Fly]]></title>
+    <itunes:episode><![CDATA[7]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/kotto-being-japanese-curios-with-sundry-cobwebs-by-lafcadio-hearn/]]></link>
+            <enclosure url="https://www.archive.org/download/kotto_1006_librivox/kotto_07_hearn_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:05:27]]></itunes:duration>
+  <pubDate>Mon, 28 Jun 2010 00:06:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/kotto_1006_librivox/kotto_07_hearn_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Story of  a Pheasant]]></title>
+    <itunes:episode><![CDATA[8]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/kotto-being-japanese-curios-with-sundry-cobwebs-by-lafcadio-hearn/]]></link>
+            <enclosure url="https://www.archive.org/download/kotto_1006_librivox/kotto_08_hearn_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:05:18]]></itunes:duration>
+  <pubDate>Mon, 28 Jun 2010 00:07:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/kotto_1006_librivox/kotto_08_hearn_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Story of Chūgōro]]></title>
+    <itunes:episode><![CDATA[9]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/kotto-being-japanese-curios-with-sundry-cobwebs-by-lafcadio-hearn/]]></link>
+            <enclosure url="https://www.archive.org/download/kotto_1006_librivox/kotto_09_hearn_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:10:23]]></itunes:duration>
+  <pubDate>Mon, 28 Jun 2010 00:08:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/kotto_1006_librivox/kotto_09_hearn_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[A Woman's Diary, Part 1]]></title>
+    <itunes:episode><![CDATA[10]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/kotto-being-japanese-curios-with-sundry-cobwebs-by-lafcadio-hearn/]]></link>
+            <enclosure url="https://www.archive.org/download/kotto_1006_librivox/kotto_10_hearn_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:35:34]]></itunes:duration>
+  <pubDate>Mon, 28 Jun 2010 00:09:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/kotto_1006_librivox/kotto_10_hearn_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[A Woman's Diary, Part 2]]></title>
+    <itunes:episode><![CDATA[11]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/kotto-being-japanese-curios-with-sundry-cobwebs-by-lafcadio-hearn/]]></link>
+            <enclosure url="https://www.archive.org/download/kotto_1006_librivox/kotto_11_hearn_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:33:41]]></itunes:duration>
+  <pubDate>Mon, 28 Jun 2010 00:10:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/kotto_1006_librivox/kotto_11_hearn_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Heiké-gani]]></title>
+    <itunes:episode><![CDATA[12]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/kotto-being-japanese-curios-with-sundry-cobwebs-by-lafcadio-hearn/]]></link>
+            <enclosure url="https://www.archive.org/download/kotto_1006_librivox/kotto_12_hearn_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:04:36]]></itunes:duration>
+  <pubDate>Mon, 28 Jun 2010 00:11:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/kotto_1006_librivox/kotto_12_hearn_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Fireflies]]></title>
+    <itunes:episode><![CDATA[13]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/kotto-being-japanese-curios-with-sundry-cobwebs-by-lafcadio-hearn/]]></link>
+            <enclosure url="https://www.archive.org/download/kotto_1006_librivox/kotto_13_hearn_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:38:44]]></itunes:duration>
+  <pubDate>Mon, 28 Jun 2010 00:12:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/kotto_1006_librivox/kotto_13_hearn_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[A Drop of Dew]]></title>
+    <itunes:episode><![CDATA[14]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/kotto-being-japanese-curios-with-sundry-cobwebs-by-lafcadio-hearn/]]></link>
+            <enclosure url="https://www.archive.org/download/kotto_1006_librivox/kotto_14_hearn_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:06:41]]></itunes:duration>
+  <pubDate>Mon, 28 Jun 2010 00:13:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/kotto_1006_librivox/kotto_14_hearn_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Gaki]]></title>
+    <itunes:episode><![CDATA[15]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/kotto-being-japanese-curios-with-sundry-cobwebs-by-lafcadio-hearn/]]></link>
+            <enclosure url="https://www.archive.org/download/kotto_1006_librivox/kotto_15_hearn_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:25:06]]></itunes:duration>
+  <pubDate>Mon, 28 Jun 2010 00:14:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/kotto_1006_librivox/kotto_15_hearn_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[A Matter of Custom]]></title>
+    <itunes:episode><![CDATA[16]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/kotto-being-japanese-curios-with-sundry-cobwebs-by-lafcadio-hearn/]]></link>
+            <enclosure url="https://www.archive.org/download/kotto_1006_librivox/kotto_16_hearn_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:05:18]]></itunes:duration>
+  <pubDate>Mon, 28 Jun 2010 00:15:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/kotto_1006_librivox/kotto_16_hearn_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Revery]]></title>
+    <itunes:episode><![CDATA[17]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/kotto-being-japanese-curios-with-sundry-cobwebs-by-lafcadio-hearn/]]></link>
+            <enclosure url="https://www.archive.org/download/kotto_1006_librivox/kotto_17_hearn_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:13:06]]></itunes:duration>
+  <pubDate>Mon, 28 Jun 2010 00:16:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/kotto_1006_librivox/kotto_17_hearn_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Pathological]]></title>
+    <itunes:episode><![CDATA[18]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/kotto-being-japanese-curios-with-sundry-cobwebs-by-lafcadio-hearn/]]></link>
+            <enclosure url="https://www.archive.org/download/kotto_1006_librivox/kotto_18_hearn_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:06:23]]></itunes:duration>
+  <pubDate>Mon, 28 Jun 2010 00:17:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/kotto_1006_librivox/kotto_18_hearn_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[In the Dead of the Night]]></title>
+    <itunes:episode><![CDATA[19]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/kotto-being-japanese-curios-with-sundry-cobwebs-by-lafcadio-hearn/]]></link>
+            <enclosure url="https://www.archive.org/download/kotto_1006_librivox/kotto_19_hearn_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:06:18]]></itunes:duration>
+  <pubDate>Mon, 28 Jun 2010 00:18:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/kotto_1006_librivox/kotto_19_hearn_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Kusa-Hibari]]></title>
+    <itunes:episode><![CDATA[20]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/kotto-being-japanese-curios-with-sundry-cobwebs-by-lafcadio-hearn/]]></link>
+            <enclosure url="https://www.archive.org/download/kotto_1006_librivox/kotto_20_hearn_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:09:41]]></itunes:duration>
+  <pubDate>Mon, 28 Jun 2010 00:19:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/kotto_1006_librivox/kotto_20_hearn_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Eater of Dreams]]></title>
+    <itunes:episode><![CDATA[21]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/kotto-being-japanese-curios-with-sundry-cobwebs-by-lafcadio-hearn/]]></link>
+            <enclosure url="https://www.archive.org/download/kotto_1006_librivox/kotto_21_hearn_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:08:41]]></itunes:duration>
+  <pubDate>Mon, 28 Jun 2010 00:20:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/kotto_1006_librivox/kotto_21_hearn_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <!-- end file loop -->
+</channel>
+</rss>

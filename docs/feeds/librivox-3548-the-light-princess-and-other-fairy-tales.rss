@@ -1,0 +1,135 @@
+<?xml version="1.0" ?><rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+  <title><![CDATA[Light Princess and Other Fairy Tales, The by George MacDonald (1824 - 1905)]]></title>
+  <link><![CDATA[https://librivox.org/the-light-princess-other-fairy-tales-by-george-macdonald/]]></link>
+  <atom:link rel="self" href="https://librivox.org/rss/3548" />
+  <description><![CDATA[George MacDonald claimed that he did not write for children, but for the child-like. Some of his longer works are clearly intended for adults, and this fantastic fiction influenced later writers such as G.K. Chesterton, J.R.R. Tolkien and C.S. Lewis. But you can find some of his best writing in the stories aimed squarely at children, and these are three of the finest.
+
+The Light Princess. A wicked aunt curses her baby niece so that gravity has no effect on her, and she floats through the air as if it were water.The only way to break the curse is to make the princess cry.
+
+The Giant's Heart. Two children argue and run away to Giantland. There they find out that one of the Giants steals children from the land of men and eats them, but how can they kill the Giant when he has hidden his heart where no one can find it?
+
+The Golden Key. A boy discovers a Golden Key, but cannot find the lock. He meets a girl, and together they search for the land from where the shadows fall, hoping that the key will allow them in.
+Summary by Clive Catterall)]]></description>
+  <!--<genre>project element=Genre</genre>-->
+  <!--<language>project element=lang.code</language>-->
+  <itunes:type>serial</itunes:type>
+  <itunes:author>LibriVox</itunes:author>
+  <itunes:summary><![CDATA[George MacDonald claimed that he did not write for children, but for the child-like. Some of his longer works are clearly intended for adults, and this fantastic fiction influenced later writers such as G.K. Chesterton, J.R.R. Tolkien and C.S. Lewis. But you can find some of his best writing in the stories aimed squarely at children, and these are three of the finest.
+
+The Light Princess. A wicked aunt curses her baby niece so that gravity has no effect on her, and she floats through the air as if it were water.The only way to break the curse is to make the princess cry.
+
+The Giant's Heart. Two children argue and run away to Giantland. There they find out that one of the Giants steals children from the land of men and eats them, but how can they kill the Giant when he has hidden his heart where no one can find it?
+
+The Golden Key. A boy discovers a Golden Key, but cannot find the lock. He meets a girl, and together they search for the land from where the shadows fall, hoping that the key will allow them in.
+Summary by Clive Catterall)]]></itunes:summary>
+  <itunes:owner>
+    <itunes:name>LibriVox</itunes:name>
+    <itunes:email>info@librivox.org</itunes:email>
+  </itunes:owner>
+  <itunes:category text="Arts">
+    <itunes:category text="Literature" />
+  </itunes:category>
+  <image><url>https://archive.org/download/LibrivoxCdCoverArt27/Light_Princess_Other_Fairy_Tales_1301.jpg</url></image>
+  <itunes:image href="https://archive.org/download/LibrivoxCdCoverArt27/Light_Princess_Other_Fairy_Tales_1301.jpg"/>
+  <itunes:explicit>no</itunes:explicit>
+  <!-- file loop -->
+    <item>
+    <title><![CDATA[The Light Princess - Part 1]]></title>
+    <itunes:episode><![CDATA[1]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-light-princess-other-fairy-tales-by-george-macdonald/]]></link>
+            <enclosure url="https://www.archive.org/download/light_princess_cc_librivox/fairytales_01_macdonald_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:23:56]]></itunes:duration>
+  <pubDate>Tue, 01 Jun 2010 00:00:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/light_princess_cc_librivox/fairytales_01_macdonald_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Light Princess - Part 2]]></title>
+    <itunes:episode><![CDATA[2]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-light-princess-other-fairy-tales-by-george-macdonald/]]></link>
+            <enclosure url="https://www.archive.org/download/light_princess_cc_librivox/fairytales_02_macdonald_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:30:19]]></itunes:duration>
+  <pubDate>Tue, 01 Jun 2010 00:01:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/light_princess_cc_librivox/fairytales_02_macdonald_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Light Princess - Part 3]]></title>
+    <itunes:episode><![CDATA[3]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-light-princess-other-fairy-tales-by-george-macdonald/]]></link>
+            <enclosure url="https://www.archive.org/download/light_princess_cc_librivox/fairytales_03_macdonald_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:27:09]]></itunes:duration>
+  <pubDate>Tue, 01 Jun 2010 00:02:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/light_princess_cc_librivox/fairytales_03_macdonald_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Light Princess - Part 4]]></title>
+    <itunes:episode><![CDATA[4]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-light-princess-other-fairy-tales-by-george-macdonald/]]></link>
+            <enclosure url="https://www.archive.org/download/light_princess_cc_librivox/fairytales_04_macdonald_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:16:32]]></itunes:duration>
+  <pubDate>Tue, 01 Jun 2010 00:03:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/light_princess_cc_librivox/fairytales_04_macdonald_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Giant's Heart - Part 1]]></title>
+    <itunes:episode><![CDATA[5]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-light-princess-other-fairy-tales-by-george-macdonald/]]></link>
+            <enclosure url="https://www.archive.org/download/light_princess_cc_librivox/fairytales_05_macdonald_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:21:16]]></itunes:duration>
+  <pubDate>Tue, 01 Jun 2010 00:04:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/light_princess_cc_librivox/fairytales_05_macdonald_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Giant's Heart - Part 2]]></title>
+    <itunes:episode><![CDATA[6]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-light-princess-other-fairy-tales-by-george-macdonald/]]></link>
+            <enclosure url="https://www.archive.org/download/light_princess_cc_librivox/fairytales_06_macdonald_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:22:57]]></itunes:duration>
+  <pubDate>Tue, 01 Jun 2010 00:05:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/light_princess_cc_librivox/fairytales_06_macdonald_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Golden Key - Part 1]]></title>
+    <itunes:episode><![CDATA[7]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-light-princess-other-fairy-tales-by-george-macdonald/]]></link>
+            <enclosure url="https://www.archive.org/download/light_princess_cc_librivox/fairytales_07_macdonald_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:30:37]]></itunes:duration>
+  <pubDate>Tue, 01 Jun 2010 00:06:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/light_princess_cc_librivox/fairytales_07_macdonald_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Golden Key - Part 2]]></title>
+    <itunes:episode><![CDATA[8]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-light-princess-other-fairy-tales-by-george-macdonald/]]></link>
+            <enclosure url="https://www.archive.org/download/light_princess_cc_librivox/fairytales_08_macdonald_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:37:43]]></itunes:duration>
+  <pubDate>Tue, 01 Jun 2010 00:07:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/light_princess_cc_librivox/fairytales_08_macdonald_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <!-- end file loop -->
+</channel>
+</rss>

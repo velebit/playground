@@ -1,0 +1,493 @@
+<?xml version="1.0" ?><rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+  <title><![CDATA[Stories of Old Greece and Rome by Emilie Kip Baker (1873 - 1951)]]></title>
+  <link><![CDATA[https://librivox.org/stories-of-old-greece-and-rome-by-emilie-kip-baker/]]></link>
+  <atom:link rel="self" href="https://librivox.org/rss/8866" />
+  <description><![CDATA[The Stories of Old Greece and Rome is an easy to read summary of all of the famous and not so famous Greek and Roman mythological stories. All of the famous Heroes are here: Theseus, Jason, Hercules, and all of the well known Deities. These stories tell the real detail of the myths, not the ones that have become sanitized (and dare I say it, 'Disneyfied') over the centuries. These are not stories for children, as the old gods and heroes were vengeful and some might say sadistic in their treatment of minor slights and misdemeanors. Putting out of eyes and ripping out of tongues is commonplace, and punishment by death is ever present. It is however fascinating to see how these tales have affected and influenced our culture and have woven themselves into our own myths and stories. (Summary by Kevin Green)]]></description>
+  <!--<genre>project element=Genre</genre>-->
+  <!--<language>project element=lang.code</language>-->
+  <itunes:type>serial</itunes:type>
+  <itunes:author>LibriVox</itunes:author>
+  <itunes:summary><![CDATA[The Stories of Old Greece and Rome is an easy to read summary of all of the famous and not so famous Greek and Roman mythological stories. All of the famous Heroes are here: Theseus, Jason, Hercules, and all of the well known Deities. These stories tell the real detail of the myths, not the ones that have become sanitized (and dare I say it, 'Disneyfied') over the centuries. These are not stories for children, as the old gods and heroes were vengeful and some might say sadistic in their treatment of minor slights and misdemeanors. Putting out of eyes and ripping out of tongues is commonplace, and punishment by death is ever present. It is however fascinating to see how these tales have affected and influenced our culture and have woven themselves into our own myths and stories. (Summary by Kevin Green)]]></itunes:summary>
+  <itunes:owner>
+    <itunes:name>LibriVox</itunes:name>
+    <itunes:email>info@librivox.org</itunes:email>
+  </itunes:owner>
+  <itunes:category text="Arts">
+    <itunes:category text="Literature" />
+  </itunes:category>
+  <image><url>https://archive.org/download/LibrivoxCdCoverArt32/Stories_Greece_and_Rome_1407.jpg</url></image>
+  <itunes:image href="https://archive.org/download/LibrivoxCdCoverArt32/Stories_Greece_and_Rome_1407.jpg"/>
+  <itunes:explicit>no</itunes:explicit>
+  <!-- file loop -->
+    <item>
+    <title><![CDATA[In The Beginning]]></title>
+    <itunes:episode><![CDATA[1]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/stories-of-old-greece-and-rome-by-emilie-kip-baker/]]></link>
+            <enclosure url="https://www.archive.org/download/oldgreeceandrome_1407_librivox/storiesofoldgreeceandrome_01_baker_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 04 Jul 2014 00:00:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/oldgreeceandrome_1407_librivox/storiesofoldgreeceandrome_01_baker_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Story of Pandora]]></title>
+    <itunes:episode><![CDATA[2]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/stories-of-old-greece-and-rome-by-emilie-kip-baker/]]></link>
+            <enclosure url="https://www.archive.org/download/oldgreeceandrome_1407_librivox/storiesofoldgreeceandrome_02_baker_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 04 Jul 2014 00:01:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/oldgreeceandrome_1407_librivox/storiesofoldgreeceandrome_02_baker_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Deluge]]></title>
+    <itunes:episode><![CDATA[3]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/stories-of-old-greece-and-rome-by-emilie-kip-baker/]]></link>
+            <enclosure url="https://www.archive.org/download/oldgreeceandrome_1407_librivox/storiesofoldgreeceandrome_03_baker_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 04 Jul 2014 00:02:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/oldgreeceandrome_1407_librivox/storiesofoldgreeceandrome_03_baker_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Minerva]]></title>
+    <itunes:episode><![CDATA[4]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/stories-of-old-greece-and-rome-by-emilie-kip-baker/]]></link>
+            <enclosure url="https://www.archive.org/download/oldgreeceandrome_1407_librivox/storiesofoldgreeceandrome_04_baker_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 04 Jul 2014 00:03:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/oldgreeceandrome_1407_librivox/storiesofoldgreeceandrome_04_baker_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Apollo and King Admetus]]></title>
+    <itunes:episode><![CDATA[5]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/stories-of-old-greece-and-rome-by-emilie-kip-baker/]]></link>
+            <enclosure url="https://www.archive.org/download/oldgreeceandrome_1407_librivox/storiesofoldgreeceandrome_05_baker_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 04 Jul 2014 00:04:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/oldgreeceandrome_1407_librivox/storiesofoldgreeceandrome_05_baker_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Apollo the Musician]]></title>
+    <itunes:episode><![CDATA[6]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/stories-of-old-greece-and-rome-by-emilie-kip-baker/]]></link>
+            <enclosure url="https://www.archive.org/download/oldgreeceandrome_1407_librivox/storiesofoldgreeceandrome_06_baker_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 04 Jul 2014 00:05:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/oldgreeceandrome_1407_librivox/storiesofoldgreeceandrome_06_baker_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Love of Apollo]]></title>
+    <itunes:episode><![CDATA[7]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/stories-of-old-greece-and-rome-by-emilie-kip-baker/]]></link>
+            <enclosure url="https://www.archive.org/download/oldgreeceandrome_1407_librivox/storiesofoldgreeceandrome_07_baker_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 04 Jul 2014 00:06:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/oldgreeceandrome_1407_librivox/storiesofoldgreeceandrome_07_baker_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Diana]]></title>
+    <itunes:episode><![CDATA[8]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/stories-of-old-greece-and-rome-by-emilie-kip-baker/]]></link>
+            <enclosure url="https://www.archive.org/download/oldgreeceandrome_1407_librivox/storiesofoldgreeceandrome_08_baker_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 04 Jul 2014 00:07:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/oldgreeceandrome_1407_librivox/storiesofoldgreeceandrome_08_baker_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Story of Endymion]]></title>
+    <itunes:episode><![CDATA[9]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/stories-of-old-greece-and-rome-by-emilie-kip-baker/]]></link>
+            <enclosure url="https://www.archive.org/download/oldgreeceandrome_1407_librivox/storiesofoldgreeceandrome_09_baker_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 04 Jul 2014 00:08:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/oldgreeceandrome_1407_librivox/storiesofoldgreeceandrome_09_baker_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Mercury]]></title>
+    <itunes:episode><![CDATA[10]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/stories-of-old-greece-and-rome-by-emilie-kip-baker/]]></link>
+            <enclosure url="https://www.archive.org/download/oldgreeceandrome_1407_librivox/storiesofoldgreeceandrome_10_baker_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 04 Jul 2014 00:09:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/oldgreeceandrome_1407_librivox/storiesofoldgreeceandrome_10_baker_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Venus]]></title>
+    <itunes:episode><![CDATA[11]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/stories-of-old-greece-and-rome-by-emilie-kip-baker/]]></link>
+            <enclosure url="https://www.archive.org/download/oldgreeceandrome_1407_librivox/storiesofoldgreeceandrome_11_baker_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 04 Jul 2014 00:10:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/oldgreeceandrome_1407_librivox/storiesofoldgreeceandrome_11_baker_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Story of Cupid and Psyche]]></title>
+    <itunes:episode><![CDATA[12]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/stories-of-old-greece-and-rome-by-emilie-kip-baker/]]></link>
+            <enclosure url="https://www.archive.org/download/oldgreeceandrome_1407_librivox/storiesofoldgreeceandrome_12_baker_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 04 Jul 2014 00:11:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/oldgreeceandrome_1407_librivox/storiesofoldgreeceandrome_12_baker_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Famous Lovers]]></title>
+    <itunes:episode><![CDATA[13]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/stories-of-old-greece-and-rome-by-emilie-kip-baker/]]></link>
+            <enclosure url="https://www.archive.org/download/oldgreeceandrome_1407_librivox/storiesofoldgreeceandrome_13_baker_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 04 Jul 2014 00:12:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/oldgreeceandrome_1407_librivox/storiesofoldgreeceandrome_13_baker_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Story of Orpheus and Eurydice]]></title>
+    <itunes:episode><![CDATA[14]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/stories-of-old-greece-and-rome-by-emilie-kip-baker/]]></link>
+            <enclosure url="https://www.archive.org/download/oldgreeceandrome_1407_librivox/storiesofoldgreeceandrome_14_baker_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 04 Jul 2014 00:13:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/oldgreeceandrome_1407_librivox/storiesofoldgreeceandrome_14_baker_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Mars and Vulcan]]></title>
+    <itunes:episode><![CDATA[15]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/stories-of-old-greece-and-rome-by-emilie-kip-baker/]]></link>
+            <enclosure url="https://www.archive.org/download/oldgreeceandrome_1407_librivox/storiesofoldgreeceandrome_15_baker_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 04 Jul 2014 00:14:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/oldgreeceandrome_1407_librivox/storiesofoldgreeceandrome_15_baker_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Story of Proserpina]]></title>
+    <itunes:episode><![CDATA[16]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/stories-of-old-greece-and-rome-by-emilie-kip-baker/]]></link>
+            <enclosure url="https://www.archive.org/download/oldgreeceandrome_1407_librivox/storiesofoldgreeceandrome_16_baker_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 04 Jul 2014 00:15:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/oldgreeceandrome_1407_librivox/storiesofoldgreeceandrome_16_baker_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Pluto and the Underworld]]></title>
+    <itunes:episode><![CDATA[17]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/stories-of-old-greece-and-rome-by-emilie-kip-baker/]]></link>
+            <enclosure url="https://www.archive.org/download/oldgreeceandrome_1407_librivox/storiesofoldgreeceandrome_17_baker_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 04 Jul 2014 00:16:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/oldgreeceandrome_1407_librivox/storiesofoldgreeceandrome_17_baker_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Neptune and the Sea-Gods]]></title>
+    <itunes:episode><![CDATA[18]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/stories-of-old-greece-and-rome-by-emilie-kip-baker/]]></link>
+            <enclosure url="https://www.archive.org/download/oldgreeceandrome_1407_librivox/storiesofoldgreeceandrome_18_baker_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 04 Jul 2014 00:17:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/oldgreeceandrome_1407_librivox/storiesofoldgreeceandrome_18_baker_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Baccus]]></title>
+    <itunes:episode><![CDATA[19]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/stories-of-old-greece-and-rome-by-emilie-kip-baker/]]></link>
+            <enclosure url="https://www.archive.org/download/oldgreeceandrome_1407_librivox/storiesofoldgreeceandrome_19_baker_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 04 Jul 2014 00:18:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/oldgreeceandrome_1407_librivox/storiesofoldgreeceandrome_19_baker_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Pan and the Nymphs]]></title>
+    <itunes:episode><![CDATA[20]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/stories-of-old-greece-and-rome-by-emilie-kip-baker/]]></link>
+            <enclosure url="https://www.archive.org/download/oldgreeceandrome_1407_librivox/storiesofoldgreeceandrome_20_baker_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 04 Jul 2014 00:19:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/oldgreeceandrome_1407_librivox/storiesofoldgreeceandrome_20_baker_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Vestals]]></title>
+    <itunes:episode><![CDATA[21]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/stories-of-old-greece-and-rome-by-emilie-kip-baker/]]></link>
+            <enclosure url="https://www.archive.org/download/oldgreeceandrome_1407_librivox/storiesofoldgreeceandrome_21_baker_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 04 Jul 2014 00:20:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/oldgreeceandrome_1407_librivox/storiesofoldgreeceandrome_21_baker_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Minor Deities]]></title>
+    <itunes:episode><![CDATA[22]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/stories-of-old-greece-and-rome-by-emilie-kip-baker/]]></link>
+            <enclosure url="https://www.archive.org/download/oldgreeceandrome_1407_librivox/storiesofoldgreeceandrome_22_baker_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 04 Jul 2014 00:21:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/oldgreeceandrome_1407_librivox/storiesofoldgreeceandrome_22_baker_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Hercules, part 1]]></title>
+    <itunes:episode><![CDATA[23]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/stories-of-old-greece-and-rome-by-emilie-kip-baker/]]></link>
+            <enclosure url="https://www.archive.org/download/oldgreeceandrome_1407_librivox/storiesofoldgreeceandrome_23_baker_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 04 Jul 2014 00:22:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/oldgreeceandrome_1407_librivox/storiesofoldgreeceandrome_23_baker_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Hercules, part 2]]></title>
+    <itunes:episode><![CDATA[24]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/stories-of-old-greece-and-rome-by-emilie-kip-baker/]]></link>
+            <enclosure url="https://www.archive.org/download/oldgreeceandrome_1407_librivox/storiesofoldgreeceandrome_24_baker_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 04 Jul 2014 00:23:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/oldgreeceandrome_1407_librivox/storiesofoldgreeceandrome_24_baker_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Perseus]]></title>
+    <itunes:episode><![CDATA[25]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/stories-of-old-greece-and-rome-by-emilie-kip-baker/]]></link>
+            <enclosure url="https://www.archive.org/download/oldgreeceandrome_1407_librivox/storiesofoldgreeceandrome_25_baker_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 04 Jul 2014 00:24:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/oldgreeceandrome_1407_librivox/storiesofoldgreeceandrome_25_baker_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Bellerophon]]></title>
+    <itunes:episode><![CDATA[26]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/stories-of-old-greece-and-rome-by-emilie-kip-baker/]]></link>
+            <enclosure url="https://www.archive.org/download/oldgreeceandrome_1407_librivox/storiesofoldgreeceandrome_26_baker_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 04 Jul 2014 00:25:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/oldgreeceandrome_1407_librivox/storiesofoldgreeceandrome_26_baker_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Story of Jason, part 1]]></title>
+    <itunes:episode><![CDATA[27]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/stories-of-old-greece-and-rome-by-emilie-kip-baker/]]></link>
+            <enclosure url="https://www.archive.org/download/oldgreeceandrome_1407_librivox/storiesofoldgreeceandrome_27_baker_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 04 Jul 2014 00:26:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/oldgreeceandrome_1407_librivox/storiesofoldgreeceandrome_27_baker_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Story of Jason, part 2]]></title>
+    <itunes:episode><![CDATA[28]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/stories-of-old-greece-and-rome-by-emilie-kip-baker/]]></link>
+            <enclosure url="https://www.archive.org/download/oldgreeceandrome_1407_librivox/storiesofoldgreeceandrome_28_baker_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 04 Jul 2014 00:27:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/oldgreeceandrome_1407_librivox/storiesofoldgreeceandrome_28_baker_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Calydonian Hunt]]></title>
+    <itunes:episode><![CDATA[29]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/stories-of-old-greece-and-rome-by-emilie-kip-baker/]]></link>
+            <enclosure url="https://www.archive.org/download/oldgreeceandrome_1407_librivox/storiesofoldgreeceandrome_29_baker_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 04 Jul 2014 00:28:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/oldgreeceandrome_1407_librivox/storiesofoldgreeceandrome_29_baker_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Theseus, part 1]]></title>
+    <itunes:episode><![CDATA[30]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/stories-of-old-greece-and-rome-by-emilie-kip-baker/]]></link>
+            <enclosure url="https://www.archive.org/download/oldgreeceandrome_1407_librivox/storiesofoldgreeceandrome_30_baker_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 04 Jul 2014 00:29:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/oldgreeceandrome_1407_librivox/storiesofoldgreeceandrome_30_baker_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Theseus, part 2]]></title>
+    <itunes:episode><![CDATA[31]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/stories-of-old-greece-and-rome-by-emilie-kip-baker/]]></link>
+            <enclosure url="https://www.archive.org/download/oldgreeceandrome_1407_librivox/storiesofoldgreeceandrome_31_baker_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 04 Jul 2014 00:30:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/oldgreeceandrome_1407_librivox/storiesofoldgreeceandrome_31_baker_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Oedipus]]></title>
+    <itunes:episode><![CDATA[32]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/stories-of-old-greece-and-rome-by-emilie-kip-baker/]]></link>
+            <enclosure url="https://www.archive.org/download/oldgreeceandrome_1407_librivox/storiesofoldgreeceandrome_32_baker_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 04 Jul 2014 00:31:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/oldgreeceandrome_1407_librivox/storiesofoldgreeceandrome_32_baker_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Apple of Discord]]></title>
+    <itunes:episode><![CDATA[33]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/stories-of-old-greece-and-rome-by-emilie-kip-baker/]]></link>
+            <enclosure url="https://www.archive.org/download/oldgreeceandrome_1407_librivox/storiesofoldgreeceandrome_33_baker_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 04 Jul 2014 00:32:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/oldgreeceandrome_1407_librivox/storiesofoldgreeceandrome_33_baker_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Appendices 1-10]]></title>
+    <itunes:episode><![CDATA[34]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/stories-of-old-greece-and-rome-by-emilie-kip-baker/]]></link>
+            <enclosure url="https://www.archive.org/download/oldgreeceandrome_1407_librivox/storiesofoldgreeceandrome_34_baker_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 04 Jul 2014 00:33:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/oldgreeceandrome_1407_librivox/storiesofoldgreeceandrome_34_baker_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Appendices 11-20]]></title>
+    <itunes:episode><![CDATA[35]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/stories-of-old-greece-and-rome-by-emilie-kip-baker/]]></link>
+            <enclosure url="https://www.archive.org/download/oldgreeceandrome_1407_librivox/storiesofoldgreeceandrome_35_baker_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 04 Jul 2014 00:34:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/oldgreeceandrome_1407_librivox/storiesofoldgreeceandrome_35_baker_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Appendices 21-30]]></title>
+    <itunes:episode><![CDATA[36]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/stories-of-old-greece-and-rome-by-emilie-kip-baker/]]></link>
+            <enclosure url="https://www.archive.org/download/oldgreeceandrome_1407_librivox/storiesofoldgreeceandrome_36_baker_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 04 Jul 2014 00:35:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/oldgreeceandrome_1407_librivox/storiesofoldgreeceandrome_36_baker_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Appendices 31-40]]></title>
+    <itunes:episode><![CDATA[37]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/stories-of-old-greece-and-rome-by-emilie-kip-baker/]]></link>
+            <enclosure url="https://www.archive.org/download/oldgreeceandrome_1407_librivox/storiesofoldgreeceandrome_37_baker_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 04 Jul 2014 00:36:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/oldgreeceandrome_1407_librivox/storiesofoldgreeceandrome_37_baker_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Appendices 41-50]]></title>
+    <itunes:episode><![CDATA[38]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/stories-of-old-greece-and-rome-by-emilie-kip-baker/]]></link>
+            <enclosure url="https://www.archive.org/download/oldgreeceandrome_1407_librivox/storiesofoldgreeceandrome_38_baker_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 04 Jul 2014 00:37:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/oldgreeceandrome_1407_librivox/storiesofoldgreeceandrome_38_baker_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Appendices 51-73]]></title>
+    <itunes:episode><![CDATA[39]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/stories-of-old-greece-and-rome-by-emilie-kip-baker/]]></link>
+            <enclosure url="https://www.archive.org/download/oldgreeceandrome_1407_librivox/storiesofoldgreeceandrome_39_baker_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 04 Jul 2014 00:38:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/oldgreeceandrome_1407_librivox/storiesofoldgreeceandrome_39_baker_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <!-- end file loop -->
+</channel>
+</rss>

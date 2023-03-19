@@ -1,0 +1,97 @@
+<?xml version="1.0" ?><rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+  <title><![CDATA[Stories from the Arabian Nights by Laurence Housman (1865 - 1959)]]></title>
+  <link><![CDATA[https://librivox.org/stories-from-the-arabian-nights-by-laurence-housman/]]></link>
+  <atom:link rel="self" href="https://librivox.org/rss/10746" />
+  <description><![CDATA[Scheherazadè, the heroine of the Thousand and one Nights, ranks among the great story-tellers of the world but the great quantity of her stories were meant to stave off her death and so we can expect a few to be not of the best quality.  The six stories chosen here to be retold by Laurence Housman however, are some of the very best to be had among all of them.   They are beautifully written and deserve to be 'told' by readers who enjoy telling stories.      - Summary by Phil Chenevert]]></description>
+  <!--<genre>project element=Genre</genre>-->
+  <!--<language>project element=lang.code</language>-->
+  <itunes:type>serial</itunes:type>
+  <itunes:author>LibriVox</itunes:author>
+  <itunes:summary><![CDATA[Scheherazadè, the heroine of the Thousand and one Nights, ranks among the great story-tellers of the world but the great quantity of her stories were meant to stave off her death and so we can expect a few to be not of the best quality.  The six stories chosen here to be retold by Laurence Housman however, are some of the very best to be had among all of them.   They are beautifully written and deserve to be 'told' by readers who enjoy telling stories.      - Summary by Phil Chenevert]]></itunes:summary>
+  <itunes:owner>
+    <itunes:name>LibriVox</itunes:name>
+    <itunes:email>info@librivox.org</itunes:email>
+  </itunes:owner>
+  <itunes:category text="Arts">
+    <itunes:category text="Literature" />
+  </itunes:category>
+  <image><url>https://archive.org/download/storiesfromthearabiannights_1610_librivox/storiesfromthearabiannights_1610.jpg</url></image>
+  <itunes:image href="https://archive.org/download/storiesfromthearabiannights_1610_librivox/storiesfromthearabiannights_1610.jpg"/>
+  <itunes:explicit>no</itunes:explicit>
+  <!-- file loop -->
+    <item>
+    <title><![CDATA[The Fisherman and the Genie]]></title>
+    <itunes:episode><![CDATA[1]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/stories-from-the-arabian-nights-by-laurence-housman/]]></link>
+            <enclosure url="https://www.archive.org/download/storiesfromthearabiannights_1610_librivox/storiesfromthearabiannights_01_housman_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/storiesfromthearabiannights_1610_librivox/storiesfromthearabiannights_01_housman_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Story of the King of the Ebony Isles]]></title>
+    <itunes:episode><![CDATA[2]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/stories-from-the-arabian-nights-by-laurence-housman/]]></link>
+            <enclosure url="https://www.archive.org/download/storiesfromthearabiannights_1610_librivox/storiesfromthearabiannights_02_housman_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 01 Oct 2016 00:01:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/storiesfromthearabiannights_1610_librivox/storiesfromthearabiannights_02_housman_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Ali Baba and the Forty Thieves]]></title>
+    <itunes:episode><![CDATA[3]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/stories-from-the-arabian-nights-by-laurence-housman/]]></link>
+            <enclosure url="https://www.archive.org/download/storiesfromthearabiannights_1610_librivox/storiesfromthearabiannights_03_housman_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 01 Oct 2016 00:02:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/storiesfromthearabiannights_1610_librivox/storiesfromthearabiannights_03_housman_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Story of the Magic Horse]]></title>
+    <itunes:episode><![CDATA[4]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/stories-from-the-arabian-nights-by-laurence-housman/]]></link>
+            <enclosure url="https://www.archive.org/download/storiesfromthearabiannights_1610_librivox/storiesfromthearabiannights_04_housman_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 01 Oct 2016 00:03:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/storiesfromthearabiannights_1610_librivox/storiesfromthearabiannights_04_housman_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Story of the Wicked Half-Brothers]]></title>
+    <itunes:episode><![CDATA[5]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/stories-from-the-arabian-nights-by-laurence-housman/]]></link>
+            <enclosure url="https://www.archive.org/download/storiesfromthearabiannights_1610_librivox/storiesfromthearabiannights_05_housman_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 01 Oct 2016 00:04:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/storiesfromthearabiannights_1610_librivox/storiesfromthearabiannights_05_housman_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Story of the Princess of Deryaba]]></title>
+    <itunes:episode><![CDATA[6]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/stories-from-the-arabian-nights-by-laurence-housman/]]></link>
+            <enclosure url="https://www.archive.org/download/storiesfromthearabiannights_1610_librivox/storiesfromthearabiannights_06_housman_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 01 Oct 2016 00:05:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/storiesfromthearabiannights_1610_librivox/storiesfromthearabiannights_06_housman_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <!-- end file loop -->
+</channel>
+</rss>

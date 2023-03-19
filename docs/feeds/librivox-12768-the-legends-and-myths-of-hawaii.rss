@@ -1,0 +1,409 @@
+<?xml version="1.0" ?><rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+  <title><![CDATA[Legends and Myths of Hawaii, The by David Kalakaua (1836 - 1891)]]></title>
+  <link><![CDATA[https://librivox.org/the-legends-and-myths-of-hawaii-by-david-kalakaua/]]></link>
+  <atom:link rel="self" href="https://librivox.org/rss/12768" />
+  <description><![CDATA[A collection of legends and myths of the Hawaiian islands and their 'strange people' as told by His Majesty King Kalakaua, the last king of Hawaii. Introduction, including a history, geography and social and religious commentary on the islands by R.M. Daggett, United States Minister to the Hawaiian Islands 1882-1885.]]></description>
+  <!--<genre>project element=Genre</genre>-->
+  <!--<language>project element=lang.code</language>-->
+  <itunes:type>serial</itunes:type>
+  <itunes:author>LibriVox</itunes:author>
+  <itunes:summary><![CDATA[A collection of legends and myths of the Hawaiian islands and their 'strange people' as told by His Majesty King Kalakaua, the last king of Hawaii. Introduction, including a history, geography and social and religious commentary on the islands by R.M. Daggett, United States Minister to the Hawaiian Islands 1882-1885.]]></itunes:summary>
+  <itunes:owner>
+    <itunes:name>LibriVox</itunes:name>
+    <itunes:email>info@librivox.org</itunes:email>
+  </itunes:owner>
+  <itunes:category text="Arts">
+    <itunes:category text="Literature" />
+  </itunes:category>
+  <image><url>https://archive.org/download/legendsd_myths_hawaii_1903_librivox/strangehawaii_1903.jpg</url></image>
+  <itunes:image href="https://archive.org/download/legendsd_myths_hawaii_1903_librivox/strangehawaii_1903.jpg"/>
+  <itunes:explicit>no</itunes:explicit>
+  <!-- file loop -->
+    <item>
+    <title><![CDATA[Hawaiian Legends: Introduction. Part 1]]></title>
+    <itunes:episode><![CDATA[1]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-legends-and-myths-of-hawaii-by-david-kalakaua/]]></link>
+            <enclosure url="https://www.archive.org/download/legendsd_myths_hawaii_1903_librivox/legendsandmythsofhawaii_01_kalakaua_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/legendsd_myths_hawaii_1903_librivox/legendsandmythsofhawaii_01_kalakaua_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Hawaiian Legends: Introduction. Part 2]]></title>
+    <itunes:episode><![CDATA[2]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-legends-and-myths-of-hawaii-by-david-kalakaua/]]></link>
+            <enclosure url="https://www.archive.org/download/legendsd_myths_hawaii_1903_librivox/legendsandmythsofhawaii_02_kalakaua_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 08 Mar 2019 00:01:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/legendsd_myths_hawaii_1903_librivox/legendsandmythsofhawaii_02_kalakaua_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Hawaiian Legends : Introduction Part 3]]></title>
+    <itunes:episode><![CDATA[3]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-legends-and-myths-of-hawaii-by-david-kalakaua/]]></link>
+            <enclosure url="https://www.archive.org/download/legendsd_myths_hawaii_1903_librivox/legendsandmythsofhawaii_03_kalakaua_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 08 Mar 2019 00:02:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/legendsd_myths_hawaii_1903_librivox/legendsandmythsofhawaii_03_kalakaua_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Hina, the Helen of Hawaii. Part 1]]></title>
+    <itunes:episode><![CDATA[4]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-legends-and-myths-of-hawaii-by-david-kalakaua/]]></link>
+            <enclosure url="https://www.archive.org/download/legendsd_myths_hawaii_1903_librivox/legendsandmythsofhawaii_04_kalakaua_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 08 Mar 2019 00:03:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/legendsd_myths_hawaii_1903_librivox/legendsandmythsofhawaii_04_kalakaua_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Hina, the Helen of Hawaii Part 2]]></title>
+    <itunes:episode><![CDATA[5]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-legends-and-myths-of-hawaii-by-david-kalakaua/]]></link>
+            <enclosure url="https://www.archive.org/download/legendsd_myths_hawaii_1903_librivox/legendsandmythsofhawaii_05_kalakaua_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 08 Mar 2019 00:04:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/legendsd_myths_hawaii_1903_librivox/legendsandmythsofhawaii_05_kalakaua_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Royal Hunchback.]]></title>
+    <itunes:episode><![CDATA[6]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-legends-and-myths-of-hawaii-by-david-kalakaua/]]></link>
+            <enclosure url="https://www.archive.org/download/legendsd_myths_hawaii_1903_librivox/legendsandmythsofhawaii_06_kalakaua_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 08 Mar 2019 00:05:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/legendsd_myths_hawaii_1903_librivox/legendsandmythsofhawaii_06_kalakaua_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Triple Marriage of Laa-mai-kahiki.]]></title>
+    <itunes:episode><![CDATA[7]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-legends-and-myths-of-hawaii-by-david-kalakaua/]]></link>
+            <enclosure url="https://www.archive.org/download/legendsd_myths_hawaii_1903_librivox/legendsandmythsofhawaii_07_kalakaua_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 08 Mar 2019 00:06:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/legendsd_myths_hawaii_1903_librivox/legendsandmythsofhawaii_07_kalakaua_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Apotheosis of Pele.]]></title>
+    <itunes:episode><![CDATA[8]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-legends-and-myths-of-hawaii-by-david-kalakaua/]]></link>
+            <enclosure url="https://www.archive.org/download/legendsd_myths_hawaii_1903_librivox/legendsandmythsofhawaii_08_kalakaua_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 08 Mar 2019 00:07:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/legendsd_myths_hawaii_1903_librivox/legendsandmythsofhawaii_08_kalakaua_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Hua, King of Hana.]]></title>
+    <itunes:episode><![CDATA[9]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-legends-and-myths-of-hawaii-by-david-kalakaua/]]></link>
+            <enclosure url="https://www.archive.org/download/legendsd_myths_hawaii_1903_librivox/legendsandmythsofhawaii_09_kalakaua_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 08 Mar 2019 00:08:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/legendsd_myths_hawaii_1903_librivox/legendsandmythsofhawaii_09_kalakaua_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Iron Knife. Part 1]]></title>
+    <itunes:episode><![CDATA[10]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-legends-and-myths-of-hawaii-by-david-kalakaua/]]></link>
+            <enclosure url="https://www.archive.org/download/legendsd_myths_hawaii_1903_librivox/legendsandmythsofhawaii_10_kalakaua_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 08 Mar 2019 00:09:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/legendsd_myths_hawaii_1903_librivox/legendsandmythsofhawaii_10_kalakaua_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Iron Knife Part 2]]></title>
+    <itunes:episode><![CDATA[11]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-legends-and-myths-of-hawaii-by-david-kalakaua/]]></link>
+            <enclosure url="https://www.archive.org/download/legendsd_myths_hawaii_1903_librivox/legendsandmythsofhawaii_11_kalakaua_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 08 Mar 2019 00:10:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/legendsd_myths_hawaii_1903_librivox/legendsandmythsofhawaii_11_kalakaua_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Sacred Spear-Point.]]></title>
+    <itunes:episode><![CDATA[12]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-legends-and-myths-of-hawaii-by-david-kalakaua/]]></link>
+            <enclosure url="https://www.archive.org/download/legendsd_myths_hawaii_1903_librivox/legendsandmythsofhawaii_12_kalakaua_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 08 Mar 2019 00:11:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/legendsd_myths_hawaii_1903_librivox/legendsandmythsofhawaii_12_kalakaua_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Kelea, the Surf-Rider of Maui.]]></title>
+    <itunes:episode><![CDATA[13]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-legends-and-myths-of-hawaii-by-david-kalakaua/]]></link>
+            <enclosure url="https://www.archive.org/download/legendsd_myths_hawaii_1903_librivox/legendsandmythsofhawaii_13_kalakaua_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 08 Mar 2019 00:12:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/legendsd_myths_hawaii_1903_librivox/legendsandmythsofhawaii_13_kalakaua_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Umi, the Peasant Prince of Hawaii. Part 1]]></title>
+    <itunes:episode><![CDATA[14]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-legends-and-myths-of-hawaii-by-david-kalakaua/]]></link>
+            <enclosure url="https://www.archive.org/download/legendsd_myths_hawaii_1903_librivox/legendsandmythsofhawaii_14_kalakaua_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 08 Mar 2019 00:13:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/legendsd_myths_hawaii_1903_librivox/legendsandmythsofhawaii_14_kalakaua_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Umi, the Peasant Prince of Hawaii. Part 2]]></title>
+    <itunes:episode><![CDATA[15]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-legends-and-myths-of-hawaii-by-david-kalakaua/]]></link>
+            <enclosure url="https://www.archive.org/download/legendsd_myths_hawaii_1903_librivox/legendsandmythsofhawaii_15_kalakaua_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 08 Mar 2019 00:14:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/legendsd_myths_hawaii_1903_librivox/legendsandmythsofhawaii_15_kalakaua_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Umi, the Peasant Prince of Hawaii. Part 3]]></title>
+    <itunes:episode><![CDATA[16]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-legends-and-myths-of-hawaii-by-david-kalakaua/]]></link>
+            <enclosure url="https://www.archive.org/download/legendsd_myths_hawaii_1903_librivox/legendsandmythsofhawaii_16_kalakaua_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 08 Mar 2019 00:15:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/legendsd_myths_hawaii_1903_librivox/legendsandmythsofhawaii_16_kalakaua_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Umi, the Peasant Prince of Hawaii. Part 4]]></title>
+    <itunes:episode><![CDATA[17]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-legends-and-myths-of-hawaii-by-david-kalakaua/]]></link>
+            <enclosure url="https://www.archive.org/download/legendsd_myths_hawaii_1903_librivox/legendsandmythsofhawaii_17_kalakaua_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 08 Mar 2019 00:16:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/legendsd_myths_hawaii_1903_librivox/legendsandmythsofhawaii_17_kalakaua_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Umi, the Peasant Prince of Hawaii. Part 5]]></title>
+    <itunes:episode><![CDATA[18]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-legends-and-myths-of-hawaii-by-david-kalakaua/]]></link>
+            <enclosure url="https://www.archive.org/download/legendsd_myths_hawaii_1903_librivox/legendsandmythsofhawaii_18_kalakaua_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 08 Mar 2019 00:17:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/legendsd_myths_hawaii_1903_librivox/legendsandmythsofhawaii_18_kalakaua_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Lono and Kaikilani.]]></title>
+    <itunes:episode><![CDATA[19]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-legends-and-myths-of-hawaii-by-david-kalakaua/]]></link>
+            <enclosure url="https://www.archive.org/download/legendsd_myths_hawaii_1903_librivox/legendsandmythsofhawaii_19_kalakaua_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 08 Mar 2019 00:18:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/legendsd_myths_hawaii_1903_librivox/legendsandmythsofhawaii_19_kalakaua_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Adventures of Iwikauikaua.]]></title>
+    <itunes:episode><![CDATA[20]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-legends-and-myths-of-hawaii-by-david-kalakaua/]]></link>
+            <enclosure url="https://www.archive.org/download/legendsd_myths_hawaii_1903_librivox/legendsandmythsofhawaii_20_kalakaua_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 08 Mar 2019 00:19:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/legendsd_myths_hawaii_1903_librivox/legendsandmythsofhawaii_20_kalakaua_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Prophecies of Keaulumoku.]]></title>
+    <itunes:episode><![CDATA[21]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-legends-and-myths-of-hawaii-by-david-kalakaua/]]></link>
+            <enclosure url="https://www.archive.org/download/legendsd_myths_hawaii_1903_librivox/legendsandmythsofhawaii_21_kalakaua_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 08 Mar 2019 00:20:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/legendsd_myths_hawaii_1903_librivox/legendsandmythsofhawaii_21_kalakaua_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Cannibals of Halemanu.]]></title>
+    <itunes:episode><![CDATA[22]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-legends-and-myths-of-hawaii-by-david-kalakaua/]]></link>
+            <enclosure url="https://www.archive.org/download/legendsd_myths_hawaii_1903_librivox/legendsandmythsofhawaii_22_kalakaua_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 08 Mar 2019 00:21:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/legendsd_myths_hawaii_1903_librivox/legendsandmythsofhawaii_22_kalakaua_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Kaiana, the Last of the Hawaiian Knights.Part 1]]></title>
+    <itunes:episode><![CDATA[23]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-legends-and-myths-of-hawaii-by-david-kalakaua/]]></link>
+            <enclosure url="https://www.archive.org/download/legendsd_myths_hawaii_1903_librivox/legendsandmythsofhawaii_23_kalakaua_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 08 Mar 2019 00:22:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/legendsd_myths_hawaii_1903_librivox/legendsandmythsofhawaii_23_kalakaua_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Kaiana, the Last of the Hawaiian Knights.Part 2]]></title>
+    <itunes:episode><![CDATA[24]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-legends-and-myths-of-hawaii-by-david-kalakaua/]]></link>
+            <enclosure url="https://www.archive.org/download/legendsd_myths_hawaii_1903_librivox/legendsandmythsofhawaii_24_kalakaua_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 08 Mar 2019 00:23:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/legendsd_myths_hawaii_1903_librivox/legendsandmythsofhawaii_24_kalakaua_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Kaala, the Flower of Lanai.]]></title>
+    <itunes:episode><![CDATA[25]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-legends-and-myths-of-hawaii-by-david-kalakaua/]]></link>
+            <enclosure url="https://www.archive.org/download/legendsd_myths_hawaii_1903_librivox/legendsandmythsofhawaii_25_kalakaua_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 08 Mar 2019 00:24:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/legendsd_myths_hawaii_1903_librivox/legendsandmythsofhawaii_25_kalakaua_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Destruction of the Temples.]]></title>
+    <itunes:episode><![CDATA[26]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-legends-and-myths-of-hawaii-by-david-kalakaua/]]></link>
+            <enclosure url="https://www.archive.org/download/legendsd_myths_hawaii_1903_librivox/legendsandmythsofhawaii_26_kalakaua_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 08 Mar 2019 00:25:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/legendsd_myths_hawaii_1903_librivox/legendsandmythsofhawaii_26_kalakaua_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Tomb of Puupehe.]]></title>
+    <itunes:episode><![CDATA[27]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-legends-and-myths-of-hawaii-by-david-kalakaua/]]></link>
+            <enclosure url="https://www.archive.org/download/legendsd_myths_hawaii_1903_librivox/legendsandmythsofhawaii_27_kalakaua_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 08 Mar 2019 00:26:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/legendsd_myths_hawaii_1903_librivox/legendsandmythsofhawaii_27_kalakaua_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Story of Laieikawai. Part 1]]></title>
+    <itunes:episode><![CDATA[28]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-legends-and-myths-of-hawaii-by-david-kalakaua/]]></link>
+            <enclosure url="https://www.archive.org/download/legendsd_myths_hawaii_1903_librivox/legendsandmythsofhawaii_28_kalakaua_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 08 Mar 2019 00:27:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/legendsd_myths_hawaii_1903_librivox/legendsandmythsofhawaii_28_kalakaua_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Story of Laieikawai. Part 2]]></title>
+    <itunes:episode><![CDATA[29]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-legends-and-myths-of-hawaii-by-david-kalakaua/]]></link>
+            <enclosure url="https://www.archive.org/download/legendsd_myths_hawaii_1903_librivox/legendsandmythsofhawaii_29_kalakaua_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 08 Mar 2019 00:28:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/legendsd_myths_hawaii_1903_librivox/legendsandmythsofhawaii_29_kalakaua_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Lohiau, the Lover of a Goddess.]]></title>
+    <itunes:episode><![CDATA[30]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-legends-and-myths-of-hawaii-by-david-kalakaua/]]></link>
+            <enclosure url="https://www.archive.org/download/legendsd_myths_hawaii_1903_librivox/legendsandmythsofhawaii_30_kalakaua_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 08 Mar 2019 00:29:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/legendsd_myths_hawaii_1903_librivox/legendsandmythsofhawaii_30_kalakaua_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Kahavari, Chief of Puna.]]></title>
+    <itunes:episode><![CDATA[31]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-legends-and-myths-of-hawaii-by-david-kalakaua/]]></link>
+            <enclosure url="https://www.archive.org/download/legendsd_myths_hawaii_1903_librivox/legendsandmythsofhawaii_31_kalakaua_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 08 Mar 2019 00:30:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/legendsd_myths_hawaii_1903_librivox/legendsandmythsofhawaii_31_kalakaua_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Kahalaopuna, the Princess of Manoa.]]></title>
+    <itunes:episode><![CDATA[32]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-legends-and-myths-of-hawaii-by-david-kalakaua/]]></link>
+            <enclosure url="https://www.archive.org/download/legendsd_myths_hawaii_1903_librivox/legendsandmythsofhawaii_32_kalakaua_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Fri, 08 Mar 2019 00:31:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/legendsd_myths_hawaii_1903_librivox/legendsandmythsofhawaii_32_kalakaua_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <!-- end file loop -->
+</channel>
+</rss>

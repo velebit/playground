@@ -1,0 +1,205 @@
+<?xml version="1.0" ?><rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+  <title><![CDATA[Cocoa Break Collection, Vol. 02 - Fairy Tales by Various]]></title>
+  <link><![CDATA[https://librivox.org/cocoa-break-collection-vol-02-by-various/]]></link>
+  <atom:link rel="self" href="https://librivox.org/rss/7038" />
+  <description><![CDATA[This is a collection of international fairy tales clocking in at 5-15 minutes apiece, suitable for children's winter cocoa breaks, or other times when quality entertainment is needed. (Summary by BellonaTimes)]]></description>
+  <!--<genre>project element=Genre</genre>-->
+  <!--<language>project element=lang.code</language>-->
+  <itunes:type>serial</itunes:type>
+  <itunes:author>LibriVox</itunes:author>
+  <itunes:summary><![CDATA[This is a collection of international fairy tales clocking in at 5-15 minutes apiece, suitable for children's winter cocoa breaks, or other times when quality entertainment is needed. (Summary by BellonaTimes)]]></itunes:summary>
+  <itunes:owner>
+    <itunes:name>LibriVox</itunes:name>
+    <itunes:email>info@librivox.org</itunes:email>
+  </itunes:owner>
+  <itunes:category text="Arts">
+    <itunes:category text="Literature" />
+  </itunes:category>
+  <image><url>https://archive.org/download/LibrivoxCdCoverArt28/cocoabreak2_1212.jpg</url></image>
+  <itunes:image href="https://archive.org/download/LibrivoxCdCoverArt28/cocoabreak2_1212.jpg"/>
+  <itunes:explicit>no</itunes:explicit>
+  <!-- file loop -->
+    <item>
+    <title><![CDATA[The Bel-Princess, by Maive Stokes]]></title>
+    <itunes:episode><![CDATA[1]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/cocoa-break-collection-vol-02-by-various/]]></link>
+            <enclosure url="https://www.archive.org/download/cocoabreak02_librivox/cbc02_belprincess_stokes_mc_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:31:41]]></itunes:duration>
+  <pubDate>Sat, 08 Dec 2012 00:00:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/cocoabreak02_librivox/cbc02_belprincess_stokes_mc_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Childe Rowland, by Flora A Steel]]></title>
+    <itunes:episode><![CDATA[2]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/cocoa-break-collection-vol-02-by-various/]]></link>
+            <enclosure url="https://www.archive.org/download/cocoabreak02_librivox/cbc02_childerowland_steel_rm_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:17:45]]></itunes:duration>
+  <pubDate>Sat, 08 Dec 2012 00:01:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/cocoabreak02_librivox/cbc02_childerowland_steel_rm_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Espousal of the Rat's Daughter, by Grace James]]></title>
+    <itunes:episode><![CDATA[3]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/cocoa-break-collection-vol-02-by-various/]]></link>
+            <enclosure url="https://www.archive.org/download/cocoabreak02_librivox/cbc02_espousalratsdaughter_james_dh_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:14:46]]></itunes:duration>
+  <pubDate>Sat, 08 Dec 2012 00:02:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/cocoabreak02_librivox/cbc02_espousalratsdaughter_james_dh_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Fairy of the Dell by P.H. Emerson]]></title>
+    <itunes:episode><![CDATA[4]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/cocoa-break-collection-vol-02-by-various/]]></link>
+            <enclosure url="https://www.archive.org/download/cocoabreak02_librivox/cbc02_fairyofthedell_emerson_hc_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:15:31]]></itunes:duration>
+  <pubDate>Sat, 08 Dec 2012 00:03:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/cocoabreak02_librivox/cbc02_fairyofthedell_emerson_hc_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Herd Boy and the Weaving Maiden, by Martens]]></title>
+    <itunes:episode><![CDATA[5]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/cocoa-break-collection-vol-02-by-various/]]></link>
+            <enclosure url="https://www.archive.org/download/cocoabreak02_librivox/cbc02_herdboyweavingmaiden_martens_rm_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:07:02]]></itunes:duration>
+  <pubDate>Sat, 08 Dec 2012 00:04:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/cocoabreak02_librivox/cbc02_herdboyweavingmaiden_martens_rm_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Jellyfish Takes A Journey, by Grace James]]></title>
+    <itunes:episode><![CDATA[6]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/cocoa-break-collection-vol-02-by-various/]]></link>
+            <enclosure url="https://www.archive.org/download/cocoabreak02_librivox/cbc02_jellyfishtakesjourney_james_rds_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:07:31]]></itunes:duration>
+  <pubDate>Sat, 08 Dec 2012 00:05:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/cocoabreak02_librivox/cbc02_jellyfishtakesjourney_james_rds_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Lad Who Went To The North Wind]]></title>
+    <itunes:episode><![CDATA[7]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/cocoa-break-collection-vol-02-by-various/]]></link>
+            <enclosure url="https://www.archive.org/download/cocoabreak02_librivox/cbc02_ladwhowenttothenorthwind_asbjornsen_moe_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:07:44]]></itunes:duration>
+  <pubDate>Sat, 08 Dec 2012 00:06:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/cocoabreak02_librivox/cbc02_ladwhowenttothenorthwind_asbjornsen_moe_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Linda Branca and Her Mask, by Elsie S Eells]]></title>
+    <itunes:episode><![CDATA[8]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/cocoa-break-collection-vol-02-by-various/]]></link>
+            <enclosure url="https://www.archive.org/download/cocoabreak02_librivox/cbc02_lindabranca_eells_bt_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:13:53]]></itunes:duration>
+  <pubDate>Sat, 08 Dec 2012 00:07:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/cocoabreak02_librivox/cbc02_lindabranca_eells_bt_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Little Purse with two Half Pennies, by Mite Kremnitz and Mary J. Safford]]></title>
+    <itunes:episode><![CDATA[9]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/cocoa-break-collection-vol-02-by-various/]]></link>
+            <enclosure url="https://www.archive.org/download/cocoabreak02_librivox/cbc02_littlepursewithtwohalfpennies_creanga_kc_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:09:41]]></itunes:duration>
+  <pubDate>Sat, 08 Dec 2012 00:08:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/cocoabreak02_librivox/cbc02_littlepursewithtwohalfpennies_creanga_kc_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Old Woman And Her Pig, by Flora Annie Steel]]></title>
+    <itunes:episode><![CDATA[10]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/cocoa-break-collection-vol-02-by-various/]]></link>
+            <enclosure url="https://www.archive.org/download/cocoabreak02_librivox/cbc02_oldwomanandherpig_steel_vk_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:04:35]]></itunes:duration>
+  <pubDate>Sat, 08 Dec 2012 00:09:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/cocoabreak02_librivox/cbc02_oldwomanandherpig_steel_vk_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Spirits of the Yellow River,by Richard Wilhelm ]]></title>
+    <itunes:episode><![CDATA[11]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/cocoa-break-collection-vol-02-by-various/]]></link>
+            <enclosure url="https://www.archive.org/download/cocoabreak02_librivox/cbc02_spiritsoftheyellowriver__frederickhmartens_jp_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:10:53]]></itunes:duration>
+  <pubDate>Sat, 08 Dec 2012 00:10:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/cocoabreak02_librivox/cbc02_spiritsoftheyellowriver__frederickhmartens_jp_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Story of Jason Squiff, by Carl Sandburg]]></title>
+    <itunes:episode><![CDATA[12]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/cocoa-break-collection-vol-02-by-various/]]></link>
+            <enclosure url="https://www.archive.org/download/cocoabreak02_librivox/cbc02_storyjasonsquiff_sandburg_pk_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:09:22]]></itunes:duration>
+  <pubDate>Sat, 08 Dec 2012 00:11:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/cocoabreak02_librivox/cbc02_storyjasonsquiff_sandburg_pk_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Three Little Pigs, by Flora Annie Steel ]]></title>
+    <itunes:episode><![CDATA[13]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/cocoa-break-collection-vol-02-by-various/]]></link>
+            <enclosure url="https://www.archive.org/download/cocoabreak02_librivox/cbc02_threelittlepigs_steel_vk_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:08:05]]></itunes:duration>
+  <pubDate>Sat, 08 Dec 2012 00:12:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/cocoabreak02_librivox/cbc02_threelittlepigs_steel_vk_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Two Skyscrapers Who Decided to Have a Child, by Carl Sandburg]]></title>
+    <itunes:episode><![CDATA[14]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/cocoa-break-collection-vol-02-by-various/]]></link>
+            <enclosure url="https://www.archive.org/download/cocoabreak02_librivox/cbc02_twoskyscrapers_sandburg_dh.mp3_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:06:52]]></itunes:duration>
+  <pubDate>Sat, 08 Dec 2012 00:13:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/cocoabreak02_librivox/cbc02_twoskyscrapers_sandburg_dh.mp3_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Why The Bananas Belong To The Monkey, by Elsie S Eells]]></title>
+    <itunes:episode><![CDATA[15]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/cocoa-break-collection-vol-02-by-various/]]></link>
+            <enclosure url="https://www.archive.org/download/cocoabreak02_librivox/cbc02_whythebananasbelongtothemonkeys_eells_lt_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:07:23]]></itunes:duration>
+  <pubDate>Sat, 08 Dec 2012 00:14:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/cocoabreak02_librivox/cbc02_whythebananasbelongtothemonkeys_eells_lt_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <!-- end file loop -->
+</channel>
+</rss>

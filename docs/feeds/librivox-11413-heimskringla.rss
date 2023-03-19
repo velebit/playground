@@ -1,0 +1,969 @@
+<?xml version="1.0" ?><rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+  <title><![CDATA[Heimskringla: The Stories of the Kings of Norway, Called The Round World by Snorri Sturleson (1178 - 1241)]]></title>
+  <link><![CDATA[https://librivox.org/heimskringla-the-stories-of-the-kings-of-norway-called-the-round-world-by-snorri-sturleson/]]></link>
+  <atom:link rel="self" href="https://librivox.org/rss/11413" />
+  <description><![CDATA[Heimskringla (Icelandic pronunciation: [ˈheimsˌkʰriŋla]) is the best known of the Old Norse kings' sagas. It was written in Old Norse in Iceland by the poet and historian Snorri Sturluson (1178/79–1241) ca. 1230. The name Heimskringla was first used in the 17th century, derived from the first two words of one of the manuscripts (kringla heimsins - the circle of the world).
+
+Heimskringla is a collection of sagas about the Norwegian kings, beginning with the saga of the legendary Swedish dynasty of the Ynglings, followed by accounts of historical Norwegian rulers from Harald Fairhair of the 9th century up to the death of the pretender Eystein Meyla in 1177. The exact sources of his work are disputed, but included earlier kings' sagas, such as Morkinskinna, Fagrskinna and the twelfth century Norwegian synoptic histories and oral traditions, notably many skaldic poems. Snorri had himself visited Norway and Sweden. For events of the mid-12th century, Snorri explicitly names the now lost work Hryggjarstykki as his source. The composition of the sagas is Snorri's.
+
+This solo is Volume 3-5 of The Saga Library by the same translators and is all three volumes of the Heimskringla (which are volumes 3, 4, 5 and 6 of the Saga Library. Volume 6 is notes, index, appendices etc, and is not planned to be recorded). ( Wikipedia and Ærik Bjørnsson)]]></description>
+  <!--<genre>project element=Genre</genre>-->
+  <!--<language>project element=lang.code</language>-->
+  <itunes:type>serial</itunes:type>
+  <itunes:author>LibriVox</itunes:author>
+  <itunes:summary><![CDATA[Heimskringla (Icelandic pronunciation: [ˈheimsˌkʰriŋla]) is the best known of the Old Norse kings' sagas. It was written in Old Norse in Iceland by the poet and historian Snorri Sturluson (1178/79–1241) ca. 1230. The name Heimskringla was first used in the 17th century, derived from the first two words of one of the manuscripts (kringla heimsins - the circle of the world).
+
+Heimskringla is a collection of sagas about the Norwegian kings, beginning with the saga of the legendary Swedish dynasty of the Ynglings, followed by accounts of historical Norwegian rulers from Harald Fairhair of the 9th century up to the death of the pretender Eystein Meyla in 1177. The exact sources of his work are disputed, but included earlier kings' sagas, such as Morkinskinna, Fagrskinna and the twelfth century Norwegian synoptic histories and oral traditions, notably many skaldic poems. Snorri had himself visited Norway and Sweden. For events of the mid-12th century, Snorri explicitly names the now lost work Hryggjarstykki as his source. The composition of the sagas is Snorri's.
+
+This solo is Volume 3-5 of The Saga Library by the same translators and is all three volumes of the Heimskringla (which are volumes 3, 4, 5 and 6 of the Saga Library. Volume 6 is notes, index, appendices etc, and is not planned to be recorded). ( Wikipedia and Ærik Bjørnsson)]]></itunes:summary>
+  <itunes:owner>
+    <itunes:name>LibriVox</itunes:name>
+    <itunes:email>info@librivox.org</itunes:email>
+  </itunes:owner>
+  <itunes:category text="Arts">
+    <itunes:category text="Literature" />
+  </itunes:category>
+  <image><url>https://archive.org/download/heimskringla_1906_librivox/heimskringla_1906.jpg</url></image>
+  <itunes:image href="https://archive.org/download/heimskringla_1906_librivox/heimskringla_1906.jpg"/>
+  <itunes:explicit>no</itunes:explicit>
+  <!-- file loop -->
+    <item>
+    <title><![CDATA[The Preface of Snorri Sturluson]]></title>
+    <itunes:episode><![CDATA[0]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/heimskringla-the-stories-of-the-kings-of-norway-called-the-round-world-by-snorri-sturleson/]]></link>
+            <enclosure url="https://www.archive.org/download/heimskringla_1906_librivox/heimskringla_00_sturleson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 17 Jun 2019 00:00:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/heimskringla_1906_librivox/heimskringla_00_sturleson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Story of the Ynglings, Part 1 - Chapter I-X]]></title>
+    <itunes:episode><![CDATA[1]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/heimskringla-the-stories-of-the-kings-of-norway-called-the-round-world-by-snorri-sturleson/]]></link>
+            <enclosure url="https://www.archive.org/download/heimskringla_1906_librivox/heimskringla_01_sturleson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 17 Jun 2019 00:01:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/heimskringla_1906_librivox/heimskringla_01_sturleson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Story of the Ynglings, Part 2 - Chapter XI-XXI]]></title>
+    <itunes:episode><![CDATA[2]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/heimskringla-the-stories-of-the-kings-of-norway-called-the-round-world-by-snorri-sturleson/]]></link>
+            <enclosure url="https://www.archive.org/download/heimskringla_1906_librivox/heimskringla_02_sturleson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 17 Jun 2019 00:02:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/heimskringla_1906_librivox/heimskringla_02_sturleson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Story of the Ynglings, Part 3 - Chapter XXII-XXIX]]></title>
+    <itunes:episode><![CDATA[3]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/heimskringla-the-stories-of-the-kings-of-norway-called-the-round-world-by-snorri-sturleson/]]></link>
+            <enclosure url="https://www.archive.org/download/heimskringla_1906_librivox/heimskringla_03_sturleson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 17 Jun 2019 00:03:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/heimskringla_1906_librivox/heimskringla_03_sturleson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Story of the Ynglings, Part 4 - Chapter XXX-XXXVIII]]></title>
+    <itunes:episode><![CDATA[4]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/heimskringla-the-stories-of-the-kings-of-norway-called-the-round-world-by-snorri-sturleson/]]></link>
+            <enclosure url="https://www.archive.org/download/heimskringla_1906_librivox/heimskringla_04_sturleson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 17 Jun 2019 00:04:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/heimskringla_1906_librivox/heimskringla_04_sturleson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Story of the Ynglings, Part 5 - Chapter XXXIX-XLIV]]></title>
+    <itunes:episode><![CDATA[5]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/heimskringla-the-stories-of-the-kings-of-norway-called-the-round-world-by-snorri-sturleson/]]></link>
+            <enclosure url="https://www.archive.org/download/heimskringla_1906_librivox/heimskringla_05_sturleson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 17 Jun 2019 00:05:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/heimskringla_1906_librivox/heimskringla_05_sturleson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Story of the Ynglings, Part 6 - Chapter XLV-LV]]></title>
+    <itunes:episode><![CDATA[6]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/heimskringla-the-stories-of-the-kings-of-norway-called-the-round-world-by-snorri-sturleson/]]></link>
+            <enclosure url="https://www.archive.org/download/heimskringla_1906_librivox/heimskringla_06_sturleson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 17 Jun 2019 00:06:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/heimskringla_1906_librivox/heimskringla_06_sturleson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Story of Halfdan the Black]]></title>
+    <itunes:episode><![CDATA[7]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/heimskringla-the-stories-of-the-kings-of-norway-called-the-round-world-by-snorri-sturleson/]]></link>
+            <enclosure url="https://www.archive.org/download/heimskringla_1906_librivox/heimskringla_07_sturleson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 17 Jun 2019 00:07:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/heimskringla_1906_librivox/heimskringla_07_sturleson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Story of Harald Hairfair, Part 1 - Chapter I-X]]></title>
+    <itunes:episode><![CDATA[8]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/heimskringla-the-stories-of-the-kings-of-norway-called-the-round-world-by-snorri-sturleson/]]></link>
+            <enclosure url="https://www.archive.org/download/heimskringla_1906_librivox/heimskringla_08_sturleson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 17 Jun 2019 00:08:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/heimskringla_1906_librivox/heimskringla_08_sturleson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Story of Harald Hairfair, Part 2 - Chapter XI-XX]]></title>
+    <itunes:episode><![CDATA[9]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/heimskringla-the-stories-of-the-kings-of-norway-called-the-round-world-by-snorri-sturleson/]]></link>
+            <enclosure url="https://www.archive.org/download/heimskringla_1906_librivox/heimskringla_09_sturleson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 17 Jun 2019 00:09:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/heimskringla_1906_librivox/heimskringla_09_sturleson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Story of Harald Hairfair, Part 3 - Chapter XXI-XXX]]></title>
+    <itunes:episode><![CDATA[10]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/heimskringla-the-stories-of-the-kings-of-norway-called-the-round-world-by-snorri-sturleson/]]></link>
+            <enclosure url="https://www.archive.org/download/heimskringla_1906_librivox/heimskringla_10_sturleson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 17 Jun 2019 00:10:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/heimskringla_1906_librivox/heimskringla_10_sturleson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Story of Harald Hairfair, Part 4 - Chapter XXXI-XL]]></title>
+    <itunes:episode><![CDATA[11]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/heimskringla-the-stories-of-the-kings-of-norway-called-the-round-world-by-snorri-sturleson/]]></link>
+            <enclosure url="https://www.archive.org/download/heimskringla_1906_librivox/heimskringla_11_sturleson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 17 Jun 2019 00:11:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/heimskringla_1906_librivox/heimskringla_11_sturleson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Story of Harald Hairfair, Part 5 - Chapter XLI-XLVI]]></title>
+    <itunes:episode><![CDATA[12]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/heimskringla-the-stories-of-the-kings-of-norway-called-the-round-world-by-snorri-sturleson/]]></link>
+            <enclosure url="https://www.archive.org/download/heimskringla_1906_librivox/heimskringla_12_sturleson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 17 Jun 2019 00:12:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/heimskringla_1906_librivox/heimskringla_12_sturleson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Story of Hakon the Good, Part 1 - Chapter I-XIII]]></title>
+    <itunes:episode><![CDATA[13]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/heimskringla-the-stories-of-the-kings-of-norway-called-the-round-world-by-snorri-sturleson/]]></link>
+            <enclosure url="https://www.archive.org/download/heimskringla_1906_librivox/heimskringla_13_sturleson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 17 Jun 2019 00:13:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/heimskringla_1906_librivox/heimskringla_13_sturleson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Story of Hakon the Good, Part 2 - Chapter XIV-XXVII]]></title>
+    <itunes:episode><![CDATA[14]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/heimskringla-the-stories-of-the-kings-of-norway-called-the-round-world-by-snorri-sturleson/]]></link>
+            <enclosure url="https://www.archive.org/download/heimskringla_1906_librivox/heimskringla_14_sturleson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 17 Jun 2019 00:14:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/heimskringla_1906_librivox/heimskringla_14_sturleson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Story of Hakon the Good, Part 3 - Chapter XXVIII-XXXII]]></title>
+    <itunes:episode><![CDATA[15]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/heimskringla-the-stories-of-the-kings-of-norway-called-the-round-world-by-snorri-sturleson/]]></link>
+            <enclosure url="https://www.archive.org/download/heimskringla_1906_librivox/heimskringla_15_sturleson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 17 Jun 2019 00:15:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/heimskringla_1906_librivox/heimskringla_15_sturleson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Story of King Harald Greycloak and of Earl Hakon son of Sigurd - Chapter I-XVIII]]></title>
+    <itunes:episode><![CDATA[16]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/heimskringla-the-stories-of-the-kings-of-norway-called-the-round-world-by-snorri-sturleson/]]></link>
+            <enclosure url="https://www.archive.org/download/heimskringla_1906_librivox/heimskringla_16_sturleson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 17 Jun 2019 00:16:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/heimskringla_1906_librivox/heimskringla_16_sturleson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Story of Olaf Triggvison, Part 1 - Chapter I-X]]></title>
+    <itunes:episode><![CDATA[17]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/heimskringla-the-stories-of-the-kings-of-norway-called-the-round-world-by-snorri-sturleson/]]></link>
+            <enclosure url="https://www.archive.org/download/heimskringla_1906_librivox/heimskringla_17_sturleson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 17 Jun 2019 00:17:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/heimskringla_1906_librivox/heimskringla_17_sturleson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Story of Olaf Triggvison, Part 2 - Chapter XI-XX]]></title>
+    <itunes:episode><![CDATA[18]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/heimskringla-the-stories-of-the-kings-of-norway-called-the-round-world-by-snorri-sturleson/]]></link>
+            <enclosure url="https://www.archive.org/download/heimskringla_1906_librivox/heimskringla_18_sturleson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 17 Jun 2019 00:18:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/heimskringla_1906_librivox/heimskringla_18_sturleson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Story of Olaf Triggvison, Part 3 - Chapter XXI-XXX]]></title>
+    <itunes:episode><![CDATA[19]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/heimskringla-the-stories-of-the-kings-of-norway-called-the-round-world-by-snorri-sturleson/]]></link>
+            <enclosure url="https://www.archive.org/download/heimskringla_1906_librivox/heimskringla_19_sturleson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 17 Jun 2019 00:19:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/heimskringla_1906_librivox/heimskringla_19_sturleson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Story of Olaf Triggvison, Part 4 - Chapter XXXI-XL]]></title>
+    <itunes:episode><![CDATA[20]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/heimskringla-the-stories-of-the-kings-of-norway-called-the-round-world-by-snorri-sturleson/]]></link>
+            <enclosure url="https://www.archive.org/download/heimskringla_1906_librivox/heimskringla_20_sturleson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 17 Jun 2019 00:20:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/heimskringla_1906_librivox/heimskringla_20_sturleson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Story of Olaf Triggvison, Part 5 - Chapter XLI-L]]></title>
+    <itunes:episode><![CDATA[21]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/heimskringla-the-stories-of-the-kings-of-norway-called-the-round-world-by-snorri-sturleson/]]></link>
+            <enclosure url="https://www.archive.org/download/heimskringla_1906_librivox/heimskringla_21_sturleson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 17 Jun 2019 00:21:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/heimskringla_1906_librivox/heimskringla_21_sturleson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Story of Olaf Triggvison, Part 6 - Chapter LI-LX]]></title>
+    <itunes:episode><![CDATA[22]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/heimskringla-the-stories-of-the-kings-of-norway-called-the-round-world-by-snorri-sturleson/]]></link>
+            <enclosure url="https://www.archive.org/download/heimskringla_1906_librivox/heimskringla_22_sturleson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 17 Jun 2019 00:22:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/heimskringla_1906_librivox/heimskringla_22_sturleson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Story of Olaf Triggvison, Part 7 - Chapter LXI-LXX]]></title>
+    <itunes:episode><![CDATA[23]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/heimskringla-the-stories-of-the-kings-of-norway-called-the-round-world-by-snorri-sturleson/]]></link>
+            <enclosure url="https://www.archive.org/download/heimskringla_1906_librivox/heimskringla_23_sturleson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 17 Jun 2019 00:23:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/heimskringla_1906_librivox/heimskringla_23_sturleson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Story of Olaf Triggvison, Part 8 - Chapter LXXI-LXXX]]></title>
+    <itunes:episode><![CDATA[24]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/heimskringla-the-stories-of-the-kings-of-norway-called-the-round-world-by-snorri-sturleson/]]></link>
+            <enclosure url="https://www.archive.org/download/heimskringla_1906_librivox/heimskringla_24_sturleson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 17 Jun 2019 00:24:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/heimskringla_1906_librivox/heimskringla_24_sturleson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Story of Olaf Triggvison, Part 9 - Chapter LXXXI-XC]]></title>
+    <itunes:episode><![CDATA[25]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/heimskringla-the-stories-of-the-kings-of-norway-called-the-round-world-by-snorri-sturleson/]]></link>
+            <enclosure url="https://www.archive.org/download/heimskringla_1906_librivox/heimskringla_25_sturleson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 17 Jun 2019 00:25:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/heimskringla_1906_librivox/heimskringla_25_sturleson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Story of Olaf Triggvison, Part 10 - Chapter XCI-C]]></title>
+    <itunes:episode><![CDATA[26]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/heimskringla-the-stories-of-the-kings-of-norway-called-the-round-world-by-snorri-sturleson/]]></link>
+            <enclosure url="https://www.archive.org/download/heimskringla_1906_librivox/heimskringla_26_sturleson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 17 Jun 2019 00:26:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/heimskringla_1906_librivox/heimskringla_26_sturleson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Story of Olaf Triggvison, Part 11 - Chapter CI-CX]]></title>
+    <itunes:episode><![CDATA[27]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/heimskringla-the-stories-of-the-kings-of-norway-called-the-round-world-by-snorri-sturleson/]]></link>
+            <enclosure url="https://www.archive.org/download/heimskringla_1906_librivox/heimskringla_27_sturleson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 17 Jun 2019 00:27:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/heimskringla_1906_librivox/heimskringla_27_sturleson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Story of Olaf Triggvison, Part 12 - Chapter CXI-CXXII]]></title>
+    <itunes:episode><![CDATA[28]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/heimskringla-the-stories-of-the-kings-of-norway-called-the-round-world-by-snorri-sturleson/]]></link>
+            <enclosure url="https://www.archive.org/download/heimskringla_1906_librivox/heimskringla_28_sturleson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 17 Jun 2019 00:28:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/heimskringla_1906_librivox/heimskringla_28_sturleson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Story of Olaf the Holy, Part 1 - Chapter I-XV]]></title>
+    <itunes:episode><![CDATA[29]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/heimskringla-the-stories-of-the-kings-of-norway-called-the-round-world-by-snorri-sturleson/]]></link>
+            <enclosure url="https://www.archive.org/download/heimskringla_1906_librivox/heimskringla_29_sturleson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 17 Jun 2019 00:29:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/heimskringla_1906_librivox/heimskringla_29_sturleson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Story of Olaf the Holy, Part 2 - Chapter XVI-XXX]]></title>
+    <itunes:episode><![CDATA[30]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/heimskringla-the-stories-of-the-kings-of-norway-called-the-round-world-by-snorri-sturleson/]]></link>
+            <enclosure url="https://www.archive.org/download/heimskringla_1906_librivox/heimskringla_30_sturleson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 17 Jun 2019 00:30:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/heimskringla_1906_librivox/heimskringla_30_sturleson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Story of Olaf the Holy, Part 3 - Chapter XXXI-XLV]]></title>
+    <itunes:episode><![CDATA[31]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/heimskringla-the-stories-of-the-kings-of-norway-called-the-round-world-by-snorri-sturleson/]]></link>
+            <enclosure url="https://www.archive.org/download/heimskringla_1906_librivox/heimskringla_31_sturleson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 17 Jun 2019 00:31:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/heimskringla_1906_librivox/heimskringla_31_sturleson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Story of Olaf the Holy, Part 4 - Chapter XLVI-LX]]></title>
+    <itunes:episode><![CDATA[32]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/heimskringla-the-stories-of-the-kings-of-norway-called-the-round-world-by-snorri-sturleson/]]></link>
+            <enclosure url="https://www.archive.org/download/heimskringla_1906_librivox/heimskringla_32_sturleson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 17 Jun 2019 00:32:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/heimskringla_1906_librivox/heimskringla_32_sturleson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Story of Olaf the Holy, Part 5 - Chapter LXI-LXXV]]></title>
+    <itunes:episode><![CDATA[33]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/heimskringla-the-stories-of-the-kings-of-norway-called-the-round-world-by-snorri-sturleson/]]></link>
+            <enclosure url="https://www.archive.org/download/heimskringla_1906_librivox/heimskringla_33_sturleson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 17 Jun 2019 00:33:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/heimskringla_1906_librivox/heimskringla_33_sturleson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Story of Olaf the Holy, Part 6 - Chapter LXXVI-XC]]></title>
+    <itunes:episode><![CDATA[34]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/heimskringla-the-stories-of-the-kings-of-norway-called-the-round-world-by-snorri-sturleson/]]></link>
+            <enclosure url="https://www.archive.org/download/heimskringla_1906_librivox/heimskringla_34_sturleson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 17 Jun 2019 00:34:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/heimskringla_1906_librivox/heimskringla_34_sturleson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Story of Olaf the Holy, Part 7 - Chapter XCI-CV]]></title>
+    <itunes:episode><![CDATA[35]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/heimskringla-the-stories-of-the-kings-of-norway-called-the-round-world-by-snorri-sturleson/]]></link>
+            <enclosure url="https://www.archive.org/download/heimskringla_1906_librivox/heimskringla_35_sturleson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 17 Jun 2019 00:35:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/heimskringla_1906_librivox/heimskringla_35_sturleson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Story of Olaf the Holy, Part 8 - Chapter CVI-CXX]]></title>
+    <itunes:episode><![CDATA[36]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/heimskringla-the-stories-of-the-kings-of-norway-called-the-round-world-by-snorri-sturleson/]]></link>
+            <enclosure url="https://www.archive.org/download/heimskringla_1906_librivox/heimskringla_36_sturleson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 17 Jun 2019 00:36:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/heimskringla_1906_librivox/heimskringla_36_sturleson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Story of Olaf the Holy, Part 9 - Chapter CXXI-CXXXV]]></title>
+    <itunes:episode><![CDATA[37]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/heimskringla-the-stories-of-the-kings-of-norway-called-the-round-world-by-snorri-sturleson/]]></link>
+            <enclosure url="https://www.archive.org/download/heimskringla_1906_librivox/heimskringla_37_sturleson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 17 Jun 2019 00:37:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/heimskringla_1906_librivox/heimskringla_37_sturleson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Story of Olaf the Holy, Part 10 - Chapter CXXXVI-CXLIV]]></title>
+    <itunes:episode><![CDATA[38]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/heimskringla-the-stories-of-the-kings-of-norway-called-the-round-world-by-snorri-sturleson/]]></link>
+            <enclosure url="https://www.archive.org/download/heimskringla_1906_librivox/heimskringla_38_sturleson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 17 Jun 2019 00:38:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/heimskringla_1906_librivox/heimskringla_38_sturleson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Story of Olaf the Holy, Part 10 - Chapter CXLV-CL]]></title>
+    <itunes:episode><![CDATA[39]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/heimskringla-the-stories-of-the-kings-of-norway-called-the-round-world-by-snorri-sturleson/]]></link>
+            <enclosure url="https://www.archive.org/download/heimskringla_1906_librivox/heimskringla_39_sturleson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 17 Jun 2019 00:39:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/heimskringla_1906_librivox/heimskringla_39_sturleson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Story of Olaf the Holy, Part 11 - Chapter CLI-CLXV]]></title>
+    <itunes:episode><![CDATA[40]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/heimskringla-the-stories-of-the-kings-of-norway-called-the-round-world-by-snorri-sturleson/]]></link>
+            <enclosure url="https://www.archive.org/download/heimskringla_1906_librivox/heimskringla_40_sturleson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 17 Jun 2019 00:40:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/heimskringla_1906_librivox/heimskringla_40_sturleson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Story of Olaf the Holy, Part 12 - Chapter CLXVI-CLXXX]]></title>
+    <itunes:episode><![CDATA[41]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/heimskringla-the-stories-of-the-kings-of-norway-called-the-round-world-by-snorri-sturleson/]]></link>
+            <enclosure url="https://www.archive.org/download/heimskringla_1906_librivox/heimskringla_41_sturleson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 17 Jun 2019 00:41:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/heimskringla_1906_librivox/heimskringla_41_sturleson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Story of Olaf the Holy, Part 13 - Chapter CLXXXI-CXCV]]></title>
+    <itunes:episode><![CDATA[42]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/heimskringla-the-stories-of-the-kings-of-norway-called-the-round-world-by-snorri-sturleson/]]></link>
+            <enclosure url="https://www.archive.org/download/heimskringla_1906_librivox/heimskringla_42_sturleson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 17 Jun 2019 00:42:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/heimskringla_1906_librivox/heimskringla_42_sturleson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Story of Olaf the Holy, Part 14 - Chapter CXCVI-CCX]]></title>
+    <itunes:episode><![CDATA[43]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/heimskringla-the-stories-of-the-kings-of-norway-called-the-round-world-by-snorri-sturleson/]]></link>
+            <enclosure url="https://www.archive.org/download/heimskringla_1906_librivox/heimskringla_43_sturleson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 17 Jun 2019 00:43:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/heimskringla_1906_librivox/heimskringla_43_sturleson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Story of Olaf the Holy, Part 15 - Chapter CCXI-CCXXV]]></title>
+    <itunes:episode><![CDATA[44]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/heimskringla-the-stories-of-the-kings-of-norway-called-the-round-world-by-snorri-sturleson/]]></link>
+            <enclosure url="https://www.archive.org/download/heimskringla_1906_librivox/heimskringla_44_sturleson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 17 Jun 2019 00:44:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/heimskringla_1906_librivox/heimskringla_44_sturleson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Story of Olaf the Holy, Part 16 - Chapter CCXXVI-CCXL]]></title>
+    <itunes:episode><![CDATA[45]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/heimskringla-the-stories-of-the-kings-of-norway-called-the-round-world-by-snorri-sturleson/]]></link>
+            <enclosure url="https://www.archive.org/download/heimskringla_1906_librivox/heimskringla_45_sturleson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 17 Jun 2019 00:45:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/heimskringla_1906_librivox/heimskringla_45_sturleson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Story of Olaf the Holy, Part 17 - Chapter CCXLI-CCLII]]></title>
+    <itunes:episode><![CDATA[46]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/heimskringla-the-stories-of-the-kings-of-norway-called-the-round-world-by-snorri-sturleson/]]></link>
+            <enclosure url="https://www.archive.org/download/heimskringla_1906_librivox/heimskringla_46_sturleson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 17 Jun 2019 00:46:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/heimskringla_1906_librivox/heimskringla_46_sturleson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Story of Olaf the Holy, Part 18 - Chapter CCLIII-CCLXV]]></title>
+    <itunes:episode><![CDATA[47]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/heimskringla-the-stories-of-the-kings-of-norway-called-the-round-world-by-snorri-sturleson/]]></link>
+            <enclosure url="https://www.archive.org/download/heimskringla_1906_librivox/heimskringla_47_sturleson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 17 Jun 2019 00:47:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/heimskringla_1906_librivox/heimskringla_47_sturleson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Story of Magnus the Good, Part 1 - Chapter I-XIII]]></title>
+    <itunes:episode><![CDATA[48]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/heimskringla-the-stories-of-the-kings-of-norway-called-the-round-world-by-snorri-sturleson/]]></link>
+            <enclosure url="https://www.archive.org/download/heimskringla_1906_librivox/heimskringla_48_sturleson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 17 Jun 2019 00:48:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/heimskringla_1906_librivox/heimskringla_48_sturleson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Story of Magnus the Good, Part 2 - Chapter XIV-XXVI]]></title>
+    <itunes:episode><![CDATA[49]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/heimskringla-the-stories-of-the-kings-of-norway-called-the-round-world-by-snorri-sturleson/]]></link>
+            <enclosure url="https://www.archive.org/download/heimskringla_1906_librivox/heimskringla_49_sturleson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 17 Jun 2019 00:49:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/heimskringla_1906_librivox/heimskringla_49_sturleson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Story of Magnus the Good, Part 3 - Chapter XXVII-XXXIX]]></title>
+    <itunes:episode><![CDATA[50]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/heimskringla-the-stories-of-the-kings-of-norway-called-the-round-world-by-snorri-sturleson/]]></link>
+            <enclosure url="https://www.archive.org/download/heimskringla_1906_librivox/heimskringla_50_sturleson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 17 Jun 2019 00:50:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/heimskringla_1906_librivox/heimskringla_50_sturleson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Story of Harald the Hard-redy, Part 1 - Chapter I-XIII]]></title>
+    <itunes:episode><![CDATA[51]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/heimskringla-the-stories-of-the-kings-of-norway-called-the-round-world-by-snorri-sturleson/]]></link>
+            <enclosure url="https://www.archive.org/download/heimskringla_1906_librivox/heimskringla_51_sturleson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 17 Jun 2019 00:51:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/heimskringla_1906_librivox/heimskringla_51_sturleson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Story of Harald the Hard-redy, Part 2 - Chapter XIV-XXVI]]></title>
+    <itunes:episode><![CDATA[52]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/heimskringla-the-stories-of-the-kings-of-norway-called-the-round-world-by-snorri-sturleson/]]></link>
+            <enclosure url="https://www.archive.org/download/heimskringla_1906_librivox/heimskringla_52_sturleson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 17 Jun 2019 00:52:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/heimskringla_1906_librivox/heimskringla_52_sturleson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Story of Harald the Hard-redy, Part 3 - Chapter XXVII-XXXIX]]></title>
+    <itunes:episode><![CDATA[53]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/heimskringla-the-stories-of-the-kings-of-norway-called-the-round-world-by-snorri-sturleson/]]></link>
+            <enclosure url="https://www.archive.org/download/heimskringla_1906_librivox/heimskringla_53_sturleson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 17 Jun 2019 00:53:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/heimskringla_1906_librivox/heimskringla_53_sturleson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Story of Harald the Hard-redy, Part 4 - Chapter XL-LIII]]></title>
+    <itunes:episode><![CDATA[54]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/heimskringla-the-stories-of-the-kings-of-norway-called-the-round-world-by-snorri-sturleson/]]></link>
+            <enclosure url="https://www.archive.org/download/heimskringla_1906_librivox/heimskringla_54_sturleson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 17 Jun 2019 00:54:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/heimskringla_1906_librivox/heimskringla_54_sturleson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Story of Harald the Hard-redy, Part 5 - Chapter LIV-LXVI]]></title>
+    <itunes:episode><![CDATA[55]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/heimskringla-the-stories-of-the-kings-of-norway-called-the-round-world-by-snorri-sturleson/]]></link>
+            <enclosure url="https://www.archive.org/download/heimskringla_1906_librivox/heimskringla_55_sturleson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 17 Jun 2019 00:55:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/heimskringla_1906_librivox/heimskringla_55_sturleson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Story of Harald the Hard-redy, Part 6 - Chapter LXVII-LXXIX]]></title>
+    <itunes:episode><![CDATA[56]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/heimskringla-the-stories-of-the-kings-of-norway-called-the-round-world-by-snorri-sturleson/]]></link>
+            <enclosure url="https://www.archive.org/download/heimskringla_1906_librivox/heimskringla_56_sturleson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 17 Jun 2019 00:56:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/heimskringla_1906_librivox/heimskringla_56_sturleson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Story of Harald the Hard-redy, Part 7 - Chapter LXXX-XCIII]]></title>
+    <itunes:episode><![CDATA[57]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/heimskringla-the-stories-of-the-kings-of-norway-called-the-round-world-by-snorri-sturleson/]]></link>
+            <enclosure url="https://www.archive.org/download/heimskringla_1906_librivox/heimskringla_57_sturleson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 17 Jun 2019 00:57:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/heimskringla_1906_librivox/heimskringla_57_sturleson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Story of Harald the Hard-redy, Part 8 - Chapter XCIV-CVI]]></title>
+    <itunes:episode><![CDATA[58]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/heimskringla-the-stories-of-the-kings-of-norway-called-the-round-world-by-snorri-sturleson/]]></link>
+            <enclosure url="https://www.archive.org/download/heimskringla_1906_librivox/heimskringla_58_sturleson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 17 Jun 2019 00:58:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/heimskringla_1906_librivox/heimskringla_58_sturleson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Story of Olaf the Quiet]]></title>
+    <itunes:episode><![CDATA[59]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/heimskringla-the-stories-of-the-kings-of-norway-called-the-round-world-by-snorri-sturleson/]]></link>
+            <enclosure url="https://www.archive.org/download/heimskringla_1906_librivox/heimskringla_59_sturleson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 17 Jun 2019 00:59:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/heimskringla_1906_librivox/heimskringla_59_sturleson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Story of King Magnus Barefoot, Part 1 - Chapter I-XIV]]></title>
+    <itunes:episode><![CDATA[60]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/heimskringla-the-stories-of-the-kings-of-norway-called-the-round-world-by-snorri-sturleson/]]></link>
+            <enclosure url="https://www.archive.org/download/heimskringla_1906_librivox/heimskringla_60_sturleson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 17 Jun 2019 01:00:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/heimskringla_1906_librivox/heimskringla_60_sturleson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Story of King Magnus Barefoot, Part 2 - Chapter XV-XXVIII]]></title>
+    <itunes:episode><![CDATA[61]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/heimskringla-the-stories-of-the-kings-of-norway-called-the-round-world-by-snorri-sturleson/]]></link>
+            <enclosure url="https://www.archive.org/download/heimskringla_1906_librivox/heimskringla_61_sturleson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 17 Jun 2019 01:01:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/heimskringla_1906_librivox/heimskringla_61_sturleson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Story of Sigurd the Jerusalem-farer, Eystein, and Olaf, Part 1 - Chapter I-X]]></title>
+    <itunes:episode><![CDATA[62]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/heimskringla-the-stories-of-the-kings-of-norway-called-the-round-world-by-snorri-sturleson/]]></link>
+            <enclosure url="https://www.archive.org/download/heimskringla_1906_librivox/heimskringla_62_sturleson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 17 Jun 2019 01:02:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/heimskringla_1906_librivox/heimskringla_62_sturleson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Story of Sigurd the Jerusalem-farer, Eystein, and Olaf, Part 2 - Chapter XI-XXI]]></title>
+    <itunes:episode><![CDATA[63]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/heimskringla-the-stories-of-the-kings-of-norway-called-the-round-world-by-snorri-sturleson/]]></link>
+            <enclosure url="https://www.archive.org/download/heimskringla_1906_librivox/heimskringla_63_sturleson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 17 Jun 2019 01:03:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/heimskringla_1906_librivox/heimskringla_63_sturleson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Story of Sigurd the Jerusalem-farer, Eystein, and Olaf, Part 3 - Chapter XXII-XXXII]]></title>
+    <itunes:episode><![CDATA[64]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/heimskringla-the-stories-of-the-kings-of-norway-called-the-round-world-by-snorri-sturleson/]]></link>
+            <enclosure url="https://www.archive.org/download/heimskringla_1906_librivox/heimskringla_64_sturleson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 17 Jun 2019 01:04:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/heimskringla_1906_librivox/heimskringla_64_sturleson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Story of Sigurd the Jerusalem-farer, Eystein, and Olaf, Part 4 - Chapter XXXIII-XLII]]></title>
+    <itunes:episode><![CDATA[65]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/heimskringla-the-stories-of-the-kings-of-norway-called-the-round-world-by-snorri-sturleson/]]></link>
+            <enclosure url="https://www.archive.org/download/heimskringla_1906_librivox/heimskringla_65_sturleson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 17 Jun 2019 01:05:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/heimskringla_1906_librivox/heimskringla_65_sturleson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Story of Magnus the Blind and Harald Gilli, Part 1 - Chapter I-V]]></title>
+    <itunes:episode><![CDATA[66]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/heimskringla-the-stories-of-the-kings-of-norway-called-the-round-world-by-snorri-sturleson/]]></link>
+            <enclosure url="https://www.archive.org/download/heimskringla_1906_librivox/heimskringla_66_sturleson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 17 Jun 2019 01:06:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/heimskringla_1906_librivox/heimskringla_66_sturleson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Story of Magnus the Blind and Harald Gilli, Part 2 - Chapter VI-XII]]></title>
+    <itunes:episode><![CDATA[67]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/heimskringla-the-stories-of-the-kings-of-norway-called-the-round-world-by-snorri-sturleson/]]></link>
+            <enclosure url="https://www.archive.org/download/heimskringla_1906_librivox/heimskringla_67_sturleson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 17 Jun 2019 01:07:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/heimskringla_1906_librivox/heimskringla_67_sturleson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Story of Magnus the Blind and Harald Gilli, Part 3 - Chapter XIII-XVIII]]></title>
+    <itunes:episode><![CDATA[68]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/heimskringla-the-stories-of-the-kings-of-norway-called-the-round-world-by-snorri-sturleson/]]></link>
+            <enclosure url="https://www.archive.org/download/heimskringla_1906_librivox/heimskringla_68_sturleson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 17 Jun 2019 01:08:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/heimskringla_1906_librivox/heimskringla_68_sturleson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Story of Ingi, Son of Harald, and his Bretheren, Part 1 - Chapter I-X]]></title>
+    <itunes:episode><![CDATA[69]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/heimskringla-the-stories-of-the-kings-of-norway-called-the-round-world-by-snorri-sturleson/]]></link>
+            <enclosure url="https://www.archive.org/download/heimskringla_1906_librivox/heimskringla_69_sturleson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 17 Jun 2019 01:09:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/heimskringla_1906_librivox/heimskringla_69_sturleson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Story of Ingi, Son of Harald, and his Bretheren, Part 2 - Chapter XI-XXI]]></title>
+    <itunes:episode><![CDATA[70]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/heimskringla-the-stories-of-the-kings-of-norway-called-the-round-world-by-snorri-sturleson/]]></link>
+            <enclosure url="https://www.archive.org/download/heimskringla_1906_librivox/heimskringla_70_sturleson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 17 Jun 2019 01:10:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/heimskringla_1906_librivox/heimskringla_70_sturleson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Story of Ingi, Son of Harald, and his Bretheren, Part 3 - Chapter XXII-XXXII]]></title>
+    <itunes:episode><![CDATA[71]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/heimskringla-the-stories-of-the-kings-of-norway-called-the-round-world-by-snorri-sturleson/]]></link>
+            <enclosure url="https://www.archive.org/download/heimskringla_1906_librivox/heimskringla_71_sturleson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 17 Jun 2019 01:11:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/heimskringla_1906_librivox/heimskringla_71_sturleson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Story of Hakon Shoulder-Broad, Part 1 - Chapter I-X]]></title>
+    <itunes:episode><![CDATA[72]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/heimskringla-the-stories-of-the-kings-of-norway-called-the-round-world-by-snorri-sturleson/]]></link>
+            <enclosure url="https://www.archive.org/download/heimskringla_1906_librivox/heimskringla_72_sturleson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 17 Jun 2019 01:12:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/heimskringla_1906_librivox/heimskringla_72_sturleson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Story of Hakon Shoulder-Broad, Part 2 - Chapter XI-XXI]]></title>
+    <itunes:episode><![CDATA[73]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/heimskringla-the-stories-of-the-kings-of-norway-called-the-round-world-by-snorri-sturleson/]]></link>
+            <enclosure url="https://www.archive.org/download/heimskringla_1906_librivox/heimskringla_73_sturleson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 17 Jun 2019 01:13:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/heimskringla_1906_librivox/heimskringla_73_sturleson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Story of King Magnus, Son of Erling, Part 1 - Chapter I-X]]></title>
+    <itunes:episode><![CDATA[74]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/heimskringla-the-stories-of-the-kings-of-norway-called-the-round-world-by-snorri-sturleson/]]></link>
+            <enclosure url="https://www.archive.org/download/heimskringla_1906_librivox/heimskringla_74_sturleson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 17 Jun 2019 01:14:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/heimskringla_1906_librivox/heimskringla_74_sturleson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Story of King Magnus, Son of Erling, Part 2 - Chapter XI-XXI]]></title>
+    <itunes:episode><![CDATA[75]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/heimskringla-the-stories-of-the-kings-of-norway-called-the-round-world-by-snorri-sturleson/]]></link>
+            <enclosure url="https://www.archive.org/download/heimskringla_1906_librivox/heimskringla_75_sturleson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 17 Jun 2019 01:15:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/heimskringla_1906_librivox/heimskringla_75_sturleson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Story of King Magnus, Son of Erling, Part 3 - Chapter XXII-XXXII]]></title>
+    <itunes:episode><![CDATA[76]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/heimskringla-the-stories-of-the-kings-of-norway-called-the-round-world-by-snorri-sturleson/]]></link>
+            <enclosure url="https://www.archive.org/download/heimskringla_1906_librivox/heimskringla_76_sturleson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 17 Jun 2019 01:16:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/heimskringla_1906_librivox/heimskringla_76_sturleson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Story of King Magnus, Son of Erling, Part 4 - Chapter XXXIII-XLIV]]></title>
+    <itunes:episode><![CDATA[77]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/heimskringla-the-stories-of-the-kings-of-norway-called-the-round-world-by-snorri-sturleson/]]></link>
+            <enclosure url="https://www.archive.org/download/heimskringla_1906_librivox/heimskringla_77_sturleson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 17 Jun 2019 01:17:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/heimskringla_1906_librivox/heimskringla_77_sturleson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <!-- end file loop -->
+</channel>
+</rss>

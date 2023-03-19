@@ -1,0 +1,513 @@
+<?xml version="1.0" ?><rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+  <title><![CDATA[Nibelungenlied by Unknown]]></title>
+  <link><![CDATA[https://librivox.org/the-nibelungenlied-by-anonymous/]]></link>
+  <atom:link rel="self" href="https://librivox.org/rss/6618" />
+  <description><![CDATA[The Nibelungenlied, translated as The Song of the Nibelungs, is an epic poem in Middle High German. The story tells of dragon-slayer Siegfried at the court of the Burgundians, how he was murdered, and of his wife Kriemhild's revenge.
+
+The Nibelungenlied is based on pre-Christian Germanic heroic motifs (the "Nibelungensaga"), which include oral traditions and reports based on historic events and individuals of the 5th and 6th centuries. Old Norse parallels of the legend survive in the Völsunga saga, the Prose Edda, the Poetic Edda, the Legend of Norna-Gest, and the Þiðrekssaga.
+
+The present translator has endeavored to translate literally and accurately, and to reproduce the spirit of the original, as far as a prose translation will permit. To this end the language has been made as simple and as Saxon in character as possible. An exception has been made, however, in the case of such Romance words as were in use in England during the age of the romances of chivalry, and which would help to land a Romance coloring; these have been frequently employed. Very few obsolete words have been used, and these are explained in the notes, but the language has been made to some extent archaic, especially in dialogue, in order to give the impression of age.]]></description>
+  <!--<genre>project element=Genre</genre>-->
+  <!--<language>project element=lang.code</language>-->
+  <itunes:type>serial</itunes:type>
+  <itunes:author>LibriVox</itunes:author>
+  <itunes:summary><![CDATA[The Nibelungenlied, translated as The Song of the Nibelungs, is an epic poem in Middle High German. The story tells of dragon-slayer Siegfried at the court of the Burgundians, how he was murdered, and of his wife Kriemhild's revenge.
+
+The Nibelungenlied is based on pre-Christian Germanic heroic motifs (the "Nibelungensaga"), which include oral traditions and reports based on historic events and individuals of the 5th and 6th centuries. Old Norse parallels of the legend survive in the Völsunga saga, the Prose Edda, the Poetic Edda, the Legend of Norna-Gest, and the Þiðrekssaga.
+
+The present translator has endeavored to translate literally and accurately, and to reproduce the spirit of the original, as far as a prose translation will permit. To this end the language has been made as simple and as Saxon in character as possible. An exception has been made, however, in the case of such Romance words as were in use in England during the age of the romances of chivalry, and which would help to land a Romance coloring; these have been frequently employed. Very few obsolete words have been used, and these are explained in the notes, but the language has been made to some extent archaic, especially in dialogue, in order to give the impression of age.]]></itunes:summary>
+  <itunes:owner>
+    <itunes:name>LibriVox</itunes:name>
+    <itunes:email>info@librivox.org</itunes:email>
+  </itunes:owner>
+  <itunes:category text="Arts">
+    <itunes:category text="Literature" />
+  </itunes:category>
+  <image><url>https://archive.org/download/LibrivoxCdCoverArt28/nibelungenlied_1301.jpg</url></image>
+  <itunes:image href="https://archive.org/download/LibrivoxCdCoverArt28/nibelungenlied_1301.jpg"/>
+  <itunes:explicit>no</itunes:explicit>
+  <!-- file loop -->
+    <item>
+    <title><![CDATA[Preface]]></title>
+    <itunes:episode><![CDATA[0]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-nibelungenlied-by-anonymous/]]></link>
+            <enclosure url="https://www.archive.org/download/nibelungenlied_1301_librivox/nibelungenlied_00_shumway_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:02:52]]></itunes:duration>
+  <pubDate>Tue, 22 Jan 2013 00:00:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/nibelungenlied_1301_librivox/nibelungenlied_00_shumway_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Adventure I]]></title>
+    <itunes:episode><![CDATA[1]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-nibelungenlied-by-anonymous/]]></link>
+            <enclosure url="https://www.archive.org/download/nibelungenlied_1301_librivox/nibelungenlied_01_shumway_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:06:00]]></itunes:duration>
+  <pubDate>Tue, 22 Jan 2013 00:01:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/nibelungenlied_1301_librivox/nibelungenlied_01_shumway_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Of Siegfried]]></title>
+    <itunes:episode><![CDATA[2]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-nibelungenlied-by-anonymous/]]></link>
+            <enclosure url="https://www.archive.org/download/nibelungenlied_1301_librivox/nibelungenlied_02_shumway_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:06:56]]></itunes:duration>
+  <pubDate>Tue, 22 Jan 2013 00:02:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/nibelungenlied_1301_librivox/nibelungenlied_02_shumway_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[How Siegfried Came To Worms]]></title>
+    <itunes:episode><![CDATA[3]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-nibelungenlied-by-anonymous/]]></link>
+            <enclosure url="https://www.archive.org/download/nibelungenlied_1301_librivox/nibelungenlied_03_shumway_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:24:27]]></itunes:duration>
+  <pubDate>Tue, 22 Jan 2013 00:03:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/nibelungenlied_1301_librivox/nibelungenlied_03_shumway_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[How He Fought with the Saxons]]></title>
+    <itunes:episode><![CDATA[4]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-nibelungenlied-by-anonymous/]]></link>
+            <enclosure url="https://www.archive.org/download/nibelungenlied_1301_librivox/nibelungenlied_04_shumway_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:28:48]]></itunes:duration>
+  <pubDate>Tue, 22 Jan 2013 00:04:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/nibelungenlied_1301_librivox/nibelungenlied_04_shumway_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[How Siegfried First Saw Kriemhild]]></title>
+    <itunes:episode><![CDATA[5]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-nibelungenlied-by-anonymous/]]></link>
+            <enclosure url="https://www.archive.org/download/nibelungenlied_1301_librivox/nibelungenlied_05_shumway_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:14:52]]></itunes:duration>
+  <pubDate>Tue, 22 Jan 2013 00:05:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/nibelungenlied_1301_librivox/nibelungenlied_05_shumway_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[How Gunther Fared to Isenland for Brunhild]]></title>
+    <itunes:episode><![CDATA[6]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-nibelungenlied-by-anonymous/]]></link>
+            <enclosure url="https://www.archive.org/download/nibelungenlied_1301_librivox/nibelungenlied_06_shumway_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:15:46]]></itunes:duration>
+  <pubDate>Tue, 22 Jan 2013 00:06:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/nibelungenlied_1301_librivox/nibelungenlied_06_shumway_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[How Gunther Won Brunhild]]></title>
+    <itunes:episode><![CDATA[7]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-nibelungenlied-by-anonymous/]]></link>
+            <enclosure url="https://www.archive.org/download/nibelungenlied_1301_librivox/nibelungenlied_07_shumway_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:27:24]]></itunes:duration>
+  <pubDate>Tue, 22 Jan 2013 00:07:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/nibelungenlied_1301_librivox/nibelungenlied_07_shumway_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[How Siegfried Fared To His Men-At-Arms]]></title>
+    <itunes:episode><![CDATA[8]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-nibelungenlied-by-anonymous/]]></link>
+            <enclosure url="https://www.archive.org/download/nibelungenlied_1301_librivox/nibelungenlied_08_shumway_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:11:35]]></itunes:duration>
+  <pubDate>Tue, 22 Jan 2013 00:08:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/nibelungenlied_1301_librivox/nibelungenlied_08_shumway_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[How Siegfried Was Sent To Worms]]></title>
+    <itunes:episode><![CDATA[9]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-nibelungenlied-by-anonymous/]]></link>
+            <enclosure url="https://www.archive.org/download/nibelungenlied_1301_librivox/nibelungenlied_09_shumway_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:12:48]]></itunes:duration>
+  <pubDate>Tue, 22 Jan 2013 00:09:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/nibelungenlied_1301_librivox/nibelungenlied_09_shumway_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[How Brunhild Was Received At Worms]]></title>
+    <itunes:episode><![CDATA[10]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-nibelungenlied-by-anonymous/]]></link>
+            <enclosure url="https://www.archive.org/download/nibelungenlied_1301_librivox/nibelungenlied_10_shumway_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:33:45]]></itunes:duration>
+  <pubDate>Tue, 22 Jan 2013 00:10:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/nibelungenlied_1301_librivox/nibelungenlied_10_shumway_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[How Siegfried Journeyed Homeward With His Wife.]]></title>
+    <itunes:episode><![CDATA[11]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-nibelungenlied-by-anonymous/]]></link>
+            <enclosure url="https://www.archive.org/download/nibelungenlied_1301_librivox/nibelungenlied_11_shumway_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:09:48]]></itunes:duration>
+  <pubDate>Tue, 22 Jan 2013 00:11:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/nibelungenlied_1301_librivox/nibelungenlied_11_shumway_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[How Gunther Bade Siegfried To The Feasting.]]></title>
+    <itunes:episode><![CDATA[12]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-nibelungenlied-by-anonymous/]]></link>
+            <enclosure url="https://www.archive.org/download/nibelungenlied_1301_librivox/nibelungenlied_12_shumway_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:17:01]]></itunes:duration>
+  <pubDate>Tue, 22 Jan 2013 00:12:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/nibelungenlied_1301_librivox/nibelungenlied_12_shumway_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[How They Journeyed To The Feasting.]]></title>
+    <itunes:episode><![CDATA[13]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-nibelungenlied-by-anonymous/]]></link>
+            <enclosure url="https://www.archive.org/download/nibelungenlied_1301_librivox/nibelungenlied_13_shumway_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:11:13]]></itunes:duration>
+  <pubDate>Tue, 22 Jan 2013 00:13:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/nibelungenlied_1301_librivox/nibelungenlied_13_shumway_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[How The Queens Reviled Each Other.]]></title>
+    <itunes:episode><![CDATA[14]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-nibelungenlied-by-anonymous/]]></link>
+            <enclosure url="https://www.archive.org/download/nibelungenlied_1301_librivox/nibelungenlied_14_shumway_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:19:36]]></itunes:duration>
+  <pubDate>Tue, 22 Jan 2013 00:14:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/nibelungenlied_1301_librivox/nibelungenlied_14_shumway_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[How Siegfried Was Betrayed.]]></title>
+    <itunes:episode><![CDATA[15]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-nibelungenlied-by-anonymous/]]></link>
+            <enclosure url="https://www.archive.org/download/nibelungenlied_1301_librivox/nibelungenlied_15_shumway_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:12:11]]></itunes:duration>
+  <pubDate>Tue, 22 Jan 2013 00:15:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/nibelungenlied_1301_librivox/nibelungenlied_15_shumway_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[How Siegfried Was Slain.]]></title>
+    <itunes:episode><![CDATA[16]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-nibelungenlied-by-anonymous/]]></link>
+            <enclosure url="https://www.archive.org/download/nibelungenlied_1301_librivox/nibelungenlied_16_shumway_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:19:48]]></itunes:duration>
+  <pubDate>Tue, 22 Jan 2013 00:16:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/nibelungenlied_1301_librivox/nibelungenlied_16_shumway_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[How Kriemhild Mourned Her Husband And - How He Was Buried.]]></title>
+    <itunes:episode><![CDATA[17]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-nibelungenlied-by-anonymous/]]></link>
+            <enclosure url="https://www.archive.org/download/nibelungenlied_1301_librivox/nibelungenlied_17_shumway_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:16:35]]></itunes:duration>
+  <pubDate>Tue, 22 Jan 2013 00:17:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/nibelungenlied_1301_librivox/nibelungenlied_17_shumway_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[How Siegmund Journeyed Home Again.]]></title>
+    <itunes:episode><![CDATA[18]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-nibelungenlied-by-anonymous/]]></link>
+            <enclosure url="https://www.archive.org/download/nibelungenlied_1301_librivox/nibelungenlied_18_shumway_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:08:55]]></itunes:duration>
+  <pubDate>Tue, 22 Jan 2013 00:18:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/nibelungenlied_1301_librivox/nibelungenlied_18_shumway_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[How The Nibelung Hoard Was Brought to Worms.]]></title>
+    <itunes:episode><![CDATA[19]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-nibelungenlied-by-anonymous/]]></link>
+            <enclosure url="https://www.archive.org/download/nibelungenlied_1301_librivox/nibelungenlied_19_shumway_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:10:17]]></itunes:duration>
+  <pubDate>Tue, 22 Jan 2013 00:19:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/nibelungenlied_1301_librivox/nibelungenlied_19_shumway_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[How King Etzel Sent To Burgundy For Kriemhild.]]></title>
+    <itunes:episode><![CDATA[20]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-nibelungenlied-by-anonymous/]]></link>
+            <enclosure url="https://www.archive.org/download/nibelungenlied_1301_librivox/nibelungenlied_20_shumway_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:34:50]]></itunes:duration>
+  <pubDate>Tue, 22 Jan 2013 00:20:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/nibelungenlied_1301_librivox/nibelungenlied_20_shumway_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[How Kriemhild Journeyed To The Huns.]]></title>
+    <itunes:episode><![CDATA[21]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-nibelungenlied-by-anonymous/]]></link>
+            <enclosure url="https://www.archive.org/download/nibelungenlied_1301_librivox/nibelungenlied_21_shumway_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:11:41]]></itunes:duration>
+  <pubDate>Tue, 22 Jan 2013 00:21:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/nibelungenlied_1301_librivox/nibelungenlied_21_shumway_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[How Etzel Made Kriemhild His Bride.]]></title>
+    <itunes:episode><![CDATA[22]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-nibelungenlied-by-anonymous/]]></link>
+            <enclosure url="https://www.archive.org/download/nibelungenlied_1301_librivox/nibelungenlied_22_shumway_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:12:48]]></itunes:duration>
+  <pubDate>Tue, 22 Jan 2013 00:22:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/nibelungenlied_1301_librivox/nibelungenlied_22_shumway_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[How Kriemhild Thought To Avenge Her Wrongs.]]></title>
+    <itunes:episode><![CDATA[23]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-nibelungenlied-by-anonymous/]]></link>
+            <enclosure url="https://www.archive.org/download/nibelungenlied_1301_librivox/nibelungenlied_23_shumway_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:08:39]]></itunes:duration>
+  <pubDate>Tue, 22 Jan 2013 00:23:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/nibelungenlied_1301_librivox/nibelungenlied_23_shumway_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[How Werbel And Swemmel Brought The Message.]]></title>
+    <itunes:episode><![CDATA[24]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-nibelungenlied-by-anonymous/]]></link>
+            <enclosure url="https://www.archive.org/download/nibelungenlied_1301_librivox/nibelungenlied_24_shumway_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:20:37]]></itunes:duration>
+  <pubDate>Tue, 22 Jan 2013 00:24:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/nibelungenlied_1301_librivox/nibelungenlied_24_shumway_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[How The Lords All Journeyed To The Huns.]]></title>
+    <itunes:episode><![CDATA[25]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-nibelungenlied-by-anonymous/]]></link>
+            <enclosure url="https://www.archive.org/download/nibelungenlied_1301_librivox/nibelungenlied_25_shumway_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:20:01]]></itunes:duration>
+  <pubDate>Tue, 22 Jan 2013 00:25:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/nibelungenlied_1301_librivox/nibelungenlied_25_shumway_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[How Gelfrat Was Slain By Dankwart.]]></title>
+    <itunes:episode><![CDATA[26]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-nibelungenlied-by-anonymous/]]></link>
+            <enclosure url="https://www.archive.org/download/nibelungenlied_1301_librivox/nibelungenlied_26_shumway_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:16:41]]></itunes:duration>
+  <pubDate>Tue, 22 Jan 2013 00:26:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/nibelungenlied_1301_librivox/nibelungenlied_26_shumway_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[How They Came To Bechelaren.]]></title>
+    <itunes:episode><![CDATA[27]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-nibelungenlied-by-anonymous/]]></link>
+            <enclosure url="https://www.archive.org/download/nibelungenlied_1301_librivox/nibelungenlied_27_shumway_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:17:10]]></itunes:duration>
+  <pubDate>Tue, 22 Jan 2013 00:27:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/nibelungenlied_1301_librivox/nibelungenlied_27_shumway_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[How The Burgundians Came To Etzel's Castle.]]></title>
+    <itunes:episode><![CDATA[28]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-nibelungenlied-by-anonymous/]]></link>
+            <enclosure url="https://www.archive.org/download/nibelungenlied_1301_librivox/nibelungenlied_28_shumway_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:10:14]]></itunes:duration>
+  <pubDate>Tue, 22 Jan 2013 00:28:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/nibelungenlied_1301_librivox/nibelungenlied_28_shumway_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[How Hagen Would Not Rise For Kriemhild.]]></title>
+    <itunes:episode><![CDATA[29]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-nibelungenlied-by-anonymous/]]></link>
+            <enclosure url="https://www.archive.org/download/nibelungenlied_1301_librivox/nibelungenlied_29_shumway_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:15:12]]></itunes:duration>
+  <pubDate>Tue, 22 Jan 2013 00:29:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/nibelungenlied_1301_librivox/nibelungenlied_29_shumway_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[How They Kept The Watch.]]></title>
+    <itunes:episode><![CDATA[30]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-nibelungenlied-by-anonymous/]]></link>
+            <enclosure url="https://www.archive.org/download/nibelungenlied_1301_librivox/nibelungenlied_30_shumway_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:08:09]]></itunes:duration>
+  <pubDate>Tue, 22 Jan 2013 00:30:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/nibelungenlied_1301_librivox/nibelungenlied_30_shumway_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[How They Went To Church.]]></title>
+    <itunes:episode><![CDATA[31]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-nibelungenlied-by-anonymous/]]></link>
+            <enclosure url="https://www.archive.org/download/nibelungenlied_1301_librivox/nibelungenlied_31_shumway_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:17:40]]></itunes:duration>
+  <pubDate>Tue, 22 Jan 2013 00:31:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/nibelungenlied_1301_librivox/nibelungenlied_31_shumway_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[How Bloedel Was Slain.]]></title>
+    <itunes:episode><![CDATA[32]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-nibelungenlied-by-anonymous/]]></link>
+            <enclosure url="https://www.archive.org/download/nibelungenlied_1301_librivox/nibelungenlied_32_shumway_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:08:14]]></itunes:duration>
+  <pubDate>Tue, 22 Jan 2013 00:32:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/nibelungenlied_1301_librivox/nibelungenlied_32_shumway_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[How The Burgundians Fought The Huns.]]></title>
+    <itunes:episode><![CDATA[33]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-nibelungenlied-by-anonymous/]]></link>
+            <enclosure url="https://www.archive.org/download/nibelungenlied_1301_librivox/nibelungenlied_33_shumway_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:14:31]]></itunes:duration>
+  <pubDate>Tue, 22 Jan 2013 00:33:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/nibelungenlied_1301_librivox/nibelungenlied_33_shumway_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[How They Cast Out The Dead.]]></title>
+    <itunes:episode><![CDATA[34]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-nibelungenlied-by-anonymous/]]></link>
+            <enclosure url="https://www.archive.org/download/nibelungenlied_1301_librivox/nibelungenlied_34_shumway_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:06:19]]></itunes:duration>
+  <pubDate>Tue, 22 Jan 2013 00:34:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/nibelungenlied_1301_librivox/nibelungenlied_34_shumway_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[How Iring Was Slain.]]></title>
+    <itunes:episode><![CDATA[35]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-nibelungenlied-by-anonymous/]]></link>
+            <enclosure url="https://www.archive.org/download/nibelungenlied_1301_librivox/nibelungenlied_35_shumway_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:13:25]]></itunes:duration>
+  <pubDate>Tue, 22 Jan 2013 00:35:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/nibelungenlied_1301_librivox/nibelungenlied_35_shumway_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[How The Queen Gave Orders To Burn the Hall.]]></title>
+    <itunes:episode><![CDATA[36]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-nibelungenlied-by-anonymous/]]></link>
+            <enclosure url="https://www.archive.org/download/nibelungenlied_1301_librivox/nibelungenlied_36_shumway_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:14:54]]></itunes:duration>
+  <pubDate>Tue, 22 Jan 2013 00:36:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/nibelungenlied_1301_librivox/nibelungenlied_36_shumway_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[How Margrave Rudeger Was Slain.]]></title>
+    <itunes:episode><![CDATA[37]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-nibelungenlied-by-anonymous/]]></link>
+            <enclosure url="https://www.archive.org/download/nibelungenlied_1301_librivox/nibelungenlied_37_shumway_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:25:05]]></itunes:duration>
+  <pubDate>Tue, 22 Jan 2013 00:37:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/nibelungenlied_1301_librivox/nibelungenlied_37_shumway_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[How All Sir Dietrich's Warriors Were Slain.]]></title>
+    <itunes:episode><![CDATA[38]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-nibelungenlied-by-anonymous/]]></link>
+            <enclosure url="https://www.archive.org/download/nibelungenlied_1301_librivox/nibelungenlied_38_shumway_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:22:33]]></itunes:duration>
+  <pubDate>Tue, 22 Jan 2013 00:38:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/nibelungenlied_1301_librivox/nibelungenlied_38_shumway_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[How Gunther And Hagen And Kriemhild Were Slain.]]></title>
+    <itunes:episode><![CDATA[39]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-nibelungenlied-by-anonymous/]]></link>
+            <enclosure url="https://www.archive.org/download/nibelungenlied_1301_librivox/nibelungenlied_39_shumway_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:18:56]]></itunes:duration>
+  <pubDate>Tue, 22 Jan 2013 00:39:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/nibelungenlied_1301_librivox/nibelungenlied_39_shumway_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <!-- end file loop -->
+</channel>
+</rss>

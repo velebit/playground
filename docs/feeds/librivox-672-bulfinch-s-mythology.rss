@@ -1,0 +1,529 @@
+<?xml version="1.0" ?><rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+  <title><![CDATA[Bulfinch’s Mythology: The Age of Fable by Thomas Bulfinch (1796 - 1867)]]></title>
+  <link><![CDATA[https://librivox.org/bulfinch-age-of-fable/]]></link>
+  <atom:link rel="self" href="https://librivox.org/rss/672" />
+  <description><![CDATA[Bulfinch’s Mythology, first published in 1855, is one of the most popular collections of mythology of all time. It consists of three volumes: The Age of Fable, The Age of Chivalry, and Legends of Charlemagne. This is a recording of the tenth edition of the first volume, The Age of Fable. It contains many Greek and Roman myths, including simplified versions of The Iliad and The Odyssey, as well as a selection of Norse and “eastern” myths. Thomas Bulfinch’s goal was to make the ancient myths accessible to a wide audience, and so it is suitable for children. (Summary by Kathleen Gatliffe aka TetoYasha)]]></description>
+  <!--<genre>project element=Genre</genre>-->
+  <!--<language>project element=lang.code</language>-->
+  <itunes:type>serial</itunes:type>
+  <itunes:author>LibriVox</itunes:author>
+  <itunes:summary><![CDATA[Bulfinch’s Mythology, first published in 1855, is one of the most popular collections of mythology of all time. It consists of three volumes: The Age of Fable, The Age of Chivalry, and Legends of Charlemagne. This is a recording of the tenth edition of the first volume, The Age of Fable. It contains many Greek and Roman myths, including simplified versions of The Iliad and The Odyssey, as well as a selection of Norse and “eastern” myths. Thomas Bulfinch’s goal was to make the ancient myths accessible to a wide audience, and so it is suitable for children. (Summary by Kathleen Gatliffe aka TetoYasha)]]></itunes:summary>
+  <itunes:owner>
+    <itunes:name>LibriVox</itunes:name>
+    <itunes:email>info@librivox.org</itunes:email>
+  </itunes:owner>
+  <itunes:category text="Arts">
+    <itunes:category text="Literature" />
+  </itunes:category>
+  <image><url>https://www.archive.org/download/LibrivoxCdCoverArt/Age_of_Fable_1003.jpg</url></image>
+  <itunes:image href="https://www.archive.org/download/LibrivoxCdCoverArt/Age_of_Fable_1003.jpg"/>
+  <itunes:explicit>no</itunes:explicit>
+  <!-- file loop -->
+    <item>
+    <title><![CDATA[Publisher's Preface--Author's Preface]]></title>
+    <itunes:episode><![CDATA[0]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/bulfinch-age-of-fable/]]></link>
+            <enclosure url="https://www.archive.org/download/bulfinch_myth_age_fable_0810_librivox3/ageoffable_00_bulfinch_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:16:44]]></itunes:duration>
+  <pubDate>Sat, 11 Oct 2008 00:00:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/bulfinch_myth_age_fable_0810_librivox3/ageoffable_00_bulfinch_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[ Introduction]]></title>
+    <itunes:episode><![CDATA[1]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/bulfinch-age-of-fable/]]></link>
+            <enclosure url="https://www.archive.org/download/bulfinch_myth_age_fable_0810_librivox3/ageoffable_01_bulfinch_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:22:36]]></itunes:duration>
+  <pubDate>Sat, 11 Oct 2008 00:01:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/bulfinch_myth_age_fable_0810_librivox3/ageoffable_01_bulfinch_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Prometheus and Pandora]]></title>
+    <itunes:episode><![CDATA[2]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/bulfinch-age-of-fable/]]></link>
+            <enclosure url="https://www.archive.org/download/bulfinch_myth_age_fable_0810_librivox3/ageoffable_02_bulfinch_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:18:31]]></itunes:duration>
+  <pubDate>Sat, 11 Oct 2008 00:02:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/bulfinch_myth_age_fable_0810_librivox3/ageoffable_02_bulfinch_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Apollo and Daphne--Pyramus and Thisbe--Cephalus and Procris ]]></title>
+    <itunes:episode><![CDATA[3]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/bulfinch-age-of-fable/]]></link>
+            <enclosure url="https://www.archive.org/download/bulfinch_myth_age_fable_0810_librivox3/ageoffable_03_bulfinch_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:20:55]]></itunes:duration>
+  <pubDate>Sat, 11 Oct 2008 00:03:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/bulfinch_myth_age_fable_0810_librivox3/ageoffable_03_bulfinch_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Juno and her Rivals, Io and Callisto--Diana and Actaeon--Latona and the Rustics ]]></title>
+    <itunes:episode><![CDATA[4]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/bulfinch-age-of-fable/]]></link>
+            <enclosure url="https://www.archive.org/download/bulfinch_myth_age_fable_0810_librivox3/ageoffable_04_bulfinch_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:25:16]]></itunes:duration>
+  <pubDate>Sat, 11 Oct 2008 00:04:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/bulfinch_myth_age_fable_0810_librivox3/ageoffable_04_bulfinch_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Phaeton]]></title>
+    <itunes:episode><![CDATA[5]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/bulfinch-age-of-fable/]]></link>
+            <enclosure url="https://www.archive.org/download/bulfinch_myth_age_fable_0810_librivox3/ageoffable_05_bulfinch_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:18:00]]></itunes:duration>
+  <pubDate>Sat, 11 Oct 2008 00:05:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/bulfinch_myth_age_fable_0810_librivox3/ageoffable_05_bulfinch_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Midas--Baucis and Philemon ]]></title>
+    <itunes:episode><![CDATA[6]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/bulfinch-age-of-fable/]]></link>
+            <enclosure url="https://www.archive.org/download/bulfinch_myth_age_fable_0810_librivox3/ageoffable_06_bulfinch_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:15:19]]></itunes:duration>
+  <pubDate>Sat, 11 Oct 2008 00:06:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/bulfinch_myth_age_fable_0810_librivox3/ageoffable_06_bulfinch_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Proserpine--Glaucus and Scylla ]]></title>
+    <itunes:episode><![CDATA[7]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/bulfinch-age-of-fable/]]></link>
+            <enclosure url="https://www.archive.org/download/bulfinch_myth_age_fable_0810_librivox3/ageoffable_07_bulfinch_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:22:45]]></itunes:duration>
+  <pubDate>Sat, 11 Oct 2008 00:07:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/bulfinch_myth_age_fable_0810_librivox3/ageoffable_07_bulfinch_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Pygmalion--Dryope--Venus and Adonis--Apollo and Hyacinthus ]]></title>
+    <itunes:episode><![CDATA[8]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/bulfinch-age-of-fable/]]></link>
+            <enclosure url="https://www.archive.org/download/bulfinch_myth_age_fable_0810_librivox3/ageoffable_08_bulfinch_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:17:52]]></itunes:duration>
+  <pubDate>Sat, 11 Oct 2008 00:08:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/bulfinch_myth_age_fable_0810_librivox3/ageoffable_08_bulfinch_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Ceyx and Halcyone ]]></title>
+    <itunes:episode><![CDATA[9]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/bulfinch-age-of-fable/]]></link>
+            <enclosure url="https://www.archive.org/download/bulfinch_myth_age_fable_0810_librivox3/ageoffable_09_bulfinch_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:18:43]]></itunes:duration>
+  <pubDate>Sat, 11 Oct 2008 00:09:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/bulfinch_myth_age_fable_0810_librivox3/ageoffable_09_bulfinch_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Vertumnus and Pomona--Iphis and Anaxarete ]]></title>
+    <itunes:episode><![CDATA[10]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/bulfinch-age-of-fable/]]></link>
+            <enclosure url="https://www.archive.org/download/bulfinch_myth_age_fable_0810_librivox3/ageoffable_10_bulfinch_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:10:29]]></itunes:duration>
+  <pubDate>Sat, 11 Oct 2008 00:10:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/bulfinch_myth_age_fable_0810_librivox3/ageoffable_10_bulfinch_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Cupid and Psyche ]]></title>
+    <itunes:episode><![CDATA[11]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/bulfinch-age-of-fable/]]></link>
+            <enclosure url="https://www.archive.org/download/bulfinch_myth_age_fable_0810_librivox3/ageoffable_11_bulfinch_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:24:58]]></itunes:duration>
+  <pubDate>Sat, 11 Oct 2008 00:11:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/bulfinch_myth_age_fable_0810_librivox3/ageoffable_11_bulfinch_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Cadmus--The Myrmidons ]]></title>
+    <itunes:episode><![CDATA[12]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/bulfinch-age-of-fable/]]></link>
+            <enclosure url="https://www.archive.org/download/bulfinch_myth_age_fable_0810_librivox3/ageoffable_12_bulfinch_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:18:35]]></itunes:duration>
+  <pubDate>Sat, 11 Oct 2008 00:12:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/bulfinch_myth_age_fable_0810_librivox3/ageoffable_12_bulfinch_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Nisus and Scylla--Echo and Narcissus--Clytie--Hero and Leander ]]></title>
+    <itunes:episode><![CDATA[13]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/bulfinch-age-of-fable/]]></link>
+            <enclosure url="https://www.archive.org/download/bulfinch_myth_age_fable_0810_librivox3/ageoffable_13_bulfinch_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:19:59]]></itunes:duration>
+  <pubDate>Sat, 11 Oct 2008 00:13:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/bulfinch_myth_age_fable_0810_librivox3/ageoffable_13_bulfinch_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Minerva and Arachne--Niobe ]]></title>
+    <itunes:episode><![CDATA[14]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/bulfinch-age-of-fable/]]></link>
+            <enclosure url="https://www.archive.org/download/bulfinch_myth_age_fable_0810_librivox3/ageoffable_14_bulfinch_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:18:25]]></itunes:duration>
+  <pubDate>Sat, 11 Oct 2008 00:14:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/bulfinch_myth_age_fable_0810_librivox3/ageoffable_14_bulfinch_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Graeae and Gorgons--Perseus and Medusa--Atlas--Andromed]]></title>
+    <itunes:episode><![CDATA[15]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/bulfinch-age-of-fable/]]></link>
+            <enclosure url="https://www.archive.org/download/bulfinch_myth_age_fable_0810_librivox3/ageoffable_15_bulfinch_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:18:49]]></itunes:duration>
+  <pubDate>Sat, 11 Oct 2008 00:15:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/bulfinch_myth_age_fable_0810_librivox3/ageoffable_15_bulfinch_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Monsters: Giants--Sphinx--Pegasus and Chimaera--Centaurs--Griffin--Pygmies ]]></title>
+    <itunes:episode><![CDATA[16]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/bulfinch-age-of-fable/]]></link>
+            <enclosure url="https://www.archive.org/download/bulfinch_myth_age_fable_0810_librivox3/ageoffable_16_bulfinch_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:19:02]]></itunes:duration>
+  <pubDate>Sat, 11 Oct 2008 00:16:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/bulfinch_myth_age_fable_0810_librivox3/ageoffable_16_bulfinch_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Golden Fleece--Medea ]]></title>
+    <itunes:episode><![CDATA[17]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/bulfinch-age-of-fable/]]></link>
+            <enclosure url="https://www.archive.org/download/bulfinch_myth_age_fable_0810_librivox3/ageoffable_17_bulfinch_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:19:01]]></itunes:duration>
+  <pubDate>Sat, 11 Oct 2008 00:17:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/bulfinch_myth_age_fable_0810_librivox3/ageoffable_17_bulfinch_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Meleager and Atalanta ]]></title>
+    <itunes:episode><![CDATA[18]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/bulfinch-age-of-fable/]]></link>
+            <enclosure url="https://www.archive.org/download/bulfinch_myth_age_fable_0810_librivox3/ageoffable_18_bulfinch_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:15:02]]></itunes:duration>
+  <pubDate>Sat, 11 Oct 2008 00:18:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/bulfinch_myth_age_fable_0810_librivox3/ageoffable_18_bulfinch_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Hercules--Hebe and Ganymede ]]></title>
+    <itunes:episode><![CDATA[19]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/bulfinch-age-of-fable/]]></link>
+            <enclosure url="https://www.archive.org/download/bulfinch_myth_age_fable_0810_librivox3/ageoffable_19_bulfinch_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:16:17]]></itunes:duration>
+  <pubDate>Sat, 11 Oct 2008 00:19:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/bulfinch_myth_age_fable_0810_librivox3/ageoffable_19_bulfinch_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Theseus and Daedalus--Castor and Pollux--Festivals and Games ]]></title>
+    <itunes:episode><![CDATA[20]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/bulfinch-age-of-fable/]]></link>
+            <enclosure url="https://www.archive.org/download/bulfinch_myth_age_fable_0810_librivox3/ageoffable_20_bulfinch_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:23:26]]></itunes:duration>
+  <pubDate>Sat, 11 Oct 2008 00:20:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/bulfinch_myth_age_fable_0810_librivox3/ageoffable_20_bulfinch_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Bacchus and Ariadne ]]></title>
+    <itunes:episode><![CDATA[21]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/bulfinch-age-of-fable/]]></link>
+            <enclosure url="https://www.archive.org/download/bulfinch_myth_age_fable_0810_librivox3/ageoffable_21_bulfinch_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:14:59]]></itunes:duration>
+  <pubDate>Sat, 11 Oct 2008 00:21:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/bulfinch_myth_age_fable_0810_librivox3/ageoffable_21_bulfinch_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Rural Deities--The Dryads and Erisichthon--Rhoecus--Water Deities--Camenae--Winds ]]></title>
+    <itunes:episode><![CDATA[22]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/bulfinch-age-of-fable/]]></link>
+            <enclosure url="https://www.archive.org/download/bulfinch_myth_age_fable_0810_librivox3/ageoffable_22_bulfinch_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:28:43]]></itunes:duration>
+  <pubDate>Sat, 11 Oct 2008 00:22:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/bulfinch_myth_age_fable_0810_librivox3/ageoffable_22_bulfinch_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Achelous and Hercules--Admetus and Alcestis--Antigone--Penelope ]]></title>
+    <itunes:episode><![CDATA[23]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/bulfinch-age-of-fable/]]></link>
+            <enclosure url="https://www.archive.org/download/bulfinch_myth_age_fable_0810_librivox3/ageoffable_23_bulfinch_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:15:46]]></itunes:duration>
+  <pubDate>Sat, 11 Oct 2008 00:23:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/bulfinch_myth_age_fable_0810_librivox3/ageoffable_23_bulfinch_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Orpheus and Eurydice--Aristaeus--Amphion--Linus--Thamyris--Marsyas--Melampus --Musaeus ]]></title>
+    <itunes:episode><![CDATA[24]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/bulfinch-age-of-fable/]]></link>
+            <enclosure url="https://www.archive.org/download/bulfinch_myth_age_fable_0810_librivox3/ageoffable_24_bulfinch_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:16:00]]></itunes:duration>
+  <pubDate>Sat, 11 Oct 2008 00:24:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/bulfinch_myth_age_fable_0810_librivox3/ageoffable_24_bulfinch_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Arion--Ibycus--Simonides--Sappho ]]></title>
+    <itunes:episode><![CDATA[25]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/bulfinch-age-of-fable/]]></link>
+            <enclosure url="https://www.archive.org/download/bulfinch_myth_age_fable_0810_librivox3/ageoffable_25_bulfinch_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:20:30]]></itunes:duration>
+  <pubDate>Sat, 11 Oct 2008 00:25:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/bulfinch_myth_age_fable_0810_librivox3/ageoffable_25_bulfinch_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Endymion--Orion--Aurora and Tithonus--Acis and Galatea ]]></title>
+    <itunes:episode><![CDATA[26]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/bulfinch-age-of-fable/]]></link>
+            <enclosure url="https://www.archive.org/download/bulfinch_myth_age_fable_0810_librivox3/ageoffable_26_bulfinch_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:16:25]]></itunes:duration>
+  <pubDate>Sat, 11 Oct 2008 00:26:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/bulfinch_myth_age_fable_0810_librivox3/ageoffable_26_bulfinch_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Trojan War ]]></title>
+    <itunes:episode><![CDATA[27]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/bulfinch-age-of-fable/]]></link>
+            <enclosure url="https://www.archive.org/download/bulfinch_myth_age_fable_0810_librivox3/ageoffable_27_bulfinch_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:41:28]]></itunes:duration>
+  <pubDate>Sat, 11 Oct 2008 00:27:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/bulfinch_myth_age_fable_0810_librivox3/ageoffable_27_bulfinch_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Fall of Troy--Return of the Greeks--Orestes and Electra ]]></title>
+    <itunes:episode><![CDATA[28]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/bulfinch-age-of-fable/]]></link>
+            <enclosure url="https://www.archive.org/download/bulfinch_myth_age_fable_0810_librivox3/ageoffable_28_bulfinch_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:27:56]]></itunes:duration>
+  <pubDate>Sat, 11 Oct 2008 00:28:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/bulfinch_myth_age_fable_0810_librivox3/ageoffable_28_bulfinch_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Adventures of Ulysses--The Lotus-eaters--The Cyclopes--Circe--Sirens--Scylla and Charybdis--Calypso ]]></title>
+    <itunes:episode><![CDATA[29]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/bulfinch-age-of-fable/]]></link>
+            <enclosure url="https://www.archive.org/download/bulfinch_myth_age_fable_0810_librivox3/ageoffable_29_bulfinch_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:25:15]]></itunes:duration>
+  <pubDate>Sat, 11 Oct 2008 00:29:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/bulfinch_myth_age_fable_0810_librivox3/ageoffable_29_bulfinch_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Phaeacians--Fate of the Suitors ]]></title>
+    <itunes:episode><![CDATA[30]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/bulfinch-age-of-fable/]]></link>
+            <enclosure url="https://www.archive.org/download/bulfinch_myth_age_fable_0810_librivox3/ageoffable_30_bulfinch_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:24:51]]></itunes:duration>
+  <pubDate>Sat, 11 Oct 2008 00:30:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/bulfinch_myth_age_fable_0810_librivox3/ageoffable_30_bulfinch_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Adventures of Aeneas--The Harpies--Dido--Palinurus ]]></title>
+    <itunes:episode><![CDATA[31]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/bulfinch-age-of-fable/]]></link>
+            <enclosure url="https://www.archive.org/download/bulfinch_myth_age_fable_0810_librivox3/ageoffable_31_bulfinch_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:16:45]]></itunes:duration>
+  <pubDate>Sat, 11 Oct 2008 00:31:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/bulfinch_myth_age_fable_0810_librivox3/ageoffable_31_bulfinch_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Infernal Regions--The Sibyl ]]></title>
+    <itunes:episode><![CDATA[32]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/bulfinch-age-of-fable/]]></link>
+            <enclosure url="https://www.archive.org/download/bulfinch_myth_age_fable_0810_librivox3/ageoffable_32_bulfinch_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:30:41]]></itunes:duration>
+  <pubDate>Sat, 11 Oct 2008 00:32:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/bulfinch_myth_age_fable_0810_librivox3/ageoffable_32_bulfinch_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Aeneas in Italy--Camilla--Evander--Nisus and Euryalus --Mezentius--Turnus ]]></title>
+    <itunes:episode><![CDATA[33]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/bulfinch-age-of-fable/]]></link>
+            <enclosure url="https://www.archive.org/download/bulfinch_myth_age_fable_0810_librivox3/ageoffable_33_bulfinch_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:33:34]]></itunes:duration>
+  <pubDate>Sat, 11 Oct 2008 00:33:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/bulfinch_myth_age_fable_0810_librivox3/ageoffable_33_bulfinch_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Pythagoras--Egyptian Deities--Oracles ]]></title>
+    <itunes:episode><![CDATA[34]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/bulfinch-age-of-fable/]]></link>
+            <enclosure url="https://www.archive.org/download/bulfinch_myth_age_fable_0810_librivox3/ageoffable_34_bulfinch_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:30:11]]></itunes:duration>
+  <pubDate>Sat, 11 Oct 2008 00:34:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/bulfinch_myth_age_fable_0810_librivox3/ageoffable_34_bulfinch_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Origin of Mythology--Statues of Gods and Goddesses --Poets of Mythology ]]></title>
+    <itunes:episode><![CDATA[35]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/bulfinch-age-of-fable/]]></link>
+            <enclosure url="https://www.archive.org/download/bulfinch_myth_age_fable_0810_librivox3/ageoffable_35_bulfinch_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:23:51]]></itunes:duration>
+  <pubDate>Sat, 11 Oct 2008 00:35:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/bulfinch_myth_age_fable_0810_librivox3/ageoffable_35_bulfinch_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Monsters (modern)--The Phoenix--Basilisk--Unicorn--Salamander ]]></title>
+    <itunes:episode><![CDATA[36]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/bulfinch-age-of-fable/]]></link>
+            <enclosure url="https://www.archive.org/download/bulfinch_myth_age_fable_0810_librivox3/ageoffable_36_bulfinch_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:21:00]]></itunes:duration>
+  <pubDate>Sat, 11 Oct 2008 00:36:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/bulfinch_myth_age_fable_0810_librivox3/ageoffable_36_bulfinch_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Eastern Mythology--Zoroaster--Hindu Mythology--Castes--Buddha--The Grand Lama--Prester John ]]></title>
+    <itunes:episode><![CDATA[37]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/bulfinch-age-of-fable/]]></link>
+            <enclosure url="https://www.archive.org/download/bulfinch_myth_age_fable_0810_librivox3/ageoffable_37_bulfinch_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:20:17]]></itunes:duration>
+  <pubDate>Sat, 11 Oct 2008 00:37:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/bulfinch_myth_age_fable_0810_librivox3/ageoffable_37_bulfinch_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Northern Mythology--Valhalla--The Valkyrior ]]></title>
+    <itunes:episode><![CDATA[38]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/bulfinch-age-of-fable/]]></link>
+            <enclosure url="https://www.archive.org/download/bulfinch_myth_age_fable_0810_librivox3/ageoffable_38_bulfinch_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:19:35]]></itunes:duration>
+  <pubDate>Sat, 11 Oct 2008 00:38:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/bulfinch_myth_age_fable_0810_librivox3/ageoffable_38_bulfinch_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Thor's Visit to Jotunheim ]]></title>
+    <itunes:episode><![CDATA[39]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/bulfinch-age-of-fable/]]></link>
+            <enclosure url="https://www.archive.org/download/bulfinch_myth_age_fable_0810_librivox3/ageoffable_39_bulfinch_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:12:53]]></itunes:duration>
+  <pubDate>Sat, 11 Oct 2008 00:39:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/bulfinch_myth_age_fable_0810_librivox3/ageoffable_39_bulfinch_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Death of Baldur--The Elves--Runic Letters--Skalds--Iceland--Teutonic Mythology--The Nibelungen Lied--Wagner's Nibelungen Ring ]]></title>
+    <itunes:episode><![CDATA[40]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/bulfinch-age-of-fable/]]></link>
+            <enclosure url="https://www.archive.org/download/bulfinch_myth_age_fable_0810_librivox3/ageoffable_40_bulfinch_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:28:35]]></itunes:duration>
+  <pubDate>Sat, 11 Oct 2008 00:40:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/bulfinch_myth_age_fable_0810_librivox3/ageoffable_40_bulfinch_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Druids--Iona]]></title>
+    <itunes:episode><![CDATA[41]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/bulfinch-age-of-fable/]]></link>
+            <enclosure url="https://www.archive.org/download/bulfinch_myth_age_fable_0810_librivox3/ageoffable_41_bulfinch_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:23:53]]></itunes:duration>
+  <pubDate>Sat, 11 Oct 2008 00:41:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/bulfinch_myth_age_fable_0810_librivox3/ageoffable_41_bulfinch_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <!-- end file loop -->
+</channel>
+</rss>

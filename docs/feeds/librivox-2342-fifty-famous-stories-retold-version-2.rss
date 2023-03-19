@@ -1,0 +1,637 @@
+<?xml version="1.0" ?><rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+  <title><![CDATA[Fifty Famous Stories Retold (version 2) by James Baldwin (1841 - 1925)]]></title>
+  <link><![CDATA[https://librivox.org/fifty-famous-stories-retold-version-2-by-james-baldwin/]]></link>
+  <atom:link rel="self" href="https://librivox.org/rss/2342" />
+  <description><![CDATA[Some have a slight historical value; some are useful as giving point to certain great moral truths; others are products solely of the fancy, and are intended only to amuse. Some are derived from very ancient sources, and are current in the literature of many lands; some have come to us through the ballads and folk tales of the English people; a few are of quite recent origin (Excerpt from text)]]></description>
+  <!--<genre>project element=Genre</genre>-->
+  <!--<language>project element=lang.code</language>-->
+  <itunes:type>serial</itunes:type>
+  <itunes:author>LibriVox</itunes:author>
+  <itunes:summary><![CDATA[Some have a slight historical value; some are useful as giving point to certain great moral truths; others are products solely of the fancy, and are intended only to amuse. Some are derived from very ancient sources, and are current in the literature of many lands; some have come to us through the ballads and folk tales of the English people; a few are of quite recent origin (Excerpt from text)]]></itunes:summary>
+  <itunes:owner>
+    <itunes:name>LibriVox</itunes:name>
+    <itunes:email>info@librivox.org</itunes:email>
+  </itunes:owner>
+  <itunes:category text="Arts">
+    <itunes:category text="Literature" />
+  </itunes:category>
+  <image><url>https://www.archive.org/download/LibrivoxCdCoverArt14/Fifty_Famous_Stories_Retold_V2_1201.jpg</url></image>
+  <itunes:image href="https://www.archive.org/download/LibrivoxCdCoverArt14/Fifty_Famous_Stories_Retold_V2_1201.jpg"/>
+  <itunes:explicit>no</itunes:explicit>
+  <!-- file loop -->
+    <item>
+    <title><![CDATA[Concerning These Stories]]></title>
+    <itunes:episode><![CDATA[0]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/fifty-famous-stories-retold-version-2-by-james-baldwin/]]></link>
+            <enclosure url="https://www.archive.org/download/fifty_famous_stories_ver2_0809_librivox/50famousstoriesretold_00_baldwin_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:03:10]]></itunes:duration>
+  <pubDate>Wed, 01 Oct 2008 00:00:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/fifty_famous_stories_ver2_0809_librivox/50famousstoriesretold_00_baldwin_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[King Alfred and the Cakes]]></title>
+    <itunes:episode><![CDATA[1]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/fifty-famous-stories-retold-version-2-by-james-baldwin/]]></link>
+            <enclosure url="https://www.archive.org/download/fifty_famous_stories_ver2_0809_librivox/50famousstoriesretold_01_baldwin_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:03:45]]></itunes:duration>
+  <pubDate>Wed, 01 Oct 2008 00:01:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/fifty_famous_stories_ver2_0809_librivox/50famousstoriesretold_01_baldwin_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[King Alfred and the Beggar]]></title>
+    <itunes:episode><![CDATA[2]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/fifty-famous-stories-retold-version-2-by-james-baldwin/]]></link>
+            <enclosure url="https://www.archive.org/download/fifty_famous_stories_ver2_0809_librivox/50famousstoriesretold_02_baldwin_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:03:56]]></itunes:duration>
+  <pubDate>Wed, 01 Oct 2008 00:02:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/fifty_famous_stories_ver2_0809_librivox/50famousstoriesretold_02_baldwin_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[King Canute on the Seashore]]></title>
+    <itunes:episode><![CDATA[3]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/fifty-famous-stories-retold-version-2-by-james-baldwin/]]></link>
+            <enclosure url="https://www.archive.org/download/fifty_famous_stories_ver2_0809_librivox/50famousstoriesretold_03_baldwin_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:02:50]]></itunes:duration>
+  <pubDate>Wed, 01 Oct 2008 00:03:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/fifty_famous_stories_ver2_0809_librivox/50famousstoriesretold_03_baldwin_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Sons of William the Conqueror]]></title>
+    <itunes:episode><![CDATA[4]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/fifty-famous-stories-retold-version-2-by-james-baldwin/]]></link>
+            <enclosure url="https://www.archive.org/download/fifty_famous_stories_ver2_0809_librivox/50famousstoriesretold_04_baldwin_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:06:05]]></itunes:duration>
+  <pubDate>Wed, 01 Oct 2008 00:04:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/fifty_famous_stories_ver2_0809_librivox/50famousstoriesretold_04_baldwin_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The White Ship]]></title>
+    <itunes:episode><![CDATA[5]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/fifty-famous-stories-retold-version-2-by-james-baldwin/]]></link>
+            <enclosure url="https://www.archive.org/download/fifty_famous_stories_ver2_0809_librivox/50famousstoriesretold_05_baldwin_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:06:01]]></itunes:duration>
+  <pubDate>Wed, 01 Oct 2008 00:05:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/fifty_famous_stories_ver2_0809_librivox/50famousstoriesretold_05_baldwin_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[King John and the Abbot]]></title>
+    <itunes:episode><![CDATA[6]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/fifty-famous-stories-retold-version-2-by-james-baldwin/]]></link>
+            <enclosure url="https://www.archive.org/download/fifty_famous_stories_ver2_0809_librivox/50famousstoriesretold_06_baldwin_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:08:15]]></itunes:duration>
+  <pubDate>Wed, 01 Oct 2008 00:06:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/fifty_famous_stories_ver2_0809_librivox/50famousstoriesretold_06_baldwin_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[A Story of Robin Hood]]></title>
+    <itunes:episode><![CDATA[7]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/fifty-famous-stories-retold-version-2-by-james-baldwin/]]></link>
+            <enclosure url="https://www.archive.org/download/fifty_famous_stories_ver2_0809_librivox/50famousstoriesretold_07_baldwin_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:05:34]]></itunes:duration>
+  <pubDate>Wed, 01 Oct 2008 00:07:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/fifty_famous_stories_ver2_0809_librivox/50famousstoriesretold_07_baldwin_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Bruce and the Spider]]></title>
+    <itunes:episode><![CDATA[8]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/fifty-famous-stories-retold-version-2-by-james-baldwin/]]></link>
+            <enclosure url="https://www.archive.org/download/fifty_famous_stories_ver2_0809_librivox/50famousstoriesretold_08_baldwin_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:02:58]]></itunes:duration>
+  <pubDate>Wed, 01 Oct 2008 00:08:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/fifty_famous_stories_ver2_0809_librivox/50famousstoriesretold_08_baldwin_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Black Douglas]]></title>
+    <itunes:episode><![CDATA[9]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/fifty-famous-stories-retold-version-2-by-james-baldwin/]]></link>
+            <enclosure url="https://www.archive.org/download/fifty_famous_stories_ver2_0809_librivox/50famousstoriesretold_09_baldwin_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:03:54]]></itunes:duration>
+  <pubDate>Wed, 01 Oct 2008 00:09:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/fifty_famous_stories_ver2_0809_librivox/50famousstoriesretold_09_baldwin_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Three Men of Gotham]]></title>
+    <itunes:episode><![CDATA[10]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/fifty-famous-stories-retold-version-2-by-james-baldwin/]]></link>
+            <enclosure url="https://www.archive.org/download/fifty_famous_stories_ver2_0809_librivox/50famousstoriesretold_10_baldwin_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:02:41]]></itunes:duration>
+  <pubDate>Wed, 01 Oct 2008 00:10:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/fifty_famous_stories_ver2_0809_librivox/50famousstoriesretold_10_baldwin_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Other Wise Men of Gotham]]></title>
+    <itunes:episode><![CDATA[11]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/fifty-famous-stories-retold-version-2-by-james-baldwin/]]></link>
+            <enclosure url="https://www.archive.org/download/fifty_famous_stories_ver2_0809_librivox/50famousstoriesretold_11_baldwin_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:04:53]]></itunes:duration>
+  <pubDate>Wed, 01 Oct 2008 00:11:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/fifty_famous_stories_ver2_0809_librivox/50famousstoriesretold_11_baldwin_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Miller of the Dee]]></title>
+    <itunes:episode><![CDATA[12]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/fifty-famous-stories-retold-version-2-by-james-baldwin/]]></link>
+            <enclosure url="https://www.archive.org/download/fifty_famous_stories_ver2_0809_librivox/50famousstoriesretold_12_baldwin_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:02:55]]></itunes:duration>
+  <pubDate>Wed, 01 Oct 2008 00:12:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/fifty_famous_stories_ver2_0809_librivox/50famousstoriesretold_12_baldwin_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Sir Philip Sidney]]></title>
+    <itunes:episode><![CDATA[13]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/fifty-famous-stories-retold-version-2-by-james-baldwin/]]></link>
+            <enclosure url="https://www.archive.org/download/fifty_famous_stories_ver2_0809_librivox/50famousstoriesretold_13_baldwin_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:02:08]]></itunes:duration>
+  <pubDate>Wed, 01 Oct 2008 00:13:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/fifty_famous_stories_ver2_0809_librivox/50famousstoriesretold_13_baldwin_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Ungrateful Soldier]]></title>
+    <itunes:episode><![CDATA[14]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/fifty-famous-stories-retold-version-2-by-james-baldwin/]]></link>
+            <enclosure url="https://www.archive.org/download/fifty_famous_stories_ver2_0809_librivox/50famousstoriesretold_14_baldwin_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:02:04]]></itunes:duration>
+  <pubDate>Wed, 01 Oct 2008 00:14:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/fifty_famous_stories_ver2_0809_librivox/50famousstoriesretold_14_baldwin_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Sir Humphrey Gilbert]]></title>
+    <itunes:episode><![CDATA[15]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/fifty-famous-stories-retold-version-2-by-james-baldwin/]]></link>
+            <enclosure url="https://www.archive.org/download/fifty_famous_stories_ver2_0809_librivox/50famousstoriesretold_15_baldwin_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:01:49]]></itunes:duration>
+  <pubDate>Wed, 01 Oct 2008 00:15:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/fifty_famous_stories_ver2_0809_librivox/50famousstoriesretold_15_baldwin_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Sir Walter Raleigh]]></title>
+    <itunes:episode><![CDATA[16]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/fifty-famous-stories-retold-version-2-by-james-baldwin/]]></link>
+            <enclosure url="https://www.archive.org/download/fifty_famous_stories_ver2_0809_librivox/50famousstoriesretold_16_baldwin_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:04:24]]></itunes:duration>
+  <pubDate>Wed, 01 Oct 2008 00:16:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/fifty_famous_stories_ver2_0809_librivox/50famousstoriesretold_16_baldwin_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Pocahontas]]></title>
+    <itunes:episode><![CDATA[17]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/fifty-famous-stories-retold-version-2-by-james-baldwin/]]></link>
+            <enclosure url="https://www.archive.org/download/fifty_famous_stories_ver2_0809_librivox/50famousstoriesretold_17_baldwin_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:01:59]]></itunes:duration>
+  <pubDate>Wed, 01 Oct 2008 00:17:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/fifty_famous_stories_ver2_0809_librivox/50famousstoriesretold_17_baldwin_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[George Washington and his Hatchet]]></title>
+    <itunes:episode><![CDATA[18]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/fifty-famous-stories-retold-version-2-by-james-baldwin/]]></link>
+            <enclosure url="https://www.archive.org/download/fifty_famous_stories_ver2_0809_librivox/50famousstoriesretold_18_baldwin_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:01:49]]></itunes:duration>
+  <pubDate>Wed, 01 Oct 2008 00:18:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/fifty_famous_stories_ver2_0809_librivox/50famousstoriesretold_18_baldwin_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Grace Darling]]></title>
+    <itunes:episode><![CDATA[19]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/fifty-famous-stories-retold-version-2-by-james-baldwin/]]></link>
+            <enclosure url="https://www.archive.org/download/fifty_famous_stories_ver2_0809_librivox/50famousstoriesretold_19_baldwin_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:03:19]]></itunes:duration>
+  <pubDate>Wed, 01 Oct 2008 00:19:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/fifty_famous_stories_ver2_0809_librivox/50famousstoriesretold_19_baldwin_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Story of William Tell]]></title>
+    <itunes:episode><![CDATA[20]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/fifty-famous-stories-retold-version-2-by-james-baldwin/]]></link>
+            <enclosure url="https://www.archive.org/download/fifty_famous_stories_ver2_0809_librivox/50famousstoriesretold_20_baldwin_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:02:57]]></itunes:duration>
+  <pubDate>Wed, 01 Oct 2008 00:20:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/fifty_famous_stories_ver2_0809_librivox/50famousstoriesretold_20_baldwin_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Arnold Winkelried]]></title>
+    <itunes:episode><![CDATA[21]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/fifty-famous-stories-retold-version-2-by-james-baldwin/]]></link>
+            <enclosure url="https://www.archive.org/download/fifty_famous_stories_ver2_0809_librivox/50famousstoriesretold_21_baldwin_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:03:03]]></itunes:duration>
+  <pubDate>Wed, 01 Oct 2008 00:21:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/fifty_famous_stories_ver2_0809_librivox/50famousstoriesretold_21_baldwin_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Bell of Atri]]></title>
+    <itunes:episode><![CDATA[22]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/fifty-famous-stories-retold-version-2-by-james-baldwin/]]></link>
+            <enclosure url="https://www.archive.org/download/fifty_famous_stories_ver2_0809_librivox/50famousstoriesretold_22_baldwin_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:07:01]]></itunes:duration>
+  <pubDate>Wed, 01 Oct 2008 00:22:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/fifty_famous_stories_ver2_0809_librivox/50famousstoriesretold_22_baldwin_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[How Napoleon Crossed the Alps]]></title>
+    <itunes:episode><![CDATA[23]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/fifty-famous-stories-retold-version-2-by-james-baldwin/]]></link>
+            <enclosure url="https://www.archive.org/download/fifty_famous_stories_ver2_0809_librivox/50famousstoriesretold_23_baldwin_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:01:47]]></itunes:duration>
+  <pubDate>Wed, 01 Oct 2008 00:23:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/fifty_famous_stories_ver2_0809_librivox/50famousstoriesretold_23_baldwin_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Story of Cincinnatus]]></title>
+    <itunes:episode><![CDATA[24]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/fifty-famous-stories-retold-version-2-by-james-baldwin/]]></link>
+            <enclosure url="https://www.archive.org/download/fifty_famous_stories_ver2_0809_librivox/50famousstoriesretold_24_baldwin_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:07:09]]></itunes:duration>
+  <pubDate>Wed, 01 Oct 2008 00:24:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/fifty_famous_stories_ver2_0809_librivox/50famousstoriesretold_24_baldwin_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Story of Regulus]]></title>
+    <itunes:episode><![CDATA[25]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/fifty-famous-stories-retold-version-2-by-james-baldwin/]]></link>
+            <enclosure url="https://www.archive.org/download/fifty_famous_stories_ver2_0809_librivox/50famousstoriesretold_25_baldwin_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:04:55]]></itunes:duration>
+  <pubDate>Wed, 01 Oct 2008 00:25:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/fifty_famous_stories_ver2_0809_librivox/50famousstoriesretold_25_baldwin_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Cornelia's Jewels]]></title>
+    <itunes:episode><![CDATA[26]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/fifty-famous-stories-retold-version-2-by-james-baldwin/]]></link>
+            <enclosure url="https://www.archive.org/download/fifty_famous_stories_ver2_0809_librivox/50famousstoriesretold_26_baldwin_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:04:27]]></itunes:duration>
+  <pubDate>Wed, 01 Oct 2008 00:26:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/fifty_famous_stories_ver2_0809_librivox/50famousstoriesretold_26_baldwin_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Androclus and the Lion]]></title>
+    <itunes:episode><![CDATA[27]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/fifty-famous-stories-retold-version-2-by-james-baldwin/]]></link>
+            <enclosure url="https://www.archive.org/download/fifty_famous_stories_ver2_0809_librivox/50famousstoriesretold_27_baldwin_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:04:57]]></itunes:duration>
+  <pubDate>Wed, 01 Oct 2008 00:27:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/fifty_famous_stories_ver2_0809_librivox/50famousstoriesretold_27_baldwin_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Horatius at the Bridge]]></title>
+    <itunes:episode><![CDATA[28]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/fifty-famous-stories-retold-version-2-by-james-baldwin/]]></link>
+            <enclosure url="https://www.archive.org/download/fifty_famous_stories_ver2_0809_librivox/50famousstoriesretold_28_baldwin_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:06:00]]></itunes:duration>
+  <pubDate>Wed, 01 Oct 2008 00:28:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/fifty_famous_stories_ver2_0809_librivox/50famousstoriesretold_28_baldwin_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Julius Cæsar]]></title>
+    <itunes:episode><![CDATA[29]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/fifty-famous-stories-retold-version-2-by-james-baldwin/]]></link>
+            <enclosure url="https://www.archive.org/download/fifty_famous_stories_ver2_0809_librivox/50famousstoriesretold_29_baldwin_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:02:27]]></itunes:duration>
+  <pubDate>Wed, 01 Oct 2008 00:29:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/fifty_famous_stories_ver2_0809_librivox/50famousstoriesretold_29_baldwin_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Sword of Damocles]]></title>
+    <itunes:episode><![CDATA[30]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/fifty-famous-stories-retold-version-2-by-james-baldwin/]]></link>
+            <enclosure url="https://www.archive.org/download/fifty_famous_stories_ver2_0809_librivox/50famousstoriesretold_30_baldwin_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:03:15]]></itunes:duration>
+  <pubDate>Wed, 01 Oct 2008 00:30:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/fifty_famous_stories_ver2_0809_librivox/50famousstoriesretold_30_baldwin_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Damon and Pythias]]></title>
+    <itunes:episode><![CDATA[31]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/fifty-famous-stories-retold-version-2-by-james-baldwin/]]></link>
+            <enclosure url="https://www.archive.org/download/fifty_famous_stories_ver2_0809_librivox/50famousstoriesretold_31_baldwin_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:02:56]]></itunes:duration>
+  <pubDate>Wed, 01 Oct 2008 00:31:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/fifty_famous_stories_ver2_0809_librivox/50famousstoriesretold_31_baldwin_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[A Laconic Answer]]></title>
+    <itunes:episode><![CDATA[32]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/fifty-famous-stories-retold-version-2-by-james-baldwin/]]></link>
+            <enclosure url="https://www.archive.org/download/fifty_famous_stories_ver2_0809_librivox/50famousstoriesretold_32_baldwin_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:02:03]]></itunes:duration>
+  <pubDate>Wed, 01 Oct 2008 00:32:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/fifty_famous_stories_ver2_0809_librivox/50famousstoriesretold_32_baldwin_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Ungrateful Guest]]></title>
+    <itunes:episode><![CDATA[33]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/fifty-famous-stories-retold-version-2-by-james-baldwin/]]></link>
+            <enclosure url="https://www.archive.org/download/fifty_famous_stories_ver2_0809_librivox/50famousstoriesretold_33_baldwin_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:02:16]]></itunes:duration>
+  <pubDate>Wed, 01 Oct 2008 00:33:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/fifty_famous_stories_ver2_0809_librivox/50famousstoriesretold_33_baldwin_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Alexander and Bucephalus]]></title>
+    <itunes:episode><![CDATA[34]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/fifty-famous-stories-retold-version-2-by-james-baldwin/]]></link>
+            <enclosure url="https://www.archive.org/download/fifty_famous_stories_ver2_0809_librivox/50famousstoriesretold_34_baldwin_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:02:45]]></itunes:duration>
+  <pubDate>Wed, 01 Oct 2008 00:34:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/fifty_famous_stories_ver2_0809_librivox/50famousstoriesretold_34_baldwin_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Diogenes the Wise Man]]></title>
+    <itunes:episode><![CDATA[35]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/fifty-famous-stories-retold-version-2-by-james-baldwin/]]></link>
+            <enclosure url="https://www.archive.org/download/fifty_famous_stories_ver2_0809_librivox/50famousstoriesretold_35_baldwin_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:02:31]]></itunes:duration>
+  <pubDate>Wed, 01 Oct 2008 00:35:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/fifty_famous_stories_ver2_0809_librivox/50famousstoriesretold_35_baldwin_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Brave Three Hundred]]></title>
+    <itunes:episode><![CDATA[36]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/fifty-famous-stories-retold-version-2-by-james-baldwin/]]></link>
+            <enclosure url="https://www.archive.org/download/fifty_famous_stories_ver2_0809_librivox/50famousstoriesretold_36_baldwin_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:02:42]]></itunes:duration>
+  <pubDate>Wed, 01 Oct 2008 00:36:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/fifty_famous_stories_ver2_0809_librivox/50famousstoriesretold_36_baldwin_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Socrates and his House]]></title>
+    <itunes:episode><![CDATA[37]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/fifty-famous-stories-retold-version-2-by-james-baldwin/]]></link>
+            <enclosure url="https://www.archive.org/download/fifty_famous_stories_ver2_0809_librivox/50famousstoriesretold_37_baldwin_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:01:10]]></itunes:duration>
+  <pubDate>Wed, 01 Oct 2008 00:37:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/fifty_famous_stories_ver2_0809_librivox/50famousstoriesretold_37_baldwin_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The King and his Hawk]]></title>
+    <itunes:episode><![CDATA[38]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/fifty-famous-stories-retold-version-2-by-james-baldwin/]]></link>
+            <enclosure url="https://www.archive.org/download/fifty_famous_stories_ver2_0809_librivox/50famousstoriesretold_38_baldwin_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:04:53]]></itunes:duration>
+  <pubDate>Wed, 01 Oct 2008 00:38:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/fifty_famous_stories_ver2_0809_librivox/50famousstoriesretold_38_baldwin_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Doctor Goldsmith]]></title>
+    <itunes:episode><![CDATA[39]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/fifty-famous-stories-retold-version-2-by-james-baldwin/]]></link>
+            <enclosure url="https://www.archive.org/download/fifty_famous_stories_ver2_0809_librivox/50famousstoriesretold_39_baldwin_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:02:08]]></itunes:duration>
+  <pubDate>Wed, 01 Oct 2008 00:39:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/fifty_famous_stories_ver2_0809_librivox/50famousstoriesretold_39_baldwin_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Kingdoms]]></title>
+    <itunes:episode><![CDATA[40]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/fifty-famous-stories-retold-version-2-by-james-baldwin/]]></link>
+            <enclosure url="https://www.archive.org/download/fifty_famous_stories_ver2_0809_librivox/50famousstoriesretold_40_baldwin_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:04:54]]></itunes:duration>
+  <pubDate>Wed, 01 Oct 2008 00:40:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/fifty_famous_stories_ver2_0809_librivox/50famousstoriesretold_40_baldwin_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Barmecide Feast]]></title>
+    <itunes:episode><![CDATA[41]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/fifty-famous-stories-retold-version-2-by-james-baldwin/]]></link>
+            <enclosure url="https://www.archive.org/download/fifty_famous_stories_ver2_0809_librivox/50famousstoriesretold_41_baldwin_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:04:52]]></itunes:duration>
+  <pubDate>Wed, 01 Oct 2008 00:41:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/fifty_famous_stories_ver2_0809_librivox/50famousstoriesretold_41_baldwin_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Endless Tale]]></title>
+    <itunes:episode><![CDATA[42]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/fifty-famous-stories-retold-version-2-by-james-baldwin/]]></link>
+            <enclosure url="https://www.archive.org/download/fifty_famous_stories_ver2_0809_librivox/50famousstoriesretold_42_baldwin_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:04:32]]></itunes:duration>
+  <pubDate>Wed, 01 Oct 2008 00:42:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/fifty_famous_stories_ver2_0809_librivox/50famousstoriesretold_42_baldwin_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Blind Men and the Elephant]]></title>
+    <itunes:episode><![CDATA[43]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/fifty-famous-stories-retold-version-2-by-james-baldwin/]]></link>
+            <enclosure url="https://www.archive.org/download/fifty_famous_stories_ver2_0809_librivox/50famousstoriesretold_43_baldwin_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:03:11]]></itunes:duration>
+  <pubDate>Wed, 01 Oct 2008 00:43:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/fifty_famous_stories_ver2_0809_librivox/50famousstoriesretold_43_baldwin_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Maximilian and the Goose Boy]]></title>
+    <itunes:episode><![CDATA[44]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/fifty-famous-stories-retold-version-2-by-james-baldwin/]]></link>
+            <enclosure url="https://www.archive.org/download/fifty_famous_stories_ver2_0809_librivox/50famousstoriesretold_44_baldwin_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:04:11]]></itunes:duration>
+  <pubDate>Wed, 01 Oct 2008 00:44:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/fifty_famous_stories_ver2_0809_librivox/50famousstoriesretold_44_baldwin_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Inchcape Rock]]></title>
+    <itunes:episode><![CDATA[45]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/fifty-famous-stories-retold-version-2-by-james-baldwin/]]></link>
+            <enclosure url="https://www.archive.org/download/fifty_famous_stories_ver2_0809_librivox/50famousstoriesretold_45_baldwin_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:03:50]]></itunes:duration>
+  <pubDate>Wed, 01 Oct 2008 00:45:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/fifty_famous_stories_ver2_0809_librivox/50famousstoriesretold_45_baldwin_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Whittington and his Cat]]></title>
+    <itunes:episode><![CDATA[46]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/fifty-famous-stories-retold-version-2-by-james-baldwin/]]></link>
+            <enclosure url="https://www.archive.org/download/fifty_famous_stories_ver2_0809_librivox/50famousstoriesretold_46_baldwin_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:14:01]]></itunes:duration>
+  <pubDate>Wed, 01 Oct 2008 00:46:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/fifty_famous_stories_ver2_0809_librivox/50famousstoriesretold_46_baldwin_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Casabianca]]></title>
+    <itunes:episode><![CDATA[47]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/fifty-famous-stories-retold-version-2-by-james-baldwin/]]></link>
+            <enclosure url="https://www.archive.org/download/fifty_famous_stories_ver2_0809_librivox/50famousstoriesretold_47_baldwin_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:03:37]]></itunes:duration>
+  <pubDate>Wed, 01 Oct 2008 00:47:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/fifty_famous_stories_ver2_0809_librivox/50famousstoriesretold_47_baldwin_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Antonio Canova]]></title>
+    <itunes:episode><![CDATA[48]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/fifty-famous-stories-retold-version-2-by-james-baldwin/]]></link>
+            <enclosure url="https://www.archive.org/download/fifty_famous_stories_ver2_0809_librivox/50famousstoriesretold_48_baldwin_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:06:06]]></itunes:duration>
+  <pubDate>Wed, 01 Oct 2008 00:48:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/fifty_famous_stories_ver2_0809_librivox/50famousstoriesretold_48_baldwin_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Picciola]]></title>
+    <itunes:episode><![CDATA[49]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/fifty-famous-stories-retold-version-2-by-james-baldwin/]]></link>
+            <enclosure url="https://www.archive.org/download/fifty_famous_stories_ver2_0809_librivox/50famousstoriesretold_49_baldwin_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:07:20]]></itunes:duration>
+  <pubDate>Wed, 01 Oct 2008 00:49:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/fifty_famous_stories_ver2_0809_librivox/50famousstoriesretold_49_baldwin_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Mignon]]></title>
+    <itunes:episode><![CDATA[50]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/fifty-famous-stories-retold-version-2-by-james-baldwin/]]></link>
+            <enclosure url="https://www.archive.org/download/fifty_famous_stories_ver2_0809_librivox/50famousstoriesretold_50_baldwin_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:05:44]]></itunes:duration>
+  <pubDate>Wed, 01 Oct 2008 00:50:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/fifty_famous_stories_ver2_0809_librivox/50famousstoriesretold_50_baldwin_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <!-- end file loop -->
+</channel>
+</rss>

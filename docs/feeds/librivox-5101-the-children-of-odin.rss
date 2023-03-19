@@ -1,0 +1,349 @@
+<?xml version="1.0" ?><rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+  <title><![CDATA[Children of Odin, The by Pádraic Colum (1881 - 1972)]]></title>
+  <link><![CDATA[https://librivox.org/the-children-of-odin-by-padraic-colum/]]></link>
+  <atom:link rel="self" href="https://librivox.org/rss/5101" />
+  <description><![CDATA[Master storyteller Padraic Colum's rich, musical voice captures all the magic and majesty of the Norse sagas in his retellings of the adventures of the gods and goddesses who lived in the Northern paradise of Asgard before the dawn of history.  Here are the matchless tales of All-Father Odin, who crosses the Rainbow Bridge to walk among men in Midgard and sacrifices his right eye to drink from the Well of Wisdom; of Thor, whose mighty hammer defends Asgard; of Loki, whose mischievous cunning leads him to treachery against the gods; of giants, dragons, dwarfs and Valkyries; and of the terrible last battle that destroyed their world. (Summary from Project Gutenberg)]]></description>
+  <!--<genre>project element=Genre</genre>-->
+  <!--<language>project element=lang.code</language>-->
+  <itunes:type>serial</itunes:type>
+  <itunes:author>LibriVox</itunes:author>
+  <itunes:summary><![CDATA[Master storyteller Padraic Colum's rich, musical voice captures all the magic and majesty of the Norse sagas in his retellings of the adventures of the gods and goddesses who lived in the Northern paradise of Asgard before the dawn of history.  Here are the matchless tales of All-Father Odin, who crosses the Rainbow Bridge to walk among men in Midgard and sacrifices his right eye to drink from the Well of Wisdom; of Thor, whose mighty hammer defends Asgard; of Loki, whose mischievous cunning leads him to treachery against the gods; of giants, dragons, dwarfs and Valkyries; and of the terrible last battle that destroyed their world. (Summary from Project Gutenberg)]]></itunes:summary>
+  <itunes:owner>
+    <itunes:name>LibriVox</itunes:name>
+    <itunes:email>info@librivox.org</itunes:email>
+  </itunes:owner>
+  <itunes:category text="Arts">
+    <itunes:category text="Literature" />
+  </itunes:category>
+  <image><url>https://www.archive.org/download/LibrivoxCdCoverArt7/Children_of_Odin_1102.jpg</url></image>
+  <itunes:image href="https://www.archive.org/download/LibrivoxCdCoverArt7/Children_of_Odin_1102.jpg"/>
+  <itunes:explicit>no</itunes:explicit>
+  <!-- file loop -->
+    <item>
+    <title><![CDATA[Part 1, Chapters 1 and 2]]></title>
+    <itunes:episode><![CDATA[1]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-children-of-odin-by-padraic-colum/]]></link>
+            <enclosure url="https://www.archive.org/download/childrenofodin_etk_librivox/childrenofodin_01_colum_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:14:31]]></itunes:duration>
+  <pubDate>Fri, 11 Feb 2011 00:00:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/childrenofodin_etk_librivox/childrenofodin_01_colum_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Part 1, Chapter 3]]></title>
+    <itunes:episode><![CDATA[2]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-children-of-odin-by-padraic-colum/]]></link>
+            <enclosure url="https://www.archive.org/download/childrenofodin_etk_librivox/childrenofodin_02_colum_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:20:56]]></itunes:duration>
+  <pubDate>Fri, 11 Feb 2011 00:01:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/childrenofodin_etk_librivox/childrenofodin_02_colum_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Part 1, Chapter 4]]></title>
+    <itunes:episode><![CDATA[3]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-children-of-odin-by-padraic-colum/]]></link>
+            <enclosure url="https://www.archive.org/download/childrenofodin_etk_librivox/childrenofodin_03_colum_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:10:24]]></itunes:duration>
+  <pubDate>Fri, 11 Feb 2011 00:02:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/childrenofodin_etk_librivox/childrenofodin_03_colum_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Part 1, Chapter 5]]></title>
+    <itunes:episode><![CDATA[4]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-children-of-odin-by-padraic-colum/]]></link>
+            <enclosure url="https://www.archive.org/download/childrenofodin_etk_librivox/childrenofodin_04_colum_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:15:43]]></itunes:duration>
+  <pubDate>Fri, 11 Feb 2011 00:03:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/childrenofodin_etk_librivox/childrenofodin_04_colum_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Part 1, Chapter 6]]></title>
+    <itunes:episode><![CDATA[5]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-children-of-odin-by-padraic-colum/]]></link>
+            <enclosure url="https://www.archive.org/download/childrenofodin_etk_librivox/childrenofodin_05_colum_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:10:35]]></itunes:duration>
+  <pubDate>Fri, 11 Feb 2011 00:04:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/childrenofodin_etk_librivox/childrenofodin_05_colum_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Part 1, Chapter 7]]></title>
+    <itunes:episode><![CDATA[6]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-children-of-odin-by-padraic-colum/]]></link>
+            <enclosure url="https://www.archive.org/download/childrenofodin_etk_librivox/childrenofodin_06_colum_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:14:49]]></itunes:duration>
+  <pubDate>Fri, 11 Feb 2011 00:05:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/childrenofodin_etk_librivox/childrenofodin_06_colum_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Part 1, Chapters 8 and 9]]></title>
+    <itunes:episode><![CDATA[7]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-children-of-odin-by-padraic-colum/]]></link>
+            <enclosure url="https://www.archive.org/download/childrenofodin_etk_librivox/childrenofodin_07_colum_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:19:38]]></itunes:duration>
+  <pubDate>Fri, 11 Feb 2011 00:06:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/childrenofodin_etk_librivox/childrenofodin_07_colum_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Part 2, Chapter 1 ]]></title>
+    <itunes:episode><![CDATA[8]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-children-of-odin-by-padraic-colum/]]></link>
+            <enclosure url="https://www.archive.org/download/childrenofodin_etk_librivox/childrenofodin_08_colum_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:08:01]]></itunes:duration>
+  <pubDate>Fri, 11 Feb 2011 00:07:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/childrenofodin_etk_librivox/childrenofodin_08_colum_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Part 2, Chapter 2]]></title>
+    <itunes:episode><![CDATA[9]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-children-of-odin-by-padraic-colum/]]></link>
+            <enclosure url="https://www.archive.org/download/childrenofodin_etk_librivox/childrenofodin_09_colum_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:11:12]]></itunes:duration>
+  <pubDate>Fri, 11 Feb 2011 00:08:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/childrenofodin_etk_librivox/childrenofodin_09_colum_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Part 2, Chapters 3 and 4]]></title>
+    <itunes:episode><![CDATA[10]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-children-of-odin-by-padraic-colum/]]></link>
+            <enclosure url="https://www.archive.org/download/childrenofodin_etk_librivox/childrenofodin_10_colum_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:16:38]]></itunes:duration>
+  <pubDate>Fri, 11 Feb 2011 00:09:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/childrenofodin_etk_librivox/childrenofodin_10_colum_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Part 2, Chapter 5]]></title>
+    <itunes:episode><![CDATA[11]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-children-of-odin-by-padraic-colum/]]></link>
+            <enclosure url="https://www.archive.org/download/childrenofodin_etk_librivox/childrenofodin_11_colum_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:20:36]]></itunes:duration>
+  <pubDate>Fri, 11 Feb 2011 00:10:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/childrenofodin_etk_librivox/childrenofodin_11_colum_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Part 2, Chapter 6]]></title>
+    <itunes:episode><![CDATA[12]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-children-of-odin-by-padraic-colum/]]></link>
+            <enclosure url="https://www.archive.org/download/childrenofodin_etk_librivox/childrenofodin_12_colum_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:12:31]]></itunes:duration>
+  <pubDate>Fri, 11 Feb 2011 00:11:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/childrenofodin_etk_librivox/childrenofodin_12_colum_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Part 2, Chapter 7]]></title>
+    <itunes:episode><![CDATA[13]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-children-of-odin-by-padraic-colum/]]></link>
+            <enclosure url="https://www.archive.org/download/childrenofodin_etk_librivox/childrenofodin_13_colum_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:17:16]]></itunes:duration>
+  <pubDate>Fri, 11 Feb 2011 00:12:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/childrenofodin_etk_librivox/childrenofodin_13_colum_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Part 2, Chapter 8]]></title>
+    <itunes:episode><![CDATA[14]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-children-of-odin-by-padraic-colum/]]></link>
+            <enclosure url="https://www.archive.org/download/childrenofodin_etk_librivox/childrenofodin_14_colum_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:20:12]]></itunes:duration>
+  <pubDate>Fri, 11 Feb 2011 00:13:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/childrenofodin_etk_librivox/childrenofodin_14_colum_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Part 3, Chapters 1 and 2]]></title>
+    <itunes:episode><![CDATA[15]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-children-of-odin-by-padraic-colum/]]></link>
+            <enclosure url="https://www.archive.org/download/childrenofodin_etk_librivox/childrenofodin_15_colum_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:17:11]]></itunes:duration>
+  <pubDate>Fri, 11 Feb 2011 00:14:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/childrenofodin_etk_librivox/childrenofodin_15_colum_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Part 3, Chapters 3 and 4]]></title>
+    <itunes:episode><![CDATA[16]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-children-of-odin-by-padraic-colum/]]></link>
+            <enclosure url="https://www.archive.org/download/childrenofodin_etk_librivox/childrenofodin_16_colum_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:13:59]]></itunes:duration>
+  <pubDate>Fri, 11 Feb 2011 00:15:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/childrenofodin_etk_librivox/childrenofodin_16_colum_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Part 3, Chapter 5]]></title>
+    <itunes:episode><![CDATA[17]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-children-of-odin-by-padraic-colum/]]></link>
+            <enclosure url="https://www.archive.org/download/childrenofodin_etk_librivox/childrenofodin_17_colum_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:08:57]]></itunes:duration>
+  <pubDate>Fri, 11 Feb 2011 00:16:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/childrenofodin_etk_librivox/childrenofodin_17_colum_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Part 3, Chapter 6]]></title>
+    <itunes:episode><![CDATA[18]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-children-of-odin-by-padraic-colum/]]></link>
+            <enclosure url="https://www.archive.org/download/childrenofodin_etk_librivox/childrenofodin_18_colum_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:19:11]]></itunes:duration>
+  <pubDate>Fri, 11 Feb 2011 00:17:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/childrenofodin_etk_librivox/childrenofodin_18_colum_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Part 3, Chapter 7]]></title>
+    <itunes:episode><![CDATA[19]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-children-of-odin-by-padraic-colum/]]></link>
+            <enclosure url="https://www.archive.org/download/childrenofodin_etk_librivox/childrenofodin_19_colum_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:06:10]]></itunes:duration>
+  <pubDate>Fri, 11 Feb 2011 00:18:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/childrenofodin_etk_librivox/childrenofodin_19_colum_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Part 4, Chapter 1]]></title>
+    <itunes:episode><![CDATA[20]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-children-of-odin-by-padraic-colum/]]></link>
+            <enclosure url="https://www.archive.org/download/childrenofodin_etk_librivox/childrenofodin_20_colum_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:13:15]]></itunes:duration>
+  <pubDate>Fri, 11 Feb 2011 00:19:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/childrenofodin_etk_librivox/childrenofodin_20_colum_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Part 4, Chapter 2]]></title>
+    <itunes:episode><![CDATA[21]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-children-of-odin-by-padraic-colum/]]></link>
+            <enclosure url="https://www.archive.org/download/childrenofodin_etk_librivox/childrenofodin_21_colum_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:10:17]]></itunes:duration>
+  <pubDate>Fri, 11 Feb 2011 00:20:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/childrenofodin_etk_librivox/childrenofodin_21_colum_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Part 4, Chapter 3]]></title>
+    <itunes:episode><![CDATA[22]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-children-of-odin-by-padraic-colum/]]></link>
+            <enclosure url="https://www.archive.org/download/childrenofodin_etk_librivox/childrenofodin_22_colum_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:12:50]]></itunes:duration>
+  <pubDate>Fri, 11 Feb 2011 00:21:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/childrenofodin_etk_librivox/childrenofodin_22_colum_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Part 4, Chapter 4]]></title>
+    <itunes:episode><![CDATA[23]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-children-of-odin-by-padraic-colum/]]></link>
+            <enclosure url="https://www.archive.org/download/childrenofodin_etk_librivox/childrenofodin_23_colum_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:15:03]]></itunes:duration>
+  <pubDate>Fri, 11 Feb 2011 00:22:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/childrenofodin_etk_librivox/childrenofodin_23_colum_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Part 4, Chapters 5 and 6]]></title>
+    <itunes:episode><![CDATA[24]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-children-of-odin-by-padraic-colum/]]></link>
+            <enclosure url="https://www.archive.org/download/childrenofodin_etk_librivox/childrenofodin_24_colum_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:15:53]]></itunes:duration>
+  <pubDate>Fri, 11 Feb 2011 00:23:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/childrenofodin_etk_librivox/childrenofodin_24_colum_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Part 4, Chapters 7 and 8]]></title>
+    <itunes:episode><![CDATA[25]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-children-of-odin-by-padraic-colum/]]></link>
+            <enclosure url="https://www.archive.org/download/childrenofodin_etk_librivox/childrenofodin_25_colum_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:12:54]]></itunes:duration>
+  <pubDate>Fri, 11 Feb 2011 00:24:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/childrenofodin_etk_librivox/childrenofodin_25_colum_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Part 4, Chapters 9 and 10]]></title>
+    <itunes:episode><![CDATA[26]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-children-of-odin-by-padraic-colum/]]></link>
+            <enclosure url="https://www.archive.org/download/childrenofodin_etk_librivox/childrenofodin_26_colum_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:13:49]]></itunes:duration>
+  <pubDate>Fri, 11 Feb 2011 00:25:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/childrenofodin_etk_librivox/childrenofodin_26_colum_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Part 4, Chapter 11]]></title>
+    <itunes:episode><![CDATA[27]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-children-of-odin-by-padraic-colum/]]></link>
+            <enclosure url="https://www.archive.org/download/childrenofodin_etk_librivox/childrenofodin_27_colum_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:10:56]]></itunes:duration>
+  <pubDate>Fri, 11 Feb 2011 00:26:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/childrenofodin_etk_librivox/childrenofodin_27_colum_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <!-- end file loop -->
+</channel>
+</rss>

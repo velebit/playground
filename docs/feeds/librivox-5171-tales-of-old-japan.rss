@@ -1,0 +1,589 @@
+<?xml version="1.0" ?><rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+  <title><![CDATA[Tales of Old Japan by Lord Redesdale (1837 - 1916)]]></title>
+  <link><![CDATA[https://librivox.org/tales-of-old-japan-by-lord-redesdale/]]></link>
+  <atom:link rel="self" href="https://librivox.org/rss/5171" />
+  <description><![CDATA[Tales of Old Japan by Lord Redesdale is a collection of short stories focusing on Japanese life of the Edo period (1803 - 1868). It contains a number of classic Japanese stories, fairy tales, and other folklore; as well as Japanese sermons and non-fiction pieces on special ceremonies in Japanese life, such as marriage and harakiri, as observed by Lord Redesdale. The best know story of these is "The Forty-seven Ronins" a true account of samurai revenge as it happened at the beginning of 18th century Japan.  Algernon Bertram Freeman-Mitford, 1st Baron Redesdale (1837 - 1916) was a British diplomat, collector and writer. He worked in Japan as second secretary to the British Legation at the time of the Meiji Restoration. He wrote Tales of Old Japan in 1871. ]]></description>
+  <!--<genre>project element=Genre</genre>-->
+  <!--<language>project element=lang.code</language>-->
+  <itunes:type>serial</itunes:type>
+  <itunes:author>LibriVox</itunes:author>
+  <itunes:summary><![CDATA[Tales of Old Japan by Lord Redesdale is a collection of short stories focusing on Japanese life of the Edo period (1803 - 1868). It contains a number of classic Japanese stories, fairy tales, and other folklore; as well as Japanese sermons and non-fiction pieces on special ceremonies in Japanese life, such as marriage and harakiri, as observed by Lord Redesdale. The best know story of these is "The Forty-seven Ronins" a true account of samurai revenge as it happened at the beginning of 18th century Japan.  Algernon Bertram Freeman-Mitford, 1st Baron Redesdale (1837 - 1916) was a British diplomat, collector and writer. He worked in Japan as second secretary to the British Legation at the time of the Meiji Restoration. He wrote Tales of Old Japan in 1871. ]]></itunes:summary>
+  <itunes:owner>
+    <itunes:name>LibriVox</itunes:name>
+    <itunes:email>info@librivox.org</itunes:email>
+  </itunes:owner>
+  <itunes:category text="Arts">
+    <itunes:category text="Literature" />
+  </itunes:category>
+  <image><url>https://www.archive.org/download/LibrivoxCdCoverArt12/tales_of_old_japan_1110.jpg</url></image>
+  <itunes:image href="https://www.archive.org/download/LibrivoxCdCoverArt12/tales_of_old_japan_1110.jpg"/>
+  <itunes:explicit>no</itunes:explicit>
+  <!-- file loop -->
+    <item>
+    <title><![CDATA[Preface]]></title>
+    <itunes:episode><![CDATA[0]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/tales-of-old-japan-by-lord-redesdale/]]></link>
+            <enclosure url="https://www.archive.org/download/tales_old_japan_1110_librivox/talesoldjapan_00_redesdale_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:04:26]]></itunes:duration>
+  <pubDate>Wed, 12 Oct 2011 00:00:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/tales_old_japan_1110_librivox/talesoldjapan_00_redesdale_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Forty-Seven Ronins, part 1]]></title>
+    <itunes:episode><![CDATA[1]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/tales-of-old-japan-by-lord-redesdale/]]></link>
+            <enclosure url="https://www.archive.org/download/tales_old_japan_1110_librivox/talesoldjapan_01_redesdale_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:29:02]]></itunes:duration>
+  <pubDate>Wed, 12 Oct 2011 00:01:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/tales_old_japan_1110_librivox/talesoldjapan_01_redesdale_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Forty-Seven Ronins, part 2]]></title>
+    <itunes:episode><![CDATA[2]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/tales-of-old-japan-by-lord-redesdale/]]></link>
+            <enclosure url="https://www.archive.org/download/tales_old_japan_1110_librivox/talesoldjapan_02_redesdale_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:31:36]]></itunes:duration>
+  <pubDate>Wed, 12 Oct 2011 00:02:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/tales_old_japan_1110_librivox/talesoldjapan_02_redesdale_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Loves of Gompachi and Komurasaki, part 1]]></title>
+    <itunes:episode><![CDATA[3]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/tales-of-old-japan-by-lord-redesdale/]]></link>
+            <enclosure url="https://www.archive.org/download/tales_old_japan_1110_librivox/talesoldjapan_03_redesdale_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:18:57]]></itunes:duration>
+  <pubDate>Wed, 12 Oct 2011 00:03:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/tales_old_japan_1110_librivox/talesoldjapan_03_redesdale_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Loves of Gompachi and Komurasaki, part 2]]></title>
+    <itunes:episode><![CDATA[4]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/tales-of-old-japan-by-lord-redesdale/]]></link>
+            <enclosure url="https://www.archive.org/download/tales_old_japan_1110_librivox/talesoldjapan_04_redesdale_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:33:17]]></itunes:duration>
+  <pubDate>Wed, 12 Oct 2011 00:04:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/tales_old_japan_1110_librivox/talesoldjapan_04_redesdale_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Kazuma's Revenge]]></title>
+    <itunes:episode><![CDATA[5]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/tales-of-old-japan-by-lord-redesdale/]]></link>
+            <enclosure url="https://www.archive.org/download/tales_old_japan_1110_librivox/talesoldjapan_05_redesdale_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:40:17]]></itunes:duration>
+  <pubDate>Wed, 12 Oct 2011 00:05:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/tales_old_japan_1110_librivox/talesoldjapan_05_redesdale_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Story of the Otokodate of Yedo, part 1]]></title>
+    <itunes:episode><![CDATA[6]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/tales-of-old-japan-by-lord-redesdale/]]></link>
+            <enclosure url="https://www.archive.org/download/tales_old_japan_1110_librivox/talesoldjapan_06_redesdale_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:25:29]]></itunes:duration>
+  <pubDate>Wed, 12 Oct 2011 00:06:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/tales_old_japan_1110_librivox/talesoldjapan_06_redesdale_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Story of the Otokodate of Yedo, part 2]]></title>
+    <itunes:episode><![CDATA[7]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/tales-of-old-japan-by-lord-redesdale/]]></link>
+            <enclosure url="https://www.archive.org/download/tales_old_japan_1110_librivox/talesoldjapan_07_redesdale_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:27:57]]></itunes:duration>
+  <pubDate>Wed, 12 Oct 2011 00:07:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/tales_old_japan_1110_librivox/talesoldjapan_07_redesdale_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Story of the Otokodate of Yedo, part 3]]></title>
+    <itunes:episode><![CDATA[8]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/tales-of-old-japan-by-lord-redesdale/]]></link>
+            <enclosure url="https://www.archive.org/download/tales_old_japan_1110_librivox/talesoldjapan_08_redesdale_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:28:36]]></itunes:duration>
+  <pubDate>Wed, 12 Oct 2011 00:08:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/tales_old_japan_1110_librivox/talesoldjapan_08_redesdale_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Story of the Otokodate of Yedo, part 4]]></title>
+    <itunes:episode><![CDATA[9]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/tales-of-old-japan-by-lord-redesdale/]]></link>
+            <enclosure url="https://www.archive.org/download/tales_old_japan_1110_librivox/talesoldjapan_09_redesdale_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:23:29]]></itunes:duration>
+  <pubDate>Wed, 12 Oct 2011 00:09:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/tales_old_japan_1110_librivox/talesoldjapan_09_redesdale_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Story of the Otokodate of Yedo, part 5]]></title>
+    <itunes:episode><![CDATA[10]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/tales-of-old-japan-by-lord-redesdale/]]></link>
+            <enclosure url="https://www.archive.org/download/tales_old_japan_1110_librivox/talesoldjapan_10_redesdale_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:30:14]]></itunes:duration>
+  <pubDate>Wed, 12 Oct 2011 00:10:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/tales_old_japan_1110_librivox/talesoldjapan_10_redesdale_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Wonderful Adventures of Funakoshi Jiuyemon, part 1]]></title>
+    <itunes:episode><![CDATA[11]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/tales-of-old-japan-by-lord-redesdale/]]></link>
+            <enclosure url="https://www.archive.org/download/tales_old_japan_1110_librivox/talesoldjapan_11_redesdale_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:29:33]]></itunes:duration>
+  <pubDate>Wed, 12 Oct 2011 00:11:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/tales_old_japan_1110_librivox/talesoldjapan_11_redesdale_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Wonderful Adventures of Funakoshi Jiuyemon, part 2]]></title>
+    <itunes:episode><![CDATA[12]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/tales-of-old-japan-by-lord-redesdale/]]></link>
+            <enclosure url="https://www.archive.org/download/tales_old_japan_1110_librivox/talesoldjapan_12_redesdale_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:28:34]]></itunes:duration>
+  <pubDate>Wed, 12 Oct 2011 00:12:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/tales_old_japan_1110_librivox/talesoldjapan_12_redesdale_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Eta Maiden and the Hatamoto, part 1]]></title>
+    <itunes:episode><![CDATA[13]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/tales-of-old-japan-by-lord-redesdale/]]></link>
+            <enclosure url="https://www.archive.org/download/tales_old_japan_1110_librivox/talesoldjapan_13_redesdale_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:26:25]]></itunes:duration>
+  <pubDate>Wed, 12 Oct 2011 00:13:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/tales_old_japan_1110_librivox/talesoldjapan_13_redesdale_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Eta Maiden and the Hatamoto, part 2]]></title>
+    <itunes:episode><![CDATA[14]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/tales-of-old-japan-by-lord-redesdale/]]></link>
+            <enclosure url="https://www.archive.org/download/tales_old_japan_1110_librivox/talesoldjapan_14_redesdale_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:26:19]]></itunes:duration>
+  <pubDate>Wed, 12 Oct 2011 00:14:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/tales_old_japan_1110_librivox/talesoldjapan_14_redesdale_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Fairy Tales]]></title>
+    <itunes:episode><![CDATA[15]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/tales-of-old-japan-by-lord-redesdale/]]></link>
+            <enclosure url="https://www.archive.org/download/tales_old_japan_1110_librivox/talesoldjapan_15_redesdale_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:01:34]]></itunes:duration>
+  <pubDate>Wed, 12 Oct 2011 00:15:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/tales_old_japan_1110_librivox/talesoldjapan_15_redesdale_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Tongue Cut Sparrow]]></title>
+    <itunes:episode><![CDATA[16]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/tales-of-old-japan-by-lord-redesdale/]]></link>
+            <enclosure url="https://www.archive.org/download/tales_old_japan_1110_librivox/talesoldjapan_16_redesdale_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:04:13]]></itunes:duration>
+  <pubDate>Wed, 12 Oct 2011 00:16:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/tales_old_japan_1110_librivox/talesoldjapan_16_redesdale_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Accomplished and Lucky Teakettle]]></title>
+    <itunes:episode><![CDATA[17]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/tales-of-old-japan-by-lord-redesdale/]]></link>
+            <enclosure url="https://www.archive.org/download/tales_old_japan_1110_librivox/talesoldjapan_17_redesdale_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:03:09]]></itunes:duration>
+  <pubDate>Wed, 12 Oct 2011 00:17:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/tales_old_japan_1110_librivox/talesoldjapan_17_redesdale_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Crackling Mountain]]></title>
+    <itunes:episode><![CDATA[18]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/tales-of-old-japan-by-lord-redesdale/]]></link>
+            <enclosure url="https://www.archive.org/download/tales_old_japan_1110_librivox/talesoldjapan_18_redesdale_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:04:20]]></itunes:duration>
+  <pubDate>Wed, 12 Oct 2011 00:18:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/tales_old_japan_1110_librivox/talesoldjapan_18_redesdale_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Story of the Old Man Who Made Withered Trees to Blossom]]></title>
+    <itunes:episode><![CDATA[19]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/tales-of-old-japan-by-lord-redesdale/]]></link>
+            <enclosure url="https://www.archive.org/download/tales_old_japan_1110_librivox/talesoldjapan_19_redesdale_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:06:02]]></itunes:duration>
+  <pubDate>Wed, 12 Oct 2011 00:19:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/tales_old_japan_1110_librivox/talesoldjapan_19_redesdale_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Battle of the Ape and the Crab]]></title>
+    <itunes:episode><![CDATA[20]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/tales-of-old-japan-by-lord-redesdale/]]></link>
+            <enclosure url="https://www.archive.org/download/tales_old_japan_1110_librivox/talesoldjapan_20_redesdale_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:03:58]]></itunes:duration>
+  <pubDate>Wed, 12 Oct 2011 00:20:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/tales_old_japan_1110_librivox/talesoldjapan_20_redesdale_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Adventures of Little Peachling]]></title>
+    <itunes:episode><![CDATA[21]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/tales-of-old-japan-by-lord-redesdale/]]></link>
+            <enclosure url="https://www.archive.org/download/tales_old_japan_1110_librivox/talesoldjapan_21_redesdale_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:04:30]]></itunes:duration>
+  <pubDate>Wed, 12 Oct 2011 00:21:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/tales_old_japan_1110_librivox/talesoldjapan_21_redesdale_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Foxes' Wedding]]></title>
+    <itunes:episode><![CDATA[22]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/tales-of-old-japan-by-lord-redesdale/]]></link>
+            <enclosure url="https://www.archive.org/download/tales_old_japan_1110_librivox/talesoldjapan_22_redesdale_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:03:29]]></itunes:duration>
+  <pubDate>Wed, 12 Oct 2011 00:22:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/tales_old_japan_1110_librivox/talesoldjapan_22_redesdale_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The History of Sataka Kintoki]]></title>
+    <itunes:episode><![CDATA[23]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/tales-of-old-japan-by-lord-redesdale/]]></link>
+            <enclosure url="https://www.archive.org/download/tales_old_japan_1110_librivox/talesoldjapan_23_redesdale_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:04:12]]></itunes:duration>
+  <pubDate>Wed, 12 Oct 2011 00:23:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/tales_old_japan_1110_librivox/talesoldjapan_23_redesdale_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Elves and the Envious Neighbor]]></title>
+    <itunes:episode><![CDATA[24]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/tales-of-old-japan-by-lord-redesdale/]]></link>
+            <enclosure url="https://www.archive.org/download/tales_old_japan_1110_librivox/talesoldjapan_24_redesdale_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:02:54]]></itunes:duration>
+  <pubDate>Wed, 12 Oct 2011 00:24:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/tales_old_japan_1110_librivox/talesoldjapan_24_redesdale_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Ghost of Sakura, part 1]]></title>
+    <itunes:episode><![CDATA[25]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/tales-of-old-japan-by-lord-redesdale/]]></link>
+            <enclosure url="https://www.archive.org/download/tales_old_japan_1110_librivox/talesoldjapan_25_redesdale_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:22:19]]></itunes:duration>
+  <pubDate>Wed, 12 Oct 2011 00:25:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/tales_old_japan_1110_librivox/talesoldjapan_25_redesdale_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Ghost of Sakura, part 2]]></title>
+    <itunes:episode><![CDATA[26]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/tales-of-old-japan-by-lord-redesdale/]]></link>
+            <enclosure url="https://www.archive.org/download/tales_old_japan_1110_librivox/talesoldjapan_26_redesdale_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:24:35]]></itunes:duration>
+  <pubDate>Wed, 12 Oct 2011 00:26:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/tales_old_japan_1110_librivox/talesoldjapan_26_redesdale_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Ghost of Sakura, part 3]]></title>
+    <itunes:episode><![CDATA[27]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/tales-of-old-japan-by-lord-redesdale/]]></link>
+            <enclosure url="https://www.archive.org/download/tales_old_japan_1110_librivox/talesoldjapan_27_redesdale_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:26:16]]></itunes:duration>
+  <pubDate>Wed, 12 Oct 2011 00:27:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/tales_old_japan_1110_librivox/talesoldjapan_27_redesdale_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Ghost of Sakura, part 4]]></title>
+    <itunes:episode><![CDATA[28]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/tales-of-old-japan-by-lord-redesdale/]]></link>
+            <enclosure url="https://www.archive.org/download/tales_old_japan_1110_librivox/talesoldjapan_28_redesdale_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:12:39]]></itunes:duration>
+  <pubDate>Wed, 12 Oct 2011 00:28:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/tales_old_japan_1110_librivox/talesoldjapan_28_redesdale_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[How Tajima Shume was Tormented by a Devil of his Own Creation]]></title>
+    <itunes:episode><![CDATA[29]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/tales-of-old-japan-by-lord-redesdale/]]></link>
+            <enclosure url="https://www.archive.org/download/tales_old_japan_1110_librivox/talesoldjapan_29_redesdale_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:10:52]]></itunes:duration>
+  <pubDate>Wed, 12 Oct 2011 00:29:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/tales_old_japan_1110_librivox/talesoldjapan_29_redesdale_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Concerning Certain Superstitions]]></title>
+    <itunes:episode><![CDATA[30]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/tales-of-old-japan-by-lord-redesdale/]]></link>
+            <enclosure url="https://www.archive.org/download/tales_old_japan_1110_librivox/talesoldjapan_30_redesdale_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:02:28]]></itunes:duration>
+  <pubDate>Wed, 12 Oct 2011 00:30:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/tales_old_japan_1110_librivox/talesoldjapan_30_redesdale_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Vampire Cat of Nabeshima]]></title>
+    <itunes:episode><![CDATA[31]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/tales-of-old-japan-by-lord-redesdale/]]></link>
+            <enclosure url="https://www.archive.org/download/tales_old_japan_1110_librivox/talesoldjapan_31_redesdale_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:14:23]]></itunes:duration>
+  <pubDate>Wed, 12 Oct 2011 00:31:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/tales_old_japan_1110_librivox/talesoldjapan_31_redesdale_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Story of the Faithful Cat]]></title>
+    <itunes:episode><![CDATA[32]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/tales-of-old-japan-by-lord-redesdale/]]></link>
+            <enclosure url="https://www.archive.org/download/tales_old_japan_1110_librivox/talesoldjapan_32_redesdale_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:03:36]]></itunes:duration>
+  <pubDate>Wed, 12 Oct 2011 00:32:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/tales_old_japan_1110_librivox/talesoldjapan_32_redesdale_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[How a Man was Bewitched and had His Head Shaved by the Foxes]]></title>
+    <itunes:episode><![CDATA[33]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/tales-of-old-japan-by-lord-redesdale/]]></link>
+            <enclosure url="https://www.archive.org/download/tales_old_japan_1110_librivox/talesoldjapan_33_redesdale_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:11:15]]></itunes:duration>
+  <pubDate>Wed, 12 Oct 2011 00:33:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/tales_old_japan_1110_librivox/talesoldjapan_33_redesdale_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Grateful Foxes]]></title>
+    <itunes:episode><![CDATA[34]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/tales-of-old-japan-by-lord-redesdale/]]></link>
+            <enclosure url="https://www.archive.org/download/tales_old_japan_1110_librivox/talesoldjapan_34_redesdale_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:11:27]]></itunes:duration>
+  <pubDate>Wed, 12 Oct 2011 00:34:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/tales_old_japan_1110_librivox/talesoldjapan_34_redesdale_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Badger's Money]]></title>
+    <itunes:episode><![CDATA[35]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/tales-of-old-japan-by-lord-redesdale/]]></link>
+            <enclosure url="https://www.archive.org/download/tales_old_japan_1110_librivox/talesoldjapan_35_redesdale_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:08:33]]></itunes:duration>
+  <pubDate>Wed, 12 Oct 2011 00:35:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/tales_old_japan_1110_librivox/talesoldjapan_35_redesdale_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Prince and the Badger]]></title>
+    <itunes:episode><![CDATA[36]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/tales-of-old-japan-by-lord-redesdale/]]></link>
+            <enclosure url="https://www.archive.org/download/tales_old_japan_1110_librivox/talesoldjapan_36_redesdale_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:06:35]]></itunes:duration>
+  <pubDate>Wed, 12 Oct 2011 00:36:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/tales_old_japan_1110_librivox/talesoldjapan_36_redesdale_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Japanese Sermons]]></title>
+    <itunes:episode><![CDATA[37]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/tales-of-old-japan-by-lord-redesdale/]]></link>
+            <enclosure url="https://www.archive.org/download/tales_old_japan_1110_librivox/talesoldjapan_37_redesdale_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:15:51]]></itunes:duration>
+  <pubDate>Wed, 12 Oct 2011 00:37:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/tales_old_japan_1110_librivox/talesoldjapan_37_redesdale_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Sermon I]]></title>
+    <itunes:episode><![CDATA[38]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/tales-of-old-japan-by-lord-redesdale/]]></link>
+            <enclosure url="https://www.archive.org/download/tales_old_japan_1110_librivox/talesoldjapan_38_redesdale_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:25:28]]></itunes:duration>
+  <pubDate>Wed, 12 Oct 2011 00:38:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/tales_old_japan_1110_librivox/talesoldjapan_38_redesdale_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Sermon II]]></title>
+    <itunes:episode><![CDATA[39]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/tales-of-old-japan-by-lord-redesdale/]]></link>
+            <enclosure url="https://www.archive.org/download/tales_old_japan_1110_librivox/talesoldjapan_39_redesdale_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:25:51]]></itunes:duration>
+  <pubDate>Wed, 12 Oct 2011 00:39:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/tales_old_japan_1110_librivox/talesoldjapan_39_redesdale_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Sermon III]]></title>
+    <itunes:episode><![CDATA[40]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/tales-of-old-japan-by-lord-redesdale/]]></link>
+            <enclosure url="https://www.archive.org/download/tales_old_japan_1110_librivox/talesoldjapan_40_redesdale_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:22:51]]></itunes:duration>
+  <pubDate>Wed, 12 Oct 2011 00:40:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/tales_old_japan_1110_librivox/talesoldjapan_40_redesdale_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Appendix A: An Account of the Hara-Kiri, part 1]]></title>
+    <itunes:episode><![CDATA[41]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/tales-of-old-japan-by-lord-redesdale/]]></link>
+            <enclosure url="https://www.archive.org/download/tales_old_japan_1110_librivox/talesoldjapan_41_redesdale_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:34:51]]></itunes:duration>
+  <pubDate>Wed, 12 Oct 2011 00:41:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/tales_old_japan_1110_librivox/talesoldjapan_41_redesdale_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Appendix A: An Account of the Hara-Kiri, part 2]]></title>
+    <itunes:episode><![CDATA[42]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/tales-of-old-japan-by-lord-redesdale/]]></link>
+            <enclosure url="https://www.archive.org/download/tales_old_japan_1110_librivox/talesoldjapan_42_redesdale_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:33:35]]></itunes:duration>
+  <pubDate>Wed, 12 Oct 2011 00:42:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/tales_old_japan_1110_librivox/talesoldjapan_42_redesdale_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Appendix A: An Account of the Hara-Kiri, part 3]]></title>
+    <itunes:episode><![CDATA[43]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/tales-of-old-japan-by-lord-redesdale/]]></link>
+            <enclosure url="https://www.archive.org/download/tales_old_japan_1110_librivox/talesoldjapan_43_redesdale_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:22:06]]></itunes:duration>
+  <pubDate>Wed, 12 Oct 2011 00:43:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/tales_old_japan_1110_librivox/talesoldjapan_43_redesdale_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Appendix B: The Marriage Ceremony]]></title>
+    <itunes:episode><![CDATA[44]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/tales-of-old-japan-by-lord-redesdale/]]></link>
+            <enclosure url="https://www.archive.org/download/tales_old_japan_1110_librivox/talesoldjapan_44_redesdale_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:24:46]]></itunes:duration>
+  <pubDate>Wed, 12 Oct 2011 00:44:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/tales_old_japan_1110_librivox/talesoldjapan_44_redesdale_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Appendix B: On the Birth and Bearing of Children]]></title>
+    <itunes:episode><![CDATA[45]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/tales-of-old-japan-by-lord-redesdale/]]></link>
+            <enclosure url="https://www.archive.org/download/tales_old_japan_1110_librivox/talesoldjapan_45_redesdale_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:12:14]]></itunes:duration>
+  <pubDate>Wed, 12 Oct 2011 00:45:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/tales_old_japan_1110_librivox/talesoldjapan_45_redesdale_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Appendix B: Funeral Rites]]></title>
+    <itunes:episode><![CDATA[46]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/tales-of-old-japan-by-lord-redesdale/]]></link>
+            <enclosure url="https://www.archive.org/download/tales_old_japan_1110_librivox/talesoldjapan_46_redesdale_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:05:24]]></itunes:duration>
+  <pubDate>Wed, 12 Oct 2011 00:46:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/tales_old_japan_1110_librivox/talesoldjapan_46_redesdale_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <!-- end file loop -->
+</channel>
+</rss>

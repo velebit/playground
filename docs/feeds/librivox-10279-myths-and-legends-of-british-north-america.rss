@@ -1,0 +1,121 @@
+<?xml version="1.0" ?><rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+  <title><![CDATA[Myths And Legends Of British North America by Katharine Berry Judson (1866 - 1929)]]></title>
+  <link><![CDATA[https://librivox.org/myths-and-legends-of-british-north-america-by-katharine-berry-judson/]]></link>
+  <atom:link rel="self" href="https://librivox.org/rss/10279" />
+  <description><![CDATA[[The Native American] story tellers of the camp related, with dramatic gestures, stories of the Days of the Grandfathers, in the beginning of the Newness of Things. Nothing was too large or too small to come within the bounds of their beliefs, or within the play of their fancy.  Only authentic myths and legends have been used in the compilation of this volume. The leading authorities are the publications of the United States Bureau of Ethnology, of the Jesup North Pacific Expedition, of the Memoirs of the American Museum of Natural History, as well as the ethnological publications of the Canadian Bureau of Mines.  As in all other volumes of this series, only the quaint, the pure, and the beautiful, has been taken from the tales of the Indians. Any one wishing pure ethnology, good and bad together, would do better to go to ethnological reports.  The material here is from these tribes:  Haida, Eastern Eskimo, Bella Coola, Wyandot, Cree, Thompson River, Carrier, Shuswap, Lillooet, Ojibwa, Central Eskimo, Chicotin, Kwakiutl, Nicola Valley and Fraser River, Algonquin. - Summary by Author's Preface and david wales]]></description>
+  <!--<genre>project element=Genre</genre>-->
+  <!--<language>project element=lang.code</language>-->
+  <itunes:type>serial</itunes:type>
+  <itunes:author>LibriVox</itunes:author>
+  <itunes:summary><![CDATA[[The Native American] story tellers of the camp related, with dramatic gestures, stories of the Days of the Grandfathers, in the beginning of the Newness of Things. Nothing was too large or too small to come within the bounds of their beliefs, or within the play of their fancy.  Only authentic myths and legends have been used in the compilation of this volume. The leading authorities are the publications of the United States Bureau of Ethnology, of the Jesup North Pacific Expedition, of the Memoirs of the American Museum of Natural History, as well as the ethnological publications of the Canadian Bureau of Mines.  As in all other volumes of this series, only the quaint, the pure, and the beautiful, has been taken from the tales of the Indians. Any one wishing pure ethnology, good and bad together, would do better to go to ethnological reports.  The material here is from these tribes:  Haida, Eastern Eskimo, Bella Coola, Wyandot, Cree, Thompson River, Carrier, Shuswap, Lillooet, Ojibwa, Central Eskimo, Chicotin, Kwakiutl, Nicola Valley and Fraser River, Algonquin. - Summary by Author's Preface and david wales]]></itunes:summary>
+  <itunes:owner>
+    <itunes:name>LibriVox</itunes:name>
+    <itunes:email>info@librivox.org</itunes:email>
+  </itunes:owner>
+  <itunes:category text="Arts">
+    <itunes:category text="Literature" />
+  </itunes:category>
+  <image><url>https://archive.org/download/mythslegends_britishnorthamerica_1510_librivox/myths_legends_british_1510.jpg</url></image>
+  <itunes:image href="https://archive.org/download/mythslegends_britishnorthamerica_1510_librivox/myths_legends_british_1510.jpg"/>
+  <itunes:explicit>no</itunes:explicit>
+  <!-- file loop -->
+    <item>
+    <title><![CDATA[Preface]]></title>
+    <itunes:episode><![CDATA[0]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-of-british-north-america-by-katharine-berry-judson/]]></link>
+            <enclosure url="https://www.archive.org/download/mythslegends_britishnorthamerica_1510_librivox/mythsbritishnorthamerica_00_judson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 04 Oct 2015 00:00:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/mythslegends_britishnorthamerica_1510_librivox/mythsbritishnorthamerica_00_judson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Part 1]]></title>
+    <itunes:episode><![CDATA[1]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-of-british-north-america-by-katharine-berry-judson/]]></link>
+            <enclosure url="https://www.archive.org/download/mythslegends_britishnorthamerica_1510_librivox/mythsbritishnorthamerica_01_judson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 04 Oct 2015 00:01:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/mythslegends_britishnorthamerica_1510_librivox/mythsbritishnorthamerica_01_judson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Part 2]]></title>
+    <itunes:episode><![CDATA[2]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-of-british-north-america-by-katharine-berry-judson/]]></link>
+            <enclosure url="https://www.archive.org/download/mythslegends_britishnorthamerica_1510_librivox/mythsbritishnorthamerica_02_judson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 04 Oct 2015 00:02:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/mythslegends_britishnorthamerica_1510_librivox/mythsbritishnorthamerica_02_judson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Part 3]]></title>
+    <itunes:episode><![CDATA[3]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-of-british-north-america-by-katharine-berry-judson/]]></link>
+            <enclosure url="https://www.archive.org/download/mythslegends_britishnorthamerica_1510_librivox/mythsbritishnorthamerica_03_judson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 04 Oct 2015 00:03:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/mythslegends_britishnorthamerica_1510_librivox/mythsbritishnorthamerica_03_judson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Part 4]]></title>
+    <itunes:episode><![CDATA[4]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-of-british-north-america-by-katharine-berry-judson/]]></link>
+            <enclosure url="https://www.archive.org/download/mythslegends_britishnorthamerica_1510_librivox/mythsbritishnorthamerica_04_judson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 04 Oct 2015 00:04:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/mythslegends_britishnorthamerica_1510_librivox/mythsbritishnorthamerica_04_judson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Part 5]]></title>
+    <itunes:episode><![CDATA[5]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-of-british-north-america-by-katharine-berry-judson/]]></link>
+            <enclosure url="https://www.archive.org/download/mythslegends_britishnorthamerica_1510_librivox/mythsbritishnorthamerica_05_judson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 04 Oct 2015 00:05:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/mythslegends_britishnorthamerica_1510_librivox/mythsbritishnorthamerica_05_judson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Part 6]]></title>
+    <itunes:episode><![CDATA[6]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-of-british-north-america-by-katharine-berry-judson/]]></link>
+            <enclosure url="https://www.archive.org/download/mythslegends_britishnorthamerica_1510_librivox/mythsbritishnorthamerica_06_judson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 04 Oct 2015 00:06:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/mythslegends_britishnorthamerica_1510_librivox/mythsbritishnorthamerica_06_judson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Part 7]]></title>
+    <itunes:episode><![CDATA[7]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-of-british-north-america-by-katharine-berry-judson/]]></link>
+            <enclosure url="https://www.archive.org/download/mythslegends_britishnorthamerica_1510_librivox/mythsbritishnorthamerica_07_judson_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 04 Oct 2015 00:07:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/mythslegends_britishnorthamerica_1510_librivox/mythsbritishnorthamerica_07_judson_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <!-- end file loop -->
+</channel>
+</rss>

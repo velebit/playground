@@ -1,0 +1,529 @@
+<?xml version="1.0" ?><rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+  <title><![CDATA[Celtic Twilight, The by William Butler Yeats (1865 - 1939)]]></title>
+  <link><![CDATA[https://librivox.org/the-celtic-twilight-by-william-butler-yeats/]]></link>
+  <atom:link rel="self" href="https://librivox.org/rss/8535" />
+  <description><![CDATA[I have desired, like every artist, to create a little world out of the beautiful, pleasant, and significant things of this marred and clumsy world, and to show in a vision something of the face of Ireland to any of my own people who would look where I bid them. I have therefore written down accurately and candidly much that I have heard and seen, and, except by way of commentary, nothing that I have merely imagined.Many of the tales in this book were told me by one Paddy Flynn, a little bright-eyed old man, who lived in a leaky and one-roomed cabin in the village of Ballisodare. He was a great teller of tales, and unlike our common romancers, knew how to empty heaven, hell, and purgatory, faeryland and earth, to people his stories. He did not live in a shrunken world, but knew of no less ample circumstance than did Homer himself. Perhaps the Gaelic people shall by his like bring back again the ancient simplicity and amplitude of imagination.Let us go forth, the tellers of tales, and seize whatever prey the heart long for, and have no fear. Everything exists, everything is true, and the earth is only a little dust under our feet. (W. B. Yeats)]]></description>
+  <!--<genre>project element=Genre</genre>-->
+  <!--<language>project element=lang.code</language>-->
+  <itunes:type>serial</itunes:type>
+  <itunes:author>LibriVox</itunes:author>
+  <itunes:summary><![CDATA[I have desired, like every artist, to create a little world out of the beautiful, pleasant, and significant things of this marred and clumsy world, and to show in a vision something of the face of Ireland to any of my own people who would look where I bid them. I have therefore written down accurately and candidly much that I have heard and seen, and, except by way of commentary, nothing that I have merely imagined.Many of the tales in this book were told me by one Paddy Flynn, a little bright-eyed old man, who lived in a leaky and one-roomed cabin in the village of Ballisodare. He was a great teller of tales, and unlike our common romancers, knew how to empty heaven, hell, and purgatory, faeryland and earth, to people his stories. He did not live in a shrunken world, but knew of no less ample circumstance than did Homer himself. Perhaps the Gaelic people shall by his like bring back again the ancient simplicity and amplitude of imagination.Let us go forth, the tellers of tales, and seize whatever prey the heart long for, and have no fear. Everything exists, everything is true, and the earth is only a little dust under our feet. (W. B. Yeats)]]></itunes:summary>
+  <itunes:owner>
+    <itunes:name>LibriVox</itunes:name>
+    <itunes:email>info@librivox.org</itunes:email>
+  </itunes:owner>
+  <itunes:category text="Arts">
+    <itunes:category text="Literature" />
+  </itunes:category>
+  <image><url>https://archive.org/download/celtictwilight_1408_librivox/celtic_twilight_1408.jpg</url></image>
+  <itunes:image href="https://archive.org/download/celtictwilight_1408_librivox/celtic_twilight_1408.jpg"/>
+  <itunes:explicit>no</itunes:explicit>
+  <!-- file loop -->
+    <item>
+    <title><![CDATA[Epigraph, The Hosting of the Sidhe]]></title>
+    <itunes:episode><![CDATA[0]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-celtic-twilight-by-william-butler-yeats/]]></link>
+            <enclosure url="https://www.archive.org/download/celtictwilight_1408_librivox/celtictwilight_00_yeats_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 17 Aug 2014 00:00:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/celtictwilight_1408_librivox/celtictwilight_00_yeats_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[This book]]></title>
+    <itunes:episode><![CDATA[1]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-celtic-twilight-by-william-butler-yeats/]]></link>
+            <enclosure url="https://www.archive.org/download/celtictwilight_1408_librivox/celtictwilight_01_yeats_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 17 Aug 2014 00:01:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/celtictwilight_1408_librivox/celtictwilight_01_yeats_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[A Teller of Tales]]></title>
+    <itunes:episode><![CDATA[2]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-celtic-twilight-by-william-butler-yeats/]]></link>
+            <enclosure url="https://www.archive.org/download/celtictwilight_1408_librivox/celtictwilight_02_yeats_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 17 Aug 2014 00:02:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/celtictwilight_1408_librivox/celtictwilight_02_yeats_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Belief and Unbelief]]></title>
+    <itunes:episode><![CDATA[3]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-celtic-twilight-by-william-butler-yeats/]]></link>
+            <enclosure url="https://www.archive.org/download/celtictwilight_1408_librivox/celtictwilight_03_yeats_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 17 Aug 2014 00:03:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/celtictwilight_1408_librivox/celtictwilight_03_yeats_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Mortal Help]]></title>
+    <itunes:episode><![CDATA[4]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-celtic-twilight-by-william-butler-yeats/]]></link>
+            <enclosure url="https://www.archive.org/download/celtictwilight_1408_librivox/celtictwilight_04_yeats_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 17 Aug 2014 00:04:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/celtictwilight_1408_librivox/celtictwilight_04_yeats_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[A Visionary]]></title>
+    <itunes:episode><![CDATA[5]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-celtic-twilight-by-william-butler-yeats/]]></link>
+            <enclosure url="https://www.archive.org/download/celtictwilight_1408_librivox/celtictwilight_05_yeats_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 17 Aug 2014 00:05:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/celtictwilight_1408_librivox/celtictwilight_05_yeats_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Village Ghosts]]></title>
+    <itunes:episode><![CDATA[6]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-celtic-twilight-by-william-butler-yeats/]]></link>
+            <enclosure url="https://www.archive.org/download/celtictwilight_1408_librivox/celtictwilight_06_yeats_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 17 Aug 2014 00:06:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/celtictwilight_1408_librivox/celtictwilight_06_yeats_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA['Dust Hath closed Helen's Eye']]></title>
+    <itunes:episode><![CDATA[7]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-celtic-twilight-by-william-butler-yeats/]]></link>
+            <enclosure url="https://www.archive.org/download/celtictwilight_1408_librivox/celtictwilight_07_yeats_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 17 Aug 2014 00:07:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/celtictwilight_1408_librivox/celtictwilight_07_yeats_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[A Knight of the Sheep]]></title>
+    <itunes:episode><![CDATA[8]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-celtic-twilight-by-william-butler-yeats/]]></link>
+            <enclosure url="https://www.archive.org/download/celtictwilight_1408_librivox/celtictwilight_08_yeats_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 17 Aug 2014 00:08:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/celtictwilight_1408_librivox/celtictwilight_08_yeats_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[An Enduring Heart]]></title>
+    <itunes:episode><![CDATA[9]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-celtic-twilight-by-william-butler-yeats/]]></link>
+            <enclosure url="https://www.archive.org/download/celtictwilight_1408_librivox/celtictwilight_09_yeats_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 17 Aug 2014 00:09:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/celtictwilight_1408_librivox/celtictwilight_09_yeats_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Sorcerers]]></title>
+    <itunes:episode><![CDATA[10]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-celtic-twilight-by-william-butler-yeats/]]></link>
+            <enclosure url="https://www.archive.org/download/celtictwilight_1408_librivox/celtictwilight_10_yeats_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 17 Aug 2014 00:10:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/celtictwilight_1408_librivox/celtictwilight_10_yeats_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Devil]]></title>
+    <itunes:episode><![CDATA[11]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-celtic-twilight-by-william-butler-yeats/]]></link>
+            <enclosure url="https://www.archive.org/download/celtictwilight_1408_librivox/celtictwilight_11_yeats_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 17 Aug 2014 00:11:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/celtictwilight_1408_librivox/celtictwilight_11_yeats_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Happy and Unhappy Theologians]]></title>
+    <itunes:episode><![CDATA[12]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-celtic-twilight-by-william-butler-yeats/]]></link>
+            <enclosure url="https://www.archive.org/download/celtictwilight_1408_librivox/celtictwilight_12_yeats_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 17 Aug 2014 00:12:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/celtictwilight_1408_librivox/celtictwilight_12_yeats_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Last Gleeman]]></title>
+    <itunes:episode><![CDATA[13]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-celtic-twilight-by-william-butler-yeats/]]></link>
+            <enclosure url="https://www.archive.org/download/celtictwilight_1408_librivox/celtictwilight_13_yeats_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 17 Aug 2014 00:13:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/celtictwilight_1408_librivox/celtictwilight_13_yeats_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Regina, Regina Pigmeorum, Veni]]></title>
+    <itunes:episode><![CDATA[14]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-celtic-twilight-by-william-butler-yeats/]]></link>
+            <enclosure url="https://www.archive.org/download/celtictwilight_1408_librivox/celtictwilight_14_yeats_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 17 Aug 2014 00:14:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/celtictwilight_1408_librivox/celtictwilight_14_yeats_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA['And Fair, Fierce Women']]></title>
+    <itunes:episode><![CDATA[15]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-celtic-twilight-by-william-butler-yeats/]]></link>
+            <enclosure url="https://www.archive.org/download/celtictwilight_1408_librivox/celtictwilight_15_yeats_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 17 Aug 2014 00:15:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/celtictwilight_1408_librivox/celtictwilight_15_yeats_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Enchanted Woods]]></title>
+    <itunes:episode><![CDATA[16]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-celtic-twilight-by-william-butler-yeats/]]></link>
+            <enclosure url="https://www.archive.org/download/celtictwilight_1408_librivox/celtictwilight_16_yeats_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 17 Aug 2014 00:16:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/celtictwilight_1408_librivox/celtictwilight_16_yeats_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Miraculous Creatures]]></title>
+    <itunes:episode><![CDATA[17]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-celtic-twilight-by-william-butler-yeats/]]></link>
+            <enclosure url="https://www.archive.org/download/celtictwilight_1408_librivox/celtictwilight_17_yeats_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 17 Aug 2014 00:17:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/celtictwilight_1408_librivox/celtictwilight_17_yeats_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Aristotle of the Books]]></title>
+    <itunes:episode><![CDATA[18]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-celtic-twilight-by-william-butler-yeats/]]></link>
+            <enclosure url="https://www.archive.org/download/celtictwilight_1408_librivox/celtictwilight_18_yeats_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 17 Aug 2014 00:18:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/celtictwilight_1408_librivox/celtictwilight_18_yeats_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Swine of the Gods]]></title>
+    <itunes:episode><![CDATA[19]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-celtic-twilight-by-william-butler-yeats/]]></link>
+            <enclosure url="https://www.archive.org/download/celtictwilight_1408_librivox/celtictwilight_19_yeats_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 17 Aug 2014 00:19:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/celtictwilight_1408_librivox/celtictwilight_19_yeats_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[A Voice]]></title>
+    <itunes:episode><![CDATA[20]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-celtic-twilight-by-william-butler-yeats/]]></link>
+            <enclosure url="https://www.archive.org/download/celtictwilight_1408_librivox/celtictwilight_20_yeats_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 17 Aug 2014 00:20:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/celtictwilight_1408_librivox/celtictwilight_20_yeats_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Kidnappers]]></title>
+    <itunes:episode><![CDATA[21]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-celtic-twilight-by-william-butler-yeats/]]></link>
+            <enclosure url="https://www.archive.org/download/celtictwilight_1408_librivox/celtictwilight_21_yeats_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 17 Aug 2014 00:21:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/celtictwilight_1408_librivox/celtictwilight_21_yeats_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Untiring Ones]]></title>
+    <itunes:episode><![CDATA[22]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-celtic-twilight-by-william-butler-yeats/]]></link>
+            <enclosure url="https://www.archive.org/download/celtictwilight_1408_librivox/celtictwilight_22_yeats_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 17 Aug 2014 00:22:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/celtictwilight_1408_librivox/celtictwilight_22_yeats_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Earth, Fire and Water]]></title>
+    <itunes:episode><![CDATA[23]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-celtic-twilight-by-william-butler-yeats/]]></link>
+            <enclosure url="https://www.archive.org/download/celtictwilight_1408_librivox/celtictwilight_23_yeats_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 17 Aug 2014 00:23:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/celtictwilight_1408_librivox/celtictwilight_23_yeats_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Old Town]]></title>
+    <itunes:episode><![CDATA[24]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-celtic-twilight-by-william-butler-yeats/]]></link>
+            <enclosure url="https://www.archive.org/download/celtictwilight_1408_librivox/celtictwilight_24_yeats_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 17 Aug 2014 00:24:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/celtictwilight_1408_librivox/celtictwilight_24_yeats_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Man and his Boots]]></title>
+    <itunes:episode><![CDATA[25]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-celtic-twilight-by-william-butler-yeats/]]></link>
+            <enclosure url="https://www.archive.org/download/celtictwilight_1408_librivox/celtictwilight_25_yeats_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 17 Aug 2014 00:25:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/celtictwilight_1408_librivox/celtictwilight_25_yeats_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[A Coward]]></title>
+    <itunes:episode><![CDATA[26]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-celtic-twilight-by-william-butler-yeats/]]></link>
+            <enclosure url="https://www.archive.org/download/celtictwilight_1408_librivox/celtictwilight_26_yeats_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 17 Aug 2014 00:26:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/celtictwilight_1408_librivox/celtictwilight_26_yeats_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Three O'Byrnes and the Evil Faeries]]></title>
+    <itunes:episode><![CDATA[27]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-celtic-twilight-by-william-butler-yeats/]]></link>
+            <enclosure url="https://www.archive.org/download/celtictwilight_1408_librivox/celtictwilight_27_yeats_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 17 Aug 2014 00:27:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/celtictwilight_1408_librivox/celtictwilight_27_yeats_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Drumcliff and Rosses]]></title>
+    <itunes:episode><![CDATA[28]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-celtic-twilight-by-william-butler-yeats/]]></link>
+            <enclosure url="https://www.archive.org/download/celtictwilight_1408_librivox/celtictwilight_28_yeats_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 17 Aug 2014 00:28:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/celtictwilight_1408_librivox/celtictwilight_28_yeats_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Thick Skull of the Fortunate]]></title>
+    <itunes:episode><![CDATA[29]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-celtic-twilight-by-william-butler-yeats/]]></link>
+            <enclosure url="https://www.archive.org/download/celtictwilight_1408_librivox/celtictwilight_29_yeats_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 17 Aug 2014 00:29:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/celtictwilight_1408_librivox/celtictwilight_29_yeats_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Religion of a Sailor]]></title>
+    <itunes:episode><![CDATA[30]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-celtic-twilight-by-william-butler-yeats/]]></link>
+            <enclosure url="https://www.archive.org/download/celtictwilight_1408_librivox/celtictwilight_30_yeats_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 17 Aug 2014 00:30:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/celtictwilight_1408_librivox/celtictwilight_30_yeats_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Concerning the nearness together of  Heaven, Earth, and Purgatory]]></title>
+    <itunes:episode><![CDATA[31]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-celtic-twilight-by-william-butler-yeats/]]></link>
+            <enclosure url="https://www.archive.org/download/celtictwilight_1408_librivox/celtictwilight_31_yeats_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 17 Aug 2014 00:31:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/celtictwilight_1408_librivox/celtictwilight_31_yeats_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Eaters of Precious Stones]]></title>
+    <itunes:episode><![CDATA[32]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-celtic-twilight-by-william-butler-yeats/]]></link>
+            <enclosure url="https://www.archive.org/download/celtictwilight_1408_librivox/celtictwilight_32_yeats_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 17 Aug 2014 00:32:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/celtictwilight_1408_librivox/celtictwilight_32_yeats_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Our Lady of the Hills]]></title>
+    <itunes:episode><![CDATA[33]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-celtic-twilight-by-william-butler-yeats/]]></link>
+            <enclosure url="https://www.archive.org/download/celtictwilight_1408_librivox/celtictwilight_33_yeats_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 17 Aug 2014 00:33:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/celtictwilight_1408_librivox/celtictwilight_33_yeats_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Golden Age]]></title>
+    <itunes:episode><![CDATA[34]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-celtic-twilight-by-william-butler-yeats/]]></link>
+            <enclosure url="https://www.archive.org/download/celtictwilight_1408_librivox/celtictwilight_34_yeats_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 17 Aug 2014 00:34:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/celtictwilight_1408_librivox/celtictwilight_34_yeats_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[A Remonstrance with Scotsmen for having soured the Disposition of their Ghosts  and Faeries]]></title>
+    <itunes:episode><![CDATA[35]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-celtic-twilight-by-william-butler-yeats/]]></link>
+            <enclosure url="https://www.archive.org/download/celtictwilight_1408_librivox/celtictwilight_35_yeats_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 17 Aug 2014 00:35:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/celtictwilight_1408_librivox/celtictwilight_35_yeats_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[War]]></title>
+    <itunes:episode><![CDATA[36]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-celtic-twilight-by-william-butler-yeats/]]></link>
+            <enclosure url="https://www.archive.org/download/celtictwilight_1408_librivox/celtictwilight_36_yeats_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 17 Aug 2014 00:36:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/celtictwilight_1408_librivox/celtictwilight_36_yeats_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Queen and the Fool]]></title>
+    <itunes:episode><![CDATA[37]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-celtic-twilight-by-william-butler-yeats/]]></link>
+            <enclosure url="https://www.archive.org/download/celtictwilight_1408_librivox/celtictwilight_37_yeats_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 17 Aug 2014 00:37:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/celtictwilight_1408_librivox/celtictwilight_37_yeats_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Friends of the People of Faery]]></title>
+    <itunes:episode><![CDATA[38]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-celtic-twilight-by-william-butler-yeats/]]></link>
+            <enclosure url="https://www.archive.org/download/celtictwilight_1408_librivox/celtictwilight_38_yeats_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 17 Aug 2014 00:38:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/celtictwilight_1408_librivox/celtictwilight_38_yeats_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Dreams that have no Moral]]></title>
+    <itunes:episode><![CDATA[39]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-celtic-twilight-by-william-butler-yeats/]]></link>
+            <enclosure url="https://www.archive.org/download/celtictwilight_1408_librivox/celtictwilight_39_yeats_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 17 Aug 2014 00:39:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/celtictwilight_1408_librivox/celtictwilight_39_yeats_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[By the Roadside]]></title>
+    <itunes:episode><![CDATA[40]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-celtic-twilight-by-william-butler-yeats/]]></link>
+            <enclosure url="https://www.archive.org/download/celtictwilight_1408_librivox/celtictwilight_40_yeats_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 17 Aug 2014 00:40:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/celtictwilight_1408_librivox/celtictwilight_40_yeats_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Into the Twilight]]></title>
+    <itunes:episode><![CDATA[41]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-celtic-twilight-by-william-butler-yeats/]]></link>
+            <enclosure url="https://www.archive.org/download/celtictwilight_1408_librivox/celtictwilight_41_yeats_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 17 Aug 2014 00:41:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/celtictwilight_1408_librivox/celtictwilight_41_yeats_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <!-- end file loop -->
+</channel>
+</rss>

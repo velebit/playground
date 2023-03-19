@@ -1,0 +1,411 @@
+<?xml version="1.0" ?><rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+  <title><![CDATA[Australian Legendary Tales Folk-Lore of the Noongahburrahs As Told To The Piccaninnies by K. Langloh Parker (1856 - 1940)]]></title>
+  <link><![CDATA[https://librivox.org/australian-legendary-tales-folk-lore-of-the-noongahburrahs-as-told-to-the-piccaninnies-by-k-langloh-parker/]]></link>
+  <atom:link rel="self" href="https://librivox.org/rss/2696" />
+  <description><![CDATA[A Collection of Australian Aboriginal Legendary Folk-Lore Tales, legends of the Narran tribe,
+known among themselves as Noongahburrahs.]]></description>
+  <!--<genre>project element=Genre</genre>-->
+  <!--<language>project element=lang.code</language>-->
+  <itunes:type>serial</itunes:type>
+  <itunes:author>LibriVox</itunes:author>
+  <itunes:summary><![CDATA[A Collection of Australian Aboriginal Legendary Folk-Lore Tales, legends of the Narran tribe,
+known among themselves as Noongahburrahs.]]></itunes:summary>
+  <itunes:owner>
+    <itunes:name>LibriVox</itunes:name>
+    <itunes:email>info@librivox.org</itunes:email>
+  </itunes:owner>
+  <itunes:category text="Arts">
+    <itunes:category text="Literature" />
+  </itunes:category>
+  <image><url>https://www.archive.org/download/LibrivoxCdCoverArt15/Australian_Legendary_Tales_1202.jpg</url></image>
+  <itunes:image href="https://www.archive.org/download/LibrivoxCdCoverArt15/Australian_Legendary_Tales_1202.jpg"/>
+  <itunes:explicit>no</itunes:explicit>
+  <!-- file loop -->
+    <item>
+    <title><![CDATA[Preface & Introduction, by Andrew Lang, MA]]></title>
+    <itunes:episode><![CDATA[0]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/australian-legendary-tales-folk-lore-of-the-noongahburrahs-as-told-to-the-piccaninnies-by-k-langloh-parker/]]></link>
+            <enclosure url="https://www.archive.org/download/australian_legendary_tales_0901_librivox/australiantales_00_parker_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:17:46]]></itunes:duration>
+  <pubDate>Mon, 05 Jan 2009 00:00:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/australian_legendary_tales_0901_librivox/australiantales_00_parker_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Dinewan the Emu, and Goomblegubbon the Bustard]]></title>
+    <itunes:episode><![CDATA[1]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/australian-legendary-tales-folk-lore-of-the-noongahburrahs-as-told-to-the-piccaninnies-by-k-langloh-parker/]]></link>
+            <enclosure url="https://www.archive.org/download/australian_legendary_tales_0901_librivox/australiantales_01_parker_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:09:43]]></itunes:duration>
+  <pubDate>Mon, 05 Jan 2009 00:01:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/australian_legendary_tales_0901_librivox/australiantales_01_parker_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Galah, and Oolah the Lizard]]></title>
+    <itunes:episode><![CDATA[2]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/australian-legendary-tales-folk-lore-of-the-noongahburrahs-as-told-to-the-piccaninnies-by-k-langloh-parker/]]></link>
+            <enclosure url="https://www.archive.org/download/australian_legendary_tales_0901_librivox/australiantales_02_parker_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:03:00]]></itunes:duration>
+  <pubDate>Mon, 05 Jan 2009 00:02:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/australian_legendary_tales_0901_librivox/australiantales_02_parker_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Bahloo the Moon, and the Daens]]></title>
+    <itunes:episode><![CDATA[3]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/australian-legendary-tales-folk-lore-of-the-noongahburrahs-as-told-to-the-piccaninnies-by-k-langloh-parker/]]></link>
+            <enclosure url="https://www.archive.org/download/australian_legendary_tales_0901_librivox/australiantales_03_parker_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:03:42]]></itunes:duration>
+  <pubDate>Mon, 05 Jan 2009 00:03:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/australian_legendary_tales_0901_librivox/australiantales_03_parker_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Origin of the Narran Lake]]></title>
+    <itunes:episode><![CDATA[4]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/australian-legendary-tales-folk-lore-of-the-noongahburrahs-as-told-to-the-piccaninnies-by-k-langloh-parker/]]></link>
+            <enclosure url="https://www.archive.org/download/australian_legendary_tales_0901_librivox/australiantales_04_parker_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:06:31]]></itunes:duration>
+  <pubDate>Mon, 05 Jan 2009 00:04:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/australian_legendary_tales_0901_librivox/australiantales_04_parker_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Gooloo The Magpie, and the Wahroogah]]></title>
+    <itunes:episode><![CDATA[5]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/australian-legendary-tales-folk-lore-of-the-noongahburrahs-as-told-to-the-piccaninnies-by-k-langloh-parker/]]></link>
+            <enclosure url="https://www.archive.org/download/australian_legendary_tales_0901_librivox/australiantales_05_parker_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:06:35]]></itunes:duration>
+  <pubDate>Mon, 05 Jan 2009 00:05:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/australian_legendary_tales_0901_librivox/australiantales_05_parker_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Weeoombeens and the Piggiebillah]]></title>
+    <itunes:episode><![CDATA[6]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/australian-legendary-tales-folk-lore-of-the-noongahburrahs-as-told-to-the-piccaninnies-by-k-langloh-parker/]]></link>
+            <enclosure url="https://www.archive.org/download/australian_legendary_tales_0901_librivox/australiantales_06_parker_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:10:34]]></itunes:duration>
+  <pubDate>Mon, 05 Jan 2009 00:06:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/australian_legendary_tales_0901_librivox/australiantales_06_parker_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Bootoolgah The Crane and Goonur The Kangaroo Rat, The Fire Makers]]></title>
+    <itunes:episode><![CDATA[7]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/australian-legendary-tales-folk-lore-of-the-noongahburrahs-as-told-to-the-piccaninnies-by-k-langloh-parker/]]></link>
+            <enclosure url="https://www.archive.org/download/australian_legendary_tales_0901_librivox/australiantales_07_parker_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:08:38]]></itunes:duration>
+  <pubDate>Mon, 05 Jan 2009 00:07:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/australian_legendary_tales_0901_librivox/australiantales_07_parker_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Weedah The Mocking Bird]]></title>
+    <itunes:episode><![CDATA[8]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/australian-legendary-tales-folk-lore-of-the-noongahburrahs-as-told-to-the-piccaninnies-by-k-langloh-parker/]]></link>
+            <enclosure url="https://www.archive.org/download/australian_legendary_tales_0901_librivox/australiantales_08_parker_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:06:38]]></itunes:duration>
+  <pubDate>Mon, 05 Jan 2009 00:08:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/australian_legendary_tales_0901_librivox/australiantales_08_parker_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Gwinerboos The Redbreasts]]></title>
+    <itunes:episode><![CDATA[9]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/australian-legendary-tales-folk-lore-of-the-noongahburrahs-as-told-to-the-piccaninnies-by-k-langloh-parker/]]></link>
+            <enclosure url="https://www.archive.org/download/australian_legendary_tales_0901_librivox/australiantales_09_parker_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:05:46]]></itunes:duration>
+  <pubDate>Mon, 05 Jan 2009 00:09:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/australian_legendary_tales_0901_librivox/australiantales_09_parker_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Meamei The Seven Sisters]]></title>
+    <itunes:episode><![CDATA[10]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/australian-legendary-tales-folk-lore-of-the-noongahburrahs-as-told-to-the-piccaninnies-by-k-langloh-parker/]]></link>
+            <enclosure url="https://www.archive.org/download/australian_legendary_tales_0901_librivox/australiantales_10_parker_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:10:11]]></itunes:duration>
+  <pubDate>Mon, 05 Jan 2009 00:10:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/australian_legendary_tales_0901_librivox/australiantales_10_parker_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Cookooburrahs And the Goolahgool]]></title>
+    <itunes:episode><![CDATA[11]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/australian-legendary-tales-folk-lore-of-the-noongahburrahs-as-told-to-the-piccaninnies-by-k-langloh-parker/]]></link>
+            <enclosure url="https://www.archive.org/download/australian_legendary_tales_0901_librivox/australiantales_11_parker_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:03:53]]></itunes:duration>
+  <pubDate>Mon, 05 Jan 2009 00:11:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/australian_legendary_tales_0901_librivox/australiantales_11_parker_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Mayamah]]></title>
+    <itunes:episode><![CDATA[12]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/australian-legendary-tales-folk-lore-of-the-noongahburrahs-as-told-to-the-piccaninnies-by-k-langloh-parker/]]></link>
+            <enclosure url="https://www.archive.org/download/australian_legendary_tales_0901_librivox/australiantales_12_parker_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:02:28]]></itunes:duration>
+  <pubDate>Mon, 05 Jan 2009 00:12:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/australian_legendary_tales_0901_librivox/australiantales_12_parker_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Bunbundoolooeys]]></title>
+    <itunes:episode><![CDATA[13]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/australian-legendary-tales-folk-lore-of-the-noongahburrahs-as-told-to-the-piccaninnies-by-k-langloh-parker/]]></link>
+            <enclosure url="https://www.archive.org/download/australian_legendary_tales_0901_librivox/australiantales_13_parker_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:03:47]]></itunes:duration>
+  <pubDate>Mon, 05 Jan 2009 00:13:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/australian_legendary_tales_0901_librivox/australiantales_13_parker_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Oongnairwah And Guinare]]></title>
+    <itunes:episode><![CDATA[14]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/australian-legendary-tales-folk-lore-of-the-noongahburrahs-as-told-to-the-piccaninnies-by-k-langloh-parker/]]></link>
+            <enclosure url="https://www.archive.org/download/australian_legendary_tales_0901_librivox/australiantales_14_parker_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:02:13]]></itunes:duration>
+  <pubDate>Mon, 05 Jan 2009 00:14:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/australian_legendary_tales_0901_librivox/australiantales_14_parker_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Narahdarn the Bat]]></title>
+    <itunes:episode><![CDATA[15]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/australian-legendary-tales-folk-lore-of-the-noongahburrahs-as-told-to-the-piccaninnies-by-k-langloh-parker/]]></link>
+            <enclosure url="https://www.archive.org/download/australian_legendary_tales_0901_librivox/australiantales_15_parker_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:08:08]]></itunes:duration>
+  <pubDate>Mon, 05 Jan 2009 00:15:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/australian_legendary_tales_0901_librivox/australiantales_15_parker_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Mullyangah The Morning Star]]></title>
+    <itunes:episode><![CDATA[16]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/australian-legendary-tales-folk-lore-of-the-noongahburrahs-as-told-to-the-piccaninnies-by-k-langloh-parker/]]></link>
+            <enclosure url="https://www.archive.org/download/australian_legendary_tales_0901_librivox/australiantales_16_parker_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:05:56]]></itunes:duration>
+  <pubDate>Mon, 05 Jan 2009 00:16:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/australian_legendary_tales_0901_librivox/australiantales_16_parker_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Goomblegubbon, Beeargaii, And Ouyan]]></title>
+    <itunes:episode><![CDATA[17]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/australian-legendary-tales-folk-lore-of-the-noongahburrahs-as-told-to-the-piccaninnies-by-k-langloh-parker/]]></link>
+            <enclosure url="https://www.archive.org/download/australian_legendary_tales_0901_librivox/australiantales_17_parker_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:03:31]]></itunes:duration>
+  <pubDate>Mon, 05 Jan 2009 00:17:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/australian_legendary_tales_0901_librivox/australiantales_17_parker_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Mooregoo The Mopoke, And Bahloo The Moon]]></title>
+    <itunes:episode><![CDATA[18]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/australian-legendary-tales-folk-lore-of-the-noongahburrahs-as-told-to-the-piccaninnies-by-k-langloh-parker/]]></link>
+            <enclosure url="https://www.archive.org/download/australian_legendary_tales_0901_librivox/australiantales_18_parker_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:02:33]]></itunes:duration>
+  <pubDate>Mon, 05 Jan 2009 00:18:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/australian_legendary_tales_0901_librivox/australiantales_18_parker_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Ouyan The Curlew]]></title>
+    <itunes:episode><![CDATA[19]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/australian-legendary-tales-folk-lore-of-the-noongahburrahs-as-told-to-the-piccaninnies-by-k-langloh-parker/]]></link>
+            <enclosure url="https://www.archive.org/download/australian_legendary_tales_0901_librivox/australiantales_19_parker_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:04:10]]></itunes:duration>
+  <pubDate>Mon, 05 Jan 2009 00:19:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/australian_legendary_tales_0901_librivox/australiantales_19_parker_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Dinewan The Emu, And Wahn The Crows]]></title>
+    <itunes:episode><![CDATA[20]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/australian-legendary-tales-folk-lore-of-the-noongahburrahs-as-told-to-the-piccaninnies-by-k-langloh-parker/]]></link>
+            <enclosure url="https://www.archive.org/download/australian_legendary_tales_0901_librivox/australiantales_20_parker_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:02:22]]></itunes:duration>
+  <pubDate>Mon, 05 Jan 2009 00:20:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/australian_legendary_tales_0901_librivox/australiantales_20_parker_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Goolahwilleel The Topknot Pigeons]]></title>
+    <itunes:episode><![CDATA[21]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/australian-legendary-tales-folk-lore-of-the-noongahburrahs-as-told-to-the-piccaninnies-by-k-langloh-parker/]]></link>
+            <enclosure url="https://www.archive.org/download/australian_legendary_tales_0901_librivox/australiantales_21_parker_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:02:41]]></itunes:duration>
+  <pubDate>Mon, 05 Jan 2009 00:21:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/australian_legendary_tales_0901_librivox/australiantales_21_parker_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Goonur, The Woman-Doctor]]></title>
+    <itunes:episode><![CDATA[22]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/australian-legendary-tales-folk-lore-of-the-noongahburrahs-as-told-to-the-piccaninnies-by-k-langloh-parker/]]></link>
+            <enclosure url="https://www.archive.org/download/australian_legendary_tales_0901_librivox/australiantales_22_parker_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:08:57]]></itunes:duration>
+  <pubDate>Mon, 05 Jan 2009 00:22:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/australian_legendary_tales_0901_librivox/australiantales_22_parker_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Deereeree The Wagtail, And The Rainbow]]></title>
+    <itunes:episode><![CDATA[23]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/australian-legendary-tales-folk-lore-of-the-noongahburrahs-as-told-to-the-piccaninnies-by-k-langloh-parker/]]></link>
+            <enclosure url="https://www.archive.org/download/australian_legendary_tales_0901_librivox/australiantales_23_parker_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:03:19]]></itunes:duration>
+  <pubDate>Mon, 05 Jan 2009 00:23:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/australian_legendary_tales_0901_librivox/australiantales_23_parker_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Mooregoo The Mopoke, And Mooninguggahgul The Mosquito Bird]]></title>
+    <itunes:episode><![CDATA[24]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/australian-legendary-tales-folk-lore-of-the-noongahburrahs-as-told-to-the-piccaninnies-by-k-langloh-parker/]]></link>
+            <enclosure url="https://www.archive.org/download/australian_legendary_tales_0901_librivox/australiantales_24_parker_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:06:20]]></itunes:duration>
+  <pubDate>Mon, 05 Jan 2009 00:24:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/australian_legendary_tales_0901_librivox/australiantales_24_parker_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Bougoodoogahdah The Rain Bird]]></title>
+    <itunes:episode><![CDATA[25]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/australian-legendary-tales-folk-lore-of-the-noongahburrahs-as-told-to-the-piccaninnies-by-k-langloh-parker/]]></link>
+            <enclosure url="https://www.archive.org/download/australian_legendary_tales_0901_librivox/australiantales_25_parker_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:04:46]]></itunes:duration>
+  <pubDate>Mon, 05 Jan 2009 00:25:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/australian_legendary_tales_0901_librivox/australiantales_25_parker_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Borah Of Byamee]]></title>
+    <itunes:episode><![CDATA[26]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/australian-legendary-tales-folk-lore-of-the-noongahburrahs-as-told-to-the-piccaninnies-by-k-langloh-parker/]]></link>
+            <enclosure url="https://www.archive.org/download/australian_legendary_tales_0901_librivox/australiantales_26_parker_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:18:38]]></itunes:duration>
+  <pubDate>Mon, 05 Jan 2009 00:26:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/australian_legendary_tales_0901_librivox/australiantales_26_parker_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Bunnyyarl The Flies And Wurrunnunnah The Bees]]></title>
+    <itunes:episode><![CDATA[27]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/australian-legendary-tales-folk-lore-of-the-noongahburrahs-as-told-to-the-piccaninnies-by-k-langloh-parker/]]></link>
+            <enclosure url="https://www.archive.org/download/australian_legendary_tales_0901_librivox/australiantales_27_parker_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:01:58]]></itunes:duration>
+  <pubDate>Mon, 05 Jan 2009 00:27:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/australian_legendary_tales_0901_librivox/australiantales_27_parker_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Deegeenboyah The Soldier Bird]]></title>
+    <itunes:episode><![CDATA[28]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/australian-legendary-tales-folk-lore-of-the-noongahburrahs-as-told-to-the-piccaninnies-by-k-langloh-parker/]]></link>
+            <enclosure url="https://www.archive.org/download/australian_legendary_tales_0901_librivox/australiantales_28_parker_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:10:44]]></itunes:duration>
+  <pubDate>Mon, 05 Jan 2009 00:28:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/australian_legendary_tales_0901_librivox/australiantales_28_parker_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Mayrah, The Wind That Blows The Winter Away]]></title>
+    <itunes:episode><![CDATA[29]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/australian-legendary-tales-folk-lore-of-the-noongahburrahs-as-told-to-the-piccaninnies-by-k-langloh-parker/]]></link>
+            <enclosure url="https://www.archive.org/download/australian_legendary_tales_0901_librivox/australiantales_29_parker_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:03:16]]></itunes:duration>
+  <pubDate>Mon, 05 Jan 2009 00:29:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/australian_legendary_tales_0901_librivox/australiantales_29_parker_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Wahambeh The Turtle]]></title>
+    <itunes:episode><![CDATA[30]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/australian-legendary-tales-folk-lore-of-the-noongahburrahs-as-told-to-the-piccaninnies-by-k-langloh-parker/]]></link>
+            <enclosure url="https://www.archive.org/download/australian_legendary_tales_0901_librivox/australiantales_30_parker_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:04:29]]></itunes:duration>
+  <pubDate>Mon, 05 Jan 2009 00:30:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/australian_legendary_tales_0901_librivox/australiantales_30_parker_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Wirreenun The Rainmaker]]></title>
+    <itunes:episode><![CDATA[31]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/australian-legendary-tales-folk-lore-of-the-noongahburrahs-as-told-to-the-piccaninnies-by-k-langloh-parker/]]></link>
+            <enclosure url="https://www.archive.org/download/australian_legendary_tales_0901_librivox/australiantales_31_parker_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:09:54]]></itunes:duration>
+  <pubDate>Mon, 05 Jan 2009 00:31:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/australian_legendary_tales_0901_librivox/australiantales_31_parker_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <!-- end file loop -->
+</channel>
+</rss>

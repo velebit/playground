@@ -1,0 +1,133 @@
+<?xml version="1.0" ?><rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+  <title><![CDATA[Ballad of the White Horse (Version 3), The by G. K. Chesterton (1874 - 1936)]]></title>
+  <link><![CDATA[https://librivox.org/ballad-of-the-white-horse-by-g-k-chesterton/]]></link>
+  <atom:link rel="self" href="https://librivox.org/rss/13248" />
+  <description><![CDATA[This epic poem is about Alfred the Great's defense of Christian England against the pagan Viking invaders.  The decisive battle is fought in sight of a white horse mark made on a hill, after which the poem is named.  As the white horse mark must be continually maintained by weeding to be clearly seen, Chesterton sees it as a symbol of the continual struggle to maintain the Christian culture and values for which Alfred the Great fought. - Summary by Robin Lamb]]></description>
+  <!--<genre>project element=Genre</genre>-->
+  <!--<language>project element=lang.code</language>-->
+  <itunes:type>serial</itunes:type>
+  <itunes:author>LibriVox</itunes:author>
+  <itunes:summary><![CDATA[This epic poem is about Alfred the Great's defense of Christian England against the pagan Viking invaders.  The decisive battle is fought in sight of a white horse mark made on a hill, after which the poem is named.  As the white horse mark must be continually maintained by weeding to be clearly seen, Chesterton sees it as a symbol of the continual struggle to maintain the Christian culture and values for which Alfred the Great fought. - Summary by Robin Lamb]]></itunes:summary>
+  <itunes:owner>
+    <itunes:name>LibriVox</itunes:name>
+    <itunes:email>info@librivox.org</itunes:email>
+  </itunes:owner>
+  <itunes:category text="Arts">
+    <itunes:category text="Literature" />
+  </itunes:category>
+  <image><url>https://archive.org/download/balladofthewhitehorse_1809_librivox/ballad_white_horse_1809.jpg</url></image>
+  <itunes:image href="https://archive.org/download/balladofthewhitehorse_1809_librivox/ballad_white_horse_1809.jpg"/>
+  <itunes:explicit>no</itunes:explicit>
+  <!-- file loop -->
+    <item>
+    <title><![CDATA[Prefatory Note and Dedication]]></title>
+    <itunes:episode><![CDATA[0]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/ballad-of-the-white-horse-by-g-k-chesterton/]]></link>
+            <enclosure url="https://www.archive.org/download/balladofthewhitehorse_1809_librivox/balladwhitehorse_00_chesterton_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Wed, 19 Sep 2018 00:00:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/balladofthewhitehorse_1809_librivox/balladwhitehorse_00_chesterton_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Book I. The Vision of the King]]></title>
+    <itunes:episode><![CDATA[1]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/ballad-of-the-white-horse-by-g-k-chesterton/]]></link>
+            <enclosure url="https://www.archive.org/download/balladofthewhitehorse_1809_librivox/balladwhitehorse_01_chesterton_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Wed, 19 Sep 2018 00:01:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/balladofthewhitehorse_1809_librivox/balladwhitehorse_01_chesterton_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Book II. The Gathering of the Chiefs]]></title>
+    <itunes:episode><![CDATA[2]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/ballad-of-the-white-horse-by-g-k-chesterton/]]></link>
+            <enclosure url="https://www.archive.org/download/balladofthewhitehorse_1809_librivox/balladwhitehorse_02_chesterton_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Wed, 19 Sep 2018 00:02:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/balladofthewhitehorse_1809_librivox/balladwhitehorse_02_chesterton_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Book III. The Harp of Alfred]]></title>
+    <itunes:episode><![CDATA[3]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/ballad-of-the-white-horse-by-g-k-chesterton/]]></link>
+            <enclosure url="https://www.archive.org/download/balladofthewhitehorse_1809_librivox/balladwhitehorse_03_chesterton_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Wed, 19 Sep 2018 00:03:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/balladofthewhitehorse_1809_librivox/balladwhitehorse_03_chesterton_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Book IV. The Woman in the Forest]]></title>
+    <itunes:episode><![CDATA[4]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/ballad-of-the-white-horse-by-g-k-chesterton/]]></link>
+            <enclosure url="https://www.archive.org/download/balladofthewhitehorse_1809_librivox/balladwhitehorse_04_chesterton_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Wed, 19 Sep 2018 00:04:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/balladofthewhitehorse_1809_librivox/balladwhitehorse_04_chesterton_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Book V. Ethandune: The First Stroke]]></title>
+    <itunes:episode><![CDATA[5]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/ballad-of-the-white-horse-by-g-k-chesterton/]]></link>
+            <enclosure url="https://www.archive.org/download/balladofthewhitehorse_1809_librivox/balladwhitehorse_05_chesterton_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Wed, 19 Sep 2018 00:05:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/balladofthewhitehorse_1809_librivox/balladwhitehorse_05_chesterton_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Book VI. Ethandune: The Slaying of the Chiefs]]></title>
+    <itunes:episode><![CDATA[6]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/ballad-of-the-white-horse-by-g-k-chesterton/]]></link>
+            <enclosure url="https://www.archive.org/download/balladofthewhitehorse_1809_librivox/balladwhitehorse_06_chesterton_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Wed, 19 Sep 2018 00:06:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/balladofthewhitehorse_1809_librivox/balladwhitehorse_06_chesterton_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Book VII. Ethandune: The Last Charge]]></title>
+    <itunes:episode><![CDATA[7]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/ballad-of-the-white-horse-by-g-k-chesterton/]]></link>
+            <enclosure url="https://www.archive.org/download/balladofthewhitehorse_1809_librivox/balladwhitehorse_07_chesterton_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Wed, 19 Sep 2018 00:07:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/balladofthewhitehorse_1809_librivox/balladwhitehorse_07_chesterton_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Book VIII. The Scouring of the Horse]]></title>
+    <itunes:episode><![CDATA[8]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/ballad-of-the-white-horse-by-g-k-chesterton/]]></link>
+            <enclosure url="https://www.archive.org/download/balladofthewhitehorse_1809_librivox/balladwhitehorse_08_chesterton_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Wed, 19 Sep 2018 00:08:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/balladofthewhitehorse_1809_librivox/balladwhitehorse_08_chesterton_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <!-- end file loop -->
+</channel>
+</rss>

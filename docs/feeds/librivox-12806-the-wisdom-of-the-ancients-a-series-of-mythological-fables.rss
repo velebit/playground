@@ -1,0 +1,409 @@
+<?xml version="1.0" ?><rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+  <title><![CDATA[Wisdom of the Ancients, A Series of Mythological Fables, The by Sir Francis Bacon (1561 - 1626)]]></title>
+  <link><![CDATA[https://librivox.org/the-wisdom-of-the-ancients-by-francis-bacon/]]></link>
+  <atom:link rel="self" href="https://librivox.org/rss/12806" />
+  <description><![CDATA["Now I suppose most people will think I am but entertaining myself with a toy, and using much the same kind of licence in expounding the poets’ fables which the poets themselves did in inventing them; and it is true that if I had a mind to vary and relieve my severer studies with some such exercise of pleasure for my own or my reader’s recreation, I might very fairly indulge in it. But that is not my meaning. Not but that I know very well what pliant stuff fable is made of, how freely it will follow any way you please to draw it, and how easily with a little dexterity and discourse of wit meanings which it was never meant to bear may be plausibly put upon it. Neither have I forgotten that there has been old abuse of the thing in practice; that many, wishing only to gain the sanction and reverence of antiquity for doctrines and inventions of their own, have tried to twist the fables of the poets into that sense; and that this is neither a modern vanity nor a rare one, but old of standing and frequent in use; that Chrysippus long ago, interpreting the oldest poets after the manner of an interpreter of dreams, made them out to be Stoics; and that the Alchemists more absurdly still have discovered in the pleasant and sportive fictions of the transformation of bodies, allusion to experiments of the furnace."  - Summary from Bacon's Preface]]></description>
+  <!--<genre>project element=Genre</genre>-->
+  <!--<language>project element=lang.code</language>-->
+  <itunes:type>serial</itunes:type>
+  <itunes:author>LibriVox</itunes:author>
+  <itunes:summary><![CDATA["Now I suppose most people will think I am but entertaining myself with a toy, and using much the same kind of licence in expounding the poets’ fables which the poets themselves did in inventing them; and it is true that if I had a mind to vary and relieve my severer studies with some such exercise of pleasure for my own or my reader’s recreation, I might very fairly indulge in it. But that is not my meaning. Not but that I know very well what pliant stuff fable is made of, how freely it will follow any way you please to draw it, and how easily with a little dexterity and discourse of wit meanings which it was never meant to bear may be plausibly put upon it. Neither have I forgotten that there has been old abuse of the thing in practice; that many, wishing only to gain the sanction and reverence of antiquity for doctrines and inventions of their own, have tried to twist the fables of the poets into that sense; and that this is neither a modern vanity nor a rare one, but old of standing and frequent in use; that Chrysippus long ago, interpreting the oldest poets after the manner of an interpreter of dreams, made them out to be Stoics; and that the Alchemists more absurdly still have discovered in the pleasant and sportive fictions of the transformation of bodies, allusion to experiments of the furnace."  - Summary from Bacon's Preface]]></itunes:summary>
+  <itunes:owner>
+    <itunes:name>LibriVox</itunes:name>
+    <itunes:email>info@librivox.org</itunes:email>
+  </itunes:owner>
+  <itunes:category text="Arts">
+    <itunes:category text="Literature" />
+  </itunes:category>
+  <image><url>https://archive.org/download/wisdom_of_the_ancients_1807_librivox/wisdom_ancients_1807.jpg</url></image>
+  <itunes:image href="https://archive.org/download/wisdom_of_the_ancients_1807_librivox/wisdom_ancients_1807.jpg"/>
+  <itunes:explicit>no</itunes:explicit>
+  <!-- file loop -->
+    <item>
+    <title><![CDATA[Preface]]></title>
+    <itunes:episode><![CDATA[1]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-wisdom-of-the-ancients-by-francis-bacon/]]></link>
+            <enclosure url="https://www.archive.org/download/wisdom_of_the_ancients_1807_librivox/wisdomoftheancients_01_bacon_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 09 Jul 2018 00:00:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/wisdom_of_the_ancients_1807_librivox/wisdomoftheancients_01_bacon_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Cassandra, Or Divination]]></title>
+    <itunes:episode><![CDATA[2]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-wisdom-of-the-ancients-by-francis-bacon/]]></link>
+            <enclosure url="https://www.archive.org/download/wisdom_of_the_ancients_1807_librivox/wisdomoftheancients_02_bacon_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 09 Jul 2018 00:01:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/wisdom_of_the_ancients_1807_librivox/wisdomoftheancients_02_bacon_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Typhon, Or A Rebel]]></title>
+    <itunes:episode><![CDATA[3]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-wisdom-of-the-ancients-by-francis-bacon/]]></link>
+            <enclosure url="https://www.archive.org/download/wisdom_of_the_ancients_1807_librivox/wisdomoftheancients_03_bacon_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 09 Jul 2018 00:02:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/wisdom_of_the_ancients_1807_librivox/wisdomoftheancients_03_bacon_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Cyclops, Or The Ministers Of Terror]]></title>
+    <itunes:episode><![CDATA[4]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-wisdom-of-the-ancients-by-francis-bacon/]]></link>
+            <enclosure url="https://www.archive.org/download/wisdom_of_the_ancients_1807_librivox/wisdomoftheancients_04_bacon_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 09 Jul 2018 00:03:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/wisdom_of_the_ancients_1807_librivox/wisdomoftheancients_04_bacon_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Narcissus, Or Self-Love]]></title>
+    <itunes:episode><![CDATA[5]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-wisdom-of-the-ancients-by-francis-bacon/]]></link>
+            <enclosure url="https://www.archive.org/download/wisdom_of_the_ancients_1807_librivox/wisdomoftheancients_05_bacon_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 09 Jul 2018 00:04:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/wisdom_of_the_ancients_1807_librivox/wisdomoftheancients_05_bacon_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The River Styx, Or Leagues]]></title>
+    <itunes:episode><![CDATA[6]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-wisdom-of-the-ancients-by-francis-bacon/]]></link>
+            <enclosure url="https://www.archive.org/download/wisdom_of_the_ancients_1807_librivox/wisdomoftheancients_06_bacon_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 09 Jul 2018 00:05:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/wisdom_of_the_ancients_1807_librivox/wisdomoftheancients_06_bacon_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Pan, Or Nature]]></title>
+    <itunes:episode><![CDATA[7]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-wisdom-of-the-ancients-by-francis-bacon/]]></link>
+            <enclosure url="https://www.archive.org/download/wisdom_of_the_ancients_1807_librivox/wisdomoftheancients_07_bacon_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 09 Jul 2018 00:06:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/wisdom_of_the_ancients_1807_librivox/wisdomoftheancients_07_bacon_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Perseus, Or War]]></title>
+    <itunes:episode><![CDATA[8]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-wisdom-of-the-ancients-by-francis-bacon/]]></link>
+            <enclosure url="https://www.archive.org/download/wisdom_of_the_ancients_1807_librivox/wisdomoftheancients_08_bacon_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 09 Jul 2018 00:07:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/wisdom_of_the_ancients_1807_librivox/wisdomoftheancients_08_bacon_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Endymion, Or a Favorite]]></title>
+    <itunes:episode><![CDATA[9]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-wisdom-of-the-ancients-by-francis-bacon/]]></link>
+            <enclosure url="https://www.archive.org/download/wisdom_of_the_ancients_1807_librivox/wisdomoftheancients_09_bacon_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 09 Jul 2018 00:08:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/wisdom_of_the_ancients_1807_librivox/wisdomoftheancients_09_bacon_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Sister Of The Giants, Or Fame]]></title>
+    <itunes:episode><![CDATA[10]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-wisdom-of-the-ancients-by-francis-bacon/]]></link>
+            <enclosure url="https://www.archive.org/download/wisdom_of_the_ancients_1807_librivox/wisdomoftheancients_10_bacon_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 09 Jul 2018 00:09:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/wisdom_of_the_ancients_1807_librivox/wisdomoftheancients_10_bacon_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Acteon And Pentheus, Or A Curious Man]]></title>
+    <itunes:episode><![CDATA[11]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-wisdom-of-the-ancients-by-francis-bacon/]]></link>
+            <enclosure url="https://www.archive.org/download/wisdom_of_the_ancients_1807_librivox/wisdomoftheancients_11_bacon_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 09 Jul 2018 00:10:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/wisdom_of_the_ancients_1807_librivox/wisdomoftheancients_11_bacon_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Orpheus, Or Philosophy]]></title>
+    <itunes:episode><![CDATA[12]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-wisdom-of-the-ancients-by-francis-bacon/]]></link>
+            <enclosure url="https://www.archive.org/download/wisdom_of_the_ancients_1807_librivox/wisdomoftheancients_12_bacon_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 09 Jul 2018 00:11:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/wisdom_of_the_ancients_1807_librivox/wisdomoftheancients_12_bacon_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Cœlum, Or Beginnings]]></title>
+    <itunes:episode><![CDATA[13]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-wisdom-of-the-ancients-by-francis-bacon/]]></link>
+            <enclosure url="https://www.archive.org/download/wisdom_of_the_ancients_1807_librivox/wisdomoftheancients_13_bacon_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 09 Jul 2018 00:12:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/wisdom_of_the_ancients_1807_librivox/wisdomoftheancients_13_bacon_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Proteus, Or Matter]]></title>
+    <itunes:episode><![CDATA[14]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-wisdom-of-the-ancients-by-francis-bacon/]]></link>
+            <enclosure url="https://www.archive.org/download/wisdom_of_the_ancients_1807_librivox/wisdomoftheancients_14_bacon_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 09 Jul 2018 00:13:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/wisdom_of_the_ancients_1807_librivox/wisdomoftheancients_14_bacon_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Memnon, Or A Youth Too Forward]]></title>
+    <itunes:episode><![CDATA[15]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-wisdom-of-the-ancients-by-francis-bacon/]]></link>
+            <enclosure url="https://www.archive.org/download/wisdom_of_the_ancients_1807_librivox/wisdomoftheancients_15_bacon_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 09 Jul 2018 00:14:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/wisdom_of_the_ancients_1807_librivox/wisdomoftheancients_15_bacon_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Tythonus, Or Satiety]]></title>
+    <itunes:episode><![CDATA[16]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-wisdom-of-the-ancients-by-francis-bacon/]]></link>
+            <enclosure url="https://www.archive.org/download/wisdom_of_the_ancients_1807_librivox/wisdomoftheancients_16_bacon_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 09 Jul 2018 00:15:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/wisdom_of_the_ancients_1807_librivox/wisdomoftheancients_16_bacon_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Juno’s Suitor, Or Baseness]]></title>
+    <itunes:episode><![CDATA[17]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-wisdom-of-the-ancients-by-francis-bacon/]]></link>
+            <enclosure url="https://www.archive.org/download/wisdom_of_the_ancients_1807_librivox/wisdomoftheancients_17_bacon_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 09 Jul 2018 00:16:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/wisdom_of_the_ancients_1807_librivox/wisdomoftheancients_17_bacon_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Cupid, Or An Atom]]></title>
+    <itunes:episode><![CDATA[18]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-wisdom-of-the-ancients-by-francis-bacon/]]></link>
+            <enclosure url="https://www.archive.org/download/wisdom_of_the_ancients_1807_librivox/wisdomoftheancients_18_bacon_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 09 Jul 2018 00:17:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/wisdom_of_the_ancients_1807_librivox/wisdomoftheancients_18_bacon_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Diomed, Or Zeal]]></title>
+    <itunes:episode><![CDATA[19]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-wisdom-of-the-ancients-by-francis-bacon/]]></link>
+            <enclosure url="https://www.archive.org/download/wisdom_of_the_ancients_1807_librivox/wisdomoftheancients_19_bacon_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 09 Jul 2018 00:18:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/wisdom_of_the_ancients_1807_librivox/wisdomoftheancients_19_bacon_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Dædalus, Or Mechanical Skill]]></title>
+    <itunes:episode><![CDATA[20]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-wisdom-of-the-ancients-by-francis-bacon/]]></link>
+            <enclosure url="https://www.archive.org/download/wisdom_of_the_ancients_1807_librivox/wisdomoftheancients_20_bacon_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 09 Jul 2018 00:19:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/wisdom_of_the_ancients_1807_librivox/wisdomoftheancients_20_bacon_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Ericthonius, Or Imposture]]></title>
+    <itunes:episode><![CDATA[21]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-wisdom-of-the-ancients-by-francis-bacon/]]></link>
+            <enclosure url="https://www.archive.org/download/wisdom_of_the_ancients_1807_librivox/wisdomoftheancients_21_bacon_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 09 Jul 2018 00:20:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/wisdom_of_the_ancients_1807_librivox/wisdomoftheancients_21_bacon_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Deucalion, Or Restitution]]></title>
+    <itunes:episode><![CDATA[22]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-wisdom-of-the-ancients-by-francis-bacon/]]></link>
+            <enclosure url="https://www.archive.org/download/wisdom_of_the_ancients_1807_librivox/wisdomoftheancients_22_bacon_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 09 Jul 2018 00:21:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/wisdom_of_the_ancients_1807_librivox/wisdomoftheancients_22_bacon_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Nemesis, Or The Vicissitude Of Things]]></title>
+    <itunes:episode><![CDATA[23]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-wisdom-of-the-ancients-by-francis-bacon/]]></link>
+            <enclosure url="https://www.archive.org/download/wisdom_of_the_ancients_1807_librivox/wisdomoftheancients_23_bacon_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 09 Jul 2018 00:22:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/wisdom_of_the_ancients_1807_librivox/wisdomoftheancients_23_bacon_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Achelous, Or Battle]]></title>
+    <itunes:episode><![CDATA[24]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-wisdom-of-the-ancients-by-francis-bacon/]]></link>
+            <enclosure url="https://www.archive.org/download/wisdom_of_the_ancients_1807_librivox/wisdomoftheancients_24_bacon_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 09 Jul 2018 00:23:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/wisdom_of_the_ancients_1807_librivox/wisdomoftheancients_24_bacon_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Dionysus, Or Bacchus]]></title>
+    <itunes:episode><![CDATA[25]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-wisdom-of-the-ancients-by-francis-bacon/]]></link>
+            <enclosure url="https://www.archive.org/download/wisdom_of_the_ancients_1807_librivox/wisdomoftheancients_25_bacon_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 09 Jul 2018 00:24:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/wisdom_of_the_ancients_1807_librivox/wisdomoftheancients_25_bacon_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Atalanta And Hippomenes, Or Gain]]></title>
+    <itunes:episode><![CDATA[26]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-wisdom-of-the-ancients-by-francis-bacon/]]></link>
+            <enclosure url="https://www.archive.org/download/wisdom_of_the_ancients_1807_librivox/wisdomoftheancients_26_bacon_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 09 Jul 2018 00:25:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/wisdom_of_the_ancients_1807_librivox/wisdomoftheancients_26_bacon_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Prometheus, Or The State Of Man]]></title>
+    <itunes:episode><![CDATA[27]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-wisdom-of-the-ancients-by-francis-bacon/]]></link>
+            <enclosure url="https://www.archive.org/download/wisdom_of_the_ancients_1807_librivox/wisdomoftheancients_27_bacon_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 09 Jul 2018 00:26:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/wisdom_of_the_ancients_1807_librivox/wisdomoftheancients_27_bacon_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Icarus And Scylla And Charybdis, Or The Middle Way]]></title>
+    <itunes:episode><![CDATA[28]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-wisdom-of-the-ancients-by-francis-bacon/]]></link>
+            <enclosure url="https://www.archive.org/download/wisdom_of_the_ancients_1807_librivox/wisdomoftheancients_28_bacon_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 09 Jul 2018 00:27:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/wisdom_of_the_ancients_1807_librivox/wisdomoftheancients_28_bacon_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Sphinx, Or Science]]></title>
+    <itunes:episode><![CDATA[29]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-wisdom-of-the-ancients-by-francis-bacon/]]></link>
+            <enclosure url="https://www.archive.org/download/wisdom_of_the_ancients_1807_librivox/wisdomoftheancients_29_bacon_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 09 Jul 2018 00:28:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/wisdom_of_the_ancients_1807_librivox/wisdomoftheancients_29_bacon_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Proserpine, Or Spirit]]></title>
+    <itunes:episode><![CDATA[30]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-wisdom-of-the-ancients-by-francis-bacon/]]></link>
+            <enclosure url="https://www.archive.org/download/wisdom_of_the_ancients_1807_librivox/wisdomoftheancients_30_bacon_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 09 Jul 2018 00:29:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/wisdom_of_the_ancients_1807_librivox/wisdomoftheancients_30_bacon_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Metis, Or Counsel]]></title>
+    <itunes:episode><![CDATA[31]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-wisdom-of-the-ancients-by-francis-bacon/]]></link>
+            <enclosure url="https://www.archive.org/download/wisdom_of_the_ancients_1807_librivox/wisdomoftheancients_31_bacon_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 09 Jul 2018 00:30:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/wisdom_of_the_ancients_1807_librivox/wisdomoftheancients_31_bacon_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Sirens, Or Pleasures]]></title>
+    <itunes:episode><![CDATA[32]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-wisdom-of-the-ancients-by-francis-bacon/]]></link>
+            <enclosure url="https://www.archive.org/download/wisdom_of_the_ancients_1807_librivox/wisdomoftheancients_32_bacon_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 09 Jul 2018 00:31:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/wisdom_of_the_ancients_1807_librivox/wisdomoftheancients_32_bacon_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <!-- end file loop -->
+</channel>
+</rss>

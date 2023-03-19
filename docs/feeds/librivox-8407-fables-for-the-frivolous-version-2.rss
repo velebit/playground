@@ -1,0 +1,265 @@
+<?xml version="1.0" ?><rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+  <title><![CDATA[Fables for the Frivolous (Version 2) by  Guy Wetmore Carryl (1873 - 1904)]]></title>
+  <link><![CDATA[https://librivox.org/fables-for-the-frivolous-version-2-by-guy-wetmore-carryl/]]></link>
+  <atom:link rel="self" href="https://librivox.org/rss/8407" />
+  <description><![CDATA[Fables for the Frivolous is one of the earliest works by the American parodist Guy Wetmore Carryl. These fables are adapted from Jean de La Fontaine's original writings. The Aesop-style fables are written in verse, and are light-hearted re-tellings of fables from two centuries before, each ending with a moral and a pun. Among the more celebrated of the fables are The Persevering Tortoise and the Pretentious Hare, The Arrogant Frog and the Superior Bull, and The Sycophantic Fox and the Gullible Raven. (from Wikipedia)]]></description>
+  <!--<genre>project element=Genre</genre>-->
+  <!--<language>project element=lang.code</language>-->
+  <itunes:type>serial</itunes:type>
+  <itunes:author>LibriVox</itunes:author>
+  <itunes:summary><![CDATA[Fables for the Frivolous is one of the earliest works by the American parodist Guy Wetmore Carryl. These fables are adapted from Jean de La Fontaine's original writings. The Aesop-style fables are written in verse, and are light-hearted re-tellings of fables from two centuries before, each ending with a moral and a pun. Among the more celebrated of the fables are The Persevering Tortoise and the Pretentious Hare, The Arrogant Frog and the Superior Bull, and The Sycophantic Fox and the Gullible Raven. (from Wikipedia)]]></itunes:summary>
+  <itunes:owner>
+    <itunes:name>LibriVox</itunes:name>
+    <itunes:email>info@librivox.org</itunes:email>
+  </itunes:owner>
+  <itunes:category text="Arts">
+    <itunes:category text="Literature" />
+  </itunes:category>
+  <image><url>https://archive.org/download/fablesforthefrivolous_version_2_1311_librivox/fables_frivolous2_1311.jpg</url></image>
+  <itunes:image href="https://archive.org/download/fablesforthefrivolous_version_2_1311_librivox/fables_frivolous2_1311.jpg"/>
+  <itunes:explicit>no</itunes:explicit>
+  <!-- file loop -->
+    <item>
+    <title><![CDATA[THE AMBITIOUS FOX AND THE UNAPPROACHABLE GRAPES]]></title>
+    <itunes:episode><![CDATA[1]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/fables-for-the-frivolous-version-2-by-guy-wetmore-carryl/]]></link>
+            <enclosure url="https://www.archive.org/download/fablesforthefrivolous_version_2_1311_librivox/fablesforthefrivolous_version_2_01_carryl_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 25 Nov 2013 00:00:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/fablesforthefrivolous_version_2_1311_librivox/fablesforthefrivolous_version_2_01_carryl_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[THE PERSEVERING TORTOISE AND THE PRETENTIOUS HARE]]></title>
+    <itunes:episode><![CDATA[2]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/fables-for-the-frivolous-version-2-by-guy-wetmore-carryl/]]></link>
+            <enclosure url="https://www.archive.org/download/fablesforthefrivolous_version_2_1311_librivox/fablesforthefrivolous_version_2_02_carryl_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 25 Nov 2013 00:01:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/fablesforthefrivolous_version_2_1311_librivox/fablesforthefrivolous_version_2_02_carryl_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[THE PATRICIAN PEACOCKS AND THE OVERWEENING JAY]]></title>
+    <itunes:episode><![CDATA[3]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/fables-for-the-frivolous-version-2-by-guy-wetmore-carryl/]]></link>
+            <enclosure url="https://www.archive.org/download/fablesforthefrivolous_version_2_1311_librivox/fablesforthefrivolous_version_2_03_carryl_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 25 Nov 2013 00:02:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/fablesforthefrivolous_version_2_1311_librivox/fablesforthefrivolous_version_2_03_carryl_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[THE ARROGANT FROG AND THE SUPERIOR BULL]]></title>
+    <itunes:episode><![CDATA[4]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/fables-for-the-frivolous-version-2-by-guy-wetmore-carryl/]]></link>
+            <enclosure url="https://www.archive.org/download/fablesforthefrivolous_version_2_1311_librivox/fablesforthefrivolous_version_2_04_carryl_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 25 Nov 2013 00:03:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/fablesforthefrivolous_version_2_1311_librivox/fablesforthefrivolous_version_2_04_carryl_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[THE DOMINEERING EAGLE AND THE INVENTIVE BRATLING]]></title>
+    <itunes:episode><![CDATA[5]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/fables-for-the-frivolous-version-2-by-guy-wetmore-carryl/]]></link>
+            <enclosure url="https://www.archive.org/download/fablesforthefrivolous_version_2_1311_librivox/fablesforthefrivolous_version_2_05_carryl_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 25 Nov 2013 00:04:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/fablesforthefrivolous_version_2_1311_librivox/fablesforthefrivolous_version_2_05_carryl_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[THE ICONOCLASTIC RUSTIC AND THE APROPOS ACORN]]></title>
+    <itunes:episode><![CDATA[6]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/fables-for-the-frivolous-version-2-by-guy-wetmore-carryl/]]></link>
+            <enclosure url="https://www.archive.org/download/fablesforthefrivolous_version_2_1311_librivox/fablesforthefrivolous_version_2_06_carryl_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 25 Nov 2013 00:05:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/fablesforthefrivolous_version_2_1311_librivox/fablesforthefrivolous_version_2_06_carryl_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[THE UNUSUAL GOOSE AND THE IMBECILIC WOODCUTTER]]></title>
+    <itunes:episode><![CDATA[7]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/fables-for-the-frivolous-version-2-by-guy-wetmore-carryl/]]></link>
+            <enclosure url="https://www.archive.org/download/fablesforthefrivolous_version_2_1311_librivox/fablesforthefrivolous_version_2_07_carryl_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 25 Nov 2013 00:06:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/fablesforthefrivolous_version_2_1311_librivox/fablesforthefrivolous_version_2_07_carryl_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[THE RUDE RAT AND THE UNOSTENTATIOUS OYSTER]]></title>
+    <itunes:episode><![CDATA[8]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/fables-for-the-frivolous-version-2-by-guy-wetmore-carryl/]]></link>
+            <enclosure url="https://www.archive.org/download/fablesforthefrivolous_version_2_1311_librivox/fablesforthefrivolous_version_2_08_carryl_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 25 Nov 2013 00:07:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/fablesforthefrivolous_version_2_1311_librivox/fablesforthefrivolous_version_2_08_carryl_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[THE URBAN RAT AND THE SUBURBAN RAT]]></title>
+    <itunes:episode><![CDATA[9]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/fables-for-the-frivolous-version-2-by-guy-wetmore-carryl/]]></link>
+            <enclosure url="https://www.archive.org/download/fablesforthefrivolous_version_2_1311_librivox/fablesforthefrivolous_version_2_09_carryl_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 25 Nov 2013 00:08:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/fablesforthefrivolous_version_2_1311_librivox/fablesforthefrivolous_version_2_09_carryl_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[THE IMPECUNIOUS CRICKET AND THE FRUGAL ANT]]></title>
+    <itunes:episode><![CDATA[10]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/fables-for-the-frivolous-version-2-by-guy-wetmore-carryl/]]></link>
+            <enclosure url="https://www.archive.org/download/fablesforthefrivolous_version_2_1311_librivox/fablesforthefrivolous_version_2_10_carryl_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 25 Nov 2013 00:09:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/fablesforthefrivolous_version_2_1311_librivox/fablesforthefrivolous_version_2_10_carryl_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[THE PAMPERED LAPDOG AND THE MISGUIDED ASS]]></title>
+    <itunes:episode><![CDATA[11]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/fables-for-the-frivolous-version-2-by-guy-wetmore-carryl/]]></link>
+            <enclosure url="https://www.archive.org/download/fablesforthefrivolous_version_2_1311_librivox/fablesforthefrivolous_version_2_11_carryl_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 25 Nov 2013 00:10:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/fablesforthefrivolous_version_2_1311_librivox/fablesforthefrivolous_version_2_11_carryl_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[THE VAINGLORIOUS OAK AND THE MODEST BULRUSH]]></title>
+    <itunes:episode><![CDATA[12]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/fables-for-the-frivolous-version-2-by-guy-wetmore-carryl/]]></link>
+            <enclosure url="https://www.archive.org/download/fablesforthefrivolous_version_2_1311_librivox/fablesforthefrivolous_version_2_12_carryl_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 25 Nov 2013 00:11:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/fablesforthefrivolous_version_2_1311_librivox/fablesforthefrivolous_version_2_12_carryl_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[THE INHUMAN WOLF AND THE LAMB SANS GENE]]></title>
+    <itunes:episode><![CDATA[13]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/fables-for-the-frivolous-version-2-by-guy-wetmore-carryl/]]></link>
+            <enclosure url="https://www.archive.org/download/fablesforthefrivolous_version_2_1311_librivox/fablesforthefrivolous_version_2_13_carryl_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 25 Nov 2013 00:12:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/fablesforthefrivolous_version_2_1311_librivox/fablesforthefrivolous_version_2_13_carryl_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[THE SYCOPHANTIC FOX AND THE GULLIBLE RAVEN]]></title>
+    <itunes:episode><![CDATA[14]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/fables-for-the-frivolous-version-2-by-guy-wetmore-carryl/]]></link>
+            <enclosure url="https://www.archive.org/download/fablesforthefrivolous_version_2_1311_librivox/fablesforthefrivolous_version_2_14_carryl_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 25 Nov 2013 00:13:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/fablesforthefrivolous_version_2_1311_librivox/fablesforthefrivolous_version_2_14_carryl_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[THE MICROSCOPIC TROUT AND THE MACHIAVELIAN FISHERMAN]]></title>
+    <itunes:episode><![CDATA[15]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/fables-for-the-frivolous-version-2-by-guy-wetmore-carryl/]]></link>
+            <enclosure url="https://www.archive.org/download/fablesforthefrivolous_version_2_1311_librivox/fablesforthefrivolous_version_2_15_carryl_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 25 Nov 2013 00:14:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/fablesforthefrivolous_version_2_1311_librivox/fablesforthefrivolous_version_2_15_carryl_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[THE CONFIDING PEASANT AND THE MALADROIT BEAR]]></title>
+    <itunes:episode><![CDATA[16]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/fables-for-the-frivolous-version-2-by-guy-wetmore-carryl/]]></link>
+            <enclosure url="https://www.archive.org/download/fablesforthefrivolous_version_2_1311_librivox/fablesforthefrivolous_version_2_16_carryl_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 25 Nov 2013 00:15:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/fablesforthefrivolous_version_2_1311_librivox/fablesforthefrivolous_version_2_16_carryl_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[THE PRECIPITATE COCK AND THE UNAPPRECIATED PEARL]]></title>
+    <itunes:episode><![CDATA[17]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/fables-for-the-frivolous-version-2-by-guy-wetmore-carryl/]]></link>
+            <enclosure url="https://www.archive.org/download/fablesforthefrivolous_version_2_1311_librivox/fablesforthefrivolous_version_2_17_carryl_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 25 Nov 2013 00:16:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/fablesforthefrivolous_version_2_1311_librivox/fablesforthefrivolous_version_2_17_carryl_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[THE ABBREVIATED FOX AND HIS SCEPTICAL COMRADES]]></title>
+    <itunes:episode><![CDATA[18]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/fables-for-the-frivolous-version-2-by-guy-wetmore-carryl/]]></link>
+            <enclosure url="https://www.archive.org/download/fablesforthefrivolous_version_2_1311_librivox/fablesforthefrivolous_version_2_18_carryl_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 25 Nov 2013 00:17:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/fablesforthefrivolous_version_2_1311_librivox/fablesforthefrivolous_version_2_18_carryl_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[THE HOSPITABLE CALEDONIAN AND THE THANKLESS VIPER]]></title>
+    <itunes:episode><![CDATA[19]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/fables-for-the-frivolous-version-2-by-guy-wetmore-carryl/]]></link>
+            <enclosure url="https://www.archive.org/download/fablesforthefrivolous_version_2_1311_librivox/fablesforthefrivolous_version_2_19_carryl_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 25 Nov 2013 00:18:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/fablesforthefrivolous_version_2_1311_librivox/fablesforthefrivolous_version_2_19_carryl_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[THE IMPETUOUS BREEZE AND THE DIPLOMATIC SUN]]></title>
+    <itunes:episode><![CDATA[20]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/fables-for-the-frivolous-version-2-by-guy-wetmore-carryl/]]></link>
+            <enclosure url="https://www.archive.org/download/fablesforthefrivolous_version_2_1311_librivox/fablesforthefrivolous_version_2_20_carryl_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 25 Nov 2013 00:19:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/fablesforthefrivolous_version_2_1311_librivox/fablesforthefrivolous_version_2_20_carryl_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <!-- end file loop -->
+</channel>
+</rss>

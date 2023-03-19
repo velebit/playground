@@ -1,0 +1,61 @@
+<?xml version="1.0" ?><rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+  <title><![CDATA[Fisherman and His Soul (Version 2), The by Oscar Wilde (1854 - 1900)]]></title>
+  <link><![CDATA[https://librivox.org/the-fisherman-and-his-soul-by-oscar-wilde-2/]]></link>
+  <atom:link rel="self" href="https://librivox.org/rss/13468" />
+  <description><![CDATA[To get what we want is often the greatest curse of all.  The fisherman here accidentally catches a mermaid in his net. He falls in love with the Mermaid and tells her that he wants to marry her. She tells him that he can only marry her if he sends away his soul. From a Witch, the Fisherman learns how to send his soul away. The Soul makes several attempts to persuade the Fisherman to take him back, eventually convincing him to do so with the tale of a beautiful dancer who lives nearby. Too late does the Fisherman discover that the soul which he sent out into the world without a heart has become evil. So be careful what you set your heart on. This story was first published in 1896 in the book A House of Pomegranates.     - Summary by phil chenevert]]></description>
+  <!--<genre>project element=Genre</genre>-->
+  <!--<language>project element=lang.code</language>-->
+  <itunes:type>serial</itunes:type>
+  <itunes:author>LibriVox</itunes:author>
+  <itunes:summary><![CDATA[To get what we want is often the greatest curse of all.  The fisherman here accidentally catches a mermaid in his net. He falls in love with the Mermaid and tells her that he wants to marry her. She tells him that he can only marry her if he sends away his soul. From a Witch, the Fisherman learns how to send his soul away. The Soul makes several attempts to persuade the Fisherman to take him back, eventually convincing him to do so with the tale of a beautiful dancer who lives nearby. Too late does the Fisherman discover that the soul which he sent out into the world without a heart has become evil. So be careful what you set your heart on. This story was first published in 1896 in the book A House of Pomegranates.     - Summary by phil chenevert]]></itunes:summary>
+  <itunes:owner>
+    <itunes:name>LibriVox</itunes:name>
+    <itunes:email>info@librivox.org</itunes:email>
+  </itunes:owner>
+  <itunes:category text="Arts">
+    <itunes:category text="Literature" />
+  </itunes:category>
+  <image><url>https://archive.org/download/thefishermanandhissoul_1811_librivox/fishermansoul_1811.jpg</url></image>
+  <itunes:image href="https://archive.org/download/thefishermanandhissoul_1811_librivox/fishermansoul_1811.jpg"/>
+  <itunes:explicit>no</itunes:explicit>
+  <!-- file loop -->
+    <item>
+    <title><![CDATA[Part I]]></title>
+    <itunes:episode><![CDATA[1]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-fisherman-and-his-soul-by-oscar-wilde-2/]]></link>
+            <enclosure url="https://www.archive.org/download/thefishermanandhissoul_1811_librivox/fishermanandhisoul_01_wilde_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 19 Nov 2018 00:00:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/thefishermanandhissoul_1811_librivox/fishermanandhisoul_01_wilde_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Part II]]></title>
+    <itunes:episode><![CDATA[2]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-fisherman-and-his-soul-by-oscar-wilde-2/]]></link>
+            <enclosure url="https://www.archive.org/download/thefishermanandhissoul_1811_librivox/fishermanandhisoul_02_wilde_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 19 Nov 2018 00:01:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/thefishermanandhissoul_1811_librivox/fishermanandhisoul_02_wilde_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Part III]]></title>
+    <itunes:episode><![CDATA[3]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-fisherman-and-his-soul-by-oscar-wilde-2/]]></link>
+            <enclosure url="https://www.archive.org/download/thefishermanandhissoul_1811_librivox/fishermanandhisoul_03_wilde_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 19 Nov 2018 00:02:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/thefishermanandhissoul_1811_librivox/fishermanandhisoul_03_wilde_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <!-- end file loop -->
+</channel>
+</rss>

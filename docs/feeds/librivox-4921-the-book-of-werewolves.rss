@@ -1,0 +1,217 @@
+<?xml version="1.0" ?><rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+  <title><![CDATA[Book of Werewolves, The by Sabine Baring-Gould (1834 - 1924)]]></title>
+  <link><![CDATA[https://librivox.org/the-book-of-werewolves-being-an-account-of-a-terrible-superstition-by-sabine-baring-gould/]]></link>
+  <atom:link rel="self" href="https://librivox.org/rss/4921" />
+  <description><![CDATA[A survey of the myths and legends concerning lycanthropy from ancient times to the Victorian Era. (Summary by A. Gramour)]]></description>
+  <!--<genre>project element=Genre</genre>-->
+  <!--<language>project element=lang.code</language>-->
+  <itunes:type>serial</itunes:type>
+  <itunes:author>LibriVox</itunes:author>
+  <itunes:summary><![CDATA[A survey of the myths and legends concerning lycanthropy from ancient times to the Victorian Era. (Summary by A. Gramour)]]></itunes:summary>
+  <itunes:owner>
+    <itunes:name>LibriVox</itunes:name>
+    <itunes:email>info@librivox.org</itunes:email>
+  </itunes:owner>
+  <itunes:category text="Arts">
+    <itunes:category text="Literature" />
+  </itunes:category>
+  <image><url>https://www.archive.org/download/LibrivoxCdCoverArt8/Book_of_Werewolves_1103.jpg</url></image>
+  <itunes:image href="https://www.archive.org/download/LibrivoxCdCoverArt8/Book_of_Werewolves_1103.jpg"/>
+  <itunes:explicit>no</itunes:explicit>
+  <!-- file loop -->
+    <item>
+    <title><![CDATA[01-CHAPTER I: INTRODUCTORY  ]]></title>
+    <itunes:episode><![CDATA[1]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-book-of-werewolves-being-an-account-of-a-terrible-superstition-by-sabine-baring-gould/]]></link>
+            <enclosure url="https://www.archive.org/download/book_of_werewolves_1103_librivox/bookofwerewolves_01_baring-gould_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:08:33]]></itunes:duration>
+  <pubDate>Tue, 15 Mar 2011 00:00:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/book_of_werewolves_1103_librivox/bookofwerewolves_01_baring-gould_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[02-CHAPTER II: LYCANTHROPY AMONG THE ANCIENTS]]></title>
+    <itunes:episode><![CDATA[2]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-book-of-werewolves-being-an-account-of-a-terrible-superstition-by-sabine-baring-gould/]]></link>
+            <enclosure url="https://www.archive.org/download/book_of_werewolves_1103_librivox/bookofwerewolves_02_baring-gould_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:08:56]]></itunes:duration>
+  <pubDate>Tue, 15 Mar 2011 00:01:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/book_of_werewolves_1103_librivox/bookofwerewolves_02_baring-gould_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[03-CHAPTER III: THE WERE-WOLF IN THE NORTH]]></title>
+    <itunes:episode><![CDATA[3]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-book-of-werewolves-being-an-account-of-a-terrible-superstition-by-sabine-baring-gould/]]></link>
+            <enclosure url="https://www.archive.org/download/book_of_werewolves_1103_librivox/bookofwerewolves_03_baring-gould_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:26:10]]></itunes:duration>
+  <pubDate>Tue, 15 Mar 2011 00:02:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/book_of_werewolves_1103_librivox/bookofwerewolves_03_baring-gould_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[04-CHAPTER IV: THE ORIGIN OF THE SCANDINAVIAN WERE-WOLF]]></title>
+    <itunes:episode><![CDATA[4]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-book-of-werewolves-being-an-account-of-a-terrible-superstition-by-sabine-baring-gould/]]></link>
+            <enclosure url="https://www.archive.org/download/book_of_werewolves_1103_librivox/bookofwerewolves_04_baring-gould_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:28:26]]></itunes:duration>
+  <pubDate>Tue, 15 Mar 2011 00:03:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/book_of_werewolves_1103_librivox/bookofwerewolves_04_baring-gould_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[05-CHAPTER V: THE WERE-WOLF IN THE MIDDLE AGES]]></title>
+    <itunes:episode><![CDATA[5]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-book-of-werewolves-being-an-account-of-a-terrible-superstition-by-sabine-baring-gould/]]></link>
+            <enclosure url="https://www.archive.org/download/book_of_werewolves_1103_librivox/bookofwerewolves_05_baring-gould_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:18:44]]></itunes:duration>
+  <pubDate>Tue, 15 Mar 2011 00:04:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/book_of_werewolves_1103_librivox/bookofwerewolves_05_baring-gould_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[06-CHAPTER VI: A CHAPTER OF HORRORS]]></title>
+    <itunes:episode><![CDATA[6]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-book-of-werewolves-being-an-account-of-a-terrible-superstition-by-sabine-baring-gould/]]></link>
+            <enclosure url="https://www.archive.org/download/book_of_werewolves_1103_librivox/bookofwerewolves_06_baring-gould_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:18:13]]></itunes:duration>
+  <pubDate>Tue, 15 Mar 2011 00:05:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/book_of_werewolves_1103_librivox/bookofwerewolves_06_baring-gould_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[07-Chapter VII: JEAN GRENIER]]></title>
+    <itunes:episode><![CDATA[7]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-book-of-werewolves-being-an-account-of-a-terrible-superstition-by-sabine-baring-gould/]]></link>
+            <enclosure url="https://www.archive.org/download/book_of_werewolves_1103_librivox/bookofwerewolves_07_baring-gould_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:18:37]]></itunes:duration>
+  <pubDate>Tue, 15 Mar 2011 00:06:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/book_of_werewolves_1103_librivox/bookofwerewolves_07_baring-gould_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[08-CHAPTER VIII: FOLK-LORE RELATING TO WERE-WOLVES]]></title>
+    <itunes:episode><![CDATA[8]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-book-of-werewolves-being-an-account-of-a-terrible-superstition-by-sabine-baring-gould/]]></link>
+            <enclosure url="https://www.archive.org/download/book_of_werewolves_1103_librivox/bookofwerewolves_08_baring-gould_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:35:36]]></itunes:duration>
+  <pubDate>Tue, 15 Mar 2011 00:07:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/book_of_werewolves_1103_librivox/bookofwerewolves_08_baring-gould_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[09-CHAPTER IX: NATURAL CAUSES OF LYCANTHROPY]]></title>
+    <itunes:episode><![CDATA[9]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-book-of-werewolves-being-an-account-of-a-terrible-superstition-by-sabine-baring-gould/]]></link>
+            <enclosure url="https://www.archive.org/download/book_of_werewolves_1103_librivox/bookofwerewolves_09_baring-gould_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:28:08]]></itunes:duration>
+  <pubDate>Tue, 15 Mar 2011 00:08:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/book_of_werewolves_1103_librivox/bookofwerewolves_09_baring-gould_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[10-CHAPTER X: MYTHOLOGICAL ORIGIN OF THE WERE-WOLF MYTH]]></title>
+    <itunes:episode><![CDATA[10]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-book-of-werewolves-being-an-account-of-a-terrible-superstition-by-sabine-baring-gould/]]></link>
+            <enclosure url="https://www.archive.org/download/book_of_werewolves_1103_librivox/bookofwerewolves_10_baring-gould_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:37:27]]></itunes:duration>
+  <pubDate>Tue, 15 Mar 2011 00:09:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/book_of_werewolves_1103_librivox/bookofwerewolves_10_baring-gould_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[11-CHAPTER XI: THE MARÉCHAL DE RETZ I: THE INVESTIGATION OF CHARGES]]></title>
+    <itunes:episode><![CDATA[11]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-book-of-werewolves-being-an-account-of-a-terrible-superstition-by-sabine-baring-gould/]]></link>
+            <enclosure url="https://www.archive.org/download/book_of_werewolves_1103_librivox/bookofwerewolves_11_baring-gould_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:34:33]]></itunes:duration>
+  <pubDate>Tue, 15 Mar 2011 00:10:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/book_of_werewolves_1103_librivox/bookofwerewolves_11_baring-gould_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[12-CHAPTER XII: THE MARÉCHAL DE RETZ II: THE TRIAL]]></title>
+    <itunes:episode><![CDATA[12]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-book-of-werewolves-being-an-account-of-a-terrible-superstition-by-sabine-baring-gould/]]></link>
+            <enclosure url="https://www.archive.org/download/book_of_werewolves_1103_librivox/bookofwerewolves_12_baring-gould_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:24:14]]></itunes:duration>
+  <pubDate>Tue, 15 Mar 2011 00:11:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/book_of_werewolves_1103_librivox/bookofwerewolves_12_baring-gould_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[13-CHAPTER XIII:MARÉCHAL DE RETZ III: THE SENTENCE AND EXECUTION]]></title>
+    <itunes:episode><![CDATA[13]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-book-of-werewolves-being-an-account-of-a-terrible-superstition-by-sabine-baring-gould/]]></link>
+            <enclosure url="https://www.archive.org/download/book_of_werewolves_1103_librivox/bookofwerewolves_13_baring-gould_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:15:04]]></itunes:duration>
+  <pubDate>Tue, 15 Mar 2011 00:12:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/book_of_werewolves_1103_librivox/bookofwerewolves_13_baring-gould_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[14-CHAPTER XIV:A GALICIAN WERE-WOLF]]></title>
+    <itunes:episode><![CDATA[14]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-book-of-werewolves-being-an-account-of-a-terrible-superstition-by-sabine-baring-gould/]]></link>
+            <enclosure url="https://www.archive.org/download/book_of_werewolves_1103_librivox/bookofwerewolves_14_baring-gould_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:14:50]]></itunes:duration>
+  <pubDate>Tue, 15 Mar 2011 00:13:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/book_of_werewolves_1103_librivox/bookofwerewolves_14_baring-gould_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[15:CHAPTER XV: ANOMALOUS CASE--THE HUMAN HYENA]]></title>
+    <itunes:episode><![CDATA[15]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-book-of-werewolves-being-an-account-of-a-terrible-superstition-by-sabine-baring-gould/]]></link>
+            <enclosure url="https://www.archive.org/download/book_of_werewolves_1103_librivox/bookofwerewolves_15_baring-gould_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:16:09]]></itunes:duration>
+  <pubDate>Tue, 15 Mar 2011 00:14:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/book_of_werewolves_1103_librivox/bookofwerewolves_15_baring-gould_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[16-CHAPTER XVI:A SERMON ON WERE-WOLVES]]></title>
+    <itunes:episode><![CDATA[16]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-book-of-werewolves-being-an-account-of-a-terrible-superstition-by-sabine-baring-gould/]]></link>
+            <enclosure url="https://www.archive.org/download/book_of_werewolves_1103_librivox/bookofwerewolves_16_baring-gould_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:08:42]]></itunes:duration>
+  <pubDate>Tue, 15 Mar 2011 00:15:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/book_of_werewolves_1103_librivox/bookofwerewolves_16_baring-gould_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <!-- end file loop -->
+</channel>
+</rss>

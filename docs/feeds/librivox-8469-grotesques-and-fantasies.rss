@@ -1,0 +1,289 @@
+<?xml version="1.0" ?><rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+  <title><![CDATA[Grotesques and Fantasies by Israel Zangwill (1864 - 1926)]]></title>
+  <link><![CDATA[https://librivox.org/grotesques-and-fantasies-by-israel-zangwill/]]></link>
+  <atom:link rel="self" href="https://librivox.org/rss/8469" />
+  <description><![CDATA[A set of often funny, sometimes tragic stories by Israel Zangwill. Most famous for his scathingly accurate portrayals of the Jewish ghetto, these stories have a wider stage, poking fun at social conventions and society itself, both high and low. The real and the fantastic collide to produce a world uniquely Zangwill's.These are the tales of figures as diverse as a pantomime dragon, an excellent butler, a man living his life in the wrong order and a Jewish maiden who knows exactly what she is worth. Well observed and original, the satire is biting and the wit sparkling.Many of the stories in this volume are accompanied by excellent illustrations, which are well worth a look. They are available in the Gutenberg e-text.The novella, King of Schnorrers, which began this collection when it appeared in print, has already been recorded separately. As such it is omitted from this collection, and only the shorter stories are included. (Summary by Lucy Perry)]]></description>
+  <!--<genre>project element=Genre</genre>-->
+  <!--<language>project element=lang.code</language>-->
+  <itunes:type>serial</itunes:type>
+  <itunes:author>LibriVox</itunes:author>
+  <itunes:summary><![CDATA[A set of often funny, sometimes tragic stories by Israel Zangwill. Most famous for his scathingly accurate portrayals of the Jewish ghetto, these stories have a wider stage, poking fun at social conventions and society itself, both high and low. The real and the fantastic collide to produce a world uniquely Zangwill's.These are the tales of figures as diverse as a pantomime dragon, an excellent butler, a man living his life in the wrong order and a Jewish maiden who knows exactly what she is worth. Well observed and original, the satire is biting and the wit sparkling.Many of the stories in this volume are accompanied by excellent illustrations, which are well worth a look. They are available in the Gutenberg e-text.The novella, King of Schnorrers, which began this collection when it appeared in print, has already been recorded separately. As such it is omitted from this collection, and only the shorter stories are included. (Summary by Lucy Perry)]]></itunes:summary>
+  <itunes:owner>
+    <itunes:name>LibriVox</itunes:name>
+    <itunes:email>info@librivox.org</itunes:email>
+  </itunes:owner>
+  <itunes:category text="Arts">
+    <itunes:category text="Literature" />
+  </itunes:category>
+  <image><url>https://archive.org/download/grotesques_and_fantasies_1412_librivox/Grotesques_fantasies_1412.jpg</url></image>
+  <itunes:image href="https://archive.org/download/grotesques_and_fantasies_1412_librivox/Grotesques_fantasies_1412.jpg"/>
+  <itunes:explicit>no</itunes:explicit>
+  <!-- file loop -->
+    <item>
+    <title><![CDATA[Foreword]]></title>
+    <itunes:episode><![CDATA[0]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/grotesques-and-fantasies-by-israel-zangwill/]]></link>
+            <enclosure url="https://www.archive.org/download/grotesques_and_fantasies_1412_librivox/grotesquesfantasies_00_zangwill_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Tue, 02 Dec 2014 00:00:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/grotesques_and_fantasies_1412_librivox/grotesquesfantasies_00_zangwill_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Semi-Sentimental Dragon]]></title>
+    <itunes:episode><![CDATA[1]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/grotesques-and-fantasies-by-israel-zangwill/]]></link>
+            <enclosure url="https://www.archive.org/download/grotesques_and_fantasies_1412_librivox/grotesquesfantasies_01_zangwill_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Tue, 02 Dec 2014 00:01:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/grotesques_and_fantasies_1412_librivox/grotesquesfantasies_01_zangwill_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[An Honest Log-Roller]]></title>
+    <itunes:episode><![CDATA[2]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/grotesques-and-fantasies-by-israel-zangwill/]]></link>
+            <enclosure url="https://www.archive.org/download/grotesques_and_fantasies_1412_librivox/grotesquesfantasies_02_zangwill_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Tue, 02 Dec 2014 00:02:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/grotesques_and_fantasies_1412_librivox/grotesquesfantasies_02_zangwill_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[A Tragi-Comedy of Creeds]]></title>
+    <itunes:episode><![CDATA[3]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/grotesques-and-fantasies-by-israel-zangwill/]]></link>
+            <enclosure url="https://www.archive.org/download/grotesques_and_fantasies_1412_librivox/grotesquesfantasies_03_zangwill_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Tue, 02 Dec 2014 00:03:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/grotesques_and_fantasies_1412_librivox/grotesquesfantasies_03_zangwill_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Memory Clearing House]]></title>
+    <itunes:episode><![CDATA[4]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/grotesques-and-fantasies-by-israel-zangwill/]]></link>
+            <enclosure url="https://www.archive.org/download/grotesques_and_fantasies_1412_librivox/grotesquesfantasies_04_zangwill_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Tue, 02 Dec 2014 00:04:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/grotesques_and_fantasies_1412_librivox/grotesquesfantasies_04_zangwill_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Mated by a Waiter. Chapter I, Black and White]]></title>
+    <itunes:episode><![CDATA[5]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/grotesques-and-fantasies-by-israel-zangwill/]]></link>
+            <enclosure url="https://www.archive.org/download/grotesques_and_fantasies_1412_librivox/grotesquesfantasies_05_zangwill_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Tue, 02 Dec 2014 00:05:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/grotesques_and_fantasies_1412_librivox/grotesquesfantasies_05_zangwill_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Mated by a Waiter. Chapter II, A Difficult Opening]]></title>
+    <itunes:episode><![CDATA[6]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/grotesques-and-fantasies-by-israel-zangwill/]]></link>
+            <enclosure url="https://www.archive.org/download/grotesques_and_fantasies_1412_librivox/grotesquesfantasies_06_zangwill_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Tue, 02 Dec 2014 00:06:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/grotesques_and_fantasies_1412_librivox/grotesquesfantasies_06_zangwill_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Mated by a Waiter. Chapter III, The Queen Comes Into Play]]></title>
+    <itunes:episode><![CDATA[7]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/grotesques-and-fantasies-by-israel-zangwill/]]></link>
+            <enclosure url="https://www.archive.org/download/grotesques_and_fantasies_1412_librivox/grotesquesfantasies_07_zangwill_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Tue, 02 Dec 2014 00:07:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/grotesques_and_fantasies_1412_librivox/grotesquesfantasies_07_zangwill_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Mated by a Waiter. Chapter IV, The Winning Move]]></title>
+    <itunes:episode><![CDATA[8]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/grotesques-and-fantasies-by-israel-zangwill/]]></link>
+            <enclosure url="https://www.archive.org/download/grotesques_and_fantasies_1412_librivox/grotesquesfantasies_08_zangwill_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Tue, 02 Dec 2014 00:08:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/grotesques_and_fantasies_1412_librivox/grotesquesfantasies_08_zangwill_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Principal Boy]]></title>
+    <itunes:episode><![CDATA[9]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/grotesques-and-fantasies-by-israel-zangwill/]]></link>
+            <enclosure url="https://www.archive.org/download/grotesques_and_fantasies_1412_librivox/grotesquesfantasies_09_zangwill_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Tue, 02 Dec 2014 00:09:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/grotesques_and_fantasies_1412_librivox/grotesquesfantasies_09_zangwill_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[An Odd Life]]></title>
+    <itunes:episode><![CDATA[10]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/grotesques-and-fantasies-by-israel-zangwill/]]></link>
+            <enclosure url="https://www.archive.org/download/grotesques_and_fantasies_1412_librivox/grotesquesfantasies_10_zangwill_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Tue, 02 Dec 2014 00:10:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/grotesques_and_fantasies_1412_librivox/grotesquesfantasies_10_zangwill_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Cheating the Gallows]]></title>
+    <itunes:episode><![CDATA[11]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/grotesques-and-fantasies-by-israel-zangwill/]]></link>
+            <enclosure url="https://www.archive.org/download/grotesques_and_fantasies_1412_librivox/grotesquesfantasies_11_zangwill_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Tue, 02 Dec 2014 00:11:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/grotesques_and_fantasies_1412_librivox/grotesquesfantasies_11_zangwill_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Santa Claus]]></title>
+    <itunes:episode><![CDATA[12]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/grotesques-and-fantasies-by-israel-zangwill/]]></link>
+            <enclosure url="https://www.archive.org/download/grotesques_and_fantasies_1412_librivox/grotesquesfantasies_12_zangwill_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Tue, 02 Dec 2014 00:12:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/grotesques_and_fantasies_1412_librivox/grotesquesfantasies_12_zangwill_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[A Rose of the Ghetto]]></title>
+    <itunes:episode><![CDATA[13]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/grotesques-and-fantasies-by-israel-zangwill/]]></link>
+            <enclosure url="https://www.archive.org/download/grotesques_and_fantasies_1412_librivox/grotesquesfantasies_13_zangwill_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Tue, 02 Dec 2014 00:13:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/grotesques_and_fantasies_1412_librivox/grotesquesfantasies_13_zangwill_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[A Double-Barrelled Ghost]]></title>
+    <itunes:episode><![CDATA[14]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/grotesques-and-fantasies-by-israel-zangwill/]]></link>
+            <enclosure url="https://www.archive.org/download/grotesques_and_fantasies_1412_librivox/grotesquesfantasies_14_zangwill_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Tue, 02 Dec 2014 00:14:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/grotesques_and_fantasies_1412_librivox/grotesquesfantasies_14_zangwill_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Vagaries of a Viscount]]></title>
+    <itunes:episode><![CDATA[15]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/grotesques-and-fantasies-by-israel-zangwill/]]></link>
+            <enclosure url="https://www.archive.org/download/grotesques_and_fantasies_1412_librivox/grotesquesfantasies_15_zangwill_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Tue, 02 Dec 2014 00:15:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/grotesques_and_fantasies_1412_librivox/grotesquesfantasies_15_zangwill_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Queen's Triplets]]></title>
+    <itunes:episode><![CDATA[16]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/grotesques-and-fantasies-by-israel-zangwill/]]></link>
+            <enclosure url="https://www.archive.org/download/grotesques_and_fantasies_1412_librivox/grotesquesfantasies_16_zangwill_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Tue, 02 Dec 2014 00:16:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/grotesques_and_fantasies_1412_librivox/grotesquesfantasies_16_zangwill_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[A Successful Operation]]></title>
+    <itunes:episode><![CDATA[17]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/grotesques-and-fantasies-by-israel-zangwill/]]></link>
+            <enclosure url="https://www.archive.org/download/grotesques_and_fantasies_1412_librivox/grotesquesfantasies_17_zangwill_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Tue, 02 Dec 2014 00:17:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/grotesques_and_fantasies_1412_librivox/grotesquesfantasies_17_zangwill_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Flutter-Duck. Chapter I, Flutter-Duck in Feather]]></title>
+    <itunes:episode><![CDATA[18]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/grotesques-and-fantasies-by-israel-zangwill/]]></link>
+            <enclosure url="https://www.archive.org/download/grotesques_and_fantasies_1412_librivox/grotesquesfantasies_18_zangwill_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Tue, 02 Dec 2014 00:18:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/grotesques_and_fantasies_1412_librivox/grotesquesfantasies_18_zangwill_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Flutter-Duck. Chapter II, A Migratory Bird]]></title>
+    <itunes:episode><![CDATA[19]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/grotesques-and-fantasies-by-israel-zangwill/]]></link>
+            <enclosure url="https://www.archive.org/download/grotesques_and_fantasies_1412_librivox/grotesquesfantasies_19_zangwill_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Tue, 02 Dec 2014 00:19:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/grotesques_and_fantasies_1412_librivox/grotesquesfantasies_19_zangwill_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Flutter-Duck. Chapter III, Flight]]></title>
+    <itunes:episode><![CDATA[20]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/grotesques-and-fantasies-by-israel-zangwill/]]></link>
+            <enclosure url="https://www.archive.org/download/grotesques_and_fantasies_1412_librivox/grotesquesfantasies_20_zangwill_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Tue, 02 Dec 2014 00:20:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/grotesques_and_fantasies_1412_librivox/grotesquesfantasies_20_zangwill_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Flutter-Duck. Chapter IV, Poor Flutter-Duck]]></title>
+    <itunes:episode><![CDATA[21]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/grotesques-and-fantasies-by-israel-zangwill/]]></link>
+            <enclosure url="https://www.archive.org/download/grotesques_and_fantasies_1412_librivox/grotesquesfantasies_21_zangwill_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Tue, 02 Dec 2014 00:21:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/grotesques_and_fantasies_1412_librivox/grotesquesfantasies_21_zangwill_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <!-- end file loop -->
+</channel>
+</rss>

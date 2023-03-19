@@ -1,0 +1,169 @@
+<?xml version="1.0" ?><rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+  <title><![CDATA[American Fairy Tales by L. Frank Baum (1856 - 1919)]]></title>
+  <link><![CDATA[https://librivox.org/american-fairy-tales-by-l-frank-baum/]]></link>
+  <atom:link rel="self" href="https://librivox.org/rss/5002" />
+  <description><![CDATA[This collection of fantasy stories was originally serialized in regional newspapers, prior to being published as a complete volume. The stories, as critics have noted, lack the high-fantasy aspect of the best of Baum's work, in Oz or out. With ironic or nonsensical morals attached to their ends, their tone is more satirical, glib, and tongue-in-cheek than is usual in children's stories; the serialization in newspapers for adult readers was appropriate for the materials. (Introduction by Wikipedia and Matthew Reece)]]></description>
+  <!--<genre>project element=Genre</genre>-->
+  <!--<language>project element=lang.code</language>-->
+  <itunes:type>serial</itunes:type>
+  <itunes:author>LibriVox</itunes:author>
+  <itunes:summary><![CDATA[This collection of fantasy stories was originally serialized in regional newspapers, prior to being published as a complete volume. The stories, as critics have noted, lack the high-fantasy aspect of the best of Baum's work, in Oz or out. With ironic or nonsensical morals attached to their ends, their tone is more satirical, glib, and tongue-in-cheek than is usual in children's stories; the serialization in newspapers for adult readers was appropriate for the materials. (Introduction by Wikipedia and Matthew Reece)]]></itunes:summary>
+  <itunes:owner>
+    <itunes:name>LibriVox</itunes:name>
+    <itunes:email>info@librivox.org</itunes:email>
+  </itunes:owner>
+  <itunes:category text="Arts">
+    <itunes:category text="Literature" />
+  </itunes:category>
+  <image><url>https://www.archive.org/download/LibrivoxCdCoverArt14/American_Fairy_Tales_1201.jpg</url></image>
+  <itunes:image href="https://www.archive.org/download/LibrivoxCdCoverArt14/American_Fairy_Tales_1201.jpg"/>
+  <itunes:explicit>no</itunes:explicit>
+  <!-- file loop -->
+    <item>
+    <title><![CDATA[01 - The Box of Robbers]]></title>
+    <itunes:episode><![CDATA[1]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/american-fairy-tales-by-l-frank-baum/]]></link>
+            <enclosure url="https://www.archive.org/download/american_fairytales_1104_librivox/americanfairytales_01_baum_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:16:56]]></itunes:duration>
+  <pubDate>Mon, 04 Apr 2011 00:00:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/american_fairytales_1104_librivox/americanfairytales_01_baum_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[02 - The Glass Dog]]></title>
+    <itunes:episode><![CDATA[2]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/american-fairy-tales-by-l-frank-baum/]]></link>
+            <enclosure url="https://www.archive.org/download/american_fairytales_1104_librivox/americanfairytales_02_baum_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:15:25]]></itunes:duration>
+  <pubDate>Mon, 04 Apr 2011 00:01:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/american_fairytales_1104_librivox/americanfairytales_02_baum_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[03 - The Queen of Quok]]></title>
+    <itunes:episode><![CDATA[3]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/american-fairy-tales-by-l-frank-baum/]]></link>
+            <enclosure url="https://www.archive.org/download/american_fairytales_1104_librivox/americanfairytales_03_baum_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:18:09]]></itunes:duration>
+  <pubDate>Mon, 04 Apr 2011 00:02:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/american_fairytales_1104_librivox/americanfairytales_03_baum_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[04 - The Girl Who Owned a Bear]]></title>
+    <itunes:episode><![CDATA[4]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/american-fairy-tales-by-l-frank-baum/]]></link>
+            <enclosure url="https://www.archive.org/download/american_fairytales_1104_librivox/americanfairytales_04_baum_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:13:48]]></itunes:duration>
+  <pubDate>Mon, 04 Apr 2011 00:03:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/american_fairytales_1104_librivox/americanfairytales_04_baum_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[05 - The Enchanted Types]]></title>
+    <itunes:episode><![CDATA[5]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/american-fairy-tales-by-l-frank-baum/]]></link>
+            <enclosure url="https://www.archive.org/download/american_fairytales_1104_librivox/americanfairytales_05_baum_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:12:00]]></itunes:duration>
+  <pubDate>Mon, 04 Apr 2011 00:04:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/american_fairytales_1104_librivox/americanfairytales_05_baum_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[06 - The Laughing Hippopotamus]]></title>
+    <itunes:episode><![CDATA[6]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/american-fairy-tales-by-l-frank-baum/]]></link>
+            <enclosure url="https://www.archive.org/download/american_fairytales_1104_librivox/americanfairytales_06_baum_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:17:47]]></itunes:duration>
+  <pubDate>Mon, 04 Apr 2011 00:05:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/american_fairytales_1104_librivox/americanfairytales_06_baum_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[07 - The Magic Bon Bons]]></title>
+    <itunes:episode><![CDATA[7]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/american-fairy-tales-by-l-frank-baum/]]></link>
+            <enclosure url="https://www.archive.org/download/american_fairytales_1104_librivox/americanfairytales_07_baum_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:12:28]]></itunes:duration>
+  <pubDate>Mon, 04 Apr 2011 00:06:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/american_fairytales_1104_librivox/americanfairytales_07_baum_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[08 - The Capture of Father Time]]></title>
+    <itunes:episode><![CDATA[8]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/american-fairy-tales-by-l-frank-baum/]]></link>
+            <enclosure url="https://www.archive.org/download/american_fairytales_1104_librivox/americanfairytales_08_baum_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:14:28]]></itunes:duration>
+  <pubDate>Mon, 04 Apr 2011 00:07:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/american_fairytales_1104_librivox/americanfairytales_08_baum_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[09 - The Wonderful Pump]]></title>
+    <itunes:episode><![CDATA[9]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/american-fairy-tales-by-l-frank-baum/]]></link>
+            <enclosure url="https://www.archive.org/download/american_fairytales_1104_librivox/americanfairytales_09_baum_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:18:32]]></itunes:duration>
+  <pubDate>Mon, 04 Apr 2011 00:08:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/american_fairytales_1104_librivox/americanfairytales_09_baum_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[10 - The Dummy That Lived]]></title>
+    <itunes:episode><![CDATA[10]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/american-fairy-tales-by-l-frank-baum/]]></link>
+            <enclosure url="https://www.archive.org/download/american_fairytales_1104_librivox/americanfairytales_10_baum_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:14:28]]></itunes:duration>
+  <pubDate>Mon, 04 Apr 2011 00:09:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/american_fairytales_1104_librivox/americanfairytales_10_baum_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[11 - The King of the Polar Bears]]></title>
+    <itunes:episode><![CDATA[11]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/american-fairy-tales-by-l-frank-baum/]]></link>
+            <enclosure url="https://www.archive.org/download/american_fairytales_1104_librivox/americanfairytales_11_baum_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:09:24]]></itunes:duration>
+  <pubDate>Mon, 04 Apr 2011 00:10:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/american_fairytales_1104_librivox/americanfairytales_11_baum_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[12 - The Mandarin and The Butterfly]]></title>
+    <itunes:episode><![CDATA[12]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/american-fairy-tales-by-l-frank-baum/]]></link>
+            <enclosure url="https://www.archive.org/download/american_fairytales_1104_librivox/americanfairytales_12_baum_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:13:19]]></itunes:duration>
+  <pubDate>Mon, 04 Apr 2011 00:11:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/american_fairytales_1104_librivox/americanfairytales_12_baum_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <!-- end file loop -->
+</channel>
+</rss>

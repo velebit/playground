@@ -1,0 +1,169 @@
+<?xml version="1.0" ?><rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+  <title><![CDATA[Swanhilde, and other Fairy Tales by Wilhelm Hauff (1802 - 1827)]]></title>
+  <link><![CDATA[https://librivox.org/swanhilde-by-wilhelm-hauff/]]></link>
+  <atom:link rel="self" href="https://librivox.org/rss/13018" />
+  <description><![CDATA[Wilhelm Hauff was a German poet and novelist, perhaps best known for his fairy tales (Märchen). Some of his stories, such as the Caliph Stork found in this volume, are popular in German-speaking countries to this day. In this book of fairy tales, we find the tale of the beautiful Swanhilde and various other stand-alone fairy tales, as well as a frame story "The Caravan" which includes multiple fairy tales within it. Hauff's freshness and originality shine through in these tales. (Foon) ]]></description>
+  <!--<genre>project element=Genre</genre>-->
+  <!--<language>project element=lang.code</language>-->
+  <itunes:type>serial</itunes:type>
+  <itunes:author>LibriVox</itunes:author>
+  <itunes:summary><![CDATA[Wilhelm Hauff was a German poet and novelist, perhaps best known for his fairy tales (Märchen). Some of his stories, such as the Caliph Stork found in this volume, are popular in German-speaking countries to this day. In this book of fairy tales, we find the tale of the beautiful Swanhilde and various other stand-alone fairy tales, as well as a frame story "The Caravan" which includes multiple fairy tales within it. Hauff's freshness and originality shine through in these tales. (Foon) ]]></itunes:summary>
+  <itunes:owner>
+    <itunes:name>LibriVox</itunes:name>
+    <itunes:email>info@librivox.org</itunes:email>
+  </itunes:owner>
+  <itunes:category text="Arts">
+    <itunes:category text="Literature" />
+  </itunes:category>
+  <image><url>https://archive.org/download/swanhilde_1901_librivox/swanhilde_1901.jpg</url></image>
+  <itunes:image href="https://archive.org/download/swanhilde_1901_librivox/swanhilde_1901.jpg"/>
+  <itunes:explicit>no</itunes:explicit>
+  <!-- file loop -->
+    <item>
+    <title><![CDATA[Swanhilde, part 1]]></title>
+    <itunes:episode><![CDATA[1]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/swanhilde-by-wilhelm-hauff/]]></link>
+            <enclosure url="https://www.archive.org/download/swanhilde_1901_librivox/swanhilde_01_hauff_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Thu, 31 Jan 2019 00:00:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/swanhilde_1901_librivox/swanhilde_01_hauff_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Swanhilde, part 2]]></title>
+    <itunes:episode><![CDATA[2]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/swanhilde-by-wilhelm-hauff/]]></link>
+            <enclosure url="https://www.archive.org/download/swanhilde_1901_librivox/swanhilde_02_hauff_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Thu, 31 Jan 2019 00:01:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/swanhilde_1901_librivox/swanhilde_02_hauff_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Shepherd Boy and the King's Daughter]]></title>
+    <itunes:episode><![CDATA[3]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/swanhilde-by-wilhelm-hauff/]]></link>
+            <enclosure url="https://www.archive.org/download/swanhilde_1901_librivox/swanhilde_03_hauff_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Thu, 31 Jan 2019 00:02:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/swanhilde_1901_librivox/swanhilde_03_hauff_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Caravan - The Caliph Stork]]></title>
+    <itunes:episode><![CDATA[4]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/swanhilde-by-wilhelm-hauff/]]></link>
+            <enclosure url="https://www.archive.org/download/swanhilde_1901_librivox/swanhilde_04_hauff_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Thu, 31 Jan 2019 00:03:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/swanhilde_1901_librivox/swanhilde_04_hauff_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Haunted Ship]]></title>
+    <itunes:episode><![CDATA[5]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/swanhilde-by-wilhelm-hauff/]]></link>
+            <enclosure url="https://www.archive.org/download/swanhilde_1901_librivox/swanhilde_05_hauff_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Thu, 31 Jan 2019 00:04:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/swanhilde_1901_librivox/swanhilde_05_hauff_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Story of the Severed Hand]]></title>
+    <itunes:episode><![CDATA[6]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/swanhilde-by-wilhelm-hauff/]]></link>
+            <enclosure url="https://www.archive.org/download/swanhilde_1901_librivox/swanhilde_06_hauff_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Thu, 31 Jan 2019 00:05:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/swanhilde_1901_librivox/swanhilde_06_hauff_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Fatme's Rescue]]></title>
+    <itunes:episode><![CDATA[7]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/swanhilde-by-wilhelm-hauff/]]></link>
+            <enclosure url="https://www.archive.org/download/swanhilde_1901_librivox/swanhilde_07_hauff_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Thu, 31 Jan 2019 00:06:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/swanhilde_1901_librivox/swanhilde_07_hauff_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Story of the False Prince]]></title>
+    <itunes:episode><![CDATA[8]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/swanhilde-by-wilhelm-hauff/]]></link>
+            <enclosure url="https://www.archive.org/download/swanhilde_1901_librivox/swanhilde_08_hauff_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Thu, 31 Jan 2019 00:07:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/swanhilde_1901_librivox/swanhilde_08_hauff_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Stranger's Story]]></title>
+    <itunes:episode><![CDATA[9]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/swanhilde-by-wilhelm-hauff/]]></link>
+            <enclosure url="https://www.archive.org/download/swanhilde_1901_librivox/swanhilde_09_hauff_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Thu, 31 Jan 2019 00:08:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/swanhilde_1901_librivox/swanhilde_09_hauff_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Boy and the Treasures of the Old Witch]]></title>
+    <itunes:episode><![CDATA[10]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/swanhilde-by-wilhelm-hauff/]]></link>
+            <enclosure url="https://www.archive.org/download/swanhilde_1901_librivox/swanhilde_10_hauff_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Thu, 31 Jan 2019 00:09:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/swanhilde_1901_librivox/swanhilde_10_hauff_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Princess on the Glass Mountain]]></title>
+    <itunes:episode><![CDATA[11]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/swanhilde-by-wilhelm-hauff/]]></link>
+            <enclosure url="https://www.archive.org/download/swanhilde_1901_librivox/swanhilde_11_hauff_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Thu, 31 Jan 2019 00:10:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/swanhilde_1901_librivox/swanhilde_11_hauff_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Story of Two Brothers]]></title>
+    <itunes:episode><![CDATA[12]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/swanhilde-by-wilhelm-hauff/]]></link>
+            <enclosure url="https://www.archive.org/download/swanhilde_1901_librivox/swanhilde_12_hauff_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Thu, 31 Jan 2019 00:11:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/swanhilde_1901_librivox/swanhilde_12_hauff_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <!-- end file loop -->
+</channel>
+</rss>

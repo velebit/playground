@@ -1,0 +1,325 @@
+<?xml version="1.0" ?><rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+  <title><![CDATA[Phantastes: A Faerie Romance for Men and Women by George MacDonald (1824 - 1905)]]></title>
+  <link><![CDATA[https://librivox.org/phantastes-by-george-macdonald/]]></link>
+  <atom:link rel="self" href="https://librivox.org/rss/1337" />
+  <description><![CDATA[A young man named Anodos experiences dream-like adventures in Fairy Land, where he meets tree-spirits, endures the presence of the overwhelming shadow, journeys to the palace of the fairy queen, and searches for the spirit of the earth. The story conveys a profound sadness and a poignant longing for death.]]></description>
+  <!--<genre>project element=Genre</genre>-->
+  <!--<language>project element=lang.code</language>-->
+  <itunes:type>serial</itunes:type>
+  <itunes:author>LibriVox</itunes:author>
+  <itunes:summary><![CDATA[A young man named Anodos experiences dream-like adventures in Fairy Land, where he meets tree-spirits, endures the presence of the overwhelming shadow, journeys to the palace of the fairy queen, and searches for the spirit of the earth. The story conveys a profound sadness and a poignant longing for death.]]></itunes:summary>
+  <itunes:owner>
+    <itunes:name>LibriVox</itunes:name>
+    <itunes:email>info@librivox.org</itunes:email>
+  </itunes:owner>
+  <itunes:category text="Arts">
+    <itunes:category text="Literature" />
+  </itunes:category>
+  <image><url>https://archive.org/download/LibrivoxCdCoverArt22/Phantastes_1209.jpg</url></image>
+  <itunes:image href="https://archive.org/download/LibrivoxCdCoverArt22/Phantastes_1209.jpg"/>
+  <itunes:explicit>no</itunes:explicit>
+  <!-- file loop -->
+    <item>
+    <title><![CDATA[01 - Chapter - 01]]></title>
+    <itunes:episode><![CDATA[1]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/phantastes-by-george-macdonald/]]></link>
+            <enclosure url="https://www.archive.org/download/phantastes_bp_librivox/phantastes_01_macdonald_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:09:49]]></itunes:duration>
+  <pubDate>Wed, 17 Mar 2010 00:00:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/phantastes_bp_librivox/phantastes_01_macdonald_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[02 - Chapter - 02]]></title>
+    <itunes:episode><![CDATA[2]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/phantastes-by-george-macdonald/]]></link>
+            <enclosure url="https://www.archive.org/download/phantastes_bp_librivox/phantastes_02_macdonald_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:03:48]]></itunes:duration>
+  <pubDate>Wed, 17 Mar 2010 00:01:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/phantastes_bp_librivox/phantastes_02_macdonald_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[03 - Chapter - 03]]></title>
+    <itunes:episode><![CDATA[3]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/phantastes-by-george-macdonald/]]></link>
+            <enclosure url="https://www.archive.org/download/phantastes_bp_librivox/phantastes_03_macdonald_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:24:40]]></itunes:duration>
+  <pubDate>Wed, 17 Mar 2010 00:02:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/phantastes_bp_librivox/phantastes_03_macdonald_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[04 - Chapter - 04]]></title>
+    <itunes:episode><![CDATA[4]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/phantastes-by-george-macdonald/]]></link>
+            <enclosure url="https://www.archive.org/download/phantastes_bp_librivox/phantastes_04_macdonald_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:20:59]]></itunes:duration>
+  <pubDate>Wed, 17 Mar 2010 00:03:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/phantastes_bp_librivox/phantastes_04_macdonald_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[05 - Chapter - 05]]></title>
+    <itunes:episode><![CDATA[5]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/phantastes-by-george-macdonald/]]></link>
+            <enclosure url="https://www.archive.org/download/phantastes_bp_librivox/phantastes_05_macdonald_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:16:06]]></itunes:duration>
+  <pubDate>Wed, 17 Mar 2010 00:04:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/phantastes_bp_librivox/phantastes_05_macdonald_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[06 - Chapter - 06]]></title>
+    <itunes:episode><![CDATA[6]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/phantastes-by-george-macdonald/]]></link>
+            <enclosure url="https://www.archive.org/download/phantastes_bp_librivox/phantastes_06_macdonald_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:15:08]]></itunes:duration>
+  <pubDate>Wed, 17 Mar 2010 00:05:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/phantastes_bp_librivox/phantastes_06_macdonald_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[07 - Chapter - 07]]></title>
+    <itunes:episode><![CDATA[7]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/phantastes-by-george-macdonald/]]></link>
+            <enclosure url="https://www.archive.org/download/phantastes_bp_librivox/phantastes_07_macdonald_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:15:55]]></itunes:duration>
+  <pubDate>Wed, 17 Mar 2010 00:06:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/phantastes_bp_librivox/phantastes_07_macdonald_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[08 - Chapter - 08]]></title>
+    <itunes:episode><![CDATA[8]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/phantastes-by-george-macdonald/]]></link>
+            <enclosure url="https://www.archive.org/download/phantastes_bp_librivox/phantastes_08_macdonald_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:07:33]]></itunes:duration>
+  <pubDate>Wed, 17 Mar 2010 00:07:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/phantastes_bp_librivox/phantastes_08_macdonald_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[09 - Chapter - 09]]></title>
+    <itunes:episode><![CDATA[9]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/phantastes-by-george-macdonald/]]></link>
+            <enclosure url="https://www.archive.org/download/phantastes_bp_librivox/phantastes_09_macdonald_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:12:54]]></itunes:duration>
+  <pubDate>Wed, 17 Mar 2010 00:08:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/phantastes_bp_librivox/phantastes_09_macdonald_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[10 - Chapter - 10]]></title>
+    <itunes:episode><![CDATA[10]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/phantastes-by-george-macdonald/]]></link>
+            <enclosure url="https://www.archive.org/download/phantastes_bp_librivox/phantastes_10_macdonald_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:16:31]]></itunes:duration>
+  <pubDate>Wed, 17 Mar 2010 00:09:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/phantastes_bp_librivox/phantastes_10_macdonald_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[11 - Chapter - 11]]></title>
+    <itunes:episode><![CDATA[11]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/phantastes-by-george-macdonald/]]></link>
+            <enclosure url="https://www.archive.org/download/phantastes_bp_librivox/phantastes_11_macdonald_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:12:30]]></itunes:duration>
+  <pubDate>Wed, 17 Mar 2010 00:10:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/phantastes_bp_librivox/phantastes_11_macdonald_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[12 - Chapter - 12]]></title>
+    <itunes:episode><![CDATA[12]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/phantastes-by-george-macdonald/]]></link>
+            <enclosure url="https://www.archive.org/download/phantastes_bp_librivox/phantastes_12_macdonald_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:15:30]]></itunes:duration>
+  <pubDate>Wed, 17 Mar 2010 00:11:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/phantastes_bp_librivox/phantastes_12_macdonald_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[13 - Chapter - 13]]></title>
+    <itunes:episode><![CDATA[13]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/phantastes-by-george-macdonald/]]></link>
+            <enclosure url="https://www.archive.org/download/phantastes_bp_librivox/phantastes_13_macdonald_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:46:40]]></itunes:duration>
+  <pubDate>Wed, 17 Mar 2010 00:12:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/phantastes_bp_librivox/phantastes_13_macdonald_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[14 - Chapter - 14]]></title>
+    <itunes:episode><![CDATA[14]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/phantastes-by-george-macdonald/]]></link>
+            <enclosure url="https://www.archive.org/download/phantastes_bp_librivox/phantastes_14_macdonald_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:14:08]]></itunes:duration>
+  <pubDate>Wed, 17 Mar 2010 00:13:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/phantastes_bp_librivox/phantastes_14_macdonald_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[15 - Chapter - 15]]></title>
+    <itunes:episode><![CDATA[15]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/phantastes-by-george-macdonald/]]></link>
+            <enclosure url="https://www.archive.org/download/phantastes_bp_librivox/phantastes_15_macdonald_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:08:59]]></itunes:duration>
+  <pubDate>Wed, 17 Mar 2010 00:14:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/phantastes_bp_librivox/phantastes_15_macdonald_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[16 - Chapter - 16]]></title>
+    <itunes:episode><![CDATA[16]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/phantastes-by-george-macdonald/]]></link>
+            <enclosure url="https://www.archive.org/download/phantastes_bp_librivox/phantastes_16_macdonald_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:03:49]]></itunes:duration>
+  <pubDate>Wed, 17 Mar 2010 00:15:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/phantastes_bp_librivox/phantastes_16_macdonald_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[17 - Chapter - 17]]></title>
+    <itunes:episode><![CDATA[17]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/phantastes-by-george-macdonald/]]></link>
+            <enclosure url="https://www.archive.org/download/phantastes_bp_librivox/phantastes_17_macdonald_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:10:45]]></itunes:duration>
+  <pubDate>Wed, 17 Mar 2010 00:16:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/phantastes_bp_librivox/phantastes_17_macdonald_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[18 - Chapter - 18]]></title>
+    <itunes:episode><![CDATA[18]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/phantastes-by-george-macdonald/]]></link>
+            <enclosure url="https://www.archive.org/download/phantastes_bp_librivox/phantastes_18_macdonald_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:09:43]]></itunes:duration>
+  <pubDate>Wed, 17 Mar 2010 00:17:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/phantastes_bp_librivox/phantastes_18_macdonald_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[19 - Chapter - 19]]></title>
+    <itunes:episode><![CDATA[19]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/phantastes-by-george-macdonald/]]></link>
+            <enclosure url="https://www.archive.org/download/phantastes_bp_librivox/phantastes_19_macdonald_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:34:22]]></itunes:duration>
+  <pubDate>Wed, 17 Mar 2010 00:18:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/phantastes_bp_librivox/phantastes_19_macdonald_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[20 - Chapter - 20]]></title>
+    <itunes:episode><![CDATA[20]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/phantastes-by-george-macdonald/]]></link>
+            <enclosure url="https://www.archive.org/download/phantastes_bp_librivox/phantastes_20_macdonald_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:19:04]]></itunes:duration>
+  <pubDate>Wed, 17 Mar 2010 00:19:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/phantastes_bp_librivox/phantastes_20_macdonald_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[21 - Chapter - 21]]></title>
+    <itunes:episode><![CDATA[21]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/phantastes-by-george-macdonald/]]></link>
+            <enclosure url="https://www.archive.org/download/phantastes_bp_librivox/phantastes_21_macdonald_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:11:46]]></itunes:duration>
+  <pubDate>Wed, 17 Mar 2010 00:20:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/phantastes_bp_librivox/phantastes_21_macdonald_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[22 - Chapter - 22]]></title>
+    <itunes:episode><![CDATA[22]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/phantastes-by-george-macdonald/]]></link>
+            <enclosure url="https://www.archive.org/download/phantastes_bp_librivox/phantastes_22_macdonald_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:19:01]]></itunes:duration>
+  <pubDate>Wed, 17 Mar 2010 00:21:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/phantastes_bp_librivox/phantastes_22_macdonald_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[23 - Chapter - 23]]></title>
+    <itunes:episode><![CDATA[23]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/phantastes-by-george-macdonald/]]></link>
+            <enclosure url="https://www.archive.org/download/phantastes_bp_librivox/phantastes_23_macdonald_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:28:48]]></itunes:duration>
+  <pubDate>Wed, 17 Mar 2010 00:22:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/phantastes_bp_librivox/phantastes_23_macdonald_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[24 - Chapter - 24]]></title>
+    <itunes:episode><![CDATA[24]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/phantastes-by-george-macdonald/]]></link>
+            <enclosure url="https://www.archive.org/download/phantastes_bp_librivox/phantastes_24_macdonald_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:08:05]]></itunes:duration>
+  <pubDate>Wed, 17 Mar 2010 00:23:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/phantastes_bp_librivox/phantastes_24_macdonald_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[25 - Chapter - 25]]></title>
+    <itunes:episode><![CDATA[25]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/phantastes-by-george-macdonald/]]></link>
+            <enclosure url="https://www.archive.org/download/phantastes_bp_librivox/phantastes_25_macdonald_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:07:45]]></itunes:duration>
+  <pubDate>Wed, 17 Mar 2010 00:24:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/phantastes_bp_librivox/phantastes_25_macdonald_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <!-- end file loop -->
+</channel>
+</rss>

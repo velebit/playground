@@ -1,0 +1,349 @@
+<?xml version="1.0" ?><rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+  <title><![CDATA[Celtic Folk and Fairy Tales by Joseph Jacobs (1854 - 1916)]]></title>
+  <link><![CDATA[https://librivox.org/celtic-folk-and-fairy-tales-by-joseph-jacobs/]]></link>
+  <atom:link rel="self" href="https://librivox.org/rss/6262" />
+  <description><![CDATA[A collection of folk and fairy tales from the Emerald Isle. There is an earlier version of this book - Celtic Fairy Tales, but this recording was done from a different book in Project Gutenberg. Same book, new readers! (Summary by Ann Boulais)]]></description>
+  <!--<genre>project element=Genre</genre>-->
+  <!--<language>project element=lang.code</language>-->
+  <itunes:type>serial</itunes:type>
+  <itunes:author>LibriVox</itunes:author>
+  <itunes:summary><![CDATA[A collection of folk and fairy tales from the Emerald Isle. There is an earlier version of this book - Celtic Fairy Tales, but this recording was done from a different book in Project Gutenberg. Same book, new readers! (Summary by Ann Boulais)]]></itunes:summary>
+  <itunes:owner>
+    <itunes:name>LibriVox</itunes:name>
+    <itunes:email>info@librivox.org</itunes:email>
+  </itunes:owner>
+  <itunes:category text="Arts">
+    <itunes:category text="Literature" />
+  </itunes:category>
+  <image><url>https://archive.org/download/LibrivoxCdCoverArt20/Celtic_Folk_and_Fairy_Tales_1206.jpg</url></image>
+  <itunes:image href="https://archive.org/download/LibrivoxCdCoverArt20/Celtic_Folk_and_Fairy_Tales_1206.jpg"/>
+  <itunes:explicit>no</itunes:explicit>
+  <!-- file loop -->
+    <item>
+    <title><![CDATA[Preface]]></title>
+    <itunes:episode><![CDATA[0]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/celtic-folk-and-fairy-tales-by-joseph-jacobs/]]></link>
+            <enclosure url="https://www.archive.org/download/celtic_folk_1206_librivox/celticfolkandfairytales_00_jacobs_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:09:25]]></itunes:duration>
+  <pubDate>Tue, 19 Jun 2012 00:00:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/celtic_folk_1206_librivox/celticfolkandfairytales_00_jacobs_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Connla and the Fairy Maiden]]></title>
+    <itunes:episode><![CDATA[1]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/celtic-folk-and-fairy-tales-by-joseph-jacobs/]]></link>
+            <enclosure url="https://www.archive.org/download/celtic_folk_1206_librivox/celticfolkandfairytales_01_jacobs_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:05:41]]></itunes:duration>
+  <pubDate>Tue, 19 Jun 2012 00:01:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/celtic_folk_1206_librivox/celticfolkandfairytales_01_jacobs_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Guleesh]]></title>
+    <itunes:episode><![CDATA[2]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/celtic-folk-and-fairy-tales-by-joseph-jacobs/]]></link>
+            <enclosure url="https://www.archive.org/download/celtic_folk_1206_librivox/celticfolkandfairytales_02_jacobs_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:29:31]]></itunes:duration>
+  <pubDate>Tue, 19 Jun 2012 00:02:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/celtic_folk_1206_librivox/celticfolkandfairytales_02_jacobs_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Field of Boliauns]]></title>
+    <itunes:episode><![CDATA[3]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/celtic-folk-and-fairy-tales-by-joseph-jacobs/]]></link>
+            <enclosure url="https://www.archive.org/download/celtic_folk_1206_librivox/celticfolkandfairytales_03_jacobs_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:06:44]]></itunes:duration>
+  <pubDate>Tue, 19 Jun 2012 00:03:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/celtic_folk_1206_librivox/celticfolkandfairytales_03_jacobs_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Horned Women]]></title>
+    <itunes:episode><![CDATA[4]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/celtic-folk-and-fairy-tales-by-joseph-jacobs/]]></link>
+            <enclosure url="https://www.archive.org/download/celtic_folk_1206_librivox/celticfolkandfairytales_04_jacobs_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:05:30]]></itunes:duration>
+  <pubDate>Tue, 19 Jun 2012 00:04:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/celtic_folk_1206_librivox/celticfolkandfairytales_04_jacobs_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Conall Yellowclaw]]></title>
+    <itunes:episode><![CDATA[5]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/celtic-folk-and-fairy-tales-by-joseph-jacobs/]]></link>
+            <enclosure url="https://www.archive.org/download/celtic_folk_1206_librivox/celticfolkandfairytales_05_jacobs_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:21:02]]></itunes:duration>
+  <pubDate>Tue, 19 Jun 2012 00:05:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/celtic_folk_1206_librivox/celticfolkandfairytales_05_jacobs_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Hudden and Dudden and Donald O'Neary]]></title>
+    <itunes:episode><![CDATA[6]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/celtic-folk-and-fairy-tales-by-joseph-jacobs/]]></link>
+            <enclosure url="https://www.archive.org/download/celtic_folk_1206_librivox/celticfolkandfairytales_06_jacobs_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:12:31]]></itunes:duration>
+  <pubDate>Tue, 19 Jun 2012 00:06:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/celtic_folk_1206_librivox/celticfolkandfairytales_06_jacobs_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Shepherd of Myddvai]]></title>
+    <itunes:episode><![CDATA[7]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/celtic-folk-and-fairy-tales-by-joseph-jacobs/]]></link>
+            <enclosure url="https://www.archive.org/download/celtic_folk_1206_librivox/celticfolkandfairytales_07_jacobs_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:05:42]]></itunes:duration>
+  <pubDate>Tue, 19 Jun 2012 00:07:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/celtic_folk_1206_librivox/celticfolkandfairytales_07_jacobs_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Sprightly Tailor]]></title>
+    <itunes:episode><![CDATA[8]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/celtic-folk-and-fairy-tales-by-joseph-jacobs/]]></link>
+            <enclosure url="https://www.archive.org/download/celtic_folk_1206_librivox/celticfolkandfairytales_08_jacobs_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:05:01]]></itunes:duration>
+  <pubDate>Tue, 19 Jun 2012 00:08:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/celtic_folk_1206_librivox/celticfolkandfairytales_08_jacobs_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Story of Deidre]]></title>
+    <itunes:episode><![CDATA[9]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/celtic-folk-and-fairy-tales-by-joseph-jacobs/]]></link>
+            <enclosure url="https://www.archive.org/download/celtic_folk_1206_librivox/celticfolkandfairytales_09_jacobs_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:27:36]]></itunes:duration>
+  <pubDate>Tue, 19 Jun 2012 00:09:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/celtic_folk_1206_librivox/celticfolkandfairytales_09_jacobs_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Munachar and Manachar]]></title>
+    <itunes:episode><![CDATA[10]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/celtic-folk-and-fairy-tales-by-joseph-jacobs/]]></link>
+            <enclosure url="https://www.archive.org/download/celtic_folk_1206_librivox/celticfolkandfairytales_10_jacobs_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:07:18]]></itunes:duration>
+  <pubDate>Tue, 19 Jun 2012 00:10:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/celtic_folk_1206_librivox/celticfolkandfairytales_10_jacobs_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Gold-Tree and Silver-Tree]]></title>
+    <itunes:episode><![CDATA[11]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/celtic-folk-and-fairy-tales-by-joseph-jacobs/]]></link>
+            <enclosure url="https://www.archive.org/download/celtic_folk_1206_librivox/celticfolkandfairytales_11_jacobs_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:08:01]]></itunes:duration>
+  <pubDate>Tue, 19 Jun 2012 00:11:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/celtic_folk_1206_librivox/celticfolkandfairytales_11_jacobs_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[King O'Toole and His Goose]]></title>
+    <itunes:episode><![CDATA[12]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/celtic-folk-and-fairy-tales-by-joseph-jacobs/]]></link>
+            <enclosure url="https://www.archive.org/download/celtic_folk_1206_librivox/celticfolkandfairytales_12_jacobs_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:06:51]]></itunes:duration>
+  <pubDate>Tue, 19 Jun 2012 00:12:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/celtic_folk_1206_librivox/celticfolkandfairytales_12_jacobs_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Wooing of Olwen]]></title>
+    <itunes:episode><![CDATA[13]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/celtic-folk-and-fairy-tales-by-joseph-jacobs/]]></link>
+            <enclosure url="https://www.archive.org/download/celtic_folk_1206_librivox/celticfolkandfairytales_13_jacobs_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:22:16]]></itunes:duration>
+  <pubDate>Tue, 19 Jun 2012 00:13:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/celtic_folk_1206_librivox/celticfolkandfairytales_13_jacobs_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Jack and His Comrades]]></title>
+    <itunes:episode><![CDATA[14]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/celtic-folk-and-fairy-tales-by-joseph-jacobs/]]></link>
+            <enclosure url="https://www.archive.org/download/celtic_folk_1206_librivox/celticfolkandfairytales_14_jacobs_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:17:21]]></itunes:duration>
+  <pubDate>Tue, 19 Jun 2012 00:14:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/celtic_folk_1206_librivox/celticfolkandfairytales_14_jacobs_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Shee an Gannon and The Gruagach Gaire]]></title>
+    <itunes:episode><![CDATA[15]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/celtic-folk-and-fairy-tales-by-joseph-jacobs/]]></link>
+            <enclosure url="https://www.archive.org/download/celtic_folk_1206_librivox/celticfolkandfairytales_15_jacobs_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:13:26]]></itunes:duration>
+  <pubDate>Tue, 19 Jun 2012 00:15:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/celtic_folk_1206_librivox/celticfolkandfairytales_15_jacobs_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Story-Teller at Fault]]></title>
+    <itunes:episode><![CDATA[16]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/celtic-folk-and-fairy-tales-by-joseph-jacobs/]]></link>
+            <enclosure url="https://www.archive.org/download/celtic_folk_1206_librivox/celticfolkandfairytales_16_jacobs_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:18:19]]></itunes:duration>
+  <pubDate>Tue, 19 Jun 2012 00:16:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/celtic_folk_1206_librivox/celticfolkandfairytales_16_jacobs_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Sea Maiden]]></title>
+    <itunes:episode><![CDATA[17]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/celtic-folk-and-fairy-tales-by-joseph-jacobs/]]></link>
+            <enclosure url="https://www.archive.org/download/celtic_folk_1206_librivox/celticfolkandfairytales_17_jacobs_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:20:56]]></itunes:duration>
+  <pubDate>Tue, 19 Jun 2012 00:17:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/celtic_folk_1206_librivox/celticfolkandfairytales_17_jacobs_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Legend of Knockmany]]></title>
+    <itunes:episode><![CDATA[18]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/celtic-folk-and-fairy-tales-by-joseph-jacobs/]]></link>
+            <enclosure url="https://www.archive.org/download/celtic_folk_1206_librivox/celticfolkandfairytales_18_jacobs_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:17:44]]></itunes:duration>
+  <pubDate>Tue, 19 Jun 2012 00:18:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/celtic_folk_1206_librivox/celticfolkandfairytales_18_jacobs_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Fair, Brown and Trembling]]></title>
+    <itunes:episode><![CDATA[19]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/celtic-folk-and-fairy-tales-by-joseph-jacobs/]]></link>
+            <enclosure url="https://www.archive.org/download/celtic_folk_1206_librivox/celticfolkandfairytales_19_jacobs_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:17:35]]></itunes:duration>
+  <pubDate>Tue, 19 Jun 2012 00:19:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/celtic_folk_1206_librivox/celticfolkandfairytales_19_jacobs_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Jack and His Master]]></title>
+    <itunes:episode><![CDATA[20]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/celtic-folk-and-fairy-tales-by-joseph-jacobs/]]></link>
+            <enclosure url="https://www.archive.org/download/celtic_folk_1206_librivox/celticfolkandfairytales_20_jacobs_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:17:40]]></itunes:duration>
+  <pubDate>Tue, 19 Jun 2012 00:20:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/celtic_folk_1206_librivox/celticfolkandfairytales_20_jacobs_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Beth Gellert]]></title>
+    <itunes:episode><![CDATA[21]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/celtic-folk-and-fairy-tales-by-joseph-jacobs/]]></link>
+            <enclosure url="https://www.archive.org/download/celtic_folk_1206_librivox/celticfolkandfairytales_21_jacobs_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:02:40]]></itunes:duration>
+  <pubDate>Tue, 19 Jun 2012 00:21:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/celtic_folk_1206_librivox/celticfolkandfairytales_21_jacobs_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Tale of Ivan]]></title>
+    <itunes:episode><![CDATA[22]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/celtic-folk-and-fairy-tales-by-joseph-jacobs/]]></link>
+            <enclosure url="https://www.archive.org/download/celtic_folk_1206_librivox/celticfolkandfairytales_22_jacobs_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:07:27]]></itunes:duration>
+  <pubDate>Tue, 19 Jun 2012 00:22:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/celtic_folk_1206_librivox/celticfolkandfairytales_22_jacobs_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Andrew Coffey]]></title>
+    <itunes:episode><![CDATA[23]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/celtic-folk-and-fairy-tales-by-joseph-jacobs/]]></link>
+            <enclosure url="https://www.archive.org/download/celtic_folk_1206_librivox/celticfolkandfairytales_23_jacobs_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:07:53]]></itunes:duration>
+  <pubDate>Tue, 19 Jun 2012 00:23:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/celtic_folk_1206_librivox/celticfolkandfairytales_23_jacobs_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Battle of the Birds]]></title>
+    <itunes:episode><![CDATA[24]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/celtic-folk-and-fairy-tales-by-joseph-jacobs/]]></link>
+            <enclosure url="https://www.archive.org/download/celtic_folk_1206_librivox/celticfolkandfairytales_24_jacobs_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:25:14]]></itunes:duration>
+  <pubDate>Tue, 19 Jun 2012 00:24:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/celtic_folk_1206_librivox/celticfolkandfairytales_24_jacobs_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Brewery of Eggshells]]></title>
+    <itunes:episode><![CDATA[25]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/celtic-folk-and-fairy-tales-by-joseph-jacobs/]]></link>
+            <enclosure url="https://www.archive.org/download/celtic_folk_1206_librivox/celticfolkandfairytales_25_jacobs_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:03:32]]></itunes:duration>
+  <pubDate>Tue, 19 Jun 2012 00:25:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/celtic_folk_1206_librivox/celticfolkandfairytales_25_jacobs_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Lad with the Goat-Skin]]></title>
+    <itunes:episode><![CDATA[26]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/celtic-folk-and-fairy-tales-by-joseph-jacobs/]]></link>
+            <enclosure url="https://www.archive.org/download/celtic_folk_1206_librivox/celticfolkandfairytales_26_jacobs_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:14:48]]></itunes:duration>
+  <pubDate>Tue, 19 Jun 2012 00:26:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/celtic_folk_1206_librivox/celticfolkandfairytales_26_jacobs_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <!-- end file loop -->
+</channel>
+</rss>

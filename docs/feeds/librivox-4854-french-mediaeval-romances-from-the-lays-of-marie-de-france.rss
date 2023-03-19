@@ -1,0 +1,241 @@
+<?xml version="1.0" ?><rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+  <title><![CDATA[French Mediaeval Romances from the Lays of Marie de France by Marie de France (12th centu - )]]></title>
+  <link><![CDATA[https://librivox.org/french-mediaeval-romances-from-the-lays-of-marie-de-france-by-marie-de-france/]]></link>
+  <atom:link rel="self" href="https://librivox.org/rss/4854" />
+  <description><![CDATA[The tales included in this little book of translations are derived mainly from the "Lays" of Marie de France. I do not profess them to be a complete collection of her stories in verse. The ascription varies. Poems which were included in her work but yesterday are withdrawn to-day, and new matter suggested by scholars to take the place of the old. I believe it to be, however, a far fuller version of Marie's "Lays" than has yet appeared, to my knowledge, in English. Marie's poems are concerned chiefly with love. To complete my book I have added two famous mediaeval stories on the same excellent theme. This, then, may be regarded as a volume of French romances, dealing, generally, with one aspect of mediaeval life. (Summary by Eugene Mason, from his preface to Lays of Marie de France)]]></description>
+  <!--<genre>project element=Genre</genre>-->
+  <!--<language>project element=lang.code</language>-->
+  <itunes:type>serial</itunes:type>
+  <itunes:author>LibriVox</itunes:author>
+  <itunes:summary><![CDATA[The tales included in this little book of translations are derived mainly from the "Lays" of Marie de France. I do not profess them to be a complete collection of her stories in verse. The ascription varies. Poems which were included in her work but yesterday are withdrawn to-day, and new matter suggested by scholars to take the place of the old. I believe it to be, however, a far fuller version of Marie's "Lays" than has yet appeared, to my knowledge, in English. Marie's poems are concerned chiefly with love. To complete my book I have added two famous mediaeval stories on the same excellent theme. This, then, may be regarded as a volume of French romances, dealing, generally, with one aspect of mediaeval life. (Summary by Eugene Mason, from his preface to Lays of Marie de France)]]></itunes:summary>
+  <itunes:owner>
+    <itunes:name>LibriVox</itunes:name>
+    <itunes:email>info@librivox.org</itunes:email>
+  </itunes:owner>
+  <itunes:category text="Arts">
+    <itunes:category text="Literature" />
+  </itunes:category>
+  <image><url>https://archive.org/download/LibrivoxCdCoverArt23/French_Medieval_Romances_1210.jpg</url></image>
+  <itunes:image href="https://archive.org/download/LibrivoxCdCoverArt23/French_Medieval_Romances_1210.jpg"/>
+  <itunes:explicit>no</itunes:explicit>
+  <!-- file loop -->
+    <item>
+    <title><![CDATA[Introduction]]></title>
+    <itunes:episode><![CDATA[0]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/french-mediaeval-romances-from-the-lays-of-marie-de-france-by-marie-de-france/]]></link>
+            <enclosure url="https://www.archive.org/download/lays_of_marie_de_france_1106_librivox/laysofmariedefrance_00_defrance_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:25:44]]></itunes:duration>
+  <pubDate>Mon, 27 Jun 2011 00:00:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/lays_of_marie_de_france_1106_librivox/laysofmariedefrance_00_defrance_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Prologue by Way of Dedication]]></title>
+    <itunes:episode><![CDATA[1]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/french-mediaeval-romances-from-the-lays-of-marie-de-france-by-marie-de-france/]]></link>
+            <enclosure url="https://www.archive.org/download/lays_of_marie_de_france_1106_librivox/laysofmariedefrance_01_defrance_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:03:40]]></itunes:duration>
+  <pubDate>Mon, 27 Jun 2011 00:01:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/lays_of_marie_de_france_1106_librivox/laysofmariedefrance_01_defrance_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Lay of Gugemar]]></title>
+    <itunes:episode><![CDATA[2]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/french-mediaeval-romances-from-the-lays-of-marie-de-france-by-marie-de-france/]]></link>
+            <enclosure url="https://www.archive.org/download/lays_of_marie_de_france_1106_librivox/laysofmariedefrance_02_defrance_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:38:32]]></itunes:duration>
+  <pubDate>Mon, 27 Jun 2011 00:02:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/lays_of_marie_de_france_1106_librivox/laysofmariedefrance_02_defrance_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Lay of The Dolorous Knight]]></title>
+    <itunes:episode><![CDATA[3]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/french-mediaeval-romances-from-the-lays-of-marie-de-france-by-marie-de-france/]]></link>
+            <enclosure url="https://www.archive.org/download/lays_of_marie_de_france_1106_librivox/laysofmariedefrance_03_defrance_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:11:37]]></itunes:duration>
+  <pubDate>Mon, 27 Jun 2011 00:03:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/lays_of_marie_de_france_1106_librivox/laysofmariedefrance_03_defrance_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Lay of Eliduc]]></title>
+    <itunes:episode><![CDATA[4]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/french-mediaeval-romances-from-the-lays-of-marie-de-france-by-marie-de-france/]]></link>
+            <enclosure url="https://www.archive.org/download/lays_of_marie_de_france_1106_librivox/laysofmariedefrance_04_defrance_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:56:08]]></itunes:duration>
+  <pubDate>Mon, 27 Jun 2011 00:04:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/lays_of_marie_de_france_1106_librivox/laysofmariedefrance_04_defrance_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Lay of The Nightengale]]></title>
+    <itunes:episode><![CDATA[5]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/french-mediaeval-romances-from-the-lays-of-marie-de-france-by-marie-de-france/]]></link>
+            <enclosure url="https://www.archive.org/download/lays_of_marie_de_france_1106_librivox/laysofmariedefrance_05_defrance_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:08:16]]></itunes:duration>
+  <pubDate>Mon, 27 Jun 2011 00:05:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/lays_of_marie_de_france_1106_librivox/laysofmariedefrance_05_defrance_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Lay of Sir Launfal]]></title>
+    <itunes:episode><![CDATA[6]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/french-mediaeval-romances-from-the-lays-of-marie-de-france-by-marie-de-france/]]></link>
+            <enclosure url="https://www.archive.org/download/lays_of_marie_de_france_1106_librivox/laysofmariedefrance_06_defrance_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:32:44]]></itunes:duration>
+  <pubDate>Mon, 27 Jun 2011 00:06:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/lays_of_marie_de_france_1106_librivox/laysofmariedefrance_06_defrance_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Lay of The Two Lovers]]></title>
+    <itunes:episode><![CDATA[7]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/french-mediaeval-romances-from-the-lays-of-marie-de-france-by-marie-de-france/]]></link>
+            <enclosure url="https://www.archive.org/download/lays_of_marie_de_france_1106_librivox/laysofmariedefrance_07_defrance_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:11:41]]></itunes:duration>
+  <pubDate>Mon, 27 Jun 2011 00:07:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/lays_of_marie_de_france_1106_librivox/laysofmariedefrance_07_defrance_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Lay of The Were-Wolf]]></title>
+    <itunes:episode><![CDATA[8]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/french-mediaeval-romances-from-the-lays-of-marie-de-france-by-marie-de-france/]]></link>
+            <enclosure url="https://www.archive.org/download/lays_of_marie_de_france_1106_librivox/laysofmariedefrance_08_defrance_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:15:40]]></itunes:duration>
+  <pubDate>Mon, 27 Jun 2011 00:08:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/lays_of_marie_de_france_1106_librivox/laysofmariedefrance_08_defrance_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Lay of the Ash Tree]]></title>
+    <itunes:episode><![CDATA[9]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/french-mediaeval-romances-from-the-lays-of-marie-de-france-by-marie-de-france/]]></link>
+            <enclosure url="https://www.archive.org/download/lays_of_marie_de_france_1106_librivox/laysofmariedefrance_09_defrance_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:22:43]]></itunes:duration>
+  <pubDate>Mon, 27 Jun 2011 00:09:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/lays_of_marie_de_france_1106_librivox/laysofmariedefrance_09_defrance_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Lay of The Honeysuckle]]></title>
+    <itunes:episode><![CDATA[10]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/french-mediaeval-romances-from-the-lays-of-marie-de-france-by-marie-de-france/]]></link>
+            <enclosure url="https://www.archive.org/download/lays_of_marie_de_france_1106_librivox/laysofmariedefrance_10_defrance_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:05:46]]></itunes:duration>
+  <pubDate>Mon, 27 Jun 2011 00:10:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/lays_of_marie_de_france_1106_librivox/laysofmariedefrance_10_defrance_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Lay of Equitan]]></title>
+    <itunes:episode><![CDATA[11]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/french-mediaeval-romances-from-the-lays-of-marie-de-france-by-marie-de-france/]]></link>
+            <enclosure url="https://www.archive.org/download/lays_of_marie_de_france_1106_librivox/laysofmariedefrance_11_defrance_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:14:24]]></itunes:duration>
+  <pubDate>Mon, 27 Jun 2011 00:11:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/lays_of_marie_de_france_1106_librivox/laysofmariedefrance_11_defrance_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Lay of Milon]]></title>
+    <itunes:episode><![CDATA[12]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/french-mediaeval-romances-from-the-lays-of-marie-de-france-by-marie-de-france/]]></link>
+            <enclosure url="https://www.archive.org/download/lays_of_marie_de_france_1106_librivox/laysofmariedefrance_12_defrance_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:22:40]]></itunes:duration>
+  <pubDate>Mon, 27 Jun 2011 00:12:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/lays_of_marie_de_france_1106_librivox/laysofmariedefrance_12_defrance_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Lay of Yonec]]></title>
+    <itunes:episode><![CDATA[13]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/french-mediaeval-romances-from-the-lays-of-marie-de-france-by-marie-de-france/]]></link>
+            <enclosure url="https://www.archive.org/download/lays_of_marie_de_france_1106_librivox/laysofmariedefrance_13_defrance_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:26:20]]></itunes:duration>
+  <pubDate>Mon, 27 Jun 2011 00:13:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/lays_of_marie_de_france_1106_librivox/laysofmariedefrance_13_defrance_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Lay of The Thorn]]></title>
+    <itunes:episode><![CDATA[14]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/french-mediaeval-romances-from-the-lays-of-marie-de-france-by-marie-de-france/]]></link>
+            <enclosure url="https://www.archive.org/download/lays_of_marie_de_france_1106_librivox/laysofmariedefrance_14_defrance_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:22:22]]></itunes:duration>
+  <pubDate>Mon, 27 Jun 2011 00:14:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/lays_of_marie_de_france_1106_librivox/laysofmariedefrance_14_defrance_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Lay of Graelent]]></title>
+    <itunes:episode><![CDATA[15]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/french-mediaeval-romances-from-the-lays-of-marie-de-france-by-marie-de-france/]]></link>
+            <enclosure url="https://www.archive.org/download/lays_of_marie_de_france_1106_librivox/laysofmariedefrance_15_defrance_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:23:58]]></itunes:duration>
+  <pubDate>Mon, 27 Jun 2011 00:15:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/lays_of_marie_de_france_1106_librivox/laysofmariedefrance_15_defrance_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[A Story of Beyond The Sea]]></title>
+    <itunes:episode><![CDATA[16]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/french-mediaeval-romances-from-the-lays-of-marie-de-france-by-marie-de-france/]]></link>
+            <enclosure url="https://www.archive.org/download/lays_of_marie_de_france_1106_librivox/laysofmariedefrance_16_defrance_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[01:04:36]]></itunes:duration>
+  <pubDate>Mon, 27 Jun 2011 00:16:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/lays_of_marie_de_france_1106_librivox/laysofmariedefrance_16_defrance_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Chatelaine of Vergi]]></title>
+    <itunes:episode><![CDATA[17]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/french-mediaeval-romances-from-the-lays-of-marie-de-france-by-marie-de-france/]]></link>
+            <enclosure url="https://www.archive.org/download/lays_of_marie_de_france_1106_librivox/laysofmariedefrance_17_defrance_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:42:34]]></itunes:duration>
+  <pubDate>Mon, 27 Jun 2011 00:17:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/lays_of_marie_de_france_1106_librivox/laysofmariedefrance_17_defrance_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <!-- end file loop -->
+</channel>
+</rss>

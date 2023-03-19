@@ -1,0 +1,255 @@
+<?xml version="1.0" ?><rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+  <title><![CDATA[Tanglewood Tales by Nathaniel Hawthorne (1804 - 1864)]]></title>
+  <link><![CDATA[https://librivox.org/tanglewood-tales-by-nathaniel-hawthorne/]]></link>
+  <atom:link rel="self" href="https://librivox.org/rss/3292" />
+  <description><![CDATA[All mythology and/or Hawthorne lovers unite!
+Here is a delightful collection of charming stories from Greek Mythology. This collection features some very popular characters like our beloved Jason, Ulysses, King Pluto and Theseus (and of course, our favorite, Mr. Minotaur, too). Written in Hawthorne's interesting and beautiful style, these stories will be a great delight to read AND listen to. (Summary by Neeru Iyer)]]></description>
+  <!--<genre>project element=Genre</genre>-->
+  <!--<language>project element=lang.code</language>-->
+  <itunes:type>serial</itunes:type>
+  <itunes:author>LibriVox</itunes:author>
+  <itunes:summary><![CDATA[All mythology and/or Hawthorne lovers unite!
+Here is a delightful collection of charming stories from Greek Mythology. This collection features some very popular characters like our beloved Jason, Ulysses, King Pluto and Theseus (and of course, our favorite, Mr. Minotaur, too). Written in Hawthorne's interesting and beautiful style, these stories will be a great delight to read AND listen to. (Summary by Neeru Iyer)]]></itunes:summary>
+  <itunes:owner>
+    <itunes:name>LibriVox</itunes:name>
+    <itunes:email>info@librivox.org</itunes:email>
+  </itunes:owner>
+  <itunes:category text="Arts">
+    <itunes:category text="Literature" />
+  </itunes:category>
+  <image><url>https://www.archive.org/download/librivox_cd_covers/tanglewood_tales.jpg</url></image>
+  <itunes:image href="https://www.archive.org/download/librivox_cd_covers/tanglewood_tales.jpg"/>
+  <itunes:explicit>no</itunes:explicit>
+  <!-- file loop -->
+    <item>
+    <title><![CDATA[The Wayside. Introductory.]]></title>
+    <itunes:episode><![CDATA[0]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/tanglewood-tales-by-nathaniel-hawthorne/]]></link>
+            <enclosure url="https://www.archive.org/download/tanglewood_tales_0912_librivox/tanglewoodtales_00_hawthorne_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:14:29]]></itunes:duration>
+  <pubDate>Wed, 30 Dec 2009 00:00:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/tanglewood_tales_0912_librivox/tanglewoodtales_00_hawthorne_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Minotaur (Part 1)]]></title>
+    <itunes:episode><![CDATA[1]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/tanglewood-tales-by-nathaniel-hawthorne/]]></link>
+            <enclosure url="https://www.archive.org/download/tanglewood_tales_0912_librivox/tanglewoodtales_01_hawthorne_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:20:19]]></itunes:duration>
+  <pubDate>Wed, 30 Dec 2009 00:01:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/tanglewood_tales_0912_librivox/tanglewoodtales_01_hawthorne_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Minotaur (Part 2)]]></title>
+    <itunes:episode><![CDATA[2]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/tanglewood-tales-by-nathaniel-hawthorne/]]></link>
+            <enclosure url="https://www.archive.org/download/tanglewood_tales_0912_librivox/tanglewoodtales_02_hawthorne_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:22:06]]></itunes:duration>
+  <pubDate>Wed, 30 Dec 2009 00:02:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/tanglewood_tales_0912_librivox/tanglewoodtales_02_hawthorne_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Minotaur (Part 3)]]></title>
+    <itunes:episode><![CDATA[3]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/tanglewood-tales-by-nathaniel-hawthorne/]]></link>
+            <enclosure url="https://www.archive.org/download/tanglewood_tales_0912_librivox/tanglewoodtales_03_hawthorne_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:19:56]]></itunes:duration>
+  <pubDate>Wed, 30 Dec 2009 00:03:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/tanglewood_tales_0912_librivox/tanglewoodtales_03_hawthorne_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Pygmies (Part 1)]]></title>
+    <itunes:episode><![CDATA[4]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/tanglewood-tales-by-nathaniel-hawthorne/]]></link>
+            <enclosure url="https://www.archive.org/download/tanglewood_tales_0912_librivox/tanglewoodtales_04_hawthorne_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:18:09]]></itunes:duration>
+  <pubDate>Wed, 30 Dec 2009 00:04:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/tanglewood_tales_0912_librivox/tanglewoodtales_04_hawthorne_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Pygmies (Part 2)]]></title>
+    <itunes:episode><![CDATA[5]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/tanglewood-tales-by-nathaniel-hawthorne/]]></link>
+            <enclosure url="https://www.archive.org/download/tanglewood_tales_0912_librivox/tanglewoodtales_05_hawthorne_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:19:37]]></itunes:duration>
+  <pubDate>Wed, 30 Dec 2009 00:05:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/tanglewood_tales_0912_librivox/tanglewoodtales_05_hawthorne_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Dragon's Teeth (Part 1)]]></title>
+    <itunes:episode><![CDATA[6]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/tanglewood-tales-by-nathaniel-hawthorne/]]></link>
+            <enclosure url="https://www.archive.org/download/tanglewood_tales_0912_librivox/tanglewoodtales_06_hawthorne_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:19:04]]></itunes:duration>
+  <pubDate>Wed, 30 Dec 2009 00:06:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/tanglewood_tales_0912_librivox/tanglewoodtales_06_hawthorne_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Dragon's Teeth (Part 2)]]></title>
+    <itunes:episode><![CDATA[7]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/tanglewood-tales-by-nathaniel-hawthorne/]]></link>
+            <enclosure url="https://www.archive.org/download/tanglewood_tales_0912_librivox/tanglewoodtales_07_hawthorne_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:19:03]]></itunes:duration>
+  <pubDate>Wed, 30 Dec 2009 00:07:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/tanglewood_tales_0912_librivox/tanglewoodtales_07_hawthorne_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Dragon's Teeth (Part 3)]]></title>
+    <itunes:episode><![CDATA[8]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/tanglewood-tales-by-nathaniel-hawthorne/]]></link>
+            <enclosure url="https://www.archive.org/download/tanglewood_tales_0912_librivox/tanglewoodtales_08_hawthorne_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:19:00]]></itunes:duration>
+  <pubDate>Wed, 30 Dec 2009 00:08:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/tanglewood_tales_0912_librivox/tanglewoodtales_08_hawthorne_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Circe's Palace (Part 1)]]></title>
+    <itunes:episode><![CDATA[9]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/tanglewood-tales-by-nathaniel-hawthorne/]]></link>
+            <enclosure url="https://www.archive.org/download/tanglewood_tales_0912_librivox/tanglewoodtales_09_hawthorne_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:21:13]]></itunes:duration>
+  <pubDate>Wed, 30 Dec 2009 00:09:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/tanglewood_tales_0912_librivox/tanglewoodtales_09_hawthorne_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Circe's Palace (Part 2)]]></title>
+    <itunes:episode><![CDATA[10]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/tanglewood-tales-by-nathaniel-hawthorne/]]></link>
+            <enclosure url="https://www.archive.org/download/tanglewood_tales_0912_librivox/tanglewoodtales_10_hawthorne_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:21:03]]></itunes:duration>
+  <pubDate>Wed, 30 Dec 2009 00:10:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/tanglewood_tales_0912_librivox/tanglewoodtales_10_hawthorne_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Circe's Palace (Part 3)]]></title>
+    <itunes:episode><![CDATA[11]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/tanglewood-tales-by-nathaniel-hawthorne/]]></link>
+            <enclosure url="https://www.archive.org/download/tanglewood_tales_0912_librivox/tanglewoodtales_11_hawthorne_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:20:14]]></itunes:duration>
+  <pubDate>Wed, 30 Dec 2009 00:11:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/tanglewood_tales_0912_librivox/tanglewoodtales_11_hawthorne_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Pomegranate Seed (Part 1)]]></title>
+    <itunes:episode><![CDATA[12]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/tanglewood-tales-by-nathaniel-hawthorne/]]></link>
+            <enclosure url="https://www.archive.org/download/tanglewood_tales_0912_librivox/tanglewoodtales_12_hawthorne_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:23:31]]></itunes:duration>
+  <pubDate>Wed, 30 Dec 2009 00:12:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/tanglewood_tales_0912_librivox/tanglewoodtales_12_hawthorne_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Pomegranate Seed (Part 2)]]></title>
+    <itunes:episode><![CDATA[13]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/tanglewood-tales-by-nathaniel-hawthorne/]]></link>
+            <enclosure url="https://www.archive.org/download/tanglewood_tales_0912_librivox/tanglewoodtales_13_hawthorne_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:26:07]]></itunes:duration>
+  <pubDate>Wed, 30 Dec 2009 00:13:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/tanglewood_tales_0912_librivox/tanglewoodtales_13_hawthorne_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Pomegranate Seed (Part 3)]]></title>
+    <itunes:episode><![CDATA[14]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/tanglewood-tales-by-nathaniel-hawthorne/]]></link>
+            <enclosure url="https://www.archive.org/download/tanglewood_tales_0912_librivox/tanglewoodtales_14_hawthorne_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:29:31]]></itunes:duration>
+  <pubDate>Wed, 30 Dec 2009 00:14:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/tanglewood_tales_0912_librivox/tanglewoodtales_14_hawthorne_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Golden Fleece (Part 1)]]></title>
+    <itunes:episode><![CDATA[15]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/tanglewood-tales-by-nathaniel-hawthorne/]]></link>
+            <enclosure url="https://www.archive.org/download/tanglewood_tales_0912_librivox/tanglewoodtales_15_hawthorne_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:20:31]]></itunes:duration>
+  <pubDate>Wed, 30 Dec 2009 00:15:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/tanglewood_tales_0912_librivox/tanglewoodtales_15_hawthorne_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Golden Fleece (Part 2)]]></title>
+    <itunes:episode><![CDATA[16]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/tanglewood-tales-by-nathaniel-hawthorne/]]></link>
+            <enclosure url="https://www.archive.org/download/tanglewood_tales_0912_librivox/tanglewoodtales_16_hawthorne_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:21:36]]></itunes:duration>
+  <pubDate>Wed, 30 Dec 2009 00:16:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/tanglewood_tales_0912_librivox/tanglewoodtales_16_hawthorne_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Golden Fleece (Part 3)]]></title>
+    <itunes:episode><![CDATA[17]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/tanglewood-tales-by-nathaniel-hawthorne/]]></link>
+            <enclosure url="https://www.archive.org/download/tanglewood_tales_0912_librivox/tanglewoodtales_17_hawthorne_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:13:25]]></itunes:duration>
+  <pubDate>Wed, 30 Dec 2009 00:17:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/tanglewood_tales_0912_librivox/tanglewoodtales_17_hawthorne_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Golden Fleece (Part 4)]]></title>
+    <itunes:episode><![CDATA[18]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/tanglewood-tales-by-nathaniel-hawthorne/]]></link>
+            <enclosure url="https://www.archive.org/download/tanglewood_tales_0912_librivox/tanglewoodtales_18_hawthorne_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:18:58]]></itunes:duration>
+  <pubDate>Wed, 30 Dec 2009 00:18:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/tanglewood_tales_0912_librivox/tanglewoodtales_18_hawthorne_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <!-- end file loop -->
+</channel>
+</rss>

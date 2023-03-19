@@ -1,0 +1,121 @@
+<?xml version="1.0" ?><rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+  <title><![CDATA[George Bowring - A Tale Of Cader Idris by  Richard Doddridge Blackmore (1825 - 1900)]]></title>
+  <link><![CDATA[https://librivox.org/george-bowring-a-tale-of-cader-idris-by-richard-doddridge-blackmore/]]></link>
+  <atom:link rel="self" href="https://librivox.org/rss/16184" />
+  <description><![CDATA[Our narrator, Bob, knows George Bowring from school days. Their lives, dreams and misfortunes are parallel until George marries the woman Bob loves. But still, their friendship endures, despite numerous tensions over the years. The two men go on a fishing trip to Wales, George promising Bob he will see mountains. One of these mountains is the infamous, supposedly haunted Cader Idris. Will George regret taking his friend on the trip?]]></description>
+  <!--<genre>project element=Genre</genre>-->
+  <!--<language>project element=lang.code</language>-->
+  <itunes:type>serial</itunes:type>
+  <itunes:author>LibriVox</itunes:author>
+  <itunes:summary><![CDATA[Our narrator, Bob, knows George Bowring from school days. Their lives, dreams and misfortunes are parallel until George marries the woman Bob loves. But still, their friendship endures, despite numerous tensions over the years. The two men go on a fishing trip to Wales, George promising Bob he will see mountains. One of these mountains is the infamous, supposedly haunted Cader Idris. Will George regret taking his friend on the trip?]]></itunes:summary>
+  <itunes:owner>
+    <itunes:name>LibriVox</itunes:name>
+    <itunes:email>info@librivox.org</itunes:email>
+  </itunes:owner>
+  <itunes:category text="Arts">
+    <itunes:category text="Literature" />
+  </itunes:category>
+  <image><url>https://archive.org/download/george_bowring_2101_librivox/georgebowring_2101.jpg</url></image>
+  <itunes:image href="https://archive.org/download/george_bowring_2101_librivox/georgebowring_2101.jpg"/>
+  <itunes:explicit>no</itunes:explicit>
+  <!-- file loop -->
+    <item>
+    <title><![CDATA[Chapter I]]></title>
+    <itunes:episode><![CDATA[1]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/george-bowring-a-tale-of-cader-idris-by-richard-doddridge-blackmore/]]></link>
+            <enclosure url="https://www.archive.org/download/george_bowring_2101_librivox/georgebowring_01_blackmore_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 30 Jan 2021 00:00:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/george_bowring_2101_librivox/georgebowring_01_blackmore_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Chapter II]]></title>
+    <itunes:episode><![CDATA[2]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/george-bowring-a-tale-of-cader-idris-by-richard-doddridge-blackmore/]]></link>
+            <enclosure url="https://www.archive.org/download/george_bowring_2101_librivox/georgebowring_02_blackmore_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 30 Jan 2021 00:01:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/george_bowring_2101_librivox/georgebowring_02_blackmore_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Chapter III]]></title>
+    <itunes:episode><![CDATA[3]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/george-bowring-a-tale-of-cader-idris-by-richard-doddridge-blackmore/]]></link>
+            <enclosure url="https://www.archive.org/download/george_bowring_2101_librivox/georgebowring_03_blackmore_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 30 Jan 2021 00:02:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/george_bowring_2101_librivox/georgebowring_03_blackmore_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Chapter IV]]></title>
+    <itunes:episode><![CDATA[4]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/george-bowring-a-tale-of-cader-idris-by-richard-doddridge-blackmore/]]></link>
+            <enclosure url="https://www.archive.org/download/george_bowring_2101_librivox/georgebowring_04_blackmore_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 30 Jan 2021 00:03:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/george_bowring_2101_librivox/georgebowring_04_blackmore_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Chapter V]]></title>
+    <itunes:episode><![CDATA[5]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/george-bowring-a-tale-of-cader-idris-by-richard-doddridge-blackmore/]]></link>
+            <enclosure url="https://www.archive.org/download/george_bowring_2101_librivox/georgebowring_05_blackmore_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 30 Jan 2021 00:04:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/george_bowring_2101_librivox/georgebowring_05_blackmore_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Chapter VI]]></title>
+    <itunes:episode><![CDATA[6]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/george-bowring-a-tale-of-cader-idris-by-richard-doddridge-blackmore/]]></link>
+            <enclosure url="https://www.archive.org/download/george_bowring_2101_librivox/georgebowring_06_blackmore_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 30 Jan 2021 00:05:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/george_bowring_2101_librivox/georgebowring_06_blackmore_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Chapter VII]]></title>
+    <itunes:episode><![CDATA[7]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/george-bowring-a-tale-of-cader-idris-by-richard-doddridge-blackmore/]]></link>
+            <enclosure url="https://www.archive.org/download/george_bowring_2101_librivox/georgebowring_07_blackmore_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 30 Jan 2021 00:06:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/george_bowring_2101_librivox/georgebowring_07_blackmore_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Chapter VIII]]></title>
+    <itunes:episode><![CDATA[8]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/george-bowring-a-tale-of-cader-idris-by-richard-doddridge-blackmore/]]></link>
+            <enclosure url="https://www.archive.org/download/george_bowring_2101_librivox/georgebowring_08_blackmore_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 30 Jan 2021 00:07:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/george_bowring_2101_librivox/georgebowring_08_blackmore_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <!-- end file loop -->
+</channel>
+</rss>

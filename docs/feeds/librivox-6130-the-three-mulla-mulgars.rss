@@ -1,0 +1,301 @@
+<?xml version="1.0" ?><rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+  <title><![CDATA[Three Mulla-mulgars, The by Walter De la Mare (1873 - 1956)]]></title>
+  <link><![CDATA[https://librivox.org/the-three-mulla-mulgars-by-walter-de-la-mare/]]></link>
+  <atom:link rel="self" href="https://librivox.org/rss/6130" />
+  <description><![CDATA[Three monkey brothers, Thumb, Thimble, and Nod, are Mulla-mulgars or royal monkeys. As she dies, their mother gives them the enchanted Wonderstone for protection, and tells them to follow their father. They embark on a journey of fantastical adventure to find their father, who left years earlier in search of the kingdom of his brother, the Prince of the Valleys of Tishnar, promising to return for them after he had found the way. (Summary by A. Gramour)]]></description>
+  <!--<genre>project element=Genre</genre>-->
+  <!--<language>project element=lang.code</language>-->
+  <itunes:type>serial</itunes:type>
+  <itunes:author>LibriVox</itunes:author>
+  <itunes:summary><![CDATA[Three monkey brothers, Thumb, Thimble, and Nod, are Mulla-mulgars or royal monkeys. As she dies, their mother gives them the enchanted Wonderstone for protection, and tells them to follow their father. They embark on a journey of fantastical adventure to find their father, who left years earlier in search of the kingdom of his brother, the Prince of the Valleys of Tishnar, promising to return for them after he had found the way. (Summary by A. Gramour)]]></itunes:summary>
+  <itunes:owner>
+    <itunes:name>LibriVox</itunes:name>
+    <itunes:email>info@librivox.org</itunes:email>
+  </itunes:owner>
+  <itunes:category text="Arts">
+    <itunes:category text="Literature" />
+  </itunes:category>
+  <image><url>https://archive.org/download/LibrivoxCdCoverArt24/Three_Mulla-mulgars_1211.jpg</url></image>
+  <itunes:image href="https://archive.org/download/LibrivoxCdCoverArt24/Three_Mulla-mulgars_1211.jpg"/>
+  <itunes:explicit>no</itunes:explicit>
+  <!-- file loop -->
+    <item>
+    <title><![CDATA[Chapter 1]]></title>
+    <itunes:episode><![CDATA[1]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-three-mulla-mulgars-by-walter-de-la-mare/]]></link>
+            <enclosure url="https://www.archive.org/download/threemullamulgars_1209_librivox/threemullamulgars_01_delamare_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:28:38]]></itunes:duration>
+  <pubDate>Sat, 22 Sep 2012 00:00:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/threemullamulgars_1209_librivox/threemullamulgars_01_delamare_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Chapter 2]]></title>
+    <itunes:episode><![CDATA[2]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-three-mulla-mulgars-by-walter-de-la-mare/]]></link>
+            <enclosure url="https://www.archive.org/download/threemullamulgars_1209_librivox/threemullamulgars_02_delamare_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:24:43]]></itunes:duration>
+  <pubDate>Sat, 22 Sep 2012 00:01:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/threemullamulgars_1209_librivox/threemullamulgars_02_delamare_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Chapter 3]]></title>
+    <itunes:episode><![CDATA[3]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-three-mulla-mulgars-by-walter-de-la-mare/]]></link>
+            <enclosure url="https://www.archive.org/download/threemullamulgars_1209_librivox/threemullamulgars_03_delamare_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:19:25]]></itunes:duration>
+  <pubDate>Sat, 22 Sep 2012 00:02:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/threemullamulgars_1209_librivox/threemullamulgars_03_delamare_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Chapter 4]]></title>
+    <itunes:episode><![CDATA[4]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-three-mulla-mulgars-by-walter-de-la-mare/]]></link>
+            <enclosure url="https://www.archive.org/download/threemullamulgars_1209_librivox/threemullamulgars_04_delamare_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:17:36]]></itunes:duration>
+  <pubDate>Sat, 22 Sep 2012 00:03:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/threemullamulgars_1209_librivox/threemullamulgars_04_delamare_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Chapter 5]]></title>
+    <itunes:episode><![CDATA[5]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-three-mulla-mulgars-by-walter-de-la-mare/]]></link>
+            <enclosure url="https://www.archive.org/download/threemullamulgars_1209_librivox/threemullamulgars_05_delamare_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:19:30]]></itunes:duration>
+  <pubDate>Sat, 22 Sep 2012 00:04:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/threemullamulgars_1209_librivox/threemullamulgars_05_delamare_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Chapter 6]]></title>
+    <itunes:episode><![CDATA[6]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-three-mulla-mulgars-by-walter-de-la-mare/]]></link>
+            <enclosure url="https://www.archive.org/download/threemullamulgars_1209_librivox/threemullamulgars_06_delamare_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:21:55]]></itunes:duration>
+  <pubDate>Sat, 22 Sep 2012 00:05:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/threemullamulgars_1209_librivox/threemullamulgars_06_delamare_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Chapter 7]]></title>
+    <itunes:episode><![CDATA[7]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-three-mulla-mulgars-by-walter-de-la-mare/]]></link>
+            <enclosure url="https://www.archive.org/download/threemullamulgars_1209_librivox/threemullamulgars_07_delamare_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:18:46]]></itunes:duration>
+  <pubDate>Sat, 22 Sep 2012 00:06:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/threemullamulgars_1209_librivox/threemullamulgars_07_delamare_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Chapter 8]]></title>
+    <itunes:episode><![CDATA[8]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-three-mulla-mulgars-by-walter-de-la-mare/]]></link>
+            <enclosure url="https://www.archive.org/download/threemullamulgars_1209_librivox/threemullamulgars_08_delamare_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:14:11]]></itunes:duration>
+  <pubDate>Sat, 22 Sep 2012 00:07:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/threemullamulgars_1209_librivox/threemullamulgars_08_delamare_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Chapter 9]]></title>
+    <itunes:episode><![CDATA[9]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-three-mulla-mulgars-by-walter-de-la-mare/]]></link>
+            <enclosure url="https://www.archive.org/download/threemullamulgars_1209_librivox/threemullamulgars_09_delamare_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:23:29]]></itunes:duration>
+  <pubDate>Sat, 22 Sep 2012 00:08:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/threemullamulgars_1209_librivox/threemullamulgars_09_delamare_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Chapter 10]]></title>
+    <itunes:episode><![CDATA[10]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-three-mulla-mulgars-by-walter-de-la-mare/]]></link>
+            <enclosure url="https://www.archive.org/download/threemullamulgars_1209_librivox/threemullamulgars_10_delamare_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:29:02]]></itunes:duration>
+  <pubDate>Sat, 22 Sep 2012 00:09:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/threemullamulgars_1209_librivox/threemullamulgars_10_delamare_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Chapter 11]]></title>
+    <itunes:episode><![CDATA[11]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-three-mulla-mulgars-by-walter-de-la-mare/]]></link>
+            <enclosure url="https://www.archive.org/download/threemullamulgars_1209_librivox/threemullamulgars_11_delamare_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:16:45]]></itunes:duration>
+  <pubDate>Sat, 22 Sep 2012 00:10:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/threemullamulgars_1209_librivox/threemullamulgars_11_delamare_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Chapter 12]]></title>
+    <itunes:episode><![CDATA[12]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-three-mulla-mulgars-by-walter-de-la-mare/]]></link>
+            <enclosure url="https://www.archive.org/download/threemullamulgars_1209_librivox/threemullamulgars_12_delamare_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:11:18]]></itunes:duration>
+  <pubDate>Sat, 22 Sep 2012 00:11:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/threemullamulgars_1209_librivox/threemullamulgars_12_delamare_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Chapter 13]]></title>
+    <itunes:episode><![CDATA[13]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-three-mulla-mulgars-by-walter-de-la-mare/]]></link>
+            <enclosure url="https://www.archive.org/download/threemullamulgars_1209_librivox/threemullamulgars_13_delamare_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:20:57]]></itunes:duration>
+  <pubDate>Sat, 22 Sep 2012 00:12:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/threemullamulgars_1209_librivox/threemullamulgars_13_delamare_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Chapter 14]]></title>
+    <itunes:episode><![CDATA[14]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-three-mulla-mulgars-by-walter-de-la-mare/]]></link>
+            <enclosure url="https://www.archive.org/download/threemullamulgars_1209_librivox/threemullamulgars_14_delamare_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:16:48]]></itunes:duration>
+  <pubDate>Sat, 22 Sep 2012 00:13:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/threemullamulgars_1209_librivox/threemullamulgars_14_delamare_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Chapter 15]]></title>
+    <itunes:episode><![CDATA[15]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-three-mulla-mulgars-by-walter-de-la-mare/]]></link>
+            <enclosure url="https://www.archive.org/download/threemullamulgars_1209_librivox/threemullamulgars_15_delamare_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:18:22]]></itunes:duration>
+  <pubDate>Sat, 22 Sep 2012 00:14:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/threemullamulgars_1209_librivox/threemullamulgars_15_delamare_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Chapter 16]]></title>
+    <itunes:episode><![CDATA[16]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-three-mulla-mulgars-by-walter-de-la-mare/]]></link>
+            <enclosure url="https://www.archive.org/download/threemullamulgars_1209_librivox/threemullamulgars_16_delamare_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:15:13]]></itunes:duration>
+  <pubDate>Sat, 22 Sep 2012 00:15:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/threemullamulgars_1209_librivox/threemullamulgars_16_delamare_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Chapter 17]]></title>
+    <itunes:episode><![CDATA[17]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-three-mulla-mulgars-by-walter-de-la-mare/]]></link>
+            <enclosure url="https://www.archive.org/download/threemullamulgars_1209_librivox/threemullamulgars_17_delamare_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:16:42]]></itunes:duration>
+  <pubDate>Sat, 22 Sep 2012 00:16:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/threemullamulgars_1209_librivox/threemullamulgars_17_delamare_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Chapter 18]]></title>
+    <itunes:episode><![CDATA[18]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-three-mulla-mulgars-by-walter-de-la-mare/]]></link>
+            <enclosure url="https://www.archive.org/download/threemullamulgars_1209_librivox/threemullamulgars_18_delamare_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:16:20]]></itunes:duration>
+  <pubDate>Sat, 22 Sep 2012 00:17:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/threemullamulgars_1209_librivox/threemullamulgars_18_delamare_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Chapter 19]]></title>
+    <itunes:episode><![CDATA[19]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-three-mulla-mulgars-by-walter-de-la-mare/]]></link>
+            <enclosure url="https://www.archive.org/download/threemullamulgars_1209_librivox/threemullamulgars_19_delamare_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:17:23]]></itunes:duration>
+  <pubDate>Sat, 22 Sep 2012 00:18:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/threemullamulgars_1209_librivox/threemullamulgars_19_delamare_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Chapter 20]]></title>
+    <itunes:episode><![CDATA[20]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-three-mulla-mulgars-by-walter-de-la-mare/]]></link>
+            <enclosure url="https://www.archive.org/download/threemullamulgars_1209_librivox/threemullamulgars_20_delamare_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:14:43]]></itunes:duration>
+  <pubDate>Sat, 22 Sep 2012 00:19:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/threemullamulgars_1209_librivox/threemullamulgars_20_delamare_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Chapter 21]]></title>
+    <itunes:episode><![CDATA[21]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-three-mulla-mulgars-by-walter-de-la-mare/]]></link>
+            <enclosure url="https://www.archive.org/download/threemullamulgars_1209_librivox/threemullamulgars_21_delamare_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:16:37]]></itunes:duration>
+  <pubDate>Sat, 22 Sep 2012 00:20:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/threemullamulgars_1209_librivox/threemullamulgars_21_delamare_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Chapter 22]]></title>
+    <itunes:episode><![CDATA[22]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-three-mulla-mulgars-by-walter-de-la-mare/]]></link>
+            <enclosure url="https://www.archive.org/download/threemullamulgars_1209_librivox/threemullamulgars_22_delamare_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:16:22]]></itunes:duration>
+  <pubDate>Sat, 22 Sep 2012 00:21:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/threemullamulgars_1209_librivox/threemullamulgars_22_delamare_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Chapter 23]]></title>
+    <itunes:episode><![CDATA[23]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-three-mulla-mulgars-by-walter-de-la-mare/]]></link>
+            <enclosure url="https://www.archive.org/download/threemullamulgars_1209_librivox/threemullamulgars_23_delamare_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:23:33]]></itunes:duration>
+  <pubDate>Sat, 22 Sep 2012 00:22:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/threemullamulgars_1209_librivox/threemullamulgars_23_delamare_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <!-- end file loop -->
+</channel>
+</rss>

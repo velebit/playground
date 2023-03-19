@@ -1,0 +1,517 @@
+<?xml version="1.0" ?><rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+  <title><![CDATA[Folk Stories from Southern Nigeria, West Africa by Elphinstone Dayrell  (1869 - 1917)]]></title>
+  <link><![CDATA[https://librivox.org/folk-stories-from-southern-nigeria-west-africa-by-elphinstone-dayrell/]]></link>
+  <atom:link rel="self" href="https://librivox.org/rss/14152" />
+  <description><![CDATA[A collection of folk stories and fairy tales from Southern Nigeria gathered by Elphinstone Dayrell, deputy commissioner of the region when the book was published. - Summary by Elsie Selwyn]]></description>
+  <!--<genre>project element=Genre</genre>-->
+  <!--<language>project element=lang.code</language>-->
+  <itunes:type>serial</itunes:type>
+  <itunes:author>LibriVox</itunes:author>
+  <itunes:summary><![CDATA[A collection of folk stories and fairy tales from Southern Nigeria gathered by Elphinstone Dayrell, deputy commissioner of the region when the book was published. - Summary by Elsie Selwyn]]></itunes:summary>
+  <itunes:owner>
+    <itunes:name>LibriVox</itunes:name>
+    <itunes:email>info@librivox.org</itunes:email>
+  </itunes:owner>
+  <itunes:category text="Arts">
+    <itunes:category text="Literature" />
+  </itunes:category>
+  <image><url>https://archive.org/download/folk_stories_nigeria_2001_librivox/folk_stories_2001.jpg</url></image>
+  <itunes:image href="https://archive.org/download/folk_stories_nigeria_2001_librivox/folk_stories_2001.jpg"/>
+  <itunes:explicit>no</itunes:explicit>
+  <!-- file loop -->
+    <item>
+    <title><![CDATA[Introduction]]></title>
+    <itunes:episode><![CDATA[0]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/folk-stories-from-southern-nigeria-west-africa-by-elphinstone-dayrell/]]></link>
+            <enclosure url="https://www.archive.org/download/folk_stories_nigeria_2001_librivox/folkstoriesnigeria_00_dayrell_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Wed, 22 Jan 2020 00:00:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/folk_stories_nigeria_2001_librivox/folkstoriesnigeria_00_dayrell_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Tortoise with a Pretty Daughter]]></title>
+    <itunes:episode><![CDATA[1]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/folk-stories-from-southern-nigeria-west-africa-by-elphinstone-dayrell/]]></link>
+            <enclosure url="https://www.archive.org/download/folk_stories_nigeria_2001_librivox/folkstoriesnigeria_01_dayrell_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Wed, 22 Jan 2020 00:01:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/folk_stories_nigeria_2001_librivox/folkstoriesnigeria_01_dayrell_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[How a Hunter Obtained Money from His Friends the Leopard, Goat, Bush Cat, and Cock, and How He Got Out of Repaying Them]]></title>
+    <itunes:episode><![CDATA[2]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/folk-stories-from-southern-nigeria-west-africa-by-elphinstone-dayrell/]]></link>
+            <enclosure url="https://www.archive.org/download/folk_stories_nigeria_2001_librivox/folkstoriesnigeria_02_dayrell_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Wed, 22 Jan 2020 00:02:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/folk_stories_nigeria_2001_librivox/folkstoriesnigeria_02_dayrell_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Woman with Two Skins]]></title>
+    <itunes:episode><![CDATA[3]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/folk-stories-from-southern-nigeria-west-africa-by-elphinstone-dayrell/]]></link>
+            <enclosure url="https://www.archive.org/download/folk_stories_nigeria_2001_librivox/folkstoriesnigeria_03_dayrell_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Wed, 22 Jan 2020 00:03:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/folk_stories_nigeria_2001_librivox/folkstoriesnigeria_03_dayrell_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The King’s Magic Drum]]></title>
+    <itunes:episode><![CDATA[4]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/folk-stories-from-southern-nigeria-west-africa-by-elphinstone-dayrell/]]></link>
+            <enclosure url="https://www.archive.org/download/folk_stories_nigeria_2001_librivox/folkstoriesnigeria_04_dayrell_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Wed, 22 Jan 2020 00:04:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/folk_stories_nigeria_2001_librivox/folkstoriesnigeria_04_dayrell_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Ituen and the King’s Wife]]></title>
+    <itunes:episode><![CDATA[5]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/folk-stories-from-southern-nigeria-west-africa-by-elphinstone-dayrell/]]></link>
+            <enclosure url="https://www.archive.org/download/folk_stories_nigeria_2001_librivox/folkstoriesnigeria_05_dayrell_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Wed, 22 Jan 2020 00:05:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/folk_stories_nigeria_2001_librivox/folkstoriesnigeria_05_dayrell_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Of the Pretty Stranger Who Killed the King]]></title>
+    <itunes:episode><![CDATA[6]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/folk-stories-from-southern-nigeria-west-africa-by-elphinstone-dayrell/]]></link>
+            <enclosure url="https://www.archive.org/download/folk_stories_nigeria_2001_librivox/folkstoriesnigeria_06_dayrell_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Wed, 22 Jan 2020 00:06:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/folk_stories_nigeria_2001_librivox/folkstoriesnigeria_06_dayrell_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Why the Bat Flies by Night]]></title>
+    <itunes:episode><![CDATA[7]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/folk-stories-from-southern-nigeria-west-africa-by-elphinstone-dayrell/]]></link>
+            <enclosure url="https://www.archive.org/download/folk_stories_nigeria_2001_librivox/folkstoriesnigeria_07_dayrell_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Wed, 22 Jan 2020 00:07:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/folk_stories_nigeria_2001_librivox/folkstoriesnigeria_07_dayrell_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Disobedient Daughter Who Married a Skull]]></title>
+    <itunes:episode><![CDATA[8]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/folk-stories-from-southern-nigeria-west-africa-by-elphinstone-dayrell/]]></link>
+            <enclosure url="https://www.archive.org/download/folk_stories_nigeria_2001_librivox/folkstoriesnigeria_08_dayrell_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Wed, 22 Jan 2020 00:08:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/folk_stories_nigeria_2001_librivox/folkstoriesnigeria_08_dayrell_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The King Who Married the Cock’s Daughter]]></title>
+    <itunes:episode><![CDATA[9]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/folk-stories-from-southern-nigeria-west-africa-by-elphinstone-dayrell/]]></link>
+            <enclosure url="https://www.archive.org/download/folk_stories_nigeria_2001_librivox/folkstoriesnigeria_09_dayrell_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Wed, 22 Jan 2020 00:09:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/folk_stories_nigeria_2001_librivox/folkstoriesnigeria_09_dayrell_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Concerning the Woman, the Ape, and the Child]]></title>
+    <itunes:episode><![CDATA[10]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/folk-stories-from-southern-nigeria-west-africa-by-elphinstone-dayrell/]]></link>
+            <enclosure url="https://www.archive.org/download/folk_stories_nigeria_2001_librivox/folkstoriesnigeria_10_dayrell_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Wed, 22 Jan 2020 00:10:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/folk_stories_nigeria_2001_librivox/folkstoriesnigeria_10_dayrell_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Fish and the Leopard’s Wife; or, Why the Fish Lives in the Water]]></title>
+    <itunes:episode><![CDATA[11]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/folk-stories-from-southern-nigeria-west-africa-by-elphinstone-dayrell/]]></link>
+            <enclosure url="https://www.archive.org/download/folk_stories_nigeria_2001_librivox/folkstoriesnigeria_11_dayrell_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Wed, 22 Jan 2020 00:11:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/folk_stories_nigeria_2001_librivox/folkstoriesnigeria_11_dayrell_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Why the Bat is Ashamed to be Seen in the Daytime]]></title>
+    <itunes:episode><![CDATA[12]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/folk-stories-from-southern-nigeria-west-africa-by-elphinstone-dayrell/]]></link>
+            <enclosure url="https://www.archive.org/download/folk_stories_nigeria_2001_librivox/folkstoriesnigeria_12_dayrell_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Wed, 22 Jan 2020 00:12:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/folk_stories_nigeria_2001_librivox/folkstoriesnigeria_12_dayrell_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Why the Worms Live Underneath the Ground]]></title>
+    <itunes:episode><![CDATA[13]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/folk-stories-from-southern-nigeria-west-africa-by-elphinstone-dayrell/]]></link>
+            <enclosure url="https://www.archive.org/download/folk_stories_nigeria_2001_librivox/folkstoriesnigeria_13_dayrell_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Wed, 22 Jan 2020 00:13:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/folk_stories_nigeria_2001_librivox/folkstoriesnigeria_13_dayrell_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Elephant and the Tortoise; or, Why the Worms are Blind and the Elephant Has Small Eyes]]></title>
+    <itunes:episode><![CDATA[14]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/folk-stories-from-southern-nigeria-west-africa-by-elphinstone-dayrell/]]></link>
+            <enclosure url="https://www.archive.org/download/folk_stories_nigeria_2001_librivox/folkstoriesnigeria_14_dayrell_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Wed, 22 Jan 2020 00:14:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/folk_stories_nigeria_2001_librivox/folkstoriesnigeria_14_dayrell_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Why A Hawk Kills Chickens]]></title>
+    <itunes:episode><![CDATA[15]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/folk-stories-from-southern-nigeria-west-africa-by-elphinstone-dayrell/]]></link>
+            <enclosure url="https://www.archive.org/download/folk_stories_nigeria_2001_librivox/folkstoriesnigeria_15_dayrell_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Wed, 22 Jan 2020 00:15:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/folk_stories_nigeria_2001_librivox/folkstoriesnigeria_15_dayrell_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Why the Sun and the Moon Live in the Sky]]></title>
+    <itunes:episode><![CDATA[16]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/folk-stories-from-southern-nigeria-west-africa-by-elphinstone-dayrell/]]></link>
+            <enclosure url="https://www.archive.org/download/folk_stories_nigeria_2001_librivox/folkstoriesnigeria_16_dayrell_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Wed, 22 Jan 2020 00:16:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/folk_stories_nigeria_2001_librivox/folkstoriesnigeria_16_dayrell_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Why the Flies Bother the Cows]]></title>
+    <itunes:episode><![CDATA[17]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/folk-stories-from-southern-nigeria-west-africa-by-elphinstone-dayrell/]]></link>
+            <enclosure url="https://www.archive.org/download/folk_stories_nigeria_2001_librivox/folkstoriesnigeria_17_dayrell_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Wed, 22 Jan 2020 00:17:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/folk_stories_nigeria_2001_librivox/folkstoriesnigeria_17_dayrell_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Why the Cat Kills Rats]]></title>
+    <itunes:episode><![CDATA[18]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/folk-stories-from-southern-nigeria-west-africa-by-elphinstone-dayrell/]]></link>
+            <enclosure url="https://www.archive.org/download/folk_stories_nigeria_2001_librivox/folkstoriesnigeria_18_dayrell_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Wed, 22 Jan 2020 00:18:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/folk_stories_nigeria_2001_librivox/folkstoriesnigeria_18_dayrell_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Story of the Lightning and the Thunder]]></title>
+    <itunes:episode><![CDATA[19]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/folk-stories-from-southern-nigeria-west-africa-by-elphinstone-dayrell/]]></link>
+            <enclosure url="https://www.archive.org/download/folk_stories_nigeria_2001_librivox/folkstoriesnigeria_19_dayrell_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Wed, 22 Jan 2020 00:19:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/folk_stories_nigeria_2001_librivox/folkstoriesnigeria_19_dayrell_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Why the Bush Cow and the Elephant Are Bad Friends]]></title>
+    <itunes:episode><![CDATA[20]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/folk-stories-from-southern-nigeria-west-africa-by-elphinstone-dayrell/]]></link>
+            <enclosure url="https://www.archive.org/download/folk_stories_nigeria_2001_librivox/folkstoriesnigeria_20_dayrell_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Wed, 22 Jan 2020 00:20:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/folk_stories_nigeria_2001_librivox/folkstoriesnigeria_20_dayrell_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Cock Who Caused A Fight Between Two Towns]]></title>
+    <itunes:episode><![CDATA[21]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/folk-stories-from-southern-nigeria-west-africa-by-elphinstone-dayrell/]]></link>
+            <enclosure url="https://www.archive.org/download/folk_stories_nigeria_2001_librivox/folkstoriesnigeria_21_dayrell_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Wed, 22 Jan 2020 00:21:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/folk_stories_nigeria_2001_librivox/folkstoriesnigeria_21_dayrell_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Affair of the Hippopotamus and the Tortoise; or, Why the Hippopotamus Lives in the Water]]></title>
+    <itunes:episode><![CDATA[22]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/folk-stories-from-southern-nigeria-west-africa-by-elphinstone-dayrell/]]></link>
+            <enclosure url="https://www.archive.org/download/folk_stories_nigeria_2001_librivox/folkstoriesnigeria_22_dayrell_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Wed, 22 Jan 2020 00:22:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/folk_stories_nigeria_2001_librivox/folkstoriesnigeria_22_dayrell_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Why Dead People Are Buried]]></title>
+    <itunes:episode><![CDATA[23]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/folk-stories-from-southern-nigeria-west-africa-by-elphinstone-dayrell/]]></link>
+            <enclosure url="https://www.archive.org/download/folk_stories_nigeria_2001_librivox/folkstoriesnigeria_23_dayrell_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Wed, 22 Jan 2020 00:23:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/folk_stories_nigeria_2001_librivox/folkstoriesnigeria_23_dayrell_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Of the Fat Woman Who Melted Away]]></title>
+    <itunes:episode><![CDATA[24]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/folk-stories-from-southern-nigeria-west-africa-by-elphinstone-dayrell/]]></link>
+            <enclosure url="https://www.archive.org/download/folk_stories_nigeria_2001_librivox/folkstoriesnigeria_24_dayrell_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Wed, 22 Jan 2020 00:24:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/folk_stories_nigeria_2001_librivox/folkstoriesnigeria_24_dayrell_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Concerning the Leopard, the Squirrel, and the Tortoise]]></title>
+    <itunes:episode><![CDATA[25]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/folk-stories-from-southern-nigeria-west-africa-by-elphinstone-dayrell/]]></link>
+            <enclosure url="https://www.archive.org/download/folk_stories_nigeria_2001_librivox/folkstoriesnigeria_25_dayrell_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Wed, 22 Jan 2020 00:25:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/folk_stories_nigeria_2001_librivox/folkstoriesnigeria_25_dayrell_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Why the Moon Waxes and Wanes]]></title>
+    <itunes:episode><![CDATA[26]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/folk-stories-from-southern-nigeria-west-africa-by-elphinstone-dayrell/]]></link>
+            <enclosure url="https://www.archive.org/download/folk_stories_nigeria_2001_librivox/folkstoriesnigeria_26_dayrell_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Wed, 22 Jan 2020 00:26:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/folk_stories_nigeria_2001_librivox/folkstoriesnigeria_26_dayrell_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Story of the Leopard, the Tortoise, and the Bush Rat]]></title>
+    <itunes:episode><![CDATA[27]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/folk-stories-from-southern-nigeria-west-africa-by-elphinstone-dayrell/]]></link>
+            <enclosure url="https://www.archive.org/download/folk_stories_nigeria_2001_librivox/folkstoriesnigeria_27_dayrell_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Wed, 22 Jan 2020 00:27:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/folk_stories_nigeria_2001_librivox/folkstoriesnigeria_27_dayrell_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The King and the Ju Ju Tree]]></title>
+    <itunes:episode><![CDATA[28]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/folk-stories-from-southern-nigeria-west-africa-by-elphinstone-dayrell/]]></link>
+            <enclosure url="https://www.archive.org/download/folk_stories_nigeria_2001_librivox/folkstoriesnigeria_28_dayrell_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Wed, 22 Jan 2020 00:28:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/folk_stories_nigeria_2001_librivox/folkstoriesnigeria_28_dayrell_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[How the Tortoise Overcame the Elephant and the Hippopotamus]]></title>
+    <itunes:episode><![CDATA[29]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/folk-stories-from-southern-nigeria-west-africa-by-elphinstone-dayrell/]]></link>
+            <enclosure url="https://www.archive.org/download/folk_stories_nigeria_2001_librivox/folkstoriesnigeria_29_dayrell_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Wed, 22 Jan 2020 00:29:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/folk_stories_nigeria_2001_librivox/folkstoriesnigeria_29_dayrell_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Of the Pretty Girl and the Seven Jealous Women]]></title>
+    <itunes:episode><![CDATA[30]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/folk-stories-from-southern-nigeria-west-africa-by-elphinstone-dayrell/]]></link>
+            <enclosure url="https://www.archive.org/download/folk_stories_nigeria_2001_librivox/folkstoriesnigeria_30_dayrell_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Wed, 22 Jan 2020 00:30:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/folk_stories_nigeria_2001_librivox/folkstoriesnigeria_30_dayrell_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[How the Cannibals Drove the People from Insofan Mountain to the Cross River (Ikom)]]></title>
+    <itunes:episode><![CDATA[31]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/folk-stories-from-southern-nigeria-west-africa-by-elphinstone-dayrell/]]></link>
+            <enclosure url="https://www.archive.org/download/folk_stories_nigeria_2001_librivox/folkstoriesnigeria_31_dayrell_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Wed, 22 Jan 2020 00:31:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/folk_stories_nigeria_2001_librivox/folkstoriesnigeria_31_dayrell_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Lucky Fisherman]]></title>
+    <itunes:episode><![CDATA[32]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/folk-stories-from-southern-nigeria-west-africa-by-elphinstone-dayrell/]]></link>
+            <enclosure url="https://www.archive.org/download/folk_stories_nigeria_2001_librivox/folkstoriesnigeria_32_dayrell_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Wed, 22 Jan 2020 00:32:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/folk_stories_nigeria_2001_librivox/folkstoriesnigeria_32_dayrell_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Orphan Boy and the Magic Stone]]></title>
+    <itunes:episode><![CDATA[33]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/folk-stories-from-southern-nigeria-west-africa-by-elphinstone-dayrell/]]></link>
+            <enclosure url="https://www.archive.org/download/folk_stories_nigeria_2001_librivox/folkstoriesnigeria_33_dayrell_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Wed, 22 Jan 2020 00:33:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/folk_stories_nigeria_2001_librivox/folkstoriesnigeria_33_dayrell_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Slave Girl Who Tried to Kill Her Mistress]]></title>
+    <itunes:episode><![CDATA[34]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/folk-stories-from-southern-nigeria-west-africa-by-elphinstone-dayrell/]]></link>
+            <enclosure url="https://www.archive.org/download/folk_stories_nigeria_2001_librivox/folkstoriesnigeria_34_dayrell_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Wed, 22 Jan 2020 00:34:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/folk_stories_nigeria_2001_librivox/folkstoriesnigeria_34_dayrell_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The King and the ‘Nsiat Bird]]></title>
+    <itunes:episode><![CDATA[35]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/folk-stories-from-southern-nigeria-west-africa-by-elphinstone-dayrell/]]></link>
+            <enclosure url="https://www.archive.org/download/folk_stories_nigeria_2001_librivox/folkstoriesnigeria_35_dayrell_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Wed, 22 Jan 2020 00:35:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/folk_stories_nigeria_2001_librivox/folkstoriesnigeria_35_dayrell_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Concerning the Fate of Essido and His Evil Companions]]></title>
+    <itunes:episode><![CDATA[36]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/folk-stories-from-southern-nigeria-west-africa-by-elphinstone-dayrell/]]></link>
+            <enclosure url="https://www.archive.org/download/folk_stories_nigeria_2001_librivox/folkstoriesnigeria_36_dayrell_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Wed, 22 Jan 2020 00:36:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/folk_stories_nigeria_2001_librivox/folkstoriesnigeria_36_dayrell_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Concerning the Hawk and the Owl]]></title>
+    <itunes:episode><![CDATA[37]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/folk-stories-from-southern-nigeria-west-africa-by-elphinstone-dayrell/]]></link>
+            <enclosure url="https://www.archive.org/download/folk_stories_nigeria_2001_librivox/folkstoriesnigeria_37_dayrell_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Wed, 22 Jan 2020 00:37:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/folk_stories_nigeria_2001_librivox/folkstoriesnigeria_37_dayrell_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Story of the Drummer and the Alligators]]></title>
+    <itunes:episode><![CDATA[38]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/folk-stories-from-southern-nigeria-west-africa-by-elphinstone-dayrell/]]></link>
+            <enclosure url="https://www.archive.org/download/folk_stories_nigeria_2001_librivox/folkstoriesnigeria_38_dayrell_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Wed, 22 Jan 2020 00:38:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/folk_stories_nigeria_2001_librivox/folkstoriesnigeria_38_dayrell_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The ‘Nsasak Bird and the Odudu Bird]]></title>
+    <itunes:episode><![CDATA[39]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/folk-stories-from-southern-nigeria-west-africa-by-elphinstone-dayrell/]]></link>
+            <enclosure url="https://www.archive.org/download/folk_stories_nigeria_2001_librivox/folkstoriesnigeria_39_dayrell_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Wed, 22 Jan 2020 00:39:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/folk_stories_nigeria_2001_librivox/folkstoriesnigeria_39_dayrell_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Election of the King Bird (The Black-and-White Fishing Eagle)]]></title>
+    <itunes:episode><![CDATA[40]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/folk-stories-from-southern-nigeria-west-africa-by-elphinstone-dayrell/]]></link>
+            <enclosure url="https://www.archive.org/download/folk_stories_nigeria_2001_librivox/folkstoriesnigeria_40_dayrell_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Wed, 22 Jan 2020 00:40:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/folk_stories_nigeria_2001_librivox/folkstoriesnigeria_40_dayrell_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <!-- end file loop -->
+</channel>
+</rss>

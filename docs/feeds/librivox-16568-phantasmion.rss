@@ -1,0 +1,565 @@
+<?xml version="1.0" ?><rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+  <title><![CDATA[Phantasmion by Sara Coleridge (1802 - 1852)]]></title>
+  <link><![CDATA[https://librivox.org/phantasmion-by-sara-coleridge/]]></link>
+  <atom:link rel="self" href="https://librivox.org/rss/16568" />
+  <description><![CDATA[In 1837 came Phantasmion, a Fairy Tale, Sara Coleridge's longest original work, described by critic Mike Ashley as "the first fairytale novel written in English". Historian of literature Dennis Butts describes Phantasmion as a "remarkable pioneering fantasy" and "an extraordinary monument to her talent". The songs in Phantasmion were much admired at the time by Leigh Hunt and other critics. Some of them, such as "Sylvan Stag" and "One Face Alone", are extremely graceful and musical, and the whole fairy tale is noticeable for the beauty of the story and the richness of its language. Some historians of the fantasy genre believe Phantasmion may have influenced the work of George MacDonald. - Summary by Wikipedia]]></description>
+  <!--<genre>project element=Genre</genre>-->
+  <!--<language>project element=lang.code</language>-->
+  <itunes:type>serial</itunes:type>
+  <itunes:author>LibriVox</itunes:author>
+  <itunes:summary><![CDATA[In 1837 came Phantasmion, a Fairy Tale, Sara Coleridge's longest original work, described by critic Mike Ashley as "the first fairytale novel written in English". Historian of literature Dennis Butts describes Phantasmion as a "remarkable pioneering fantasy" and "an extraordinary monument to her talent". The songs in Phantasmion were much admired at the time by Leigh Hunt and other critics. Some of them, such as "Sylvan Stag" and "One Face Alone", are extremely graceful and musical, and the whole fairy tale is noticeable for the beauty of the story and the richness of its language. Some historians of the fantasy genre believe Phantasmion may have influenced the work of George MacDonald. - Summary by Wikipedia]]></itunes:summary>
+  <itunes:owner>
+    <itunes:name>LibriVox</itunes:name>
+    <itunes:email>info@librivox.org</itunes:email>
+  </itunes:owner>
+  <itunes:category text="Arts">
+    <itunes:category text="Literature" />
+  </itunes:category>
+  <image><url>https://archive.org/download/phantasmion_2107_librivox/phantasmion_2107.jpg</url></image>
+  <itunes:image href="https://archive.org/download/phantasmion_2107_librivox/phantasmion_2107.jpg"/>
+  <itunes:explicit>no</itunes:explicit>
+  <!-- file loop -->
+    <item>
+    <title><![CDATA[Part 1 Ch 1]]></title>
+    <itunes:episode><![CDATA[1]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/phantasmion-by-sara-coleridge/]]></link>
+            <enclosure url="https://www.archive.org/download/phantasmion_2107_librivox/phantasmion_01_coleridge_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 25 Jul 2021 00:00:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/phantasmion_2107_librivox/phantasmion_01_coleridge_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Part 1 Ch 2]]></title>
+    <itunes:episode><![CDATA[2]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/phantasmion-by-sara-coleridge/]]></link>
+            <enclosure url="https://www.archive.org/download/phantasmion_2107_librivox/phantasmion_02_coleridge_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 25 Jul 2021 00:01:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/phantasmion_2107_librivox/phantasmion_02_coleridge_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Part 1 Ch 3]]></title>
+    <itunes:episode><![CDATA[3]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/phantasmion-by-sara-coleridge/]]></link>
+            <enclosure url="https://www.archive.org/download/phantasmion_2107_librivox/phantasmion_03_coleridge_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 25 Jul 2021 00:02:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/phantasmion_2107_librivox/phantasmion_03_coleridge_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Part 1 Ch 4]]></title>
+    <itunes:episode><![CDATA[4]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/phantasmion-by-sara-coleridge/]]></link>
+            <enclosure url="https://www.archive.org/download/phantasmion_2107_librivox/phantasmion_04_coleridge_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 25 Jul 2021 00:03:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/phantasmion_2107_librivox/phantasmion_04_coleridge_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Part 1 Ch 5]]></title>
+    <itunes:episode><![CDATA[5]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/phantasmion-by-sara-coleridge/]]></link>
+            <enclosure url="https://www.archive.org/download/phantasmion_2107_librivox/phantasmion_05_coleridge_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 25 Jul 2021 00:04:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/phantasmion_2107_librivox/phantasmion_05_coleridge_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Part 1 Ch 6]]></title>
+    <itunes:episode><![CDATA[6]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/phantasmion-by-sara-coleridge/]]></link>
+            <enclosure url="https://www.archive.org/download/phantasmion_2107_librivox/phantasmion_06_coleridge_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 25 Jul 2021 00:05:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/phantasmion_2107_librivox/phantasmion_06_coleridge_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Part 1 Ch 7]]></title>
+    <itunes:episode><![CDATA[7]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/phantasmion-by-sara-coleridge/]]></link>
+            <enclosure url="https://www.archive.org/download/phantasmion_2107_librivox/phantasmion_07_coleridge_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 25 Jul 2021 00:06:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/phantasmion_2107_librivox/phantasmion_07_coleridge_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Part 1 Ch 8]]></title>
+    <itunes:episode><![CDATA[8]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/phantasmion-by-sara-coleridge/]]></link>
+            <enclosure url="https://www.archive.org/download/phantasmion_2107_librivox/phantasmion_08_coleridge_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 25 Jul 2021 00:07:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/phantasmion_2107_librivox/phantasmion_08_coleridge_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Part 1 Ch 9]]></title>
+    <itunes:episode><![CDATA[9]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/phantasmion-by-sara-coleridge/]]></link>
+            <enclosure url="https://www.archive.org/download/phantasmion_2107_librivox/phantasmion_09_coleridge_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 25 Jul 2021 00:08:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/phantasmion_2107_librivox/phantasmion_09_coleridge_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Part 1 Ch 10]]></title>
+    <itunes:episode><![CDATA[10]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/phantasmion-by-sara-coleridge/]]></link>
+            <enclosure url="https://www.archive.org/download/phantasmion_2107_librivox/phantasmion_10_coleridge_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 25 Jul 2021 00:09:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/phantasmion_2107_librivox/phantasmion_10_coleridge_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Part 1 Ch 11]]></title>
+    <itunes:episode><![CDATA[11]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/phantasmion-by-sara-coleridge/]]></link>
+            <enclosure url="https://www.archive.org/download/phantasmion_2107_librivox/phantasmion_11_coleridge_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 25 Jul 2021 00:10:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/phantasmion_2107_librivox/phantasmion_11_coleridge_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Part 1 Ch 12]]></title>
+    <itunes:episode><![CDATA[12]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/phantasmion-by-sara-coleridge/]]></link>
+            <enclosure url="https://www.archive.org/download/phantasmion_2107_librivox/phantasmion_12_coleridge_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 25 Jul 2021 00:11:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/phantasmion_2107_librivox/phantasmion_12_coleridge_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Part 1 Ch 13]]></title>
+    <itunes:episode><![CDATA[13]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/phantasmion-by-sara-coleridge/]]></link>
+            <enclosure url="https://www.archive.org/download/phantasmion_2107_librivox/phantasmion_13_coleridge_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 25 Jul 2021 00:12:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/phantasmion_2107_librivox/phantasmion_13_coleridge_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Part 1 Ch 14]]></title>
+    <itunes:episode><![CDATA[14]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/phantasmion-by-sara-coleridge/]]></link>
+            <enclosure url="https://www.archive.org/download/phantasmion_2107_librivox/phantasmion_14_coleridge_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 25 Jul 2021 00:13:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/phantasmion_2107_librivox/phantasmion_14_coleridge_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Part 1 Ch 15]]></title>
+    <itunes:episode><![CDATA[15]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/phantasmion-by-sara-coleridge/]]></link>
+            <enclosure url="https://www.archive.org/download/phantasmion_2107_librivox/phantasmion_15_coleridge_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 25 Jul 2021 00:14:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/phantasmion_2107_librivox/phantasmion_15_coleridge_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Part 2 Ch 1]]></title>
+    <itunes:episode><![CDATA[16]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/phantasmion-by-sara-coleridge/]]></link>
+            <enclosure url="https://www.archive.org/download/phantasmion_2107_librivox/phantasmion_16_coleridge_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 25 Jul 2021 00:15:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/phantasmion_2107_librivox/phantasmion_16_coleridge_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Part 2 Ch 2]]></title>
+    <itunes:episode><![CDATA[17]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/phantasmion-by-sara-coleridge/]]></link>
+            <enclosure url="https://www.archive.org/download/phantasmion_2107_librivox/phantasmion_17_coleridge_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 25 Jul 2021 00:16:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/phantasmion_2107_librivox/phantasmion_17_coleridge_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Part 2 Ch 3]]></title>
+    <itunes:episode><![CDATA[18]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/phantasmion-by-sara-coleridge/]]></link>
+            <enclosure url="https://www.archive.org/download/phantasmion_2107_librivox/phantasmion_18_coleridge_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 25 Jul 2021 00:17:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/phantasmion_2107_librivox/phantasmion_18_coleridge_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Part 2 Ch 4]]></title>
+    <itunes:episode><![CDATA[19]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/phantasmion-by-sara-coleridge/]]></link>
+            <enclosure url="https://www.archive.org/download/phantasmion_2107_librivox/phantasmion_19_coleridge_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 25 Jul 2021 00:18:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/phantasmion_2107_librivox/phantasmion_19_coleridge_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Part 2 Ch 5]]></title>
+    <itunes:episode><![CDATA[20]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/phantasmion-by-sara-coleridge/]]></link>
+            <enclosure url="https://www.archive.org/download/phantasmion_2107_librivox/phantasmion_20_coleridge_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 25 Jul 2021 00:19:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/phantasmion_2107_librivox/phantasmion_20_coleridge_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Part 2 Ch 6]]></title>
+    <itunes:episode><![CDATA[21]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/phantasmion-by-sara-coleridge/]]></link>
+            <enclosure url="https://www.archive.org/download/phantasmion_2107_librivox/phantasmion_21_coleridge_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 25 Jul 2021 00:20:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/phantasmion_2107_librivox/phantasmion_21_coleridge_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Part 2 Ch 7]]></title>
+    <itunes:episode><![CDATA[22]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/phantasmion-by-sara-coleridge/]]></link>
+            <enclosure url="https://www.archive.org/download/phantasmion_2107_librivox/phantasmion_22_coleridge_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 25 Jul 2021 00:21:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/phantasmion_2107_librivox/phantasmion_22_coleridge_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Part 2 Ch 8]]></title>
+    <itunes:episode><![CDATA[23]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/phantasmion-by-sara-coleridge/]]></link>
+            <enclosure url="https://www.archive.org/download/phantasmion_2107_librivox/phantasmion_23_coleridge_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 25 Jul 2021 00:22:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/phantasmion_2107_librivox/phantasmion_23_coleridge_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Part 2 Ch 9]]></title>
+    <itunes:episode><![CDATA[24]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/phantasmion-by-sara-coleridge/]]></link>
+            <enclosure url="https://www.archive.org/download/phantasmion_2107_librivox/phantasmion_24_coleridge_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 25 Jul 2021 00:23:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/phantasmion_2107_librivox/phantasmion_24_coleridge_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Part 3 Ch 1]]></title>
+    <itunes:episode><![CDATA[25]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/phantasmion-by-sara-coleridge/]]></link>
+            <enclosure url="https://www.archive.org/download/phantasmion_2107_librivox/phantasmion_25_coleridge_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 25 Jul 2021 00:24:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/phantasmion_2107_librivox/phantasmion_25_coleridge_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Part 3 Ch 2]]></title>
+    <itunes:episode><![CDATA[26]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/phantasmion-by-sara-coleridge/]]></link>
+            <enclosure url="https://www.archive.org/download/phantasmion_2107_librivox/phantasmion_26_coleridge_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 25 Jul 2021 00:25:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/phantasmion_2107_librivox/phantasmion_26_coleridge_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Part 3 Ch 3]]></title>
+    <itunes:episode><![CDATA[27]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/phantasmion-by-sara-coleridge/]]></link>
+            <enclosure url="https://www.archive.org/download/phantasmion_2107_librivox/phantasmion_27_coleridge_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 25 Jul 2021 00:26:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/phantasmion_2107_librivox/phantasmion_27_coleridge_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Part 3 Ch 4]]></title>
+    <itunes:episode><![CDATA[28]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/phantasmion-by-sara-coleridge/]]></link>
+            <enclosure url="https://www.archive.org/download/phantasmion_2107_librivox/phantasmion_28_coleridge_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 25 Jul 2021 00:27:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/phantasmion_2107_librivox/phantasmion_28_coleridge_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Part 3 Ch 5]]></title>
+    <itunes:episode><![CDATA[29]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/phantasmion-by-sara-coleridge/]]></link>
+            <enclosure url="https://www.archive.org/download/phantasmion_2107_librivox/phantasmion_29_coleridge_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 25 Jul 2021 00:28:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/phantasmion_2107_librivox/phantasmion_29_coleridge_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Part 3 Ch 6]]></title>
+    <itunes:episode><![CDATA[30]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/phantasmion-by-sara-coleridge/]]></link>
+            <enclosure url="https://www.archive.org/download/phantasmion_2107_librivox/phantasmion_30_coleridge_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 25 Jul 2021 00:29:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/phantasmion_2107_librivox/phantasmion_30_coleridge_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Part 3 Ch 7]]></title>
+    <itunes:episode><![CDATA[31]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/phantasmion-by-sara-coleridge/]]></link>
+            <enclosure url="https://www.archive.org/download/phantasmion_2107_librivox/phantasmion_31_coleridge_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 25 Jul 2021 00:30:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/phantasmion_2107_librivox/phantasmion_31_coleridge_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Part 3 Ch 8]]></title>
+    <itunes:episode><![CDATA[32]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/phantasmion-by-sara-coleridge/]]></link>
+            <enclosure url="https://www.archive.org/download/phantasmion_2107_librivox/phantasmion_32_coleridge_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 25 Jul 2021 00:31:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/phantasmion_2107_librivox/phantasmion_32_coleridge_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Part 3 Ch 9]]></title>
+    <itunes:episode><![CDATA[33]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/phantasmion-by-sara-coleridge/]]></link>
+            <enclosure url="https://www.archive.org/download/phantasmion_2107_librivox/phantasmion_33_coleridge_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 25 Jul 2021 00:32:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/phantasmion_2107_librivox/phantasmion_33_coleridge_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Part 3 Ch 10]]></title>
+    <itunes:episode><![CDATA[34]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/phantasmion-by-sara-coleridge/]]></link>
+            <enclosure url="https://www.archive.org/download/phantasmion_2107_librivox/phantasmion_34_coleridge_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 25 Jul 2021 00:33:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/phantasmion_2107_librivox/phantasmion_34_coleridge_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Part 3 Ch 11]]></title>
+    <itunes:episode><![CDATA[35]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/phantasmion-by-sara-coleridge/]]></link>
+            <enclosure url="https://www.archive.org/download/phantasmion_2107_librivox/phantasmion_35_coleridge_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 25 Jul 2021 00:34:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/phantasmion_2107_librivox/phantasmion_35_coleridge_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Part 3 Ch 12]]></title>
+    <itunes:episode><![CDATA[36]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/phantasmion-by-sara-coleridge/]]></link>
+            <enclosure url="https://www.archive.org/download/phantasmion_2107_librivox/phantasmion_36_coleridge_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 25 Jul 2021 00:35:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/phantasmion_2107_librivox/phantasmion_36_coleridge_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Part 3 Ch 13]]></title>
+    <itunes:episode><![CDATA[37]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/phantasmion-by-sara-coleridge/]]></link>
+            <enclosure url="https://www.archive.org/download/phantasmion_2107_librivox/phantasmion_37_coleridge_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 25 Jul 2021 00:36:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/phantasmion_2107_librivox/phantasmion_37_coleridge_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Part 4 Ch 1]]></title>
+    <itunes:episode><![CDATA[38]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/phantasmion-by-sara-coleridge/]]></link>
+            <enclosure url="https://www.archive.org/download/phantasmion_2107_librivox/phantasmion_38_coleridge_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 25 Jul 2021 00:37:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/phantasmion_2107_librivox/phantasmion_38_coleridge_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Part 4 Ch 2]]></title>
+    <itunes:episode><![CDATA[39]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/phantasmion-by-sara-coleridge/]]></link>
+            <enclosure url="https://www.archive.org/download/phantasmion_2107_librivox/phantasmion_39_coleridge_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 25 Jul 2021 00:38:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/phantasmion_2107_librivox/phantasmion_39_coleridge_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Part 4 Ch 3]]></title>
+    <itunes:episode><![CDATA[40]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/phantasmion-by-sara-coleridge/]]></link>
+            <enclosure url="https://www.archive.org/download/phantasmion_2107_librivox/phantasmion_40_coleridge_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 25 Jul 2021 00:39:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/phantasmion_2107_librivox/phantasmion_40_coleridge_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Part 4 Ch 4]]></title>
+    <itunes:episode><![CDATA[41]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/phantasmion-by-sara-coleridge/]]></link>
+            <enclosure url="https://www.archive.org/download/phantasmion_2107_librivox/phantasmion_41_coleridge_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 25 Jul 2021 00:40:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/phantasmion_2107_librivox/phantasmion_41_coleridge_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Part 4 Ch 5]]></title>
+    <itunes:episode><![CDATA[42]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/phantasmion-by-sara-coleridge/]]></link>
+            <enclosure url="https://www.archive.org/download/phantasmion_2107_librivox/phantasmion_42_coleridge_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 25 Jul 2021 00:41:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/phantasmion_2107_librivox/phantasmion_42_coleridge_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Part 4 Ch 6]]></title>
+    <itunes:episode><![CDATA[43]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/phantasmion-by-sara-coleridge/]]></link>
+            <enclosure url="https://www.archive.org/download/phantasmion_2107_librivox/phantasmion_43_coleridge_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 25 Jul 2021 00:42:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/phantasmion_2107_librivox/phantasmion_43_coleridge_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Part 4 Ch 7]]></title>
+    <itunes:episode><![CDATA[44]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/phantasmion-by-sara-coleridge/]]></link>
+            <enclosure url="https://www.archive.org/download/phantasmion_2107_librivox/phantasmion_44_coleridge_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 25 Jul 2021 00:43:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/phantasmion_2107_librivox/phantasmion_44_coleridge_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Part 4 Ch 8]]></title>
+    <itunes:episode><![CDATA[45]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/phantasmion-by-sara-coleridge/]]></link>
+            <enclosure url="https://www.archive.org/download/phantasmion_2107_librivox/phantasmion_45_coleridge_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 25 Jul 2021 00:44:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/phantasmion_2107_librivox/phantasmion_45_coleridge_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <!-- end file loop -->
+</channel>
+</rss>

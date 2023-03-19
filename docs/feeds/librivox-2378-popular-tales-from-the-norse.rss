@@ -1,0 +1,985 @@
+<?xml version="1.0" ?><rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+  <title><![CDATA[Popular Tales from the Norse by Sir George Webbe Dasent (1817 - 1896)]]></title>
+  <link><![CDATA[https://librivox.org/popular-tales-from-the-norse-by-george-w-dasent-0909/]]></link>
+  <atom:link rel="self" href="https://librivox.org/rss/2378" />
+  <description><![CDATA[The most careless reader can hardly fail to see that many of the Tales in this volume have the same groundwork as those with which he has been familiar from his earliest youth. They are Nursery Tales, in fact, of the days when there were tales in nurseries--old wives' fables, which have faded away before the light of gas and the power of steam. (Excerpt from Popular Tales from the Norse.)]]></description>
+  <!--<genre>project element=Genre</genre>-->
+  <!--<language>project element=lang.code</language>-->
+  <itunes:type>serial</itunes:type>
+  <itunes:author>LibriVox</itunes:author>
+  <itunes:summary><![CDATA[The most careless reader can hardly fail to see that many of the Tales in this volume have the same groundwork as those with which he has been familiar from his earliest youth. They are Nursery Tales, in fact, of the days when there were tales in nurseries--old wives' fables, which have faded away before the light of gas and the power of steam. (Excerpt from Popular Tales from the Norse.)]]></itunes:summary>
+  <itunes:owner>
+    <itunes:name>LibriVox</itunes:name>
+    <itunes:email>info@librivox.org</itunes:email>
+  </itunes:owner>
+  <itunes:category text="Arts">
+    <itunes:category text="Literature" />
+  </itunes:category>
+  <image><url>https://archive.org/download/LibrivoxCdCoverArt20/Popular_Tales_Norse_1206.jpg</url></image>
+  <itunes:image href="https://archive.org/download/LibrivoxCdCoverArt20/Popular_Tales_Norse_1206.jpg"/>
+  <itunes:explicit>no</itunes:explicit>
+  <!-- file loop -->
+    <item>
+    <title><![CDATA[01 - Notice to the Second Edition]]></title>
+    <itunes:episode><![CDATA[1]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/popular-tales-from-the-norse-by-george-w-dasent-0909/]]></link>
+            <enclosure url="https://www.archive.org/download/populartalesfromthenorse_0909_librivox/talesfromthenorse_01_dasent_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:03:59]]></itunes:duration>
+  <pubDate>Mon, 05 Oct 2009 00:00:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/populartalesfromthenorse_0909_librivox/talesfromthenorse_01_dasent_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[02 - Notice to the First Edition]]></title>
+    <itunes:episode><![CDATA[2]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/popular-tales-from-the-norse-by-george-w-dasent-0909/]]></link>
+            <enclosure url="https://www.archive.org/download/populartalesfromthenorse_0909_librivox/talesfromthenorse_02_dasent_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:02:40]]></itunes:duration>
+  <pubDate>Mon, 05 Oct 2009 00:01:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/populartalesfromthenorse_0909_librivox/talesfromthenorse_02_dasent_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[03 - Introduction Part 1: Origin]]></title>
+    <itunes:episode><![CDATA[3]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/popular-tales-from-the-norse-by-george-w-dasent-0909/]]></link>
+            <enclosure url="https://www.archive.org/download/populartalesfromthenorse_0909_librivox/talesfromthenorse_03_dasent_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:20:31]]></itunes:duration>
+  <pubDate>Mon, 05 Oct 2009 00:02:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/populartalesfromthenorse_0909_librivox/talesfromthenorse_03_dasent_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[04 - Introduction Part 2: Diffusion]]></title>
+    <itunes:episode><![CDATA[4]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/popular-tales-from-the-norse-by-george-w-dasent-0909/]]></link>
+            <enclosure url="https://www.archive.org/download/populartalesfromthenorse_0909_librivox/talesfromthenorse_04_dasent_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:50:02]]></itunes:duration>
+  <pubDate>Mon, 05 Oct 2009 00:03:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/populartalesfromthenorse_0909_librivox/talesfromthenorse_04_dasent_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[05 - Introduction Part 3: Norse Mythology]]></title>
+    <itunes:episode><![CDATA[5]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/popular-tales-from-the-norse-by-george-w-dasent-0909/]]></link>
+            <enclosure url="https://www.archive.org/download/populartalesfromthenorse_0909_librivox/talesfromthenorse_05_dasent_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:49:52]]></itunes:duration>
+  <pubDate>Mon, 05 Oct 2009 00:04:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/populartalesfromthenorse_0909_librivox/talesfromthenorse_05_dasent_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[06-1 - Introduction Part 4-1: Norse Popular Tales]]></title>
+    <itunes:episode><![CDATA[6]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/popular-tales-from-the-norse-by-george-w-dasent-0909/]]></link>
+            <enclosure url="https://www.archive.org/download/populartalesfromthenorse_0909_librivox/talesfromthenorse_06_1_dasent_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:38:54]]></itunes:duration>
+  <pubDate>Mon, 05 Oct 2009 00:05:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/populartalesfromthenorse_0909_librivox/talesfromthenorse_06_1_dasent_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[06-2 - Introduction Part 4-2: Norse Popular Tales]]></title>
+    <itunes:episode><![CDATA[7]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/popular-tales-from-the-norse-by-george-w-dasent-0909/]]></link>
+            <enclosure url="https://www.archive.org/download/populartalesfromthenorse_0909_librivox/talesfromthenorse_06_2_dasent_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:35:41]]></itunes:duration>
+  <pubDate>Mon, 05 Oct 2009 00:06:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/populartalesfromthenorse_0909_librivox/talesfromthenorse_06_2_dasent_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[07 - Introduction Part 5: Conclusion]]></title>
+    <itunes:episode><![CDATA[8]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/popular-tales-from-the-norse-by-george-w-dasent-0909/]]></link>
+            <enclosure url="https://www.archive.org/download/populartalesfromthenorse_0909_librivox/talesfromthenorse_07_dasent_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:17:09]]></itunes:duration>
+  <pubDate>Mon, 05 Oct 2009 00:07:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/populartalesfromthenorse_0909_librivox/talesfromthenorse_07_dasent_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[08 - True and Untrue]]></title>
+    <itunes:episode><![CDATA[9]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/popular-tales-from-the-norse-by-george-w-dasent-0909/]]></link>
+            <enclosure url="https://www.archive.org/download/populartalesfromthenorse_0909_librivox/talesfromthenorse_08_dasent_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:10:51]]></itunes:duration>
+  <pubDate>Mon, 05 Oct 2009 00:08:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/populartalesfromthenorse_0909_librivox/talesfromthenorse_08_dasent_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[09 - Why the Sea is Salt]]></title>
+    <itunes:episode><![CDATA[10]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/popular-tales-from-the-norse-by-george-w-dasent-0909/]]></link>
+            <enclosure url="https://www.archive.org/download/populartalesfromthenorse_0909_librivox/talesfromthenorse_09_dasent_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:12:28]]></itunes:duration>
+  <pubDate>Mon, 05 Oct 2009 00:09:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/populartalesfromthenorse_0909_librivox/talesfromthenorse_09_dasent_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[10 - The Old Dame and Her Hen]]></title>
+    <itunes:episode><![CDATA[11]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/popular-tales-from-the-norse-by-george-w-dasent-0909/]]></link>
+            <enclosure url="https://www.archive.org/download/populartalesfromthenorse_0909_librivox/talesfromthenorse_10_dasent_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:17:56]]></itunes:duration>
+  <pubDate>Mon, 05 Oct 2009 00:10:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/populartalesfromthenorse_0909_librivox/talesfromthenorse_10_dasent_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[11 - East o' the Sun and West o' the Moon]]></title>
+    <itunes:episode><![CDATA[12]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/popular-tales-from-the-norse-by-george-w-dasent-0909/]]></link>
+            <enclosure url="https://www.archive.org/download/populartalesfromthenorse_0909_librivox/talesfromthenorse_11_dasent_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:29:08]]></itunes:duration>
+  <pubDate>Mon, 05 Oct 2009 00:11:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/populartalesfromthenorse_0909_librivox/talesfromthenorse_11_dasent_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[12 - Boots Who Ate a Match with the Troll]]></title>
+    <itunes:episode><![CDATA[13]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/popular-tales-from-the-norse-by-george-w-dasent-0909/]]></link>
+            <enclosure url="https://www.archive.org/download/populartalesfromthenorse_0909_librivox/talesfromthenorse_12_dasent_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:04:51]]></itunes:duration>
+  <pubDate>Mon, 05 Oct 2009 00:12:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/populartalesfromthenorse_0909_librivox/talesfromthenorse_12_dasent_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[13 - Hacon Grizzlebeard]]></title>
+    <itunes:episode><![CDATA[14]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/popular-tales-from-the-norse-by-george-w-dasent-0909/]]></link>
+            <enclosure url="https://www.archive.org/download/populartalesfromthenorse_0909_librivox/talesfromthenorse_13_dasent_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:15:47]]></itunes:duration>
+  <pubDate>Mon, 05 Oct 2009 00:13:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/populartalesfromthenorse_0909_librivox/talesfromthenorse_13_dasent_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[14 - Boots, Who Made the Princess Say, 'That's a Story']]></title>
+    <itunes:episode><![CDATA[15]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/popular-tales-from-the-norse-by-george-w-dasent-0909/]]></link>
+            <enclosure url="https://www.archive.org/download/populartalesfromthenorse_0909_librivox/talesfromthenorse_14_dasent_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:04:50]]></itunes:duration>
+  <pubDate>Mon, 05 Oct 2009 00:14:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/populartalesfromthenorse_0909_librivox/talesfromthenorse_14_dasent_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[15 - The Twelve Wild Ducks]]></title>
+    <itunes:episode><![CDATA[16]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/popular-tales-from-the-norse-by-george-w-dasent-0909/]]></link>
+            <enclosure url="https://www.archive.org/download/populartalesfromthenorse_0909_librivox/talesfromthenorse_15_dasent_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:14:33]]></itunes:duration>
+  <pubDate>Mon, 05 Oct 2009 00:15:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/populartalesfromthenorse_0909_librivox/talesfromthenorse_15_dasent_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[16 - The Giant Who Had No Heart in His Body]]></title>
+    <itunes:episode><![CDATA[17]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/popular-tales-from-the-norse-by-george-w-dasent-0909/]]></link>
+            <enclosure url="https://www.archive.org/download/populartalesfromthenorse_0909_librivox/talesfromthenorse_16_dasent_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:16:11]]></itunes:duration>
+  <pubDate>Mon, 05 Oct 2009 00:16:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/populartalesfromthenorse_0909_librivox/talesfromthenorse_16_dasent_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[17 - The Fox as Herdsman]]></title>
+    <itunes:episode><![CDATA[18]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/popular-tales-from-the-norse-by-george-w-dasent-0909/]]></link>
+            <enclosure url="https://www.archive.org/download/populartalesfromthenorse_0909_librivox/talesfromthenorse_17_dasent_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:03:08]]></itunes:duration>
+  <pubDate>Mon, 05 Oct 2009 00:17:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/populartalesfromthenorse_0909_librivox/talesfromthenorse_17_dasent_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[18 - The Mastermaid]]></title>
+    <itunes:episode><![CDATA[19]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/popular-tales-from-the-norse-by-george-w-dasent-0909/]]></link>
+            <enclosure url="https://www.archive.org/download/populartalesfromthenorse_0909_librivox/talesfromthenorse_18_dasent_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:31:21]]></itunes:duration>
+  <pubDate>Mon, 05 Oct 2009 00:18:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/populartalesfromthenorse_0909_librivox/talesfromthenorse_18_dasent_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[19 - The Cat on the Dovrefell]]></title>
+    <itunes:episode><![CDATA[20]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/popular-tales-from-the-norse-by-george-w-dasent-0909/]]></link>
+            <enclosure url="https://www.archive.org/download/populartalesfromthenorse_0909_librivox/talesfromthenorse_19_dasent_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:04:13]]></itunes:duration>
+  <pubDate>Mon, 05 Oct 2009 00:19:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/populartalesfromthenorse_0909_librivox/talesfromthenorse_19_dasent_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[20 - Princess on the Glass Hill]]></title>
+    <itunes:episode><![CDATA[21]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/popular-tales-from-the-norse-by-george-w-dasent-0909/]]></link>
+            <enclosure url="https://www.archive.org/download/populartalesfromthenorse_0909_librivox/talesfromthenorse_20_dasent_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:19:40]]></itunes:duration>
+  <pubDate>Mon, 05 Oct 2009 00:20:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/populartalesfromthenorse_0909_librivox/talesfromthenorse_20_dasent_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[21 - The Cock and the Hen]]></title>
+    <itunes:episode><![CDATA[22]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/popular-tales-from-the-norse-by-george-w-dasent-0909/]]></link>
+            <enclosure url="https://www.archive.org/download/populartalesfromthenorse_0909_librivox/talesfromthenorse_21_dasent_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:00:58]]></itunes:duration>
+  <pubDate>Mon, 05 Oct 2009 00:21:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/populartalesfromthenorse_0909_librivox/talesfromthenorse_21_dasent_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[22 - How One Went Out to Woo]]></title>
+    <itunes:episode><![CDATA[23]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/popular-tales-from-the-norse-by-george-w-dasent-0909/]]></link>
+            <enclosure url="https://www.archive.org/download/populartalesfromthenorse_0909_librivox/talesfromthenorse_22_dasent_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:01:48]]></itunes:duration>
+  <pubDate>Mon, 05 Oct 2009 00:22:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/populartalesfromthenorse_0909_librivox/talesfromthenorse_22_dasent_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[23 - The Master-Smith]]></title>
+    <itunes:episode><![CDATA[24]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/popular-tales-from-the-norse-by-george-w-dasent-0909/]]></link>
+            <enclosure url="https://www.archive.org/download/populartalesfromthenorse_0909_librivox/talesfromthenorse_23_dasent_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:19:59]]></itunes:duration>
+  <pubDate>Mon, 05 Oct 2009 00:23:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/populartalesfromthenorse_0909_librivox/talesfromthenorse_23_dasent_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[24 - The Two Step-Sisters]]></title>
+    <itunes:episode><![CDATA[25]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/popular-tales-from-the-norse-by-george-w-dasent-0909/]]></link>
+            <enclosure url="https://www.archive.org/download/populartalesfromthenorse_0909_librivox/talesfromthenorse_24_dasent_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:16:38]]></itunes:duration>
+  <pubDate>Mon, 05 Oct 2009 00:24:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/populartalesfromthenorse_0909_librivox/talesfromthenorse_24_dasent_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[25 - Buttercup]]></title>
+    <itunes:episode><![CDATA[26]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/popular-tales-from-the-norse-by-george-w-dasent-0909/]]></link>
+            <enclosure url="https://www.archive.org/download/populartalesfromthenorse_0909_librivox/talesfromthenorse_25_dasent_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:07:43]]></itunes:duration>
+  <pubDate>Mon, 05 Oct 2009 00:25:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/populartalesfromthenorse_0909_librivox/talesfromthenorse_25_dasent_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[26 - Taming the Shrew]]></title>
+    <itunes:episode><![CDATA[27]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/popular-tales-from-the-norse-by-george-w-dasent-0909/]]></link>
+            <enclosure url="https://www.archive.org/download/populartalesfromthenorse_0909_librivox/talesfromthenorse_26_dasent_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:03:34]]></itunes:duration>
+  <pubDate>Mon, 05 Oct 2009 00:26:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/populartalesfromthenorse_0909_librivox/talesfromthenorse_26_dasent_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[27 - Shortshanks]]></title>
+    <itunes:episode><![CDATA[28]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/popular-tales-from-the-norse-by-george-w-dasent-0909/]]></link>
+            <enclosure url="https://www.archive.org/download/populartalesfromthenorse_0909_librivox/talesfromthenorse_27_dasent_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:36:02]]></itunes:duration>
+  <pubDate>Mon, 05 Oct 2009 00:27:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/populartalesfromthenorse_0909_librivox/talesfromthenorse_27_dasent_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[28 - Gudbrand on the Hill-Side]]></title>
+    <itunes:episode><![CDATA[29]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/popular-tales-from-the-norse-by-george-w-dasent-0909/]]></link>
+            <enclosure url="https://www.archive.org/download/populartalesfromthenorse_0909_librivox/talesfromthenorse_28_dasent_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:08:57]]></itunes:duration>
+  <pubDate>Mon, 05 Oct 2009 00:28:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/populartalesfromthenorse_0909_librivox/talesfromthenorse_28_dasent_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[29 - The Blue Belt]]></title>
+    <itunes:episode><![CDATA[30]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/popular-tales-from-the-norse-by-george-w-dasent-0909/]]></link>
+            <enclosure url="https://www.archive.org/download/populartalesfromthenorse_0909_librivox/talesfromthenorse_29_dasent_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:26:32]]></itunes:duration>
+  <pubDate>Mon, 05 Oct 2009 00:29:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/populartalesfromthenorse_0909_librivox/talesfromthenorse_29_dasent_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[30 - Why the Bear is Stumpy-Tailed]]></title>
+    <itunes:episode><![CDATA[31]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/popular-tales-from-the-norse-by-george-w-dasent-0909/]]></link>
+            <enclosure url="https://www.archive.org/download/populartalesfromthenorse_0909_librivox/talesfromthenorse_30_dasent_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:02:12]]></itunes:duration>
+  <pubDate>Mon, 05 Oct 2009 00:30:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/populartalesfromthenorse_0909_librivox/talesfromthenorse_30_dasent_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[31 - Not a Pin to Choose Between Them]]></title>
+    <itunes:episode><![CDATA[32]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/popular-tales-from-the-norse-by-george-w-dasent-0909/]]></link>
+            <enclosure url="https://www.archive.org/download/populartalesfromthenorse_0909_librivox/talesfromthenorse_31_dasent_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:10:38]]></itunes:duration>
+  <pubDate>Mon, 05 Oct 2009 00:31:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/populartalesfromthenorse_0909_librivox/talesfromthenorse_31_dasent_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[32 - One's Own Children Are Always Prettiest]]></title>
+    <itunes:episode><![CDATA[33]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/popular-tales-from-the-norse-by-george-w-dasent-0909/]]></link>
+            <enclosure url="https://www.archive.org/download/populartalesfromthenorse_0909_librivox/talesfromthenorse_32_dasent_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:01:16]]></itunes:duration>
+  <pubDate>Mon, 05 Oct 2009 00:32:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/populartalesfromthenorse_0909_librivox/talesfromthenorse_32_dasent_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[33 - The Three Princesses of Whiteland]]></title>
+    <itunes:episode><![CDATA[34]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/popular-tales-from-the-norse-by-george-w-dasent-0909/]]></link>
+            <enclosure url="https://www.archive.org/download/populartalesfromthenorse_0909_librivox/talesfromthenorse_33_dasent_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:13:41]]></itunes:duration>
+  <pubDate>Mon, 05 Oct 2009 00:33:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/populartalesfromthenorse_0909_librivox/talesfromthenorse_33_dasent_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[34 - The Lassie and Her Godmother]]></title>
+    <itunes:episode><![CDATA[35]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/popular-tales-from-the-norse-by-george-w-dasent-0909/]]></link>
+            <enclosure url="https://www.archive.org/download/populartalesfromthenorse_0909_librivox/talesfromthenorse_34_dasent_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:11:17]]></itunes:duration>
+  <pubDate>Mon, 05 Oct 2009 00:34:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/populartalesfromthenorse_0909_librivox/talesfromthenorse_34_dasent_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[35 - The Three Aunts]]></title>
+    <itunes:episode><![CDATA[36]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/popular-tales-from-the-norse-by-george-w-dasent-0909/]]></link>
+            <enclosure url="https://www.archive.org/download/populartalesfromthenorse_0909_librivox/talesfromthenorse_35_dasent_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:08:19]]></itunes:duration>
+  <pubDate>Mon, 05 Oct 2009 00:35:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/populartalesfromthenorse_0909_librivox/talesfromthenorse_35_dasent_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[36 - The Cock, the Cuckoo, and the Black-Cock]]></title>
+    <itunes:episode><![CDATA[37]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/popular-tales-from-the-norse-by-george-w-dasent-0909/]]></link>
+            <enclosure url="https://www.archive.org/download/populartalesfromthenorse_0909_librivox/talesfromthenorse_36_dasent_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:01:19]]></itunes:duration>
+  <pubDate>Mon, 05 Oct 2009 00:36:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/populartalesfromthenorse_0909_librivox/talesfromthenorse_36_dasent_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[37 - Rich Peter the Pedlar]]></title>
+    <itunes:episode><![CDATA[38]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/popular-tales-from-the-norse-by-george-w-dasent-0909/]]></link>
+            <enclosure url="https://www.archive.org/download/populartalesfromthenorse_0909_librivox/talesfromthenorse_37_dasent_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:24:21]]></itunes:duration>
+  <pubDate>Mon, 05 Oct 2009 00:37:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/populartalesfromthenorse_0909_librivox/talesfromthenorse_37_dasent_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[38 - Gertrude's Bird]]></title>
+    <itunes:episode><![CDATA[39]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/popular-tales-from-the-norse-by-george-w-dasent-0909/]]></link>
+            <enclosure url="https://www.archive.org/download/populartalesfromthenorse_0909_librivox/talesfromthenorse_38_dasent_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:02:28]]></itunes:duration>
+  <pubDate>Mon, 05 Oct 2009 00:38:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/populartalesfromthenorse_0909_librivox/talesfromthenorse_38_dasent_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[39 - Boots and the Troll]]></title>
+    <itunes:episode><![CDATA[40]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/popular-tales-from-the-norse-by-george-w-dasent-0909/]]></link>
+            <enclosure url="https://www.archive.org/download/populartalesfromthenorse_0909_librivox/talesfromthenorse_39_dasent_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:11:31]]></itunes:duration>
+  <pubDate>Mon, 05 Oct 2009 00:39:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/populartalesfromthenorse_0909_librivox/talesfromthenorse_39_dasent_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[40 - Goosey Grizzel]]></title>
+    <itunes:episode><![CDATA[41]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/popular-tales-from-the-norse-by-george-w-dasent-0909/]]></link>
+            <enclosure url="https://www.archive.org/download/populartalesfromthenorse_0909_librivox/talesfromthenorse_40_dasent_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:13:48]]></itunes:duration>
+  <pubDate>Mon, 05 Oct 2009 00:40:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/populartalesfromthenorse_0909_librivox/talesfromthenorse_40_dasent_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[41 - The Lad Who Went to the North Wind]]></title>
+    <itunes:episode><![CDATA[42]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/popular-tales-from-the-norse-by-george-w-dasent-0909/]]></link>
+            <enclosure url="https://www.archive.org/download/populartalesfromthenorse_0909_librivox/talesfromthenorse_41_dasent_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:06:27]]></itunes:duration>
+  <pubDate>Mon, 05 Oct 2009 00:41:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/populartalesfromthenorse_0909_librivox/talesfromthenorse_41_dasent_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[42 - The Master-Thief]]></title>
+    <itunes:episode><![CDATA[43]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/popular-tales-from-the-norse-by-george-w-dasent-0909/]]></link>
+            <enclosure url="https://www.archive.org/download/populartalesfromthenorse_0909_librivox/talesfromthenorse_42_dasent_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:28:11]]></itunes:duration>
+  <pubDate>Mon, 05 Oct 2009 00:42:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/populartalesfromthenorse_0909_librivox/talesfromthenorse_42_dasent_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[43 - The Best Wish]]></title>
+    <itunes:episode><![CDATA[44]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/popular-tales-from-the-norse-by-george-w-dasent-0909/]]></link>
+            <enclosure url="https://www.archive.org/download/populartalesfromthenorse_0909_librivox/talesfromthenorse_43_dasent_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:23:10]]></itunes:duration>
+  <pubDate>Mon, 05 Oct 2009 00:43:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/populartalesfromthenorse_0909_librivox/talesfromthenorse_43_dasent_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[44 - The Three Billy-Goats Gruff]]></title>
+    <itunes:episode><![CDATA[45]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/popular-tales-from-the-norse-by-george-w-dasent-0909/]]></link>
+            <enclosure url="https://www.archive.org/download/populartalesfromthenorse_0909_librivox/talesfromthenorse_44_dasent_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:03:50]]></itunes:duration>
+  <pubDate>Mon, 05 Oct 2009 00:44:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/populartalesfromthenorse_0909_librivox/talesfromthenorse_44_dasent_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[45 - Well Done and Ill Paid]]></title>
+    <itunes:episode><![CDATA[46]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/popular-tales-from-the-norse-by-george-w-dasent-0909/]]></link>
+            <enclosure url="https://www.archive.org/download/populartalesfromthenorse_0909_librivox/talesfromthenorse_45_dasent_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:05:37]]></itunes:duration>
+  <pubDate>Mon, 05 Oct 2009 00:45:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/populartalesfromthenorse_0909_librivox/talesfromthenorse_45_dasent_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[46 - The Husband Who Was to Mind the House]]></title>
+    <itunes:episode><![CDATA[47]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/popular-tales-from-the-norse-by-george-w-dasent-0909/]]></link>
+            <enclosure url="https://www.archive.org/download/populartalesfromthenorse_0909_librivox/talesfromthenorse_46_dasent_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:05:45]]></itunes:duration>
+  <pubDate>Mon, 05 Oct 2009 00:46:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/populartalesfromthenorse_0909_librivox/talesfromthenorse_46_dasent_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[47 - Dapplegrim]]></title>
+    <itunes:episode><![CDATA[48]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/popular-tales-from-the-norse-by-george-w-dasent-0909/]]></link>
+            <enclosure url="https://www.archive.org/download/populartalesfromthenorse_0909_librivox/talesfromthenorse_47_dasent_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:25:56]]></itunes:duration>
+  <pubDate>Mon, 05 Oct 2009 00:47:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/populartalesfromthenorse_0909_librivox/talesfromthenorse_47_dasent_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[48 - Farmer Weathersky]]></title>
+    <itunes:episode><![CDATA[49]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/popular-tales-from-the-norse-by-george-w-dasent-0909/]]></link>
+            <enclosure url="https://www.archive.org/download/populartalesfromthenorse_0909_librivox/talesfromthenorse_48_dasent_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:19:43]]></itunes:duration>
+  <pubDate>Mon, 05 Oct 2009 00:48:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/populartalesfromthenorse_0909_librivox/talesfromthenorse_48_dasent_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[49 - Lord Peter]]></title>
+    <itunes:episode><![CDATA[50]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/popular-tales-from-the-norse-by-george-w-dasent-0909/]]></link>
+            <enclosure url="https://www.archive.org/download/populartalesfromthenorse_0909_librivox/talesfromthenorse_49_dasent_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:15:08]]></itunes:duration>
+  <pubDate>Mon, 05 Oct 2009 00:49:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/populartalesfromthenorse_0909_librivox/talesfromthenorse_49_dasent_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[50 - The Seven Foals]]></title>
+    <itunes:episode><![CDATA[51]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/popular-tales-from-the-norse-by-george-w-dasent-0909/]]></link>
+            <enclosure url="https://www.archive.org/download/populartalesfromthenorse_0909_librivox/talesfromthenorse_50_dasent_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:16:14]]></itunes:duration>
+  <pubDate>Mon, 05 Oct 2009 00:50:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/populartalesfromthenorse_0909_librivox/talesfromthenorse_50_dasent_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[51 - The Widow's Son]]></title>
+    <itunes:episode><![CDATA[52]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/popular-tales-from-the-norse-by-george-w-dasent-0909/]]></link>
+            <enclosure url="https://www.archive.org/download/populartalesfromthenorse_0909_librivox/talesfromthenorse_51_dasent_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:22:06]]></itunes:duration>
+  <pubDate>Mon, 05 Oct 2009 00:51:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/populartalesfromthenorse_0909_librivox/talesfromthenorse_51_dasent_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[52 - Bushy Bride / Boots and his brothers]]></title>
+    <itunes:episode><![CDATA[53]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/popular-tales-from-the-norse-by-george-w-dasent-0909/]]></link>
+            <enclosure url="https://www.archive.org/download/populartalesfromthenorse_0909_librivox/talesfromthenorse_52_dasent_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:26:58]]></itunes:duration>
+  <pubDate>Mon, 05 Oct 2009 00:52:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/populartalesfromthenorse_0909_librivox/talesfromthenorse_52_dasent_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[53 - Big Peter and Little Peter]]></title>
+    <itunes:episode><![CDATA[54]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/popular-tales-from-the-norse-by-george-w-dasent-0909/]]></link>
+            <enclosure url="https://www.archive.org/download/populartalesfromthenorse_0909_librivox/talesfromthenorse_53_dasent_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:21:35]]></itunes:duration>
+  <pubDate>Mon, 05 Oct 2009 00:53:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/populartalesfromthenorse_0909_librivox/talesfromthenorse_53_dasent_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[54 - Tatterhood]]></title>
+    <itunes:episode><![CDATA[55]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/popular-tales-from-the-norse-by-george-w-dasent-0909/]]></link>
+            <enclosure url="https://www.archive.org/download/populartalesfromthenorse_0909_librivox/talesfromthenorse_54_dasent_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:13:18]]></itunes:duration>
+  <pubDate>Mon, 05 Oct 2009 00:54:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/populartalesfromthenorse_0909_librivox/talesfromthenorse_54_dasent_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[55 - The Cock and Hen that Went to the Dovrefell]]></title>
+    <itunes:episode><![CDATA[56]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/popular-tales-from-the-norse-by-george-w-dasent-0909/]]></link>
+            <enclosure url="https://www.archive.org/download/populartalesfromthenorse_0909_librivox/talesfromthenorse_55_dasent_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:05:20]]></itunes:duration>
+  <pubDate>Mon, 05 Oct 2009 00:55:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/populartalesfromthenorse_0909_librivox/talesfromthenorse_55_dasent_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[56 - Katie Woodencloak]]></title>
+    <itunes:episode><![CDATA[57]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/popular-tales-from-the-norse-by-george-w-dasent-0909/]]></link>
+            <enclosure url="https://www.archive.org/download/populartalesfromthenorse_0909_librivox/talesfromthenorse_56_dasent_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:24:23]]></itunes:duration>
+  <pubDate>Mon, 05 Oct 2009 00:56:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/populartalesfromthenorse_0909_librivox/talesfromthenorse_56_dasent_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[57 - Thumbikin]]></title>
+    <itunes:episode><![CDATA[58]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/popular-tales-from-the-norse-by-george-w-dasent-0909/]]></link>
+            <enclosure url="https://www.archive.org/download/populartalesfromthenorse_0909_librivox/talesfromthenorse_57_dasent_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:04:37]]></itunes:duration>
+  <pubDate>Mon, 05 Oct 2009 00:57:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/populartalesfromthenorse_0909_librivox/talesfromthenorse_57_dasent_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[58 - Doll i' the Grass]]></title>
+    <itunes:episode><![CDATA[59]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/popular-tales-from-the-norse-by-george-w-dasent-0909/]]></link>
+            <enclosure url="https://www.archive.org/download/populartalesfromthenorse_0909_librivox/talesfromthenorse_58_dasent_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:05:04]]></itunes:duration>
+  <pubDate>Mon, 05 Oct 2009 00:58:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/populartalesfromthenorse_0909_librivox/talesfromthenorse_58_dasent_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[59 - The Lad and the Devil]]></title>
+    <itunes:episode><![CDATA[60]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/popular-tales-from-the-norse-by-george-w-dasent-0909/]]></link>
+            <enclosure url="https://www.archive.org/download/populartalesfromthenorse_0909_librivox/talesfromthenorse_59_dasent_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:03:15]]></itunes:duration>
+  <pubDate>Mon, 05 Oct 2009 00:59:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/populartalesfromthenorse_0909_librivox/talesfromthenorse_59_dasent_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[60 - The Cock and Hen a-Nutting]]></title>
+    <itunes:episode><![CDATA[61]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/popular-tales-from-the-norse-by-george-w-dasent-0909/]]></link>
+            <enclosure url="https://www.archive.org/download/populartalesfromthenorse_0909_librivox/talesfromthenorse_60_dasent_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:08:19]]></itunes:duration>
+  <pubDate>Mon, 05 Oct 2009 01:00:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/populartalesfromthenorse_0909_librivox/talesfromthenorse_60_dasent_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[61 - The Big Bird Dan]]></title>
+    <itunes:episode><![CDATA[62]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/popular-tales-from-the-norse-by-george-w-dasent-0909/]]></link>
+            <enclosure url="https://www.archive.org/download/populartalesfromthenorse_0909_librivox/talesfromthenorse_61_dasent_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:33:10]]></itunes:duration>
+  <pubDate>Mon, 05 Oct 2009 01:01:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/populartalesfromthenorse_0909_librivox/talesfromthenorse_61_dasent_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[62 - Soria Moria Castle]]></title>
+    <itunes:episode><![CDATA[63]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/popular-tales-from-the-norse-by-george-w-dasent-0909/]]></link>
+            <enclosure url="https://www.archive.org/download/populartalesfromthenorse_0909_librivox/talesfromthenorse_62_dasent_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:25:49]]></itunes:duration>
+  <pubDate>Mon, 05 Oct 2009 01:02:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/populartalesfromthenorse_0909_librivox/talesfromthenorse_62_dasent_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[63 - Bruin and Reynard]]></title>
+    <itunes:episode><![CDATA[64]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/popular-tales-from-the-norse-by-george-w-dasent-0909/]]></link>
+            <enclosure url="https://www.archive.org/download/populartalesfromthenorse_0909_librivox/talesfromthenorse_63_dasent_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:05:03]]></itunes:duration>
+  <pubDate>Mon, 05 Oct 2009 01:03:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/populartalesfromthenorse_0909_librivox/talesfromthenorse_63_dasent_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[64 - Tom Totherhouse]]></title>
+    <itunes:episode><![CDATA[65]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/popular-tales-from-the-norse-by-george-w-dasent-0909/]]></link>
+            <enclosure url="https://www.archive.org/download/populartalesfromthenorse_0909_librivox/talesfromthenorse_64_dasent_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:06:51]]></itunes:duration>
+  <pubDate>Mon, 05 Oct 2009 01:04:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/populartalesfromthenorse_0909_librivox/talesfromthenorse_64_dasent_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[65 - Little Annie the Goose-Girl]]></title>
+    <itunes:episode><![CDATA[66]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/popular-tales-from-the-norse-by-george-w-dasent-0909/]]></link>
+            <enclosure url="https://www.archive.org/download/populartalesfromthenorse_0909_librivox/talesfromthenorse_65_dasent_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:07:01]]></itunes:duration>
+  <pubDate>Mon, 05 Oct 2009 01:05:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/populartalesfromthenorse_0909_librivox/talesfromthenorse_65_dasent_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[66 - Introduction to Appendix]]></title>
+    <itunes:episode><![CDATA[67]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/popular-tales-from-the-norse-by-george-w-dasent-0909/]]></link>
+            <enclosure url="https://www.archive.org/download/populartalesfromthenorse_0909_librivox/talesfromthenorse_66_dasent_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:06:58]]></itunes:duration>
+  <pubDate>Mon, 05 Oct 2009 01:06:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/populartalesfromthenorse_0909_librivox/talesfromthenorse_66_dasent_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[67 - Why the Jack-Spaniard's Waist is Small]]></title>
+    <itunes:episode><![CDATA[68]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/popular-tales-from-the-norse-by-george-w-dasent-0909/]]></link>
+            <enclosure url="https://www.archive.org/download/populartalesfromthenorse_0909_librivox/talesfromthenorse_67_dasent_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:01:27]]></itunes:duration>
+  <pubDate>Mon, 05 Oct 2009 01:07:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/populartalesfromthenorse_0909_librivox/talesfromthenorse_67_dasent_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[68 - Ananzi and the Lion]]></title>
+    <itunes:episode><![CDATA[69]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/popular-tales-from-the-norse-by-george-w-dasent-0909/]]></link>
+            <enclosure url="https://www.archive.org/download/populartalesfromthenorse_0909_librivox/talesfromthenorse_68_dasent_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:06:43]]></itunes:duration>
+  <pubDate>Mon, 05 Oct 2009 01:08:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/populartalesfromthenorse_0909_librivox/talesfromthenorse_68_dasent_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[69 - Ananzi and the Quanqua]]></title>
+    <itunes:episode><![CDATA[70]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/popular-tales-from-the-norse-by-george-w-dasent-0909/]]></link>
+            <enclosure url="https://www.archive.org/download/populartalesfromthenorse_0909_librivox/talesfromthenorse_69_dasent_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:03:59]]></itunes:duration>
+  <pubDate>Mon, 05 Oct 2009 01:09:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/populartalesfromthenorse_0909_librivox/talesfromthenorse_69_dasent_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[70 - The Ear of Corn and the Twelve Men]]></title>
+    <itunes:episode><![CDATA[71]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/popular-tales-from-the-norse-by-george-w-dasent-0909/]]></link>
+            <enclosure url="https://www.archive.org/download/populartalesfromthenorse_0909_librivox/talesfromthenorse_70_dasent_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:05:13]]></itunes:duration>
+  <pubDate>Mon, 05 Oct 2009 01:10:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/populartalesfromthenorse_0909_librivox/talesfromthenorse_70_dasent_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[71 - The King and the Ant's Tree]]></title>
+    <itunes:episode><![CDATA[72]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/popular-tales-from-the-norse-by-george-w-dasent-0909/]]></link>
+            <enclosure url="https://www.archive.org/download/populartalesfromthenorse_0909_librivox/talesfromthenorse_71_dasent_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:02:01]]></itunes:duration>
+  <pubDate>Mon, 05 Oct 2009 01:11:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/populartalesfromthenorse_0909_librivox/talesfromthenorse_71_dasent_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[72 - The Little Child and the Pumpkin Tree]]></title>
+    <itunes:episode><![CDATA[73]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/popular-tales-from-the-norse-by-george-w-dasent-0909/]]></link>
+            <enclosure url="https://www.archive.org/download/populartalesfromthenorse_0909_librivox/talesfromthenorse_72_dasent_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:03:28]]></itunes:duration>
+  <pubDate>Mon, 05 Oct 2009 01:12:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/populartalesfromthenorse_0909_librivox/talesfromthenorse_72_dasent_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[73 - The Brother and His Sisters]]></title>
+    <itunes:episode><![CDATA[74]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/popular-tales-from-the-norse-by-george-w-dasent-0909/]]></link>
+            <enclosure url="https://www.archive.org/download/populartalesfromthenorse_0909_librivox/talesfromthenorse_73_dasent_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:05:25]]></itunes:duration>
+  <pubDate>Mon, 05 Oct 2009 01:13:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/populartalesfromthenorse_0909_librivox/talesfromthenorse_73_dasent_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[74 - The Girl and the Fish]]></title>
+    <itunes:episode><![CDATA[75]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/popular-tales-from-the-norse-by-george-w-dasent-0909/]]></link>
+            <enclosure url="https://www.archive.org/download/populartalesfromthenorse_0909_librivox/talesfromthenorse_74_dasent_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:02:11]]></itunes:duration>
+  <pubDate>Mon, 05 Oct 2009 01:14:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/populartalesfromthenorse_0909_librivox/talesfromthenorse_74_dasent_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[75 - The Lion, the Goat, and the Baboon]]></title>
+    <itunes:episode><![CDATA[76]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/popular-tales-from-the-norse-by-george-w-dasent-0909/]]></link>
+            <enclosure url="https://www.archive.org/download/populartalesfromthenorse_0909_librivox/talesfromthenorse_75_dasent_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:02:13]]></itunes:duration>
+  <pubDate>Mon, 05 Oct 2009 01:15:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/populartalesfromthenorse_0909_librivox/talesfromthenorse_75_dasent_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[76 - Ananzi and Baboon]]></title>
+    <itunes:episode><![CDATA[77]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/popular-tales-from-the-norse-by-george-w-dasent-0909/]]></link>
+            <enclosure url="https://www.archive.org/download/populartalesfromthenorse_0909_librivox/talesfromthenorse_76_dasent_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:03:04]]></itunes:duration>
+  <pubDate>Mon, 05 Oct 2009 01:16:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/populartalesfromthenorse_0909_librivox/talesfromthenorse_76_dasent_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[77 - The Man and the Doukana Tree]]></title>
+    <itunes:episode><![CDATA[78]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/popular-tales-from-the-norse-by-george-w-dasent-0909/]]></link>
+            <enclosure url="https://www.archive.org/download/populartalesfromthenorse_0909_librivox/talesfromthenorse_77_dasent_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:02:19]]></itunes:duration>
+  <pubDate>Mon, 05 Oct 2009 01:17:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/populartalesfromthenorse_0909_librivox/talesfromthenorse_77_dasent_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[78 - Nancy Fairy]]></title>
+    <itunes:episode><![CDATA[79]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/popular-tales-from-the-norse-by-george-w-dasent-0909/]]></link>
+            <enclosure url="https://www.archive.org/download/populartalesfromthenorse_0909_librivox/talesfromthenorse_78_dasent_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:06:01]]></itunes:duration>
+  <pubDate>Mon, 05 Oct 2009 01:18:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/populartalesfromthenorse_0909_librivox/talesfromthenorse_78_dasent_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[79 - The Dancing Gang]]></title>
+    <itunes:episode><![CDATA[80]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/popular-tales-from-the-norse-by-george-w-dasent-0909/]]></link>
+            <enclosure url="https://www.archive.org/download/populartalesfromthenorse_0909_librivox/talesfromthenorse_79_dasent_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:01:41]]></itunes:duration>
+  <pubDate>Mon, 05 Oct 2009 01:19:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/populartalesfromthenorse_0909_librivox/talesfromthenorse_79_dasent_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <!-- end file loop -->
+</channel>
+</rss>
