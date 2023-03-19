@@ -1,4 +1,65 @@
-#!/bin/bash
+#!/usr/bin/python3
 
-cd ../docs/feeds || exit 1
-ls *.rss | sed -e 's,^,https://velebit.github.io/feeds/,' > list.txt
+import bs4
+import glob
+import os
+import regex as re
+import urllib.parse
+
+FEEDS_BASE_URL = 'https://velebit.github.io/feeds/'
+OVERCAST_SUBSCRIBE_BASE_URL = 'overcast://x-callback-url/add?'
+
+LIST_FILE = 'list.txt'
+OVERCAST_FILE = 'overcast.html'
+
+
+def get_feed_urls():
+    return [FEEDS_BASE_URL + f for f in sorted(glob.glob("*.rss"))]
+
+
+def write_feeds_list(feeds, path):
+    with open(path, 'w') as out:
+        for i in feeds:
+            print(i, file=out)
+
+
+def read_title_from_feed_file(url):
+    path = re.sub(r'.*/', '', url)
+    with open(path, 'rb') as f:
+        feed_xml = bs4.BeautifulSoup(f, features="xml")
+        return feed_xml.title
+
+
+def make_overcast_subscribe_url(feed_url):
+    return OVERCAST_SUBSCRIBE_BASE_URL + \
+        urllib.parse.urlencode({'url': feed_url})
+
+
+def make_overcast_html(feeds):
+    html = bs4.BeautifulSoup(features="lxml")
+    body = html.new_tag("body")
+    html.append(body)
+    for url in feeds:
+        p_tag = html.new_tag("p")
+        body.append(p_tag)
+        a_tag = html.new_tag("a", href=make_overcast_subscribe_url(url))
+        a_tag.append(read_title_from_feed_file(url))
+        p_tag.append(a_tag)
+    return html.encode('utf-8')
+
+
+def write_overcast_html(feeds, path):
+    html = make_overcast_html(feeds)
+    with open(path, 'wb') as out:
+        out.write(html)
+
+
+def main():
+    os.chdir('../docs/feeds')
+    feeds = get_feed_urls()
+    write_feeds_list(feeds, LIST_FILE)
+    write_overcast_html(feeds, OVERCAST_FILE)
+
+
+if __name__ == "__main__":
+    main()
