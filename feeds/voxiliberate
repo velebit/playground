@@ -4,13 +4,14 @@ import argparse
 import bs4
 import datetime as dt
 import dateutil.parser as dp
-#import feedgen.util as fu
+# import feedgen.util as fu
 import locale
 import os
 import re
 import requests
 import sys
-#import time as tm
+# import time as tm
+
 
 def format_rfc2822(date_time):
     old_locale = locale.setlocale(locale.LC_ALL)
@@ -19,24 +20,29 @@ def format_rfc2822(date_time):
     locale.setlocale(locale.LC_ALL, old_locale)
     return rfc2822_date
 
+
 def canonical_datetime(date):
     try:
         parsed = dp.parse(date + " 00:00 +0000")
-    except:
+    except Exception:
         parsed = dp.parse(date)
     return dt.datetime.fromtimestamp(parsed.timestamp(), tz=dt.timezone.utc)
+
 
 def get_audio_book_title(node):
     return node.find(class_='main-content').h1.get_text(strip=True)
 
+
 def get_link_url(node, link_text):
     return node.find('a', href=True, string=link_text)['href']
+
 
 def get_catalog_date(node):
     date_node = node.find(string='Catalog date:').parent
     while date_node.name != 'dd':
         date_node = date_node.next_sibling
     return date_node.text
+
 
 def process_url(page_url, *, settings):
     page_response = requests.get(page_url)
@@ -46,9 +52,10 @@ def process_url(page_url, *, settings):
     if settings.name is not None:
         name = settings.name
     else:
-        name = re.sub(r"'s\b", "", re.sub(r'(?<=\w)[:;].*$', '', title.lower()))
-        name = re.sub(r'\W+', '-',
-                      re.sub(r'\W+$', '', re.sub(r'^\W+', '', name)))
+        name = re.sub(r'(?<=\w)[:;].*$', '', title.lower())
+        name = re.sub(r"'s\b", "", name)
+        name = re.sub(r'\W+$', '', re.sub(r'^\W+', '', name))
+        name = re.sub(r'\W+', '-', name)
     rss_url = get_link_url(page_html, 'RSS')
     lvid = re.sub(r'\D+', '', re.sub(r'^.*/', '', rss_url))
     image_url = get_link_url(page_html, 'Download cover art')
@@ -70,10 +77,11 @@ def process_url(page_url, *, settings):
     else:
         try:
             os.remove(file_orig)
-        except:
+        except FileNotFoundError:
             pass
 
     next_date = cat_date
+
     def make_next_date_bytes(match):
         nonlocal next_date
         fdate = format_rfc2822(next_date)
@@ -110,6 +118,7 @@ def process_url(page_url, *, settings):
         f.write(rss_content)
         print(f"Wrote {file_done}", file=sys.stderr)
 
+
 def parse_args():
     parser = argparse.ArgumentParser()
     parser.add_argument('-v', '--verbose', action='count', default=0)
@@ -120,10 +129,12 @@ def parse_args():
     settings = parser.parse_args()
     return settings
 
+
 def main():
     settings = parse_args()
     for url in settings.urls:
         process_url(url, settings=settings)
+
 
 if __name__ == "__main__":
     main()

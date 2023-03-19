@@ -8,7 +8,7 @@ import pickle
 import regex as re
 import urllib.parse
 
-FEED_DATA_CACHE_FILE = 'cache.pkl'
+FEED_DATA_CACHE_FILE = 'crit_role_classic.cache.pkl'
 
 FEED_URLS = (
     'https://feed.podbean.com/geekandsundry/feed.xml',
@@ -19,27 +19,31 @@ OUTPUT_URI_BASE = 'https://velebit.github.io/'
 OUTPUT_DIR = 'feeds/'
 OUTPUT_TOP_PATH = '../docs/'
 
+
 def try_read_cache(cache_file):
     try:
         with open(cache_file, 'rb') as cache:
             feed_data = pickle.load(cache)
             print(f"Pickled data cache read from '{cache_file}'")
             return feed_data
-    except:
+    except FileNotFoundError:
         return None
+
 
 def try_write_cache(cache_file, feed_data):
     try:
         with open(cache_file, 'wb') as cache:
             pickle.dump(feed_data, cache)
             print(f"Pickled data cache written to '{cache_file}'")
-    except:
+    except OSError:
         print(f"Warning: could not write feed data to '{cache_file}'")
+
 
 def get_and_parse_feeds(feed_urls):
     feed_data = [fi.parse(f) for f in feed_urls]
-    print(f"Feed data downloaded and parsed")
+    print("Feed data downloaded and parsed")
     return feed_data
+
 
 def read_feeds(*, feed_urls, cache_file=FEED_DATA_CACHE_FILE):
     assert type(feed_urls) is not str, \
@@ -53,6 +57,7 @@ def read_feeds(*, feed_urls, cache_file=FEED_DATA_CACHE_FILE):
             try_write_cache(cache_file, feed_data)
     return feed_data
 
+
 def _dump_skeleton(fd):
     import pprint as pp
     fd = cp.deepcopy(fd)
@@ -61,17 +66,20 @@ def _dump_skeleton(fd):
             d['entries'][:] = d['entries'][0:1]
     pp.pp(fd, indent=4)
 
+
 def feed_rss_filename(*, title):
     base = re.sub(r'^Exandria_Unlimited', 'ExU',
                   re.sub(r'^Critical_Role_', 'CritRole_',
                          re.sub(r'\W+', '_', title)))
     return OUTPUT_DIR + base + ".rss"
 
+
 def logo_filename(*, title):
     base = re.sub(r'^Exandria_Unlimited', 'ExU',
                   re.sub(r'^Critical_Role_', 'CritRole_',
                          re.sub(r'\W+', '_', title)))
     return OUTPUT_DIR + base + ".jpg"
+
 
 def generate_monotonic_datetime(entries):
     # convert parsed datetime as a date
@@ -84,11 +92,12 @@ def generate_monotonic_datetime(entries):
     # make monotonic_datetime always increase
     for i in range(1, len(entries)):
         if (entries[i]['monotonic_datetime']
-            < entries[i-1]['monotonic_datetime']):
+                < entries[i-1]['monotonic_datetime']):
             entries[i]['monotonic_datetime'] = \
                 entries[i-1]['monotonic_datetime'] + \
                 dt.timedelta(minutes=+1)
     return entries
+
 
 def extract_entries(feed_urls=FEED_URLS, *, cache_file=FEED_DATA_CACHE_FILE):
     feed_data = read_feeds(feed_urls=feed_urls, cache_file=cache_file)
@@ -129,7 +138,8 @@ def extract_entries(feed_urls=FEED_URLS, *, cache_file=FEED_DATA_CACHE_FILE):
                 entry = cp.deepcopy(entry)
                 entry['feed_sort_order'] = 9910 + int(match.group(1))
                 cr2_entries.append(entry)
-            elif match := re.search(r'Exandria Unlimited Episode (\d+)', title):
+            elif match := re.search(r'Exandria Unlimited Episode (\d+)',
+                                    title):
                 entry = cp.deepcopy(entry)
                 entry['feed_sort_order'] = int(match.group(1))
                 exu_og_entries.append(entry)
@@ -179,6 +189,7 @@ def extract_entries(feed_urls=FEED_URLS, *, cache_file=FEED_DATA_CACHE_FILE):
         generate_monotonic_datetime(entries)
     return all_entries
 
+
 def make_crit_role_feed(*, title, author=None, pub_time=None,
                         feed_urls=None):
     feed = fo.FeedGenerator()
@@ -187,7 +198,7 @@ def make_crit_role_feed(*, title, author=None, pub_time=None,
     feed.id(feed_uri)
     feed.load_extension('podcast')  # NOTE: only works with RSS, not Atom!
     feed.link(href=feed_uri, rel='self')
-    #feed.link(href=???, rel='alternate')
+    # feed.link(href=???, rel='alternate')
     feed.title(title)
     subtitle = ('A bunch of nerdy-ass voice actors[tm] playing TTRPGs.  ' +
                 f"This feed collects all {title} episodes")
@@ -218,11 +229,12 @@ def make_crit_role_feed(*, title, author=None, pub_time=None,
         feed.pubDate(pub_time)
     return feed
 
+
 def populate_entry_data(entry_data, image, feed_entry):
     feed_entry.title(entry_data['title'])
-    for l in entry_data['links']:
-        if l['rel'] != 'self':
-            feed_entry.link(l)
+    for ln in entry_data['links']:
+        if ln['rel'] != 'self':
+            feed_entry.link(ln)
     if 'comments' in entry_data:
         feed_entry.comments(entry_data['comments'])
     feed_entry.pubDate(entry_data['monotonic_datetime'])
@@ -238,7 +250,8 @@ def populate_entry_data(entry_data, image, feed_entry):
     feed_entry.podcast.itunes_image(image)
     if 'itunes_duration' in entry_data:
         feed_entry.podcast.itunes_duration(entry_data['itunes_duration'])
-    #feed_entry.podcast.itunes_...(...)
+    # feed_entry.podcast.itunes_...(...)
+
 
 def generate_feeds(entries_lists, *, feed_urls=None):
     now = dt.datetime.now(tz=dt.timezone.utc)
@@ -264,6 +277,7 @@ def generate_feeds(entries_lists, *, feed_urls=None):
             populate_entry_data(entry, feed.logo(),
                                 feed.add_entry(order='append'))
     return feeds
+
 
 def write_feeds(feeds, *, top_path=OUTPUT_TOP_PATH):
     for feed in feeds:
