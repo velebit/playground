@@ -12,6 +12,15 @@ OVERCAST_SUBSCRIBE_BASE_URL = 'overcast://x-callback-url/add?'
 LIST_FILE = 'list.txt'
 OVERCAST_FILE = 'overcast.html'
 
+HTML_TEMPLATE = '''\
+<?xml version='1.0' encoding='UTF-8'?>\
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" \
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">\
+<html xmlns="http://www.w3.org/1999/xhtml"></html>
+'''
+
+USE_BREAKS = True
+
 
 def get_feed_urls():
     return [FEEDS_BASE_URL + f for f in sorted(glob.glob("*.rss"))]
@@ -27,7 +36,7 @@ def read_title_from_feed_file(url):
     path = re.sub(r'.*/', '', url)
     with open(path, 'rb') as f:
         feed_xml = bs4.BeautifulSoup(f, features="xml")
-        return feed_xml.title
+        return feed_xml.title.get_text()
 
 
 def make_overcast_subscribe_url(feed_url):
@@ -36,16 +45,22 @@ def make_overcast_subscribe_url(feed_url):
 
 
 def make_overcast_html(feeds):
-    html = bs4.BeautifulSoup(features="lxml")
-    body = html.new_tag("body")
-    html.append(body)
+    doc = bs4.BeautifulSoup(HTML_TEMPLATE, features="html.parser")
+    doc.html.append(doc.new_tag("head"))
+    doc.head.append(doc.new_tag("title"))
+    doc.title.append("hello, overcast")
+    doc.html.append(doc.new_tag("body"))
     for url in feeds:
-        p_tag = html.new_tag("p")
-        body.append(p_tag)
-        a_tag = html.new_tag("a", href=make_overcast_subscribe_url(url))
+        a_tag = doc.new_tag("a", href=make_overcast_subscribe_url(url))
         a_tag.append(read_title_from_feed_file(url))
-        p_tag.append(a_tag)
-    return html.encode('utf-8')
+        if USE_BREAKS:
+            doc.body.append(a_tag)
+            doc.body.append(doc.new_tag("br"))
+        else:
+            p_tag = doc.new_tag("p")
+            doc.body.append(p_tag)
+            p_tag.append(a_tag)
+    return doc.encode('utf-8')
 
 
 def write_overcast_html(feeds, path):
