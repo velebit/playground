@@ -24,23 +24,28 @@ USE_BREAKS = True
 
 
 def get_feed_urls():
-    return [FEEDS_BASE_URL + f for f in sorted(glob.glob("*.rss"))]
-
-
-def write_feeds_list(feeds, path):
-    with open(path, 'w') as out:
-        for i in feeds:
-            print(i, file=out)
-    print(f"Wrote {path}", file=sys.stderr)
+    return [{'url': FEEDS_BASE_URL + f} for f in sorted(glob.glob("*.rss"))]
 
 
 def read_title_from_feed_file(url):
     path = re.sub(r'.*/', '', url)
-    with open(path, 'rb') as f:
+    with open(path, 'r', encoding='utf-8') as f:
         feed_xml = bs4.BeautifulSoup(f, features="xml")
     title = feed_xml.title.get_text()
-    print(f"Read title from {path}", file=sys.stderr)
+    print(f"Read title from {path}: {title}", file=sys.stderr)
     return title
+
+
+def add_titles(feeds):
+    return [{**feed, 'title': read_title_from_feed_file(feed['url'])}
+            for feed in feeds]
+
+
+def write_feeds_list(feeds, path):
+    with open(path, 'w') as out:
+        for feed in feeds:
+            print(feed['url'], file=out)
+    print(f"Wrote {path}", file=sys.stderr)
 
 
 def make_overcast_subscribe_url(feed_url):
@@ -54,9 +59,9 @@ def make_overcast_html(feeds):
     doc.head.append(doc.new_tag("title"))
     doc.title.append("hello, overcast")
     doc.html.append(doc.new_tag("body"))
-    for url in feeds:
-        a_tag = doc.new_tag("a", href=make_overcast_subscribe_url(url))
-        a_tag.append(read_title_from_feed_file(url))
+    for feed in feeds:
+        a_tag = doc.new_tag("a", href=make_overcast_subscribe_url(feed['url']))
+        a_tag.append(feed['title'])
         if USE_BREAKS:
             doc.body.append(a_tag)
             doc.body.append(doc.new_tag("br"))
@@ -76,7 +81,8 @@ def write_overcast_html(feeds, path):
 
 def main():
     os.chdir('../docs/feeds')
-    feeds = get_feed_urls()
+    feeds = add_titles(get_feed_urls())
+    feeds.sort(key=lambda f: f['title'])
     write_feeds_list(feeds, LIST_FILE)
     write_overcast_html(feeds, OVERCAST_FILE)
 
