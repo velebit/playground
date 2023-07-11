@@ -11,7 +11,8 @@ FEEDS_BASE_URL = 'https://velebit.github.io/feeds/'
 OVERCAST_SUBSCRIBE_BASE_URL = 'overcast://x-callback-url/add?'
 
 LIST_FILE = 'list.txt'
-OVERCAST_FILE = 'overcast.html'
+OVERCAST_FILE = 'list_overcast.html'
+OPML_FILE = 'list.opml'
 
 HTML_TEMPLATE = '''\
 <?xml version='1.0' encoding='UTF-8'?>\
@@ -20,7 +21,14 @@ HTML_TEMPLATE = '''\
 <html xmlns="http://www.w3.org/1999/xhtml"></html>
 '''
 
-USE_BREAKS = True
+HTML_USE_BREAKS = True
+
+OPML_TEMPLATE = '''\
+<?xml version='1.0' encoding='UTF-8'?>\
+<opml version="2.0">
+<head><title>Feeds</title></head>
+</opml>
+'''
 
 
 def get_feed_urls():
@@ -62,7 +70,7 @@ def make_overcast_html(feeds):
     for feed in feeds:
         a_tag = doc.new_tag("a", href=make_overcast_subscribe_url(feed['url']))
         a_tag.append(feed['title'])
-        if USE_BREAKS:
+        if HTML_USE_BREAKS:
             doc.body.append(a_tag)
             doc.body.append(doc.new_tag("br"))
         else:
@@ -79,12 +87,32 @@ def write_overcast_html(feeds, path):
     print(f"Wrote {path}", file=sys.stderr)
 
 
+def make_opml(feeds):
+    doc = bs4.BeautifulSoup(OPML_TEMPLATE, features="xml")
+    doc.opml.append(doc.new_tag("body"))
+    for feed in feeds:
+        outline_tag = doc.new_tag("outline", type="rss",
+                                  title=feed['title'],
+                                  text=feed['title'],
+                                  xmlUrl=feed['url'])
+        doc.body.append(outline_tag)
+    return doc.encode('utf-8')
+
+
+def write_opml(feeds, path):
+    html = make_opml(feeds)
+    with open(path, 'wb') as out:
+        out.write(html)
+    print(f"Wrote {path}", file=sys.stderr)
+
+
 def main():
     os.chdir('../docs/feeds')
     feeds = add_titles(get_feed_urls())
     feeds.sort(key=lambda f: f['title'])
     write_feeds_list(feeds, LIST_FILE)
     write_overcast_html(feeds, OVERCAST_FILE)
+    write_opml(feeds, OPML_FILE)
 
 
 if __name__ == "__main__":
