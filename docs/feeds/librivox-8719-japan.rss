@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/">
+<channel>
+<title>Japan: An Attempt at Interpretation by Lafcadio Hearn (1850 - 1904)</title>
+<link>https://librivox.org/japan-attempt-interpretation-by-lafcadio-hearn/</link>
+<atom:link href="https://librivox.org/rss/8719" rel="self"/>
+<description>Greece-born Lafcadio Hearn (1850 - 1904) spent decades of his life in Japan, even marrying a Japanese woman, thus becoming a Japanese citizen by the name of Koizumi Yakumo (小泉 八雲). He wrote many books on Japan, especially about its folklore. In this posthumously published book, he takes a closer look at Japan's religious history: How it developed from ancient beliefs into Shintoism, resisted suppression attempts by both Buddhism and Christianity and how – despite efforts to westernise Japan during the era known as Meiji Restoration – it remained the basis for Japanese society. Even today, over 100 years after this book was written, some of the described traditions and fundamental ideas still exist. (Summary by Julia Niedermaier)</description>
+<!--<genre>project element=Genre</genre>-->
+<!--<language>project element=lang.code</language>-->
+<itunes:type>serial</itunes:type>
+<itunes:author>LibriVox</itunes:author>
+<itunes:summary>Greece-born Lafcadio Hearn (1850 - 1904) spent decades of his life in Japan, even marrying a Japanese woman, thus becoming a Japanese citizen by the name of Koizumi Yakumo (小泉 八雲). He wrote many books on Japan, especially about its folklore. In this posthumously published book, he takes a closer look at Japan's religious history: How it developed from ancient beliefs into Shintoism, resisted suppression attempts by both Buddhism and Christianity and how – despite efforts to westernise Japan during the era known as Meiji Restoration – it remained the basis for Japanese society. Even today, over 100 years after this book was written, some of the described traditions and fundamental ideas still exist. (Summary by Julia Niedermaier)</itunes:summary>
+<itunes:owner>
+<itunes:name>LibriVox</itunes:name>
+<itunes:email>info@librivox.org</itunes:email>
+</itunes:owner>
+<itunes:category text="Arts">
+<itunes:category text="Literature"/>
+</itunes:category>
+<itunes:image href="https://archive.org/download/LibrivoxCdCoverArt17/japaninterpretation_1501.jpg"/> <!-- file loop -->
+<image><url>https://archive.org/download/LibrivoxCdCoverArt17/japaninterpretation_1501.jpg</url></image><itunes:image href="https://archive.org/download/LibrivoxCdCoverArt17/japaninterpretation_1501.jpg"/><itunes:explicit>no</itunes:explicit><item>
+<title>Difficulties</title>
+<itunes:episode>1</itunes:episode>
+<!--<reader>file element=reader</reader> -->
+<link>https://librivox.org/japan-attempt-interpretation-by-lafcadio-hearn/</link>
+<enclosure length="0" type="audio/mpeg" url="https://www.archive.org/download/japan_attempt_interpretation_1501_librivox/japaninterpretation_01_hearn_64kb.mp3"/>
+<itunes:explicit>No</itunes:explicit>
+<itunes:block>No</itunes:block>
+<itunes:duration> </itunes:duration>
+<pubDate>Fri, 09 Jan 2015 00:00:00 +0000</pubDate>
+<media:content type="audio/mpeg" url="https://www.archive.org/download/japan_attempt_interpretation_1501_librivox/japaninterpretation_01_hearn_64kb.mp3"/>
+</item>
+<item>
+<title>Strangeness and charm</title>
+<itunes:episode>2</itunes:episode>
+<!--<reader>file element=reader</reader> -->
+<link>https://librivox.org/japan-attempt-interpretation-by-lafcadio-hearn/</link>
+<enclosure length="0" type="audio/mpeg" url="https://www.archive.org/download/japan_attempt_interpretation_1501_librivox/japaninterpretation_02_hearn_64kb.mp3"/>
+<itunes:explicit>No</itunes:explicit>
+<itunes:block>No</itunes:block>
+<itunes:duration> </itunes:duration>
+<pubDate>Fri, 09 Jan 2015 00:01:00 +0000</pubDate>
+<media:content type="audio/mpeg" url="https://www.archive.org/download/japan_attempt_interpretation_1501_librivox/japaninterpretation_02_hearn_64kb.mp3"/>
+</item>
+<item>
+<title>The ancient cult</title>
+<itunes:episode>3</itunes:episode>
+<!--<reader>file element=reader</reader> -->
+<link>https://librivox.org/japan-attempt-interpretation-by-lafcadio-hearn/</link>
+<enclosure length="0" type="audio/mpeg" url="https://www.archive.org/download/japan_attempt_interpretation_1501_librivox/japaninterpretation_03_hearn_64kb.mp3"/>
+<itunes:explicit>No</itunes:explicit>
+<itunes:block>No</itunes:block>
+<itunes:duration> </itunes:duration>
+<pubDate>Fri, 09 Jan 2015 00:02:00 +0000</pubDate>
+<media:content type="audio/mpeg" url="https://www.archive.org/download/japan_attempt_interpretation_1501_librivox/japaninterpretation_03_hearn_64kb.mp3"/>
+</item>
+<item>
+<title>The religion of the home</title>
+<itunes:episode>4</itunes:episode>
+<!--<reader>file element=reader</reader> -->
+<link>https://librivox.org/japan-attempt-interpretation-by-lafcadio-hearn/</link>
+<enclosure length="0" type="audio/mpeg" url="https://www.archive.org/download/japan_attempt_interpretation_1501_librivox/japaninterpretation_04_hearn_64kb.mp3"/>
+<itunes:explicit>No</itunes:explicit>
+<itunes:block>No</itunes:block>
+<itunes:duration> </itunes:duration>
+<pubDate>Fri, 09 Jan 2015 00:03:00 +0000</pubDate>
+<media:content type="audio/mpeg" url="https://www.archive.org/download/japan_attempt_interpretation_1501_librivox/japaninterpretation_04_hearn_64kb.mp3"/>
+</item>
+<item>
+<title>The Japanese family</title>
+<itunes:episode>5</itunes:episode>
+<!--<reader>file element=reader</reader> -->
+<link>https://librivox.org/japan-attempt-interpretation-by-lafcadio-hearn/</link>
+<enclosure length="0" type="audio/mpeg" url="https://www.archive.org/download/japan_attempt_interpretation_1501_librivox/japaninterpretation_05_hearn_64kb.mp3"/>
+<itunes:explicit>No</itunes:explicit>
+<itunes:block>No</itunes:block>
+<itunes:duration> </itunes:duration>
+<pubDate>Fri, 09 Jan 2015 00:04:00 +0000</pubDate>
+<media:content type="audio/mpeg" url="https://www.archive.org/download/japan_attempt_interpretation_1501_librivox/japaninterpretation_05_hearn_64kb.mp3"/>
+</item>
+<item>
+<title>The communal cult</title>
+<itunes:episode>6</itunes:episode>
+<!--<reader>file element=reader</reader> -->
+<link>https://librivox.org/japan-attempt-interpretation-by-lafcadio-hearn/</link>
+<enclosure length="0" type="audio/mpeg" url="https://www.archive.org/download/japan_attempt_interpretation_1501_librivox/japaninterpretation_06_hearn_64kb.mp3"/>
+<itunes:explicit>No</itunes:explicit>
+<itunes:block>No</itunes:block>
+<itunes:duration> </itunes:duration>
+<pubDate>Fri, 09 Jan 2015 00:05:00 +0000</pubDate>
+<media:content type="audio/mpeg" url="https://www.archive.org/download/japan_attempt_interpretation_1501_librivox/japaninterpretation_06_hearn_64kb.mp3"/>
+</item>
+<item>
+<title>Developments of Shinto</title>
+<itunes:episode>7</itunes:episode>
+<!--<reader>file element=reader</reader> -->
+<link>https://librivox.org/japan-attempt-interpretation-by-lafcadio-hearn/</link>
+<enclosure length="0" type="audio/mpeg" url="https://www.archive.org/download/japan_attempt_interpretation_1501_librivox/japaninterpretation_07_hearn_64kb.mp3"/>
+<itunes:explicit>No</itunes:explicit>
+<itunes:block>No</itunes:block>
+<itunes:duration> </itunes:duration>
+<pubDate>Fri, 09 Jan 2015 00:06:00 +0000</pubDate>
+<media:content type="audio/mpeg" url="https://www.archive.org/download/japan_attempt_interpretation_1501_librivox/japaninterpretation_07_hearn_64kb.mp3"/>
+</item>
+<item>
+<title>Worship and purification</title>
+<itunes:episode>8</itunes:episode>
+<!--<reader>file element=reader</reader> -->
+<link>https://librivox.org/japan-attempt-interpretation-by-lafcadio-hearn/</link>
+<enclosure length="0" type="audio/mpeg" url="https://www.archive.org/download/japan_attempt_interpretation_1501_librivox/japaninterpretation_08_hearn_64kb.mp3"/>
+<itunes:explicit>No</itunes:explicit>
+<itunes:block>No</itunes:block>
+<itunes:duration> </itunes:duration>
+<pubDate>Fri, 09 Jan 2015 00:07:00 +0000</pubDate>
+<media:content type="audio/mpeg" url="https://www.archive.org/download/japan_attempt_interpretation_1501_librivox/japaninterpretation_08_hearn_64kb.mp3"/>
+</item>
+<item>
+<title>The rule of the dead</title>
+<itunes:episode>9</itunes:episode>
+<!--<reader>file element=reader</reader> -->
+<link>https://librivox.org/japan-attempt-interpretation-by-lafcadio-hearn/</link>
+<enclosure length="0" type="audio/mpeg" url="https://www.archive.org/download/japan_attempt_interpretation_1501_librivox/japaninterpretation_09_hearn_64kb.mp3"/>
+<itunes:explicit>No</itunes:explicit>
+<itunes:block>No</itunes:block>
+<itunes:duration> </itunes:duration>
+<pubDate>Fri, 09 Jan 2015 00:08:00 +0000</pubDate>
+<media:content type="audio/mpeg" url="https://www.archive.org/download/japan_attempt_interpretation_1501_librivox/japaninterpretation_09_hearn_64kb.mp3"/>
+</item>
+<item>
+<title>The introduction of Buddhism</title>
+<itunes:episode>10</itunes:episode>
+<!--<reader>file element=reader</reader> -->
+<link>https://librivox.org/japan-attempt-interpretation-by-lafcadio-hearn/</link>
+<enclosure length="0" type="audio/mpeg" url="https://www.archive.org/download/japan_attempt_interpretation_1501_librivox/japaninterpretation_10_hearn_64kb.mp3"/>
+<itunes:explicit>No</itunes:explicit>
+<itunes:block>No</itunes:block>
+<itunes:duration> </itunes:duration>
+<pubDate>Fri, 09 Jan 2015 00:09:00 +0000</pubDate>
+<media:content type="audio/mpeg" url="https://www.archive.org/download/japan_attempt_interpretation_1501_librivox/japaninterpretation_10_hearn_64kb.mp3"/>
+</item>
+<item>
+<title>The higher Buddhism</title>
+<itunes:episode>11</itunes:episode>
+<!--<reader>file element=reader</reader> -->
+<link>https://librivox.org/japan-attempt-interpretation-by-lafcadio-hearn/</link>
+<enclosure length="0" type="audio/mpeg" url="https://www.archive.org/download/japan_attempt_interpretation_1501_librivox/japaninterpretation_11_hearn_64kb.mp3"/>
+<itunes:explicit>No</itunes:explicit>
+<itunes:block>No</itunes:block>
+<itunes:duration> </itunes:duration>
+<pubDate>Fri, 09 Jan 2015 00:10:00 +0000</pubDate>
+<media:content type="audio/mpeg" url="https://www.archive.org/download/japan_attempt_interpretation_1501_librivox/japaninterpretation_11_hearn_64kb.mp3"/>
+</item>
+<item>
+<title>The social organization</title>
+<itunes:episode>12</itunes:episode>
+<!--<reader>file element=reader</reader> -->
+<link>https://librivox.org/japan-attempt-interpretation-by-lafcadio-hearn/</link>
+<enclosure length="0" type="audio/mpeg" url="https://www.archive.org/download/japan_attempt_interpretation_1501_librivox/japaninterpretation_12_hearn_64kb.mp3"/>
+<itunes:explicit>No</itunes:explicit>
+<itunes:block>No</itunes:block>
+<itunes:duration> </itunes:duration>
+<pubDate>Fri, 09 Jan 2015 00:11:00 +0000</pubDate>
+<media:content type="audio/mpeg" url="https://www.archive.org/download/japan_attempt_interpretation_1501_librivox/japaninterpretation_12_hearn_64kb.mp3"/>
+</item>
+<item>
+<title>The rise of the military power</title>
+<itunes:episode>13</itunes:episode>
+<!--<reader>file element=reader</reader> -->
+<link>https://librivox.org/japan-attempt-interpretation-by-lafcadio-hearn/</link>
+<enclosure length="0" type="audio/mpeg" url="https://www.archive.org/download/japan_attempt_interpretation_1501_librivox/japaninterpretation_13_hearn_64kb.mp3"/>
+<itunes:explicit>No</itunes:explicit>
+<itunes:block>No</itunes:block>
+<itunes:duration> </itunes:duration>
+<pubDate>Fri, 09 Jan 2015 00:12:00 +0000</pubDate>
+<media:content type="audio/mpeg" url="https://www.archive.org/download/japan_attempt_interpretation_1501_librivox/japaninterpretation_13_hearn_64kb.mp3"/>
+</item>
+<item>
+<title>The religion of loyalty</title>
+<itunes:episode>14</itunes:episode>
+<!--<reader>file element=reader</reader> -->
+<link>https://librivox.org/japan-attempt-interpretation-by-lafcadio-hearn/</link>
+<enclosure length="0" type="audio/mpeg" url="https://www.archive.org/download/japan_attempt_interpretation_1501_librivox/japaninterpretation_14_hearn_64kb.mp3"/>
+<itunes:explicit>No</itunes:explicit>
+<itunes:block>No</itunes:block>
+<itunes:duration> </itunes:duration>
+<pubDate>Fri, 09 Jan 2015 00:13:00 +0000</pubDate>
+<media:content type="audio/mpeg" url="https://www.archive.org/download/japan_attempt_interpretation_1501_librivox/japaninterpretation_14_hearn_64kb.mp3"/>
+</item>
+<item>
+<title>The Jesuit peril - Part 1</title>
+<itunes:episode>15</itunes:episode>
+<!--<reader>file element=reader</reader> -->
+<link>https://librivox.org/japan-attempt-interpretation-by-lafcadio-hearn/</link>
+<enclosure length="0" type="audio/mpeg" url="https://www.archive.org/download/japan_attempt_interpretation_1501_librivox/japaninterpretation_15_hearn_64kb.mp3"/>
+<itunes:explicit>No</itunes:explicit>
+<itunes:block>No</itunes:block>
+<itunes:duration> </itunes:duration>
+<pubDate>Fri, 09 Jan 2015 00:14:00 +0000</pubDate>
+<media:content type="audio/mpeg" url="https://www.archive.org/download/japan_attempt_interpretation_1501_librivox/japaninterpretation_15_hearn_64kb.mp3"/>
+</item>
+<item>
+<title>The Jesuit peril - Part 2</title>
+<itunes:episode>16</itunes:episode>
+<!--<reader>file element=reader</reader> -->
+<link>https://librivox.org/japan-attempt-interpretation-by-lafcadio-hearn/</link>
+<enclosure length="0" type="audio/mpeg" url="https://www.archive.org/download/japan_attempt_interpretation_1501_librivox/japaninterpretation_16_hearn_64kb.mp3"/>
+<itunes:explicit>No</itunes:explicit>
+<itunes:block>No</itunes:block>
+<itunes:duration> </itunes:duration>
+<pubDate>Fri, 09 Jan 2015 00:15:00 +0000</pubDate>
+<media:content type="audio/mpeg" url="https://www.archive.org/download/japan_attempt_interpretation_1501_librivox/japaninterpretation_16_hearn_64kb.mp3"/>
+</item>
+<item>
+<title>Feudal integration</title>
+<itunes:episode>17</itunes:episode>
+<!--<reader>file element=reader</reader> -->
+<link>https://librivox.org/japan-attempt-interpretation-by-lafcadio-hearn/</link>
+<enclosure length="0" type="audio/mpeg" url="https://www.archive.org/download/japan_attempt_interpretation_1501_librivox/japaninterpretation_17_hearn_64kb.mp3"/>
+<itunes:explicit>No</itunes:explicit>
+<itunes:block>No</itunes:block>
+<itunes:duration> </itunes:duration>
+<pubDate>Fri, 09 Jan 2015 00:16:00 +0000</pubDate>
+<media:content type="audio/mpeg" url="https://www.archive.org/download/japan_attempt_interpretation_1501_librivox/japaninterpretation_17_hearn_64kb.mp3"/>
+</item>
+<item>
+<title>The Shinto revival</title>
+<itunes:episode>18</itunes:episode>
+<!--<reader>file element=reader</reader> -->
+<link>https://librivox.org/japan-attempt-interpretation-by-lafcadio-hearn/</link>
+<enclosure length="0" type="audio/mpeg" url="https://www.archive.org/download/japan_attempt_interpretation_1501_librivox/japaninterpretation_18_hearn_64kb.mp3"/>
+<itunes:explicit>No</itunes:explicit>
+<itunes:block>No</itunes:block>
+<itunes:duration> </itunes:duration>
+<pubDate>Fri, 09 Jan 2015 00:17:00 +0000</pubDate>
+<media:content type="audio/mpeg" url="https://www.archive.org/download/japan_attempt_interpretation_1501_librivox/japaninterpretation_18_hearn_64kb.mp3"/>
+</item>
+<item>
+<title>Survivals</title>
+<itunes:episode>19</itunes:episode>
+<!--<reader>file element=reader</reader> -->
+<link>https://librivox.org/japan-attempt-interpretation-by-lafcadio-hearn/</link>
+<enclosure length="0" type="audio/mpeg" url="https://www.archive.org/download/japan_attempt_interpretation_1501_librivox/japaninterpretation_19_hearn_64kb.mp3"/>
+<itunes:explicit>No</itunes:explicit>
+<itunes:block>No</itunes:block>
+<itunes:duration> </itunes:duration>
+<pubDate>Fri, 09 Jan 2015 00:18:00 +0000</pubDate>
+<media:content type="audio/mpeg" url="https://www.archive.org/download/japan_attempt_interpretation_1501_librivox/japaninterpretation_19_hearn_64kb.mp3"/>
+</item>
+<item>
+<title>Modern restraints</title>
+<itunes:episode>20</itunes:episode>
+<!--<reader>file element=reader</reader> -->
+<link>https://librivox.org/japan-attempt-interpretation-by-lafcadio-hearn/</link>
+<enclosure length="0" type="audio/mpeg" url="https://www.archive.org/download/japan_attempt_interpretation_1501_librivox/japaninterpretation_20_hearn_64kb.mp3"/>
+<itunes:explicit>No</itunes:explicit>
+<itunes:block>No</itunes:block>
+<itunes:duration> </itunes:duration>
+<pubDate>Fri, 09 Jan 2015 00:19:00 +0000</pubDate>
+<media:content type="audio/mpeg" url="https://www.archive.org/download/japan_attempt_interpretation_1501_librivox/japaninterpretation_20_hearn_64kb.mp3"/>
+</item>
+<item>
+<title>Official education</title>
+<itunes:episode>21</itunes:episode>
+<!--<reader>file element=reader</reader> -->
+<link>https://librivox.org/japan-attempt-interpretation-by-lafcadio-hearn/</link>
+<enclosure length="0" type="audio/mpeg" url="https://www.archive.org/download/japan_attempt_interpretation_1501_librivox/japaninterpretation_21_hearn_64kb.mp3"/>
+<itunes:explicit>No</itunes:explicit>
+<itunes:block>No</itunes:block>
+<itunes:duration> </itunes:duration>
+<pubDate>Fri, 09 Jan 2015 00:20:00 +0000</pubDate>
+<media:content type="audio/mpeg" url="https://www.archive.org/download/japan_attempt_interpretation_1501_librivox/japaninterpretation_21_hearn_64kb.mp3"/>
+</item>
+<item>
+<title>Industrial danger</title>
+<itunes:episode>22</itunes:episode>
+<!--<reader>file element=reader</reader> -->
+<link>https://librivox.org/japan-attempt-interpretation-by-lafcadio-hearn/</link>
+<enclosure length="0" type="audio/mpeg" url="https://www.archive.org/download/japan_attempt_interpretation_1501_librivox/japaninterpretation_22_hearn_64kb.mp3"/>
+<itunes:explicit>No</itunes:explicit>
+<itunes:block>No</itunes:block>
+<itunes:duration> </itunes:duration>
+<pubDate>Fri, 09 Jan 2015 00:21:00 +0000</pubDate>
+<media:content type="audio/mpeg" url="https://www.archive.org/download/japan_attempt_interpretation_1501_librivox/japaninterpretation_22_hearn_64kb.mp3"/>
+</item>
+<item>
+<title>Reflections</title>
+<itunes:episode>23</itunes:episode>
+<!--<reader>file element=reader</reader> -->
+<link>https://librivox.org/japan-attempt-interpretation-by-lafcadio-hearn/</link>
+<enclosure length="0" type="audio/mpeg" url="https://www.archive.org/download/japan_attempt_interpretation_1501_librivox/japaninterpretation_23_hearn_64kb.mp3"/>
+<itunes:explicit>No</itunes:explicit>
+<itunes:block>No</itunes:block>
+<itunes:duration> </itunes:duration>
+<pubDate>Fri, 09 Jan 2015 00:22:00 +0000</pubDate>
+<media:content type="audio/mpeg" url="https://www.archive.org/download/japan_attempt_interpretation_1501_librivox/japaninterpretation_23_hearn_64kb.mp3"/>
+</item>
+<item>
+<title>Appendix: Herbert Spencer's advice to Japan</title>
+<itunes:episode>24</itunes:episode>
+<!--<reader>file element=reader</reader> -->
+<link>https://librivox.org/japan-attempt-interpretation-by-lafcadio-hearn/</link>
+<enclosure length="0" type="audio/mpeg" url="https://www.archive.org/download/japan_attempt_interpretation_1501_librivox/japaninterpretation_24_hearn_64kb.mp3"/>
+<itunes:explicit>No</itunes:explicit>
+<itunes:block>No</itunes:block>
+<itunes:duration> </itunes:duration>
+<pubDate>Fri, 09 Jan 2015 00:23:00 +0000</pubDate>
+<media:content type="audio/mpeg" url="https://www.archive.org/download/japan_attempt_interpretation_1501_librivox/japaninterpretation_24_hearn_64kb.mp3"/>
+</item>
+<!-- end file loop -->
+</channel>
+</rss>

@@ -5,6 +5,7 @@ import bs4
 import datetime as dt
 import dateutil.parser as dp
 # import feedgen.util as fu
+import glob
 import locale
 import os
 import re
@@ -29,6 +30,10 @@ def canonical_datetime(date):
     return dt.datetime.fromtimestamp(parsed.timestamp(), tz=dt.timezone.utc)
 
 
+def canonical_page_url(url):
+    return re.sub(r'/+$', '', url) + '/'
+
+
 def get_audio_book_title(node):
     return node.find(class_='main-content').h1.get_text(strip=True)
 
@@ -42,6 +47,45 @@ def get_catalog_date(node):
     while date_node.name != 'dd':
         date_node = date_node.next_sibling
     return date_node.text
+
+
+def get_rss_channel_url(rss_source):
+    rss_xml = bs4.BeautifulSoup(rss_source, features="xml")
+    return rss_xml.channel.link.get_text(strip=True)
+
+
+def check_page_url_matches(specified_url, rss_url):
+    if canonical_page_url(specified_url) == canonical_page_url(rss_url):
+        return True
+    print(f"Warning: page {specified_url} refers to RSS linked to {rss_url}",
+          file=sys.stderr)
+    return False
+
+
+page_url_to_file = None
+
+
+def set_existing_file(page_url, filename):
+    assert page_url_to_file is not None
+    page_url_to_file[page_url] = filename
+
+
+def get_existing_file(page_url):
+    assert page_url_to_file is not None
+    if page_url not in page_url_to_file:
+        return None
+    return page_url_to_file[page_url]
+
+
+def scan_urls_in_existing_rss():
+    global page_url_to_file
+    page_url_to_file = {}
+    print("Scanning RSS files for existing source URLs"
+          " (--no-scan-existing to skip)", file=sys.stderr)
+    for rss_file in glob.glob("../docs/feeds/librivox-*.rss"):
+        with open(rss_file, 'rb') as f:
+            set_existing_file(get_rss_channel_url(f), rss_file)
+    print(f"Scanned {len(page_url_to_file)} RSS files", file=sys.stderr)
 
 
 def process_url(page_url, *, settings):
@@ -70,6 +114,9 @@ def process_url(page_url, *, settings):
     rss_response = requests.get(rss_url)
     rss_response.raise_for_status()
     rss_content = rss_response.content
+    rss_page_url = get_rss_channel_url(rss_content)
+    check_page_url_matches(page_url, rss_page_url)
+    # save original before checking for uniqueness
     if settings.save_orig:
         with open(file_orig, 'wb') as f:
             f.write(rss_content)
@@ -79,6 +126,13 @@ def process_url(page_url, *, settings):
             os.remove(file_orig)
         except FileNotFoundError:
             pass
+    if settings.scan_existing:
+        existing = get_existing_file(rss_page_url)
+        if existing is not None:
+            # TODO Or use the old file name? Maybe as an option?
+            print(f"Skipping {page_url}, already in {existing}",
+                  file=sys.stderr)
+            return
 
     next_date = cat_date
 
@@ -116,6 +170,7 @@ def process_url(page_url, *, settings):
         rss_content = rss_xml.encode('utf-8')
     with open(file_done, 'wb') as f:
         f.write(rss_content)
+    set_existing_file(rss_page_url, file_done)
     print(f"Wrote {file_done}", file=sys.stderr)
 
 
@@ -125,6 +180,8 @@ def parse_args():
     parser.add_argument('-n', '--name', action='store')
     parser.add_argument('-i', '--id-last', action='store_true')
     parser.add_argument('-o', '--save-orig', action='store_true')
+    parser.add_argument('--scan-existing', default=True,
+                        action=argparse.BooleanOptionalAction)
     parser.add_argument('urls', metavar='LIBRIVOX_URL', nargs='+')
     settings = parser.parse_args()
     return settings
@@ -132,6 +189,8 @@ def parse_args():
 
 def main():
     settings = parse_args()
+    if settings.scan_existing:
+        scan_urls_in_existing_rss()
     for url in settings.urls:
         process_url(url, settings=settings)
 

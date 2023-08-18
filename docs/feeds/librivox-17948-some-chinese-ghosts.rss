@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/">
+<channel>
+<title>Some Chinese Ghosts by Lafcadio Hearn (1850 - 1904)</title>
+<link>https://librivox.org/some-chinese-ghosts-by-lafcadio-hearn/</link>
+<atom:link href="https://librivox.org/rss/17948" rel="self"/>
+<description>Noted writer of Asian folklore Lafcadio Hearn brings us a volume of mysterious and magical folk stories from the country of China. - Summary by Ben Tucker</description>
+<!--<genre>project element=Genre</genre>-->
+<!--<language>project element=lang.code</language>-->
+<itunes:type>serial</itunes:type>
+<itunes:author>LibriVox</itunes:author>
+<itunes:summary>Noted writer of Asian folklore Lafcadio Hearn brings us a volume of mysterious and magical folk stories from the country of China. - Summary by Ben Tucker</itunes:summary>
+<itunes:owner>
+<itunes:name>LibriVox</itunes:name>
+<itunes:email>info@librivox.org</itunes:email>
+</itunes:owner>
+<itunes:category text="Arts">
+<itunes:category text="Literature"/>
+</itunes:category>
+<itunes:image href="https://archive.org/download/some_chinese_ghosts_2205_librivox/chineseghosts_2206.jpg"/> <!-- file loop -->
+<image><url>https://archive.org/download/some_chinese_ghosts_2205_librivox/chineseghosts_2206.jpg</url></image><itunes:image href="https://archive.org/download/some_chinese_ghosts_2205_librivox/chineseghosts_2206.jpg"/><itunes:explicit>no</itunes:explicit><item>
+<title>Preface</title>
+<itunes:episode>1</itunes:episode>
+<!--<reader>file element=reader</reader> -->
+<link>https://librivox.org/some-chinese-ghosts-by-lafcadio-hearn/</link>
+<enclosure length="0" type="audio/mpeg" url="https://www.archive.org/download/some_chinese_ghosts_2205_librivox/somechineseghosts_01_hearn_64kb.mp3"/>
+<itunes:explicit>No</itunes:explicit>
+<itunes:block>No</itunes:block>
+<itunes:duration> </itunes:duration>
+<pubDate>Sat, 28 May 2022 00:00:00 +0000</pubDate>
+<media:content type="audio/mpeg" url="https://www.archive.org/download/some_chinese_ghosts_2205_librivox/somechineseghosts_01_hearn_64kb.mp3"/>
+</item>
+<item>
+<title>The Soul Of The Great Bell</title>
+<itunes:episode>2</itunes:episode>
+<!--<reader>file element=reader</reader> -->
+<link>https://librivox.org/some-chinese-ghosts-by-lafcadio-hearn/</link>
+<enclosure length="0" type="audio/mpeg" url="https://www.archive.org/download/some_chinese_ghosts_2205_librivox/somechineseghosts_02_hearn_64kb.mp3"/>
+<itunes:explicit>No</itunes:explicit>
+<itunes:block>No</itunes:block>
+<itunes:duration> </itunes:duration>
+<pubDate>Sat, 28 May 2022 00:01:00 +0000</pubDate>
+<media:content type="audio/mpeg" url="https://www.archive.org/download/some_chinese_ghosts_2205_librivox/somechineseghosts_02_hearn_64kb.mp3"/>
+</item>
+<item>
+<title>The Story Of Ming-Y</title>
+<itunes:episode>3</itunes:episode>
+<!--<reader>file element=reader</reader> -->
+<link>https://librivox.org/some-chinese-ghosts-by-lafcadio-hearn/</link>
+<enclosure length="0" type="audio/mpeg" url="https://www.archive.org/download/some_chinese_ghosts_2205_librivox/somechineseghosts_03_hearn_64kb.mp3"/>
+<itunes:explicit>No</itunes:explicit>
+<itunes:block>No</itunes:block>
+<itunes:duration> </itunes:duration>
+<pubDate>Sat, 28 May 2022 00:02:00 +0000</pubDate>
+<media:content type="audio/mpeg" url="https://www.archive.org/download/some_chinese_ghosts_2205_librivox/somechineseghosts_03_hearn_64kb.mp3"/>
+</item>
+<item>
+<title>The Legend Of Tchi-Niu</title>
+<itunes:episode>4</itunes:episode>
+<!--<reader>file element=reader</reader> -->
+<link>https://librivox.org/some-chinese-ghosts-by-lafcadio-hearn/</link>
+<enclosure length="0" type="audio/mpeg" url="https://www.archive.org/download/some_chinese_ghosts_2205_librivox/somechineseghosts_04_hearn_64kb.mp3"/>
+<itunes:explicit>No</itunes:explicit>
+<itunes:block>No</itunes:block>
+<itunes:duration> </itunes:duration>
+<pubDate>Sat, 28 May 2022 00:03:00 +0000</pubDate>
+<media:content type="audio/mpeg" url="https://www.archive.org/download/some_chinese_ghosts_2205_librivox/somechineseghosts_04_hearn_64kb.mp3"/>
+</item>
+<item>
+<title>The Return Of Yen-Tchin-King</title>
+<itunes:episode>5</itunes:episode>
+<!--<reader>file element=reader</reader> -->
+<link>https://librivox.org/some-chinese-ghosts-by-lafcadio-hearn/</link>
+<enclosure length="0" type="audio/mpeg" url="https://www.archive.org/download/some_chinese_ghosts_2205_librivox/somechineseghosts_05_hearn_64kb.mp3"/>
+<itunes:explicit>No</itunes:explicit>
+<itunes:block>No</itunes:block>
+<itunes:duration> </itunes:duration>
+<pubDate>Sat, 28 May 2022 00:04:00 +0000</pubDate>
+<media:content type="audio/mpeg" url="https://www.archive.org/download/some_chinese_ghosts_2205_librivox/somechineseghosts_05_hearn_64kb.mp3"/>
+</item>
+<item>
+<title>The Tradition Of The Tea-Plant</title>
+<itunes:episode>6</itunes:episode>
+<!--<reader>file element=reader</reader> -->
+<link>https://librivox.org/some-chinese-ghosts-by-lafcadio-hearn/</link>
+<enclosure length="0" type="audio/mpeg" url="https://www.archive.org/download/some_chinese_ghosts_2205_librivox/somechineseghosts_06_hearn_64kb.mp3"/>
+<itunes:explicit>No</itunes:explicit>
+<itunes:block>No</itunes:block>
+<itunes:duration> </itunes:duration>
+<pubDate>Sat, 28 May 2022 00:05:00 +0000</pubDate>
+<media:content type="audio/mpeg" url="https://www.archive.org/download/some_chinese_ghosts_2205_librivox/somechineseghosts_06_hearn_64kb.mp3"/>
+</item>
+<item>
+<title>The Tale Of The Porcelain-God</title>
+<itunes:episode>7</itunes:episode>
+<!--<reader>file element=reader</reader> -->
+<link>https://librivox.org/some-chinese-ghosts-by-lafcadio-hearn/</link>
+<enclosure length="0" type="audio/mpeg" url="https://www.archive.org/download/some_chinese_ghosts_2205_librivox/somechineseghosts_07_hearn_64kb.mp3"/>
+<itunes:explicit>No</itunes:explicit>
+<itunes:block>No</itunes:block>
+<itunes:duration> </itunes:duration>
+<pubDate>Sat, 28 May 2022 00:06:00 +0000</pubDate>
+<media:content type="audio/mpeg" url="https://www.archive.org/download/some_chinese_ghosts_2205_librivox/somechineseghosts_07_hearn_64kb.mp3"/>
+</item>
+<item>
+<title>Notes</title>
+<itunes:episode>8</itunes:episode>
+<!--<reader>file element=reader</reader> -->
+<link>https://librivox.org/some-chinese-ghosts-by-lafcadio-hearn/</link>
+<enclosure length="0" type="audio/mpeg" url="https://www.archive.org/download/some_chinese_ghosts_2205_librivox/somechineseghosts_08_hearn_64kb.mp3"/>
+<itunes:explicit>No</itunes:explicit>
+<itunes:block>No</itunes:block>
+<itunes:duration> </itunes:duration>
+<pubDate>Sat, 28 May 2022 00:07:00 +0000</pubDate>
+<media:content type="audio/mpeg" url="https://www.archive.org/download/some_chinese_ghosts_2205_librivox/somechineseghosts_08_hearn_64kb.mp3"/>
+</item>
+<item>
+<title>Glossary</title>
+<itunes:episode>9</itunes:episode>
+<!--<reader>file element=reader</reader> -->
+<link>https://librivox.org/some-chinese-ghosts-by-lafcadio-hearn/</link>
+<enclosure length="0" type="audio/mpeg" url="https://www.archive.org/download/some_chinese_ghosts_2205_librivox/somechineseghosts_09_hearn_64kb.mp3"/>
+<itunes:explicit>No</itunes:explicit>
+<itunes:block>No</itunes:block>
+<itunes:duration> </itunes:duration>
+<pubDate>Sat, 28 May 2022 00:08:00 +0000</pubDate>
+<media:content type="audio/mpeg" url="https://www.archive.org/download/some_chinese_ghosts_2205_librivox/somechineseghosts_09_hearn_64kb.mp3"/>
+</item>
+<!-- end file loop -->
+</channel>
+</rss>

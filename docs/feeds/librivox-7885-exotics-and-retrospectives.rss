@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/">
+<channel>
+<title>Exotics and Retrospectives by Lafcadio Hearn (1850 - 1904)</title>
+<link>https://librivox.org/exotics-and-retrospectives-by-lafcadio-hearn/</link>
+<atom:link href="https://librivox.org/rss/7885" rel="self"/>
+<description>Lafcadio Hearn, born 1850 in Greece, went to Japan when he was 40 years old and became a Japanese citizen only 6 years later. His writings about Japan from the beginning of the Meiji era, when the country was just opening to the West, remain among the most important explanations of Japanese culture. 
+
+This book contains in the first part, "Exotics", his observations of and personal insights into Japan. For example, Fuji no Yama tells about him climbing the highest mountain in Japan; and A Question in the Zen Texts, Literature of the Dead, and Of Moon Desire try to explain Buddhist teachings. In the second part, "Retrospectives", Hearn leaves both Japan and his vantage point as impartial observer behind and delves into personal experiences and musings that occurred to him in the numerous countries he visited. The main topic of these very personal pieces is beauty in all its forms. (Summary by Availle)</description>
+<!--<genre>project element=Genre</genre>-->
+<!--<language>project element=lang.code</language>-->
+<itunes:type>serial</itunes:type>
+<itunes:author>LibriVox</itunes:author>
+<itunes:summary>Lafcadio Hearn, born 1850 in Greece, went to Japan when he was 40 years old and became a Japanese citizen only 6 years later. His writings about Japan from the beginning of the Meiji era, when the country was just opening to the West, remain among the most important explanations of Japanese culture. 
+
+This book contains in the first part, "Exotics", his observations of and personal insights into Japan. For example, Fuji no Yama tells about him climbing the highest mountain in Japan; and A Question in the Zen Texts, Literature of the Dead, and Of Moon Desire try to explain Buddhist teachings. In the second part, "Retrospectives", Hearn leaves both Japan and his vantage point as impartial observer behind and delves into personal experiences and musings that occurred to him in the numerous countries he visited. The main topic of these very personal pieces is beauty in all its forms. (Summary by Availle)</itunes:summary>
+<itunes:owner>
+<itunes:name>LibriVox</itunes:name>
+<itunes:email>info@librivox.org</itunes:email>
+</itunes:owner>
+<itunes:category text="Arts">
+<itunes:category text="Literature"/>
+</itunes:category>
+<itunes:image href="https://archive.org/download/LibrivoxCdCoverArt17/exoticsretrospectives_1503.jpg"/> <!-- file loop -->
+<image><url>https://archive.org/download/LibrivoxCdCoverArt17/exoticsretrospectives_1503.jpg</url></image><itunes:image href="https://archive.org/download/LibrivoxCdCoverArt17/exoticsretrospectives_1503.jpg"/><itunes:explicit>no</itunes:explicit><item>
+<title>Foreword</title>
+<itunes:episode>0</itunes:episode>
+<!--<reader>file element=reader</reader> -->
+<link>https://librivox.org/exotics-and-retrospectives-by-lafcadio-hearn/</link>
+<enclosure length="0" type="audio/mpeg" url="https://www.archive.org/download/exotics_retrospectives_1503_librivox/exoticsretrospectives_00_hearn_64kb.mp3"/>
+<itunes:explicit>No</itunes:explicit>
+<itunes:block>No</itunes:block>
+<itunes:duration> </itunes:duration>
+<pubDate>Mon, 30 Mar 2015 00:00:00 +0000</pubDate>
+<media:content type="audio/mpeg" url="https://www.archive.org/download/exotics_retrospectives_1503_librivox/exoticsretrospectives_00_hearn_64kb.mp3"/>
+</item>
+<item>
+<title>EXOTICS: I Fuji-No-Yama</title>
+<itunes:episode>1</itunes:episode>
+<!--<reader>file element=reader</reader> -->
+<link>https://librivox.org/exotics-and-retrospectives-by-lafcadio-hearn/</link>
+<enclosure length="0" type="audio/mpeg" url="https://www.archive.org/download/exotics_retrospectives_1503_librivox/exoticsretrospectives_01_hearn_64kb.mp3"/>
+<itunes:explicit>No</itunes:explicit>
+<itunes:block>No</itunes:block>
+<itunes:duration> </itunes:duration>
+<pubDate>Mon, 30 Mar 2015 00:01:00 +0000</pubDate>
+<media:content type="audio/mpeg" url="https://www.archive.org/download/exotics_retrospectives_1503_librivox/exoticsretrospectives_01_hearn_64kb.mp3"/>
+</item>
+<item>
+<title>II Insect Musicians</title>
+<itunes:episode>2</itunes:episode>
+<!--<reader>file element=reader</reader> -->
+<link>https://librivox.org/exotics-and-retrospectives-by-lafcadio-hearn/</link>
+<enclosure length="0" type="audio/mpeg" url="https://www.archive.org/download/exotics_retrospectives_1503_librivox/exoticsretrospectives_02_hearn_64kb.mp3"/>
+<itunes:explicit>No</itunes:explicit>
+<itunes:block>No</itunes:block>
+<itunes:duration> </itunes:duration>
+<pubDate>Mon, 30 Mar 2015 00:02:00 +0000</pubDate>
+<media:content type="audio/mpeg" url="https://www.archive.org/download/exotics_retrospectives_1503_librivox/exoticsretrospectives_02_hearn_64kb.mp3"/>
+</item>
+<item>
+<title>III A Question in the Zen Texts</title>
+<itunes:episode>3</itunes:episode>
+<!--<reader>file element=reader</reader> -->
+<link>https://librivox.org/exotics-and-retrospectives-by-lafcadio-hearn/</link>
+<enclosure length="0" type="audio/mpeg" url="https://www.archive.org/download/exotics_retrospectives_1503_librivox/exoticsretrospectives_03_hearn_64kb.mp3"/>
+<itunes:explicit>No</itunes:explicit>
+<itunes:block>No</itunes:block>
+<itunes:duration> </itunes:duration>
+<pubDate>Mon, 30 Mar 2015 00:03:00 +0000</pubDate>
+<media:content type="audio/mpeg" url="https://www.archive.org/download/exotics_retrospectives_1503_librivox/exoticsretrospectives_03_hearn_64kb.mp3"/>
+</item>
+<item>
+<title>IV The Literature of the Dead, Part 1</title>
+<itunes:episode>4</itunes:episode>
+<!--<reader>file element=reader</reader> -->
+<link>https://librivox.org/exotics-and-retrospectives-by-lafcadio-hearn/</link>
+<enclosure length="0" type="audio/mpeg" url="https://www.archive.org/download/exotics_retrospectives_1503_librivox/exoticsretrospectives_04_hearn_64kb.mp3"/>
+<itunes:explicit>No</itunes:explicit>
+<itunes:block>No</itunes:block>
+<itunes:duration> </itunes:duration>
+<pubDate>Mon, 30 Mar 2015 00:04:00 +0000</pubDate>
+<media:content type="audio/mpeg" url="https://www.archive.org/download/exotics_retrospectives_1503_librivox/exoticsretrospectives_04_hearn_64kb.mp3"/>
+</item>
+<item>
+<title>IV The Literature of the Dead, Part 2</title>
+<itunes:episode>5</itunes:episode>
+<!--<reader>file element=reader</reader> -->
+<link>https://librivox.org/exotics-and-retrospectives-by-lafcadio-hearn/</link>
+<enclosure length="0" type="audio/mpeg" url="https://www.archive.org/download/exotics_retrospectives_1503_librivox/exoticsretrospectives_05_hearn_64kb.mp3"/>
+<itunes:explicit>No</itunes:explicit>
+<itunes:block>No</itunes:block>
+<itunes:duration> </itunes:duration>
+<pubDate>Mon, 30 Mar 2015 00:05:00 +0000</pubDate>
+<media:content type="audio/mpeg" url="https://www.archive.org/download/exotics_retrospectives_1503_librivox/exoticsretrospectives_05_hearn_64kb.mp3"/>
+</item>
+<item>
+<title>V Frogs</title>
+<itunes:episode>6</itunes:episode>
+<!--<reader>file element=reader</reader> -->
+<link>https://librivox.org/exotics-and-retrospectives-by-lafcadio-hearn/</link>
+<enclosure length="0" type="audio/mpeg" url="https://www.archive.org/download/exotics_retrospectives_1503_librivox/exoticsretrospectives_06_hearn_64kb.mp3"/>
+<itunes:explicit>No</itunes:explicit>
+<itunes:block>No</itunes:block>
+<itunes:duration> </itunes:duration>
+<pubDate>Mon, 30 Mar 2015 00:06:00 +0000</pubDate>
+<media:content type="audio/mpeg" url="https://www.archive.org/download/exotics_retrospectives_1503_librivox/exoticsretrospectives_06_hearn_64kb.mp3"/>
+</item>
+<item>
+<title>VI Of Moon-Desire</title>
+<itunes:episode>7</itunes:episode>
+<!--<reader>file element=reader</reader> -->
+<link>https://librivox.org/exotics-and-retrospectives-by-lafcadio-hearn/</link>
+<enclosure length="0" type="audio/mpeg" url="https://www.archive.org/download/exotics_retrospectives_1503_librivox/exoticsretrospectives_07_hearn_64kb.mp3"/>
+<itunes:explicit>No</itunes:explicit>
+<itunes:block>No</itunes:block>
+<itunes:duration> </itunes:duration>
+<pubDate>Mon, 30 Mar 2015 00:07:00 +0000</pubDate>
+<media:content type="audio/mpeg" url="https://www.archive.org/download/exotics_retrospectives_1503_librivox/exoticsretrospectives_07_hearn_64kb.mp3"/>
+</item>
+<item>
+<title>RETROSPECTIVES: VII First Impressions</title>
+<itunes:episode>8</itunes:episode>
+<!--<reader>file element=reader</reader> -->
+<link>https://librivox.org/exotics-and-retrospectives-by-lafcadio-hearn/</link>
+<enclosure length="0" type="audio/mpeg" url="https://www.archive.org/download/exotics_retrospectives_1503_librivox/exoticsretrospectives_08_hearn_64kb.mp3"/>
+<itunes:explicit>No</itunes:explicit>
+<itunes:block>No</itunes:block>
+<itunes:duration> </itunes:duration>
+<pubDate>Mon, 30 Mar 2015 00:08:00 +0000</pubDate>
+<media:content type="audio/mpeg" url="https://www.archive.org/download/exotics_retrospectives_1503_librivox/exoticsretrospectives_08_hearn_64kb.mp3"/>
+</item>
+<item>
+<title>VIII Beauty is Memory</title>
+<itunes:episode>9</itunes:episode>
+<!--<reader>file element=reader</reader> -->
+<link>https://librivox.org/exotics-and-retrospectives-by-lafcadio-hearn/</link>
+<enclosure length="0" type="audio/mpeg" url="https://www.archive.org/download/exotics_retrospectives_1503_librivox/exoticsretrospectives_09_hearn_64kb.mp3"/>
+<itunes:explicit>No</itunes:explicit>
+<itunes:block>No</itunes:block>
+<itunes:duration> </itunes:duration>
+<pubDate>Mon, 30 Mar 2015 00:09:00 +0000</pubDate>
+<media:content type="audio/mpeg" url="https://www.archive.org/download/exotics_retrospectives_1503_librivox/exoticsretrospectives_09_hearn_64kb.mp3"/>
+</item>
+<item>
+<title>IX Sadness in Beauty</title>
+<itunes:episode>10</itunes:episode>
+<!--<reader>file element=reader</reader> -->
+<link>https://librivox.org/exotics-and-retrospectives-by-lafcadio-hearn/</link>
+<enclosure length="0" type="audio/mpeg" url="https://www.archive.org/download/exotics_retrospectives_1503_librivox/exoticsretrospectives_10_hearn_64kb.mp3"/>
+<itunes:explicit>No</itunes:explicit>
+<itunes:block>No</itunes:block>
+<itunes:duration> </itunes:duration>
+<pubDate>Mon, 30 Mar 2015 00:10:00 +0000</pubDate>
+<media:content type="audio/mpeg" url="https://www.archive.org/download/exotics_retrospectives_1503_librivox/exoticsretrospectives_10_hearn_64kb.mp3"/>
+</item>
+<item>
+<title>X Parfum de Jeunesse</title>
+<itunes:episode>11</itunes:episode>
+<!--<reader>file element=reader</reader> -->
+<link>https://librivox.org/exotics-and-retrospectives-by-lafcadio-hearn/</link>
+<enclosure length="0" type="audio/mpeg" url="https://www.archive.org/download/exotics_retrospectives_1503_librivox/exoticsretrospectives_11_hearn_64kb.mp3"/>
+<itunes:explicit>No</itunes:explicit>
+<itunes:block>No</itunes:block>
+<itunes:duration> </itunes:duration>
+<pubDate>Mon, 30 Mar 2015 00:11:00 +0000</pubDate>
+<media:content type="audio/mpeg" url="https://www.archive.org/download/exotics_retrospectives_1503_librivox/exoticsretrospectives_11_hearn_64kb.mp3"/>
+</item>
+<item>
+<title>XI Azure Psychology</title>
+<itunes:episode>12</itunes:episode>
+<!--<reader>file element=reader</reader> -->
+<link>https://librivox.org/exotics-and-retrospectives-by-lafcadio-hearn/</link>
+<enclosure length="0" type="audio/mpeg" url="https://www.archive.org/download/exotics_retrospectives_1503_librivox/exoticsretrospectives_12_hearn_64kb.mp3"/>
+<itunes:explicit>No</itunes:explicit>
+<itunes:block>No</itunes:block>
+<itunes:duration> </itunes:duration>
+<pubDate>Mon, 30 Mar 2015 00:12:00 +0000</pubDate>
+<media:content type="audio/mpeg" url="https://www.archive.org/download/exotics_retrospectives_1503_librivox/exoticsretrospectives_12_hearn_64kb.mp3"/>
+</item>
+<item>
+<title>XII A Serenade</title>
+<itunes:episode>13</itunes:episode>
+<!--<reader>file element=reader</reader> -->
+<link>https://librivox.org/exotics-and-retrospectives-by-lafcadio-hearn/</link>
+<enclosure length="0" type="audio/mpeg" url="https://www.archive.org/download/exotics_retrospectives_1503_librivox/exoticsretrospectives_13_hearn_64kb.mp3"/>
+<itunes:explicit>No</itunes:explicit>
+<itunes:block>No</itunes:block>
+<itunes:duration> </itunes:duration>
+<pubDate>Mon, 30 Mar 2015 00:13:00 +0000</pubDate>
+<media:content type="audio/mpeg" url="https://www.archive.org/download/exotics_retrospectives_1503_librivox/exoticsretrospectives_13_hearn_64kb.mp3"/>
+</item>
+<item>
+<title>XIII A Red Sunset</title>
+<itunes:episode>14</itunes:episode>
+<!--<reader>file element=reader</reader> -->
+<link>https://librivox.org/exotics-and-retrospectives-by-lafcadio-hearn/</link>
+<enclosure length="0" type="audio/mpeg" url="https://www.archive.org/download/exotics_retrospectives_1503_librivox/exoticsretrospectives_14_hearn_64kb.mp3"/>
+<itunes:explicit>No</itunes:explicit>
+<itunes:block>No</itunes:block>
+<itunes:duration> </itunes:duration>
+<pubDate>Mon, 30 Mar 2015 00:14:00 +0000</pubDate>
+<media:content type="audio/mpeg" url="https://www.archive.org/download/exotics_retrospectives_1503_librivox/exoticsretrospectives_14_hearn_64kb.mp3"/>
+</item>
+<item>
+<title>XIV Frisson</title>
+<itunes:episode>15</itunes:episode>
+<!--<reader>file element=reader</reader> -->
+<link>https://librivox.org/exotics-and-retrospectives-by-lafcadio-hearn/</link>
+<enclosure length="0" type="audio/mpeg" url="https://www.archive.org/download/exotics_retrospectives_1503_librivox/exoticsretrospectives_15_hearn_64kb.mp3"/>
+<itunes:explicit>No</itunes:explicit>
+<itunes:block>No</itunes:block>
+<itunes:duration> </itunes:duration>
+<pubDate>Mon, 30 Mar 2015 00:15:00 +0000</pubDate>
+<media:content type="audio/mpeg" url="https://www.archive.org/download/exotics_retrospectives_1503_librivox/exoticsretrospectives_15_hearn_64kb.mp3"/>
+</item>
+<item>
+<title>XV Vespertina Cognitio</title>
+<itunes:episode>16</itunes:episode>
+<!--<reader>file element=reader</reader> -->
+<link>https://librivox.org/exotics-and-retrospectives-by-lafcadio-hearn/</link>
+<enclosure length="0" type="audio/mpeg" url="https://www.archive.org/download/exotics_retrospectives_1503_librivox/exoticsretrospectives_16_hearn_64kb.mp3"/>
+<itunes:explicit>No</itunes:explicit>
+<itunes:block>No</itunes:block>
+<itunes:duration> </itunes:duration>
+<pubDate>Mon, 30 Mar 2015 00:16:00 +0000</pubDate>
+<media:content type="audio/mpeg" url="https://www.archive.org/download/exotics_retrospectives_1503_librivox/exoticsretrospectives_16_hearn_64kb.mp3"/>
+</item>
+<item>
+<title>XVI The Eternal Haunter</title>
+<itunes:episode>17</itunes:episode>
+<!--<reader>file element=reader</reader> -->
+<link>https://librivox.org/exotics-and-retrospectives-by-lafcadio-hearn/</link>
+<enclosure length="0" type="audio/mpeg" url="https://www.archive.org/download/exotics_retrospectives_1503_librivox/exoticsretrospectives_17_hearn_64kb.mp3"/>
+<itunes:explicit>No</itunes:explicit>
+<itunes:block>No</itunes:block>
+<itunes:duration> </itunes:duration>
+<pubDate>Mon, 30 Mar 2015 00:17:00 +0000</pubDate>
+<media:content type="audio/mpeg" url="https://www.archive.org/download/exotics_retrospectives_1503_librivox/exoticsretrospectives_17_hearn_64kb.mp3"/>
+</item>
+<!-- end file loop -->
+</channel>
+</rss>

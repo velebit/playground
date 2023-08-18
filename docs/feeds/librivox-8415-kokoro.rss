@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/">
+<channel>
+<title>Kokoro: Hints and Echoes of Japanese Inner Life by Lafcadio Hearn (1850 - 1904)</title>
+<link>https://librivox.org/kokoro-by-lafcadio-hearn/</link>
+<atom:link href="https://librivox.org/rss/8415" rel="self"/>
+<description>In an introductory paragraph, Lafcadio Hearn declares his intention:  "The papers composing this volume treat of the inner rather than of the outer life of Japan, for which reason they have been grouped under the title Kokoro (heart). Written with the above character, this word signifies also mind, in the emotional sense; spirit; courage; resolve; sentiment; affection; and inner meaning, just as we say in English, "the heart of things.""  The result is a highly eclectic collection of stories, diary entries, cultural essays, and collected traditional texts that illustrate not only the state of Japanese society in the 1890s but also the endlessly fascinating issue of the intersection of cultures as demonstrated in a Westerner's interpretations of what he observed in Japan.  As much is revealed about the Western mind as the Japanese mind whenever such an intersection occurs. - Summary by Expatriate</description>
+<!--<genre>project element=Genre</genre>-->
+<!--<language>project element=lang.code</language>-->
+<itunes:type>serial</itunes:type>
+<itunes:author>LibriVox</itunes:author>
+<itunes:summary>In an introductory paragraph, Lafcadio Hearn declares his intention:  "The papers composing this volume treat of the inner rather than of the outer life of Japan, for which reason they have been grouped under the title Kokoro (heart). Written with the above character, this word signifies also mind, in the emotional sense; spirit; courage; resolve; sentiment; affection; and inner meaning, just as we say in English, "the heart of things.""  The result is a highly eclectic collection of stories, diary entries, cultural essays, and collected traditional texts that illustrate not only the state of Japanese society in the 1890s but also the endlessly fascinating issue of the intersection of cultures as demonstrated in a Westerner's interpretations of what he observed in Japan.  As much is revealed about the Western mind as the Japanese mind whenever such an intersection occurs. - Summary by Expatriate</itunes:summary>
+<itunes:owner>
+<itunes:name>LibriVox</itunes:name>
+<itunes:email>info@librivox.org</itunes:email>
+</itunes:owner>
+<itunes:category text="Arts">
+<itunes:category text="Literature"/>
+</itunes:category>
+<itunes:image href="https://archive.org/download/LibrivoxCdCoverArt33/kokorohearn_1312.jpg"/> <!-- file loop -->
+<image><url>https://archive.org/download/LibrivoxCdCoverArt33/kokorohearn_1312.jpg</url></image><itunes:image href="https://archive.org/download/LibrivoxCdCoverArt33/kokorohearn_1312.jpg"/><itunes:explicit>no</itunes:explicit><item>
+<title>At a Railway Station</title>
+<itunes:episode>1</itunes:episode>
+<!--<reader>file element=reader</reader> -->
+<link>https://librivox.org/kokoro-by-lafcadio-hearn/</link>
+<enclosure length="0" type="audio/mpeg" url="https://www.archive.org/download/kokoro_hearn_1312_librivox/kokoro_01_hearn_64kb.mp3"/>
+<itunes:explicit>No</itunes:explicit>
+<itunes:block>No</itunes:block>
+<itunes:duration> </itunes:duration>
+<pubDate>Tue, 03 Dec 2013 00:00:00 +0000</pubDate>
+<media:content type="audio/mpeg" url="https://www.archive.org/download/kokoro_hearn_1312_librivox/kokoro_01_hearn_64kb.mp3"/>
+</item>
+<item>
+<title>The Genius of Japanese Civilization, Pt. 1</title>
+<itunes:episode>2</itunes:episode>
+<!--<reader>file element=reader</reader> -->
+<link>https://librivox.org/kokoro-by-lafcadio-hearn/</link>
+<enclosure length="0" type="audio/mpeg" url="https://www.archive.org/download/kokoro_hearn_1312_librivox/kokoro_02_hearn_64kb.mp3"/>
+<itunes:explicit>No</itunes:explicit>
+<itunes:block>No</itunes:block>
+<itunes:duration> </itunes:duration>
+<pubDate>Tue, 03 Dec 2013 00:01:00 +0000</pubDate>
+<media:content type="audio/mpeg" url="https://www.archive.org/download/kokoro_hearn_1312_librivox/kokoro_02_hearn_64kb.mp3"/>
+</item>
+<item>
+<title>The Genius of Japanese Civilization, Pt. 2</title>
+<itunes:episode>3</itunes:episode>
+<!--<reader>file element=reader</reader> -->
+<link>https://librivox.org/kokoro-by-lafcadio-hearn/</link>
+<enclosure length="0" type="audio/mpeg" url="https://www.archive.org/download/kokoro_hearn_1312_librivox/kokoro_03_hearn_64kb.mp3"/>
+<itunes:explicit>No</itunes:explicit>
+<itunes:block>No</itunes:block>
+<itunes:duration> </itunes:duration>
+<pubDate>Tue, 03 Dec 2013 00:02:00 +0000</pubDate>
+<media:content type="audio/mpeg" url="https://www.archive.org/download/kokoro_hearn_1312_librivox/kokoro_03_hearn_64kb.mp3"/>
+</item>
+<item>
+<title>A Street Singer</title>
+<itunes:episode>4</itunes:episode>
+<!--<reader>file element=reader</reader> -->
+<link>https://librivox.org/kokoro-by-lafcadio-hearn/</link>
+<enclosure length="0" type="audio/mpeg" url="https://www.archive.org/download/kokoro_hearn_1312_librivox/kokoro_04_hearn_64kb.mp3"/>
+<itunes:explicit>No</itunes:explicit>
+<itunes:block>No</itunes:block>
+<itunes:duration> </itunes:duration>
+<pubDate>Tue, 03 Dec 2013 00:03:00 +0000</pubDate>
+<media:content type="audio/mpeg" url="https://www.archive.org/download/kokoro_hearn_1312_librivox/kokoro_04_hearn_64kb.mp3"/>
+</item>
+<item>
+<title>From a Traveling Diary</title>
+<itunes:episode>5</itunes:episode>
+<!--<reader>file element=reader</reader> -->
+<link>https://librivox.org/kokoro-by-lafcadio-hearn/</link>
+<enclosure length="0" type="audio/mpeg" url="https://www.archive.org/download/kokoro_hearn_1312_librivox/kokoro_05_hearn_64kb.mp3"/>
+<itunes:explicit>No</itunes:explicit>
+<itunes:block>No</itunes:block>
+<itunes:duration> </itunes:duration>
+<pubDate>Tue, 03 Dec 2013 00:04:00 +0000</pubDate>
+<media:content type="audio/mpeg" url="https://www.archive.org/download/kokoro_hearn_1312_librivox/kokoro_05_hearn_64kb.mp3"/>
+</item>
+<item>
+<title>The Nun of the Temple of Amida</title>
+<itunes:episode>6</itunes:episode>
+<!--<reader>file element=reader</reader> -->
+<link>https://librivox.org/kokoro-by-lafcadio-hearn/</link>
+<enclosure length="0" type="audio/mpeg" url="https://www.archive.org/download/kokoro_hearn_1312_librivox/kokoro_06_hearn_64kb.mp3"/>
+<itunes:explicit>No</itunes:explicit>
+<itunes:block>No</itunes:block>
+<itunes:duration> </itunes:duration>
+<pubDate>Tue, 03 Dec 2013 00:05:00 +0000</pubDate>
+<media:content type="audio/mpeg" url="https://www.archive.org/download/kokoro_hearn_1312_librivox/kokoro_06_hearn_64kb.mp3"/>
+</item>
+<item>
+<title>After the War</title>
+<itunes:episode>7</itunes:episode>
+<!--<reader>file element=reader</reader> -->
+<link>https://librivox.org/kokoro-by-lafcadio-hearn/</link>
+<enclosure length="0" type="audio/mpeg" url="https://www.archive.org/download/kokoro_hearn_1312_librivox/kokoro_07_hearn_64kb.mp3"/>
+<itunes:explicit>No</itunes:explicit>
+<itunes:block>No</itunes:block>
+<itunes:duration> </itunes:duration>
+<pubDate>Tue, 03 Dec 2013 00:06:00 +0000</pubDate>
+<media:content type="audio/mpeg" url="https://www.archive.org/download/kokoro_hearn_1312_librivox/kokoro_07_hearn_64kb.mp3"/>
+</item>
+<item>
+<title>Haru</title>
+<itunes:episode>8</itunes:episode>
+<!--<reader>file element=reader</reader> -->
+<link>https://librivox.org/kokoro-by-lafcadio-hearn/</link>
+<enclosure length="0" type="audio/mpeg" url="https://www.archive.org/download/kokoro_hearn_1312_librivox/kokoro_08_hearn_64kb.mp3"/>
+<itunes:explicit>No</itunes:explicit>
+<itunes:block>No</itunes:block>
+<itunes:duration> </itunes:duration>
+<pubDate>Tue, 03 Dec 2013 00:07:00 +0000</pubDate>
+<media:content type="audio/mpeg" url="https://www.archive.org/download/kokoro_hearn_1312_librivox/kokoro_08_hearn_64kb.mp3"/>
+</item>
+<item>
+<title>A Glimpse of Tendencies, Pt. 1</title>
+<itunes:episode>9</itunes:episode>
+<!--<reader>file element=reader</reader> -->
+<link>https://librivox.org/kokoro-by-lafcadio-hearn/</link>
+<enclosure length="0" type="audio/mpeg" url="https://www.archive.org/download/kokoro_hearn_1312_librivox/kokoro_09_hearn_64kb.mp3"/>
+<itunes:explicit>No</itunes:explicit>
+<itunes:block>No</itunes:block>
+<itunes:duration> </itunes:duration>
+<pubDate>Tue, 03 Dec 2013 00:08:00 +0000</pubDate>
+<media:content type="audio/mpeg" url="https://www.archive.org/download/kokoro_hearn_1312_librivox/kokoro_09_hearn_64kb.mp3"/>
+</item>
+<item>
+<title>A Glimpse of Tendencies, Pt. 2</title>
+<itunes:episode>10</itunes:episode>
+<!--<reader>file element=reader</reader> -->
+<link>https://librivox.org/kokoro-by-lafcadio-hearn/</link>
+<enclosure length="0" type="audio/mpeg" url="https://www.archive.org/download/kokoro_hearn_1312_librivox/kokoro_10_hearn_64kb.mp3"/>
+<itunes:explicit>No</itunes:explicit>
+<itunes:block>No</itunes:block>
+<itunes:duration> </itunes:duration>
+<pubDate>Tue, 03 Dec 2013 00:09:00 +0000</pubDate>
+<media:content type="audio/mpeg" url="https://www.archive.org/download/kokoro_hearn_1312_librivox/kokoro_10_hearn_64kb.mp3"/>
+</item>
+<item>
+<title>By Force of Karma</title>
+<itunes:episode>11</itunes:episode>
+<!--<reader>file element=reader</reader> -->
+<link>https://librivox.org/kokoro-by-lafcadio-hearn/</link>
+<enclosure length="0" type="audio/mpeg" url="https://www.archive.org/download/kokoro_hearn_1312_librivox/kokoro_11_hearn_64kb.mp3"/>
+<itunes:explicit>No</itunes:explicit>
+<itunes:block>No</itunes:block>
+<itunes:duration> </itunes:duration>
+<pubDate>Tue, 03 Dec 2013 00:10:00 +0000</pubDate>
+<media:content type="audio/mpeg" url="https://www.archive.org/download/kokoro_hearn_1312_librivox/kokoro_11_hearn_64kb.mp3"/>
+</item>
+<item>
+<title>A Conservative, Pt. 1</title>
+<itunes:episode>12</itunes:episode>
+<!--<reader>file element=reader</reader> -->
+<link>https://librivox.org/kokoro-by-lafcadio-hearn/</link>
+<enclosure length="0" type="audio/mpeg" url="https://www.archive.org/download/kokoro_hearn_1312_librivox/kokoro_12_hearn_64kb.mp3"/>
+<itunes:explicit>No</itunes:explicit>
+<itunes:block>No</itunes:block>
+<itunes:duration> </itunes:duration>
+<pubDate>Tue, 03 Dec 2013 00:11:00 +0000</pubDate>
+<media:content type="audio/mpeg" url="https://www.archive.org/download/kokoro_hearn_1312_librivox/kokoro_12_hearn_64kb.mp3"/>
+</item>
+<item>
+<title>A Conservative, Pt. 2</title>
+<itunes:episode>13</itunes:episode>
+<!--<reader>file element=reader</reader> -->
+<link>https://librivox.org/kokoro-by-lafcadio-hearn/</link>
+<enclosure length="0" type="audio/mpeg" url="https://www.archive.org/download/kokoro_hearn_1312_librivox/kokoro_13_hearn_64kb.mp3"/>
+<itunes:explicit>No</itunes:explicit>
+<itunes:block>No</itunes:block>
+<itunes:duration> </itunes:duration>
+<pubDate>Tue, 03 Dec 2013 00:12:00 +0000</pubDate>
+<media:content type="audio/mpeg" url="https://www.archive.org/download/kokoro_hearn_1312_librivox/kokoro_13_hearn_64kb.mp3"/>
+</item>
+<item>
+<title>In the Twilight of the Gods</title>
+<itunes:episode>14</itunes:episode>
+<!--<reader>file element=reader</reader> -->
+<link>https://librivox.org/kokoro-by-lafcadio-hearn/</link>
+<enclosure length="0" type="audio/mpeg" url="https://www.archive.org/download/kokoro_hearn_1312_librivox/kokoro_14_hearn_64kb.mp3"/>
+<itunes:explicit>No</itunes:explicit>
+<itunes:block>No</itunes:block>
+<itunes:duration> </itunes:duration>
+<pubDate>Tue, 03 Dec 2013 00:13:00 +0000</pubDate>
+<media:content type="audio/mpeg" url="https://www.archive.org/download/kokoro_hearn_1312_librivox/kokoro_14_hearn_64kb.mp3"/>
+</item>
+<item>
+<title>The Idea of Pre-Existence, Pt. 1</title>
+<itunes:episode>15</itunes:episode>
+<!--<reader>file element=reader</reader> -->
+<link>https://librivox.org/kokoro-by-lafcadio-hearn/</link>
+<enclosure length="0" type="audio/mpeg" url="https://www.archive.org/download/kokoro_hearn_1312_librivox/kokoro_15_hearn_64kb.mp3"/>
+<itunes:explicit>No</itunes:explicit>
+<itunes:block>No</itunes:block>
+<itunes:duration> </itunes:duration>
+<pubDate>Tue, 03 Dec 2013 00:14:00 +0000</pubDate>
+<media:content type="audio/mpeg" url="https://www.archive.org/download/kokoro_hearn_1312_librivox/kokoro_15_hearn_64kb.mp3"/>
+</item>
+<item>
+<title>The Idea of Pre-Existence, Pt. 2</title>
+<itunes:episode>16</itunes:episode>
+<!--<reader>file element=reader</reader> -->
+<link>https://librivox.org/kokoro-by-lafcadio-hearn/</link>
+<enclosure length="0" type="audio/mpeg" url="https://www.archive.org/download/kokoro_hearn_1312_librivox/kokoro_16_hearn_64kb.mp3"/>
+<itunes:explicit>No</itunes:explicit>
+<itunes:block>No</itunes:block>
+<itunes:duration> </itunes:duration>
+<pubDate>Tue, 03 Dec 2013 00:15:00 +0000</pubDate>
+<media:content type="audio/mpeg" url="https://www.archive.org/download/kokoro_hearn_1312_librivox/kokoro_16_hearn_64kb.mp3"/>
+</item>
+<item>
+<title>In Cholera-Time</title>
+<itunes:episode>17</itunes:episode>
+<!--<reader>file element=reader</reader> -->
+<link>https://librivox.org/kokoro-by-lafcadio-hearn/</link>
+<enclosure length="0" type="audio/mpeg" url="https://www.archive.org/download/kokoro_hearn_1312_librivox/kokoro_17_hearn_64kb.mp3"/>
+<itunes:explicit>No</itunes:explicit>
+<itunes:block>No</itunes:block>
+<itunes:duration> </itunes:duration>
+<pubDate>Tue, 03 Dec 2013 00:16:00 +0000</pubDate>
+<media:content type="audio/mpeg" url="https://www.archive.org/download/kokoro_hearn_1312_librivox/kokoro_17_hearn_64kb.mp3"/>
+</item>
+<item>
+<title>Some Thoughts About Ancestor-Worship, Pt. 1</title>
+<itunes:episode>18</itunes:episode>
+<!--<reader>file element=reader</reader> -->
+<link>https://librivox.org/kokoro-by-lafcadio-hearn/</link>
+<enclosure length="0" type="audio/mpeg" url="https://www.archive.org/download/kokoro_hearn_1312_librivox/kokoro_18_hearn_64kb.mp3"/>
+<itunes:explicit>No</itunes:explicit>
+<itunes:block>No</itunes:block>
+<itunes:duration> </itunes:duration>
+<pubDate>Tue, 03 Dec 2013 00:17:00 +0000</pubDate>
+<media:content type="audio/mpeg" url="https://www.archive.org/download/kokoro_hearn_1312_librivox/kokoro_18_hearn_64kb.mp3"/>
+</item>
+<item>
+<title>Some Thoughts About Ancestor-Worship, Pt. 2</title>
+<itunes:episode>19</itunes:episode>
+<!--<reader>file element=reader</reader> -->
+<link>https://librivox.org/kokoro-by-lafcadio-hearn/</link>
+<enclosure length="0" type="audio/mpeg" url="https://www.archive.org/download/kokoro_hearn_1312_librivox/kokoro_19_hearn_64kb.mp3"/>
+<itunes:explicit>No</itunes:explicit>
+<itunes:block>No</itunes:block>
+<itunes:duration> </itunes:duration>
+<pubDate>Tue, 03 Dec 2013 00:18:00 +0000</pubDate>
+<media:content type="audio/mpeg" url="https://www.archive.org/download/kokoro_hearn_1312_librivox/kokoro_19_hearn_64kb.mp3"/>
+</item>
+<item>
+<title>Kimiko</title>
+<itunes:episode>20</itunes:episode>
+<!--<reader>file element=reader</reader> -->
+<link>https://librivox.org/kokoro-by-lafcadio-hearn/</link>
+<enclosure length="0" type="audio/mpeg" url="https://www.archive.org/download/kokoro_hearn_1312_librivox/kokoro_20_hearn_64kb.mp3"/>
+<itunes:explicit>No</itunes:explicit>
+<itunes:block>No</itunes:block>
+<itunes:duration> </itunes:duration>
+<pubDate>Tue, 03 Dec 2013 00:19:00 +0000</pubDate>
+<media:content type="audio/mpeg" url="https://www.archive.org/download/kokoro_hearn_1312_librivox/kokoro_20_hearn_64kb.mp3"/>
+</item>
+<item>
+<title>Appendix 1:  Three Popular Ballads (Intro.)</title>
+<itunes:episode>21</itunes:episode>
+<!--<reader>file element=reader</reader> -->
+<link>https://librivox.org/kokoro-by-lafcadio-hearn/</link>
+<enclosure length="0" type="audio/mpeg" url="https://www.archive.org/download/kokoro_hearn_1312_librivox/kokoro_21_hearn_64kb.mp3"/>
+<itunes:explicit>No</itunes:explicit>
+<itunes:block>No</itunes:block>
+<itunes:duration> </itunes:duration>
+<pubDate>Tue, 03 Dec 2013 00:20:00 +0000</pubDate>
+<media:content type="audio/mpeg" url="https://www.archive.org/download/kokoro_hearn_1312_librivox/kokoro_21_hearn_64kb.mp3"/>
+</item>
+<item>
+<title>Appendix 2:  The Ballad of Shuntoku-Maru</title>
+<itunes:episode>22</itunes:episode>
+<!--<reader>file element=reader</reader> -->
+<link>https://librivox.org/kokoro-by-lafcadio-hearn/</link>
+<enclosure length="0" type="audio/mpeg" url="https://www.archive.org/download/kokoro_hearn_1312_librivox/kokoro_22_hearn_64kb.mp3"/>
+<itunes:explicit>No</itunes:explicit>
+<itunes:block>No</itunes:block>
+<itunes:duration> </itunes:duration>
+<pubDate>Tue, 03 Dec 2013 00:21:00 +0000</pubDate>
+<media:content type="audio/mpeg" url="https://www.archive.org/download/kokoro_hearn_1312_librivox/kokoro_22_hearn_64kb.mp3"/>
+</item>
+<item>
+<title>Appendix 3:  The Ballad of Oguri-Hangwan, Pt. 1</title>
+<itunes:episode>23</itunes:episode>
+<!--<reader>file element=reader</reader> -->
+<link>https://librivox.org/kokoro-by-lafcadio-hearn/</link>
+<enclosure length="0" type="audio/mpeg" url="https://www.archive.org/download/kokoro_hearn_1312_librivox/kokoro_23_hearn_64kb.mp3"/>
+<itunes:explicit>No</itunes:explicit>
+<itunes:block>No</itunes:block>
+<itunes:duration> </itunes:duration>
+<pubDate>Tue, 03 Dec 2013 00:22:00 +0000</pubDate>
+<media:content type="audio/mpeg" url="https://www.archive.org/download/kokoro_hearn_1312_librivox/kokoro_23_hearn_64kb.mp3"/>
+</item>
+<item>
+<title>Appendix 3:  The Ballad of Oguri-Hangwan, Pt. 2</title>
+<itunes:episode>24</itunes:episode>
+<!--<reader>file element=reader</reader> -->
+<link>https://librivox.org/kokoro-by-lafcadio-hearn/</link>
+<enclosure length="0" type="audio/mpeg" url="https://www.archive.org/download/kokoro_hearn_1312_librivox/kokoro_24_hearn_64kb.mp3"/>
+<itunes:explicit>No</itunes:explicit>
+<itunes:block>No</itunes:block>
+<itunes:duration> </itunes:duration>
+<pubDate>Tue, 03 Dec 2013 00:23:00 +0000</pubDate>
+<media:content type="audio/mpeg" url="https://www.archive.org/download/kokoro_hearn_1312_librivox/kokoro_24_hearn_64kb.mp3"/>
+</item>
+<item>
+<title>Appendix 4:  The Ballad of O-Shichi, the Daughter of the Yaoya</title>
+<itunes:episode>25</itunes:episode>
+<!--<reader>file element=reader</reader> -->
+<link>https://librivox.org/kokoro-by-lafcadio-hearn/</link>
+<enclosure length="0" type="audio/mpeg" url="https://www.archive.org/download/kokoro_hearn_1312_librivox/kokoro_25_hearn_64kb.mp3"/>
+<itunes:explicit>No</itunes:explicit>
+<itunes:block>No</itunes:block>
+<itunes:duration> </itunes:duration>
+<pubDate>Tue, 03 Dec 2013 00:24:00 +0000</pubDate>
+<media:content type="audio/mpeg" url="https://www.archive.org/download/kokoro_hearn_1312_librivox/kokoro_25_hearn_64kb.mp3"/>
+</item>
+<!-- end file loop -->
+</channel>
+</rss>

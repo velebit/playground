@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/">
+<channel>
+<title>Shadowings by Lafcadio Hearn (1850 - 1904)</title>
+<link>https://librivox.org/shadowings-by-lafcadio-hearn/</link>
+<atom:link href="https://librivox.org/rss/11588" rel="self"/>
+<description>This is another of the popular books that Lafcadio Hearn wrote on various Japanese subjects. The first part "Stories From Strange Books" is a collection of Japanese tales about ghosts and strange occurrences. In the second part "Japanese Studies", Hearn discourses on cicadae, girl's names, and Japanese songs. The third part "Fantasies" are stories and essays on various topics written by Hearn himself. - Summary by Availle
+
+DPLs for this project were ChuckW and Isana.</description>
+<!--<genre>project element=Genre</genre>-->
+<!--<language>project element=lang.code</language>-->
+<itunes:type>serial</itunes:type>
+<itunes:author>LibriVox</itunes:author>
+<itunes:summary>This is another of the popular books that Lafcadio Hearn wrote on various Japanese subjects. The first part "Stories From Strange Books" is a collection of Japanese tales about ghosts and strange occurrences. In the second part "Japanese Studies", Hearn discourses on cicadae, girl's names, and Japanese songs. The third part "Fantasies" are stories and essays on various topics written by Hearn himself. - Summary by Availle
+
+DPLs for this project were ChuckW and Isana.</itunes:summary>
+<itunes:owner>
+<itunes:name>LibriVox</itunes:name>
+<itunes:email>info@librivox.org</itunes:email>
+</itunes:owner>
+<itunes:category text="Arts">
+<itunes:category text="Literature"/>
+</itunes:category>
+<itunes:image href="https://archive.org/download/librivoxcCDCoverArt35/shadowings_1707.jpg"/> <!-- file loop -->
+<image><url>https://archive.org/download/librivoxcCDCoverArt35/shadowings_1707.jpg</url></image><itunes:image href="https://archive.org/download/librivoxcCDCoverArt35/shadowings_1707.jpg"/><itunes:explicit>no</itunes:explicit><item>
+<title>STORIES FROM STRANGE BOOKS I The Reconciliation</title>
+<itunes:episode>1</itunes:episode>
+<!--<reader>file element=reader</reader> -->
+<link>https://librivox.org/shadowings-by-lafcadio-hearn/</link>
+<enclosure length="0" type="audio/mpeg" url="https://www.archive.org/download/shadowings_1707_librivox/shadowings_01_hearn_64kb.mp3"/>
+<itunes:explicit>No</itunes:explicit>
+<itunes:block>No</itunes:block>
+<itunes:duration> </itunes:duration>
+<pubDate>Sat, 08 Jul 2017 00:00:00 +0000</pubDate>
+<media:content type="audio/mpeg" url="https://www.archive.org/download/shadowings_1707_librivox/shadowings_01_hearn_64kb.mp3"/>
+</item>
+<item>
+<title>II A Legend of Fugen-Bosatsu</title>
+<itunes:episode>2</itunes:episode>
+<!--<reader>file element=reader</reader> -->
+<link>https://librivox.org/shadowings-by-lafcadio-hearn/</link>
+<enclosure length="0" type="audio/mpeg" url="https://www.archive.org/download/shadowings_1707_librivox/shadowings_02_hearn_64kb.mp3"/>
+<itunes:explicit>No</itunes:explicit>
+<itunes:block>No</itunes:block>
+<itunes:duration> </itunes:duration>
+<pubDate>Sat, 08 Jul 2017 00:01:00 +0000</pubDate>
+<media:content type="audio/mpeg" url="https://www.archive.org/download/shadowings_1707_librivox/shadowings_02_hearn_64kb.mp3"/>
+</item>
+<item>
+<title>III The Screen-Maiden</title>
+<itunes:episode>3</itunes:episode>
+<!--<reader>file element=reader</reader> -->
+<link>https://librivox.org/shadowings-by-lafcadio-hearn/</link>
+<enclosure length="0" type="audio/mpeg" url="https://www.archive.org/download/shadowings_1707_librivox/shadowings_03_hearn_64kb.mp3"/>
+<itunes:explicit>No</itunes:explicit>
+<itunes:block>No</itunes:block>
+<itunes:duration> </itunes:duration>
+<pubDate>Sat, 08 Jul 2017 00:02:00 +0000</pubDate>
+<media:content type="audio/mpeg" url="https://www.archive.org/download/shadowings_1707_librivox/shadowings_03_hearn_64kb.mp3"/>
+</item>
+<item>
+<title>IV The Corpse-Rider</title>
+<itunes:episode>4</itunes:episode>
+<!--<reader>file element=reader</reader> -->
+<link>https://librivox.org/shadowings-by-lafcadio-hearn/</link>
+<enclosure length="0" type="audio/mpeg" url="https://www.archive.org/download/shadowings_1707_librivox/shadowings_04_hearn_64kb.mp3"/>
+<itunes:explicit>No</itunes:explicit>
+<itunes:block>No</itunes:block>
+<itunes:duration> </itunes:duration>
+<pubDate>Sat, 08 Jul 2017 00:03:00 +0000</pubDate>
+<media:content type="audio/mpeg" url="https://www.archive.org/download/shadowings_1707_librivox/shadowings_04_hearn_64kb.mp3"/>
+</item>
+<item>
+<title>V The Sympathy of Benten</title>
+<itunes:episode>5</itunes:episode>
+<!--<reader>file element=reader</reader> -->
+<link>https://librivox.org/shadowings-by-lafcadio-hearn/</link>
+<enclosure length="0" type="audio/mpeg" url="https://www.archive.org/download/shadowings_1707_librivox/shadowings_05_hearn_64kb.mp3"/>
+<itunes:explicit>No</itunes:explicit>
+<itunes:block>No</itunes:block>
+<itunes:duration> </itunes:duration>
+<pubDate>Sat, 08 Jul 2017 00:04:00 +0000</pubDate>
+<media:content type="audio/mpeg" url="https://www.archive.org/download/shadowings_1707_librivox/shadowings_05_hearn_64kb.mp3"/>
+</item>
+<item>
+<title>VI The Gratitude of the Samébito</title>
+<itunes:episode>6</itunes:episode>
+<!--<reader>file element=reader</reader> -->
+<link>https://librivox.org/shadowings-by-lafcadio-hearn/</link>
+<enclosure length="0" type="audio/mpeg" url="https://www.archive.org/download/shadowings_1707_librivox/shadowings_06_hearn_64kb.mp3"/>
+<itunes:explicit>No</itunes:explicit>
+<itunes:block>No</itunes:block>
+<itunes:duration> </itunes:duration>
+<pubDate>Sat, 08 Jul 2017 00:05:00 +0000</pubDate>
+<media:content type="audio/mpeg" url="https://www.archive.org/download/shadowings_1707_librivox/shadowings_06_hearn_64kb.mp3"/>
+</item>
+<item>
+<title>JAPANESE STUDIES I Sémi, Part 1</title>
+<itunes:episode>7</itunes:episode>
+<!--<reader>file element=reader</reader> -->
+<link>https://librivox.org/shadowings-by-lafcadio-hearn/</link>
+<enclosure length="0" type="audio/mpeg" url="https://www.archive.org/download/shadowings_1707_librivox/shadowings_07_hearn_64kb.mp3"/>
+<itunes:explicit>No</itunes:explicit>
+<itunes:block>No</itunes:block>
+<itunes:duration> </itunes:duration>
+<pubDate>Sat, 08 Jul 2017 00:06:00 +0000</pubDate>
+<media:content type="audio/mpeg" url="https://www.archive.org/download/shadowings_1707_librivox/shadowings_07_hearn_64kb.mp3"/>
+</item>
+<item>
+<title>I Sémi, Part 2</title>
+<itunes:episode>8</itunes:episode>
+<!--<reader>file element=reader</reader> -->
+<link>https://librivox.org/shadowings-by-lafcadio-hearn/</link>
+<enclosure length="0" type="audio/mpeg" url="https://www.archive.org/download/shadowings_1707_librivox/shadowings_08_hearn_64kb.mp3"/>
+<itunes:explicit>No</itunes:explicit>
+<itunes:block>No</itunes:block>
+<itunes:duration> </itunes:duration>
+<pubDate>Sat, 08 Jul 2017 00:07:00 +0000</pubDate>
+<media:content type="audio/mpeg" url="https://www.archive.org/download/shadowings_1707_librivox/shadowings_08_hearn_64kb.mp3"/>
+</item>
+<item>
+<title>II Japanese Female Names, Part 1</title>
+<itunes:episode>9</itunes:episode>
+<!--<reader>file element=reader</reader> -->
+<link>https://librivox.org/shadowings-by-lafcadio-hearn/</link>
+<enclosure length="0" type="audio/mpeg" url="https://www.archive.org/download/shadowings_1707_librivox/shadowings_09_hearn_64kb.mp3"/>
+<itunes:explicit>No</itunes:explicit>
+<itunes:block>No</itunes:block>
+<itunes:duration> </itunes:duration>
+<pubDate>Sat, 08 Jul 2017 00:08:00 +0000</pubDate>
+<media:content type="audio/mpeg" url="https://www.archive.org/download/shadowings_1707_librivox/shadowings_09_hearn_64kb.mp3"/>
+</item>
+<item>
+<title>II Japanese Female Names, Part 2</title>
+<itunes:episode>10</itunes:episode>
+<!--<reader>file element=reader</reader> -->
+<link>https://librivox.org/shadowings-by-lafcadio-hearn/</link>
+<enclosure length="0" type="audio/mpeg" url="https://www.archive.org/download/shadowings_1707_librivox/shadowings_10_hearn_64kb.mp3"/>
+<itunes:explicit>No</itunes:explicit>
+<itunes:block>No</itunes:block>
+<itunes:duration> </itunes:duration>
+<pubDate>Sat, 08 Jul 2017 00:09:00 +0000</pubDate>
+<media:content type="audio/mpeg" url="https://www.archive.org/download/shadowings_1707_librivox/shadowings_10_hearn_64kb.mp3"/>
+</item>
+<item>
+<title>II Japanese Female Names, Part 3</title>
+<itunes:episode>11</itunes:episode>
+<!--<reader>file element=reader</reader> -->
+<link>https://librivox.org/shadowings-by-lafcadio-hearn/</link>
+<enclosure length="0" type="audio/mpeg" url="https://www.archive.org/download/shadowings_1707_librivox/shadowings_11_hearn_64kb.mp3"/>
+<itunes:explicit>No</itunes:explicit>
+<itunes:block>No</itunes:block>
+<itunes:duration> </itunes:duration>
+<pubDate>Sat, 08 Jul 2017 00:10:00 +0000</pubDate>
+<media:content type="audio/mpeg" url="https://www.archive.org/download/shadowings_1707_librivox/shadowings_11_hearn_64kb.mp3"/>
+</item>
+<item>
+<title>III Old Japanese Songs</title>
+<itunes:episode>12</itunes:episode>
+<!--<reader>file element=reader</reader> -->
+<link>https://librivox.org/shadowings-by-lafcadio-hearn/</link>
+<enclosure length="0" type="audio/mpeg" url="https://www.archive.org/download/shadowings_1707_librivox/shadowings_12_hearn_64kb.mp3"/>
+<itunes:explicit>No</itunes:explicit>
+<itunes:block>No</itunes:block>
+<itunes:duration> </itunes:duration>
+<pubDate>Sat, 08 Jul 2017 00:11:00 +0000</pubDate>
+<media:content type="audio/mpeg" url="https://www.archive.org/download/shadowings_1707_librivox/shadowings_12_hearn_64kb.mp3"/>
+</item>
+<item>
+<title>FANTASIES I Noctilucæ</title>
+<itunes:episode>13</itunes:episode>
+<!--<reader>file element=reader</reader> -->
+<link>https://librivox.org/shadowings-by-lafcadio-hearn/</link>
+<enclosure length="0" type="audio/mpeg" url="https://www.archive.org/download/shadowings_1707_librivox/shadowings_13_hearn_64kb.mp3"/>
+<itunes:explicit>No</itunes:explicit>
+<itunes:block>No</itunes:block>
+<itunes:duration> </itunes:duration>
+<pubDate>Sat, 08 Jul 2017 00:12:00 +0000</pubDate>
+<media:content type="audio/mpeg" url="https://www.archive.org/download/shadowings_1707_librivox/shadowings_13_hearn_64kb.mp3"/>
+</item>
+<item>
+<title>II A Mystery of Crowds</title>
+<itunes:episode>14</itunes:episode>
+<!--<reader>file element=reader</reader> -->
+<link>https://librivox.org/shadowings-by-lafcadio-hearn/</link>
+<enclosure length="0" type="audio/mpeg" url="https://www.archive.org/download/shadowings_1707_librivox/shadowings_14_hearn_64kb.mp3"/>
+<itunes:explicit>No</itunes:explicit>
+<itunes:block>No</itunes:block>
+<itunes:duration> </itunes:duration>
+<pubDate>Sat, 08 Jul 2017 00:13:00 +0000</pubDate>
+<media:content type="audio/mpeg" url="https://www.archive.org/download/shadowings_1707_librivox/shadowings_14_hearn_64kb.mp3"/>
+</item>
+<item>
+<title>III Gothic Horror</title>
+<itunes:episode>15</itunes:episode>
+<!--<reader>file element=reader</reader> -->
+<link>https://librivox.org/shadowings-by-lafcadio-hearn/</link>
+<enclosure length="0" type="audio/mpeg" url="https://www.archive.org/download/shadowings_1707_librivox/shadowings_15_hearn_64kb.mp3"/>
+<itunes:explicit>No</itunes:explicit>
+<itunes:block>No</itunes:block>
+<itunes:duration> </itunes:duration>
+<pubDate>Sat, 08 Jul 2017 00:14:00 +0000</pubDate>
+<media:content type="audio/mpeg" url="https://www.archive.org/download/shadowings_1707_librivox/shadowings_15_hearn_64kb.mp3"/>
+</item>
+<item>
+<title>IV Levitation</title>
+<itunes:episode>16</itunes:episode>
+<!--<reader>file element=reader</reader> -->
+<link>https://librivox.org/shadowings-by-lafcadio-hearn/</link>
+<enclosure length="0" type="audio/mpeg" url="https://www.archive.org/download/shadowings_1707_librivox/shadowings_16_hearn_64kb.mp3"/>
+<itunes:explicit>No</itunes:explicit>
+<itunes:block>No</itunes:block>
+<itunes:duration> </itunes:duration>
+<pubDate>Sat, 08 Jul 2017 00:15:00 +0000</pubDate>
+<media:content type="audio/mpeg" url="https://www.archive.org/download/shadowings_1707_librivox/shadowings_16_hearn_64kb.mp3"/>
+</item>
+<item>
+<title>V Nightmare-Touch</title>
+<itunes:episode>17</itunes:episode>
+<!--<reader>file element=reader</reader> -->
+<link>https://librivox.org/shadowings-by-lafcadio-hearn/</link>
+<enclosure length="0" type="audio/mpeg" url="https://www.archive.org/download/shadowings_1707_librivox/shadowings_17_hearn_64kb.mp3"/>
+<itunes:explicit>No</itunes:explicit>
+<itunes:block>No</itunes:block>
+<itunes:duration> </itunes:duration>
+<pubDate>Sat, 08 Jul 2017 00:16:00 +0000</pubDate>
+<media:content type="audio/mpeg" url="https://www.archive.org/download/shadowings_1707_librivox/shadowings_17_hearn_64kb.mp3"/>
+</item>
+<item>
+<title>VI Readings from a Dream-book</title>
+<itunes:episode>18</itunes:episode>
+<!--<reader>file element=reader</reader> -->
+<link>https://librivox.org/shadowings-by-lafcadio-hearn/</link>
+<enclosure length="0" type="audio/mpeg" url="https://www.archive.org/download/shadowings_1707_librivox/shadowings_18_hearn_64kb.mp3"/>
+<itunes:explicit>No</itunes:explicit>
+<itunes:block>No</itunes:block>
+<itunes:duration> </itunes:duration>
+<pubDate>Sat, 08 Jul 2017 00:17:00 +0000</pubDate>
+<media:content type="audio/mpeg" url="https://www.archive.org/download/shadowings_1707_librivox/shadowings_18_hearn_64kb.mp3"/>
+</item>
+<item>
+<title>VII In a Pair of Eyes</title>
+<itunes:episode>19</itunes:episode>
+<!--<reader>file element=reader</reader> -->
+<link>https://librivox.org/shadowings-by-lafcadio-hearn/</link>
+<enclosure length="0" type="audio/mpeg" url="https://www.archive.org/download/shadowings_1707_librivox/shadowings_19_hearn_64kb.mp3"/>
+<itunes:explicit>No</itunes:explicit>
+<itunes:block>No</itunes:block>
+<itunes:duration> </itunes:duration>
+<pubDate>Sat, 08 Jul 2017 00:18:00 +0000</pubDate>
+<media:content type="audio/mpeg" url="https://www.archive.org/download/shadowings_1707_librivox/shadowings_19_hearn_64kb.mp3"/>
+</item>
+<!-- end file loop -->
+</channel>
+</rss>

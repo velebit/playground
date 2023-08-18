@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/">
+<channel>
+<title>Fantastics and Other Fancies by Lafcadio Hearn (1850 - 1904)</title>
+<link>https://librivox.org/fantastics-and-other-fancies-by-lafcadio-hearn/</link>
+<atom:link href="https://librivox.org/rss/4711" rel="self"/>
+<description>This posthumous collection of short stories by noted author and historian of weird folklore brings together 36 of his earliest works, many of them brief romantic sketches of phantasmagoric imagery, supernatural occurrences and tales from far away places. H. P. Lovecraft said of this collection in his seminal essay Supernatural Horror in Literature that it "contains some of the most impressive ghoulishness in all literature". (Summary by Ben Tucker)</description>
+<!--<genre>project element=Genre</genre>-->
+<!--<language>project element=lang.code</language>-->
+<itunes:type>serial</itunes:type>
+<itunes:author>LibriVox</itunes:author>
+<itunes:summary>This posthumous collection of short stories by noted author and historian of weird folklore brings together 36 of his earliest works, many of them brief romantic sketches of phantasmagoric imagery, supernatural occurrences and tales from far away places. H. P. Lovecraft said of this collection in his seminal essay Supernatural Horror in Literature that it "contains some of the most impressive ghoulishness in all literature". (Summary by Ben Tucker)</itunes:summary>
+<itunes:owner>
+<itunes:name>LibriVox</itunes:name>
+<itunes:email>info@librivox.org</itunes:email>
+</itunes:owner>
+<itunes:category text="Arts">
+<itunes:category text="Literature"/>
+</itunes:category>
+<itunes:image href="https://archive.org/download/fantastics_and_other_fancies_2211_librivox/fantastics_2211.jpg"/> <!-- file loop -->
+<image><url>https://archive.org/download/fantastics_and_other_fancies_2211_librivox/fantastics_2211.jpg</url></image><itunes:image href="https://archive.org/download/fantastics_and_other_fancies_2211_librivox/fantastics_2211.jpg"/><itunes:explicit>no</itunes:explicit><item>
+<title>Introduction by Charles Woodward Hutson</title>
+<itunes:episode>0</itunes:episode>
+<!--<reader>file element=reader</reader> -->
+<link>https://librivox.org/fantastics-and-other-fancies-by-lafcadio-hearn/</link>
+<enclosure length="0" type="audio/mpeg" url="https://www.archive.org/download/fantastics_and_other_fancies_2211_librivox/fantasticsandotherfancies_00_hearn_64kb.mp3"/>
+<itunes:explicit>No</itunes:explicit>
+<itunes:block>No</itunes:block>
+<itunes:duration> </itunes:duration>
+<pubDate>Mon, 07 Nov 2022 00:00:00 +0000</pubDate>
+<media:content type="audio/mpeg" url="https://www.archive.org/download/fantastics_and_other_fancies_2211_librivox/fantasticsandotherfancies_00_hearn_64kb.mp3"/>
+</item>
+<item>
+<title>All in White</title>
+<itunes:episode>1</itunes:episode>
+<!--<reader>file element=reader</reader> -->
+<link>https://librivox.org/fantastics-and-other-fancies-by-lafcadio-hearn/</link>
+<enclosure length="0" type="audio/mpeg" url="https://www.archive.org/download/fantastics_and_other_fancies_2211_librivox/fantasticsandotherfancies_01_hearn_64kb.mp3"/>
+<itunes:explicit>No</itunes:explicit>
+<itunes:block>No</itunes:block>
+<itunes:duration> </itunes:duration>
+<pubDate>Mon, 07 Nov 2022 00:01:00 +0000</pubDate>
+<media:content type="audio/mpeg" url="https://www.archive.org/download/fantastics_and_other_fancies_2211_librivox/fantasticsandotherfancies_01_hearn_64kb.mp3"/>
+</item>
+<item>
+<title>The Little Red Kitten</title>
+<itunes:episode>2</itunes:episode>
+<!--<reader>file element=reader</reader> -->
+<link>https://librivox.org/fantastics-and-other-fancies-by-lafcadio-hearn/</link>
+<enclosure length="0" type="audio/mpeg" url="https://www.archive.org/download/fantastics_and_other_fancies_2211_librivox/fantasticsandotherfancies_02_hearn_64kb.mp3"/>
+<itunes:explicit>No</itunes:explicit>
+<itunes:block>No</itunes:block>
+<itunes:duration> </itunes:duration>
+<pubDate>Mon, 07 Nov 2022 00:02:00 +0000</pubDate>
+<media:content type="audio/mpeg" url="https://www.archive.org/download/fantastics_and_other_fancies_2211_librivox/fantasticsandotherfancies_02_hearn_64kb.mp3"/>
+</item>
+<item>
+<title>The Night of All Saints</title>
+<itunes:episode>3</itunes:episode>
+<!--<reader>file element=reader</reader> -->
+<link>https://librivox.org/fantastics-and-other-fancies-by-lafcadio-hearn/</link>
+<enclosure length="0" type="audio/mpeg" url="https://www.archive.org/download/fantastics_and_other_fancies_2211_librivox/fantasticsandotherfancies_03_hearn_64kb.mp3"/>
+<itunes:explicit>No</itunes:explicit>
+<itunes:block>No</itunes:block>
+<itunes:duration> </itunes:duration>
+<pubDate>Mon, 07 Nov 2022 00:03:00 +0000</pubDate>
+<media:content type="audio/mpeg" url="https://www.archive.org/download/fantastics_and_other_fancies_2211_librivox/fantasticsandotherfancies_03_hearn_64kb.mp3"/>
+</item>
+<item>
+<title>The Devil's Carbuncle</title>
+<itunes:episode>4</itunes:episode>
+<!--<reader>file element=reader</reader> -->
+<link>https://librivox.org/fantastics-and-other-fancies-by-lafcadio-hearn/</link>
+<enclosure length="0" type="audio/mpeg" url="https://www.archive.org/download/fantastics_and_other_fancies_2211_librivox/fantasticsandotherfancies_04_hearn_64kb.mp3"/>
+<itunes:explicit>No</itunes:explicit>
+<itunes:block>No</itunes:block>
+<itunes:duration> </itunes:duration>
+<pubDate>Mon, 07 Nov 2022 00:04:00 +0000</pubDate>
+<media:content type="audio/mpeg" url="https://www.archive.org/download/fantastics_and_other_fancies_2211_librivox/fantasticsandotherfancies_04_hearn_64kb.mp3"/>
+</item>
+<item>
+<title>Les Coulisses</title>
+<itunes:episode>5</itunes:episode>
+<!--<reader>file element=reader</reader> -->
+<link>https://librivox.org/fantastics-and-other-fancies-by-lafcadio-hearn/</link>
+<enclosure length="0" type="audio/mpeg" url="https://www.archive.org/download/fantastics_and_other_fancies_2211_librivox/fantasticsandotherfancies_05_hearn_64kb.mp3"/>
+<itunes:explicit>No</itunes:explicit>
+<itunes:block>No</itunes:block>
+<itunes:duration> </itunes:duration>
+<pubDate>Mon, 07 Nov 2022 00:05:00 +0000</pubDate>
+<media:content type="audio/mpeg" url="https://www.archive.org/download/fantastics_and_other_fancies_2211_librivox/fantasticsandotherfancies_05_hearn_64kb.mp3"/>
+</item>
+<item>
+<title>The Stranger</title>
+<itunes:episode>6</itunes:episode>
+<!--<reader>file element=reader</reader> -->
+<link>https://librivox.org/fantastics-and-other-fancies-by-lafcadio-hearn/</link>
+<enclosure length="0" type="audio/mpeg" url="https://www.archive.org/download/fantastics_and_other_fancies_2211_librivox/fantasticsandotherfancies_06_hearn_64kb.mp3"/>
+<itunes:explicit>No</itunes:explicit>
+<itunes:block>No</itunes:block>
+<itunes:duration> </itunes:duration>
+<pubDate>Mon, 07 Nov 2022 00:06:00 +0000</pubDate>
+<media:content type="audio/mpeg" url="https://www.archive.org/download/fantastics_and_other_fancies_2211_librivox/fantasticsandotherfancies_06_hearn_64kb.mp3"/>
+</item>
+<item>
+<title>Y Porque?</title>
+<itunes:episode>7</itunes:episode>
+<!--<reader>file element=reader</reader> -->
+<link>https://librivox.org/fantastics-and-other-fancies-by-lafcadio-hearn/</link>
+<enclosure length="0" type="audio/mpeg" url="https://www.archive.org/download/fantastics_and_other_fancies_2211_librivox/fantasticsandotherfancies_07_hearn_64kb.mp3"/>
+<itunes:explicit>No</itunes:explicit>
+<itunes:block>No</itunes:block>
+<itunes:duration> </itunes:duration>
+<pubDate>Mon, 07 Nov 2022 00:07:00 +0000</pubDate>
+<media:content type="audio/mpeg" url="https://www.archive.org/download/fantastics_and_other_fancies_2211_librivox/fantasticsandotherfancies_07_hearn_64kb.mp3"/>
+</item>
+<item>
+<title>A Dream of Kites</title>
+<itunes:episode>8</itunes:episode>
+<!--<reader>file element=reader</reader> -->
+<link>https://librivox.org/fantastics-and-other-fancies-by-lafcadio-hearn/</link>
+<enclosure length="0" type="audio/mpeg" url="https://www.archive.org/download/fantastics_and_other_fancies_2211_librivox/fantasticsandotherfancies_08_hearn_64kb.mp3"/>
+<itunes:explicit>No</itunes:explicit>
+<itunes:block>No</itunes:block>
+<itunes:duration> </itunes:duration>
+<pubDate>Mon, 07 Nov 2022 00:08:00 +0000</pubDate>
+<media:content type="audio/mpeg" url="https://www.archive.org/download/fantastics_and_other_fancies_2211_librivox/fantasticsandotherfancies_08_hearn_64kb.mp3"/>
+</item>
+<item>
+<title>Hereditary Memories</title>
+<itunes:episode>9</itunes:episode>
+<!--<reader>file element=reader</reader> -->
+<link>https://librivox.org/fantastics-and-other-fancies-by-lafcadio-hearn/</link>
+<enclosure length="0" type="audio/mpeg" url="https://www.archive.org/download/fantastics_and_other_fancies_2211_librivox/fantasticsandotherfancies_09_hearn_64kb.mp3"/>
+<itunes:explicit>No</itunes:explicit>
+<itunes:block>No</itunes:block>
+<itunes:duration> </itunes:duration>
+<pubDate>Mon, 07 Nov 2022 00:09:00 +0000</pubDate>
+<media:content type="audio/mpeg" url="https://www.archive.org/download/fantastics_and_other_fancies_2211_librivox/fantasticsandotherfancies_09_hearn_64kb.mp3"/>
+</item>
+<item>
+<title>The Ghostly Kiss</title>
+<itunes:episode>10</itunes:episode>
+<!--<reader>file element=reader</reader> -->
+<link>https://librivox.org/fantastics-and-other-fancies-by-lafcadio-hearn/</link>
+<enclosure length="0" type="audio/mpeg" url="https://www.archive.org/download/fantastics_and_other_fancies_2211_librivox/fantasticsandotherfancies_10_hearn_64kb.mp3"/>
+<itunes:explicit>No</itunes:explicit>
+<itunes:block>No</itunes:block>
+<itunes:duration> </itunes:duration>
+<pubDate>Mon, 07 Nov 2022 00:10:00 +0000</pubDate>
+<media:content type="audio/mpeg" url="https://www.archive.org/download/fantastics_and_other_fancies_2211_librivox/fantasticsandotherfancies_10_hearn_64kb.mp3"/>
+</item>
+<item>
+<title>The Black Cupid</title>
+<itunes:episode>11</itunes:episode>
+<!--<reader>file element=reader</reader> -->
+<link>https://librivox.org/fantastics-and-other-fancies-by-lafcadio-hearn/</link>
+<enclosure length="0" type="audio/mpeg" url="https://www.archive.org/download/fantastics_and_other_fancies_2211_librivox/fantasticsandotherfancies_11_hearn_64kb.mp3"/>
+<itunes:explicit>No</itunes:explicit>
+<itunes:block>No</itunes:block>
+<itunes:duration> </itunes:duration>
+<pubDate>Mon, 07 Nov 2022 00:11:00 +0000</pubDate>
+<media:content type="audio/mpeg" url="https://www.archive.org/download/fantastics_and_other_fancies_2211_librivox/fantasticsandotherfancies_11_hearn_64kb.mp3"/>
+</item>
+<item>
+<title>When I Was a Flower</title>
+<itunes:episode>12</itunes:episode>
+<!--<reader>file element=reader</reader> -->
+<link>https://librivox.org/fantastics-and-other-fancies-by-lafcadio-hearn/</link>
+<enclosure length="0" type="audio/mpeg" url="https://www.archive.org/download/fantastics_and_other_fancies_2211_librivox/fantasticsandotherfancies_12_hearn_64kb.mp3"/>
+<itunes:explicit>No</itunes:explicit>
+<itunes:block>No</itunes:block>
+<itunes:duration> </itunes:duration>
+<pubDate>Mon, 07 Nov 2022 00:12:00 +0000</pubDate>
+<media:content type="audio/mpeg" url="https://www.archive.org/download/fantastics_and_other_fancies_2211_librivox/fantasticsandotherfancies_12_hearn_64kb.mp3"/>
+</item>
+<item>
+<title>Metempsychosis</title>
+<itunes:episode>13</itunes:episode>
+<!--<reader>file element=reader</reader> -->
+<link>https://librivox.org/fantastics-and-other-fancies-by-lafcadio-hearn/</link>
+<enclosure length="0" type="audio/mpeg" url="https://www.archive.org/download/fantastics_and_other_fancies_2211_librivox/fantasticsandotherfancies_13_hearn_64kb.mp3"/>
+<itunes:explicit>No</itunes:explicit>
+<itunes:block>No</itunes:block>
+<itunes:duration> </itunes:duration>
+<pubDate>Mon, 07 Nov 2022 00:13:00 +0000</pubDate>
+<media:content type="audio/mpeg" url="https://www.archive.org/download/fantastics_and_other_fancies_2211_librivox/fantasticsandotherfancies_13_hearn_64kb.mp3"/>
+</item>
+<item>
+<title>The Undying One</title>
+<itunes:episode>14</itunes:episode>
+<!--<reader>file element=reader</reader> -->
+<link>https://librivox.org/fantastics-and-other-fancies-by-lafcadio-hearn/</link>
+<enclosure length="0" type="audio/mpeg" url="https://www.archive.org/download/fantastics_and_other_fancies_2211_librivox/fantasticsandotherfancies_14_hearn_64kb.mp3"/>
+<itunes:explicit>No</itunes:explicit>
+<itunes:block>No</itunes:block>
+<itunes:duration> </itunes:duration>
+<pubDate>Mon, 07 Nov 2022 00:14:00 +0000</pubDate>
+<media:content type="audio/mpeg" url="https://www.archive.org/download/fantastics_and_other_fancies_2211_librivox/fantasticsandotherfancies_14_hearn_64kb.mp3"/>
+</item>
+<item>
+<title>The Vision of the Dead Creole</title>
+<itunes:episode>15</itunes:episode>
+<!--<reader>file element=reader</reader> -->
+<link>https://librivox.org/fantastics-and-other-fancies-by-lafcadio-hearn/</link>
+<enclosure length="0" type="audio/mpeg" url="https://www.archive.org/download/fantastics_and_other_fancies_2211_librivox/fantasticsandotherfancies_15_hearn_64kb.mp3"/>
+<itunes:explicit>No</itunes:explicit>
+<itunes:block>No</itunes:block>
+<itunes:duration> </itunes:duration>
+<pubDate>Mon, 07 Nov 2022 00:15:00 +0000</pubDate>
+<media:content type="audio/mpeg" url="https://www.archive.org/download/fantastics_and_other_fancies_2211_librivox/fantasticsandotherfancies_15_hearn_64kb.mp3"/>
+</item>
+<item>
+<title>The Name on the Stone</title>
+<itunes:episode>16</itunes:episode>
+<!--<reader>file element=reader</reader> -->
+<link>https://librivox.org/fantastics-and-other-fancies-by-lafcadio-hearn/</link>
+<enclosure length="0" type="audio/mpeg" url="https://www.archive.org/download/fantastics_and_other_fancies_2211_librivox/fantasticsandotherfancies_16_hearn_64kb.mp3"/>
+<itunes:explicit>No</itunes:explicit>
+<itunes:block>No</itunes:block>
+<itunes:duration> </itunes:duration>
+<pubDate>Mon, 07 Nov 2022 00:16:00 +0000</pubDate>
+<media:content type="audio/mpeg" url="https://www.archive.org/download/fantastics_and_other_fancies_2211_librivox/fantasticsandotherfancies_16_hearn_64kb.mp3"/>
+</item>
+<item>
+<title>Aphrodite and the King's Prisoner</title>
+<itunes:episode>17</itunes:episode>
+<!--<reader>file element=reader</reader> -->
+<link>https://librivox.org/fantastics-and-other-fancies-by-lafcadio-hearn/</link>
+<enclosure length="0" type="audio/mpeg" url="https://www.archive.org/download/fantastics_and_other_fancies_2211_librivox/fantasticsandotherfancies_17_hearn_64kb.mp3"/>
+<itunes:explicit>No</itunes:explicit>
+<itunes:block>No</itunes:block>
+<itunes:duration> </itunes:duration>
+<pubDate>Mon, 07 Nov 2022 00:17:00 +0000</pubDate>
+<media:content type="audio/mpeg" url="https://www.archive.org/download/fantastics_and_other_fancies_2211_librivox/fantasticsandotherfancies_17_hearn_64kb.mp3"/>
+</item>
+<item>
+<title>The Fountain of Gold</title>
+<itunes:episode>18</itunes:episode>
+<!--<reader>file element=reader</reader> -->
+<link>https://librivox.org/fantastics-and-other-fancies-by-lafcadio-hearn/</link>
+<enclosure length="0" type="audio/mpeg" url="https://www.archive.org/download/fantastics_and_other_fancies_2211_librivox/fantasticsandotherfancies_18_hearn_64kb.mp3"/>
+<itunes:explicit>No</itunes:explicit>
+<itunes:block>No</itunes:block>
+<itunes:duration> </itunes:duration>
+<pubDate>Mon, 07 Nov 2022 00:18:00 +0000</pubDate>
+<media:content type="audio/mpeg" url="https://www.archive.org/download/fantastics_and_other_fancies_2211_librivox/fantasticsandotherfancies_18_hearn_64kb.mp3"/>
+</item>
+<item>
+<title>A Dead Love</title>
+<itunes:episode>19</itunes:episode>
+<!--<reader>file element=reader</reader> -->
+<link>https://librivox.org/fantastics-and-other-fancies-by-lafcadio-hearn/</link>
+<enclosure length="0" type="audio/mpeg" url="https://www.archive.org/download/fantastics_and_other_fancies_2211_librivox/fantasticsandotherfancies_19_hearn_64kb.mp3"/>
+<itunes:explicit>No</itunes:explicit>
+<itunes:block>No</itunes:block>
+<itunes:duration> </itunes:duration>
+<pubDate>Mon, 07 Nov 2022 00:19:00 +0000</pubDate>
+<media:content type="audio/mpeg" url="https://www.archive.org/download/fantastics_and_other_fancies_2211_librivox/fantasticsandotherfancies_19_hearn_64kb.mp3"/>
+</item>
+<item>
+<title>At the Cemetery</title>
+<itunes:episode>20</itunes:episode>
+<!--<reader>file element=reader</reader> -->
+<link>https://librivox.org/fantastics-and-other-fancies-by-lafcadio-hearn/</link>
+<enclosure length="0" type="audio/mpeg" url="https://www.archive.org/download/fantastics_and_other_fancies_2211_librivox/fantasticsandotherfancies_20_hearn_64kb.mp3"/>
+<itunes:explicit>No</itunes:explicit>
+<itunes:block>No</itunes:block>
+<itunes:duration> </itunes:duration>
+<pubDate>Mon, 07 Nov 2022 00:20:00 +0000</pubDate>
+<media:content type="audio/mpeg" url="https://www.archive.org/download/fantastics_and_other_fancies_2211_librivox/fantasticsandotherfancies_20_hearn_64kb.mp3"/>
+</item>
+<item>
+<title>"Aida"</title>
+<itunes:episode>21</itunes:episode>
+<!--<reader>file element=reader</reader> -->
+<link>https://librivox.org/fantastics-and-other-fancies-by-lafcadio-hearn/</link>
+<enclosure length="0" type="audio/mpeg" url="https://www.archive.org/download/fantastics_and_other_fancies_2211_librivox/fantasticsandotherfancies_21_hearn_64kb.mp3"/>
+<itunes:explicit>No</itunes:explicit>
+<itunes:block>No</itunes:block>
+<itunes:duration> </itunes:duration>
+<pubDate>Mon, 07 Nov 2022 00:21:00 +0000</pubDate>
+<media:content type="audio/mpeg" url="https://www.archive.org/download/fantastics_and_other_fancies_2211_librivox/fantasticsandotherfancies_21_hearn_64kb.mp3"/>
+</item>
+<item>
+<title>El Vomito</title>
+<itunes:episode>22</itunes:episode>
+<!--<reader>file element=reader</reader> -->
+<link>https://librivox.org/fantastics-and-other-fancies-by-lafcadio-hearn/</link>
+<enclosure length="0" type="audio/mpeg" url="https://www.archive.org/download/fantastics_and_other_fancies_2211_librivox/fantasticsandotherfancies_22_hearn_64kb.mp3"/>
+<itunes:explicit>No</itunes:explicit>
+<itunes:block>No</itunes:block>
+<itunes:duration> </itunes:duration>
+<pubDate>Mon, 07 Nov 2022 00:22:00 +0000</pubDate>
+<media:content type="audio/mpeg" url="https://www.archive.org/download/fantastics_and_other_fancies_2211_librivox/fantasticsandotherfancies_22_hearn_64kb.mp3"/>
+</item>
+<item>
+<title>The Idyl of a French Snuff-Box</title>
+<itunes:episode>23</itunes:episode>
+<!--<reader>file element=reader</reader> -->
+<link>https://librivox.org/fantastics-and-other-fancies-by-lafcadio-hearn/</link>
+<enclosure length="0" type="audio/mpeg" url="https://www.archive.org/download/fantastics_and_other_fancies_2211_librivox/fantasticsandotherfancies_23_hearn_64kb.mp3"/>
+<itunes:explicit>No</itunes:explicit>
+<itunes:block>No</itunes:block>
+<itunes:duration> </itunes:duration>
+<pubDate>Mon, 07 Nov 2022 00:23:00 +0000</pubDate>
+<media:content type="audio/mpeg" url="https://www.archive.org/download/fantastics_and_other_fancies_2211_librivox/fantasticsandotherfancies_23_hearn_64kb.mp3"/>
+</item>
+<item>
+<title>Spring Phantoms</title>
+<itunes:episode>24</itunes:episode>
+<!--<reader>file element=reader</reader> -->
+<link>https://librivox.org/fantastics-and-other-fancies-by-lafcadio-hearn/</link>
+<enclosure length="0" type="audio/mpeg" url="https://www.archive.org/download/fantastics_and_other_fancies_2211_librivox/fantasticsandotherfancies_24_hearn_64kb.mp3"/>
+<itunes:explicit>No</itunes:explicit>
+<itunes:block>No</itunes:block>
+<itunes:duration> </itunes:duration>
+<pubDate>Mon, 07 Nov 2022 00:24:00 +0000</pubDate>
+<media:content type="audio/mpeg" url="https://www.archive.org/download/fantastics_and_other_fancies_2211_librivox/fantasticsandotherfancies_24_hearn_64kb.mp3"/>
+</item>
+<item>
+<title>A Kiss Fantastical</title>
+<itunes:episode>25</itunes:episode>
+<!--<reader>file element=reader</reader> -->
+<link>https://librivox.org/fantastics-and-other-fancies-by-lafcadio-hearn/</link>
+<enclosure length="0" type="audio/mpeg" url="https://www.archive.org/download/fantastics_and_other_fancies_2211_librivox/fantasticsandotherfancies_25_hearn_64kb.mp3"/>
+<itunes:explicit>No</itunes:explicit>
+<itunes:block>No</itunes:block>
+<itunes:duration> </itunes:duration>
+<pubDate>Mon, 07 Nov 2022 00:25:00 +0000</pubDate>
+<media:content type="audio/mpeg" url="https://www.archive.org/download/fantastics_and_other_fancies_2211_librivox/fantasticsandotherfancies_25_hearn_64kb.mp3"/>
+</item>
+<item>
+<title>The Bird and the Girl</title>
+<itunes:episode>26</itunes:episode>
+<!--<reader>file element=reader</reader> -->
+<link>https://librivox.org/fantastics-and-other-fancies-by-lafcadio-hearn/</link>
+<enclosure length="0" type="audio/mpeg" url="https://www.archive.org/download/fantastics_and_other_fancies_2211_librivox/fantasticsandotherfancies_26_hearn_64kb.mp3"/>
+<itunes:explicit>No</itunes:explicit>
+<itunes:block>No</itunes:block>
+<itunes:duration> </itunes:duration>
+<pubDate>Mon, 07 Nov 2022 00:26:00 +0000</pubDate>
+<media:content type="audio/mpeg" url="https://www.archive.org/download/fantastics_and_other_fancies_2211_librivox/fantasticsandotherfancies_26_hearn_64kb.mp3"/>
+</item>
+<item>
+<title>The Tale of a Fan</title>
+<itunes:episode>27</itunes:episode>
+<!--<reader>file element=reader</reader> -->
+<link>https://librivox.org/fantastics-and-other-fancies-by-lafcadio-hearn/</link>
+<enclosure length="0" type="audio/mpeg" url="https://www.archive.org/download/fantastics_and_other_fancies_2211_librivox/fantasticsandotherfancies_27_hearn_64kb.mp3"/>
+<itunes:explicit>No</itunes:explicit>
+<itunes:block>No</itunes:block>
+<itunes:duration> </itunes:duration>
+<pubDate>Mon, 07 Nov 2022 00:27:00 +0000</pubDate>
+<media:content type="audio/mpeg" url="https://www.archive.org/download/fantastics_and_other_fancies_2211_librivox/fantasticsandotherfancies_27_hearn_64kb.mp3"/>
+</item>
+<item>
+<title>A Legend</title>
+<itunes:episode>28</itunes:episode>
+<!--<reader>file element=reader</reader> -->
+<link>https://librivox.org/fantastics-and-other-fancies-by-lafcadio-hearn/</link>
+<enclosure length="0" type="audio/mpeg" url="https://www.archive.org/download/fantastics_and_other_fancies_2211_librivox/fantasticsandotherfancies_28_hearn_64kb.mp3"/>
+<itunes:explicit>No</itunes:explicit>
+<itunes:block>No</itunes:block>
+<itunes:duration> </itunes:duration>
+<pubDate>Mon, 07 Nov 2022 00:28:00 +0000</pubDate>
+<media:content type="audio/mpeg" url="https://www.archive.org/download/fantastics_and_other_fancies_2211_librivox/fantasticsandotherfancies_28_hearn_64kb.mp3"/>
+</item>
+<item>
+<title>The Gypsy's Story</title>
+<itunes:episode>29</itunes:episode>
+<!--<reader>file element=reader</reader> -->
+<link>https://librivox.org/fantastics-and-other-fancies-by-lafcadio-hearn/</link>
+<enclosure length="0" type="audio/mpeg" url="https://www.archive.org/download/fantastics_and_other_fancies_2211_librivox/fantasticsandotherfancies_29_hearn_64kb.mp3"/>
+<itunes:explicit>No</itunes:explicit>
+<itunes:block>No</itunes:block>
+<itunes:duration> </itunes:duration>
+<pubDate>Mon, 07 Nov 2022 00:29:00 +0000</pubDate>
+<media:content type="audio/mpeg" url="https://www.archive.org/download/fantastics_and_other_fancies_2211_librivox/fantasticsandotherfancies_29_hearn_64kb.mp3"/>
+</item>
+<item>
+<title>The One Pill-Box</title>
+<itunes:episode>30</itunes:episode>
+<!--<reader>file element=reader</reader> -->
+<link>https://librivox.org/fantastics-and-other-fancies-by-lafcadio-hearn/</link>
+<enclosure length="0" type="audio/mpeg" url="https://www.archive.org/download/fantastics_and_other_fancies_2211_librivox/fantasticsandotherfancies_30_hearn_64kb.mp3"/>
+<itunes:explicit>No</itunes:explicit>
+<itunes:block>No</itunes:block>
+<itunes:duration> </itunes:duration>
+<pubDate>Mon, 07 Nov 2022 00:30:00 +0000</pubDate>
+<media:content type="audio/mpeg" url="https://www.archive.org/download/fantastics_and_other_fancies_2211_librivox/fantasticsandotherfancies_30_hearn_64kb.mp3"/>
+</item>
+<item>
+<title>A River Reverie</title>
+<itunes:episode>31</itunes:episode>
+<!--<reader>file element=reader</reader> -->
+<link>https://librivox.org/fantastics-and-other-fancies-by-lafcadio-hearn/</link>
+<enclosure length="0" type="audio/mpeg" url="https://www.archive.org/download/fantastics_and_other_fancies_2211_librivox/fantasticsandotherfancies_31_hearn_64kb.mp3"/>
+<itunes:explicit>No</itunes:explicit>
+<itunes:block>No</itunes:block>
+<itunes:duration> </itunes:duration>
+<pubDate>Mon, 07 Nov 2022 00:31:00 +0000</pubDate>
+<media:content type="audio/mpeg" url="https://www.archive.org/download/fantastics_and_other_fancies_2211_librivox/fantasticsandotherfancies_31_hearn_64kb.mp3"/>
+</item>
+<item>
+<title>"His Heart is Old"</title>
+<itunes:episode>32</itunes:episode>
+<!--<reader>file element=reader</reader> -->
+<link>https://librivox.org/fantastics-and-other-fancies-by-lafcadio-hearn/</link>
+<enclosure length="0" type="audio/mpeg" url="https://www.archive.org/download/fantastics_and_other_fancies_2211_librivox/fantasticsandotherfancies_32_hearn_64kb.mp3"/>
+<itunes:explicit>No</itunes:explicit>
+<itunes:block>No</itunes:block>
+<itunes:duration> </itunes:duration>
+<pubDate>Mon, 07 Nov 2022 00:32:00 +0000</pubDate>
+<media:content type="audio/mpeg" url="https://www.archive.org/download/fantastics_and_other_fancies_2211_librivox/fantasticsandotherfancies_32_hearn_64kb.mp3"/>
+</item>
+<item>
+<title>MDCCCLIII</title>
+<itunes:episode>33</itunes:episode>
+<!--<reader>file element=reader</reader> -->
+<link>https://librivox.org/fantastics-and-other-fancies-by-lafcadio-hearn/</link>
+<enclosure length="0" type="audio/mpeg" url="https://www.archive.org/download/fantastics_and_other_fancies_2211_librivox/fantasticsandotherfancies_33_hearn_64kb.mp3"/>
+<itunes:explicit>No</itunes:explicit>
+<itunes:block>No</itunes:block>
+<itunes:duration> </itunes:duration>
+<pubDate>Mon, 07 Nov 2022 00:33:00 +0000</pubDate>
+<media:content type="audio/mpeg" url="https://www.archive.org/download/fantastics_and_other_fancies_2211_librivox/fantasticsandotherfancies_33_hearn_64kb.mp3"/>
+</item>
+<item>
+<title>Hiouen-Thsang</title>
+<itunes:episode>34</itunes:episode>
+<!--<reader>file element=reader</reader> -->
+<link>https://librivox.org/fantastics-and-other-fancies-by-lafcadio-hearn/</link>
+<enclosure length="0" type="audio/mpeg" url="https://www.archive.org/download/fantastics_and_other_fancies_2211_librivox/fantasticsandotherfancies_34_hearn_64kb.mp3"/>
+<itunes:explicit>No</itunes:explicit>
+<itunes:block>No</itunes:block>
+<itunes:duration> </itunes:duration>
+<pubDate>Mon, 07 Nov 2022 00:34:00 +0000</pubDate>
+<media:content type="audio/mpeg" url="https://www.archive.org/download/fantastics_and_other_fancies_2211_librivox/fantasticsandotherfancies_34_hearn_64kb.mp3"/>
+</item>
+<item>
+<title>L'Amour AprÃ¨s la Mort</title>
+<itunes:episode>35</itunes:episode>
+<!--<reader>file element=reader</reader> -->
+<link>https://librivox.org/fantastics-and-other-fancies-by-lafcadio-hearn/</link>
+<enclosure length="0" type="audio/mpeg" url="https://www.archive.org/download/fantastics_and_other_fancies_2211_librivox/fantasticsandotherfancies_35_hearn_64kb.mp3"/>
+<itunes:explicit>No</itunes:explicit>
+<itunes:block>No</itunes:block>
+<itunes:duration> </itunes:duration>
+<pubDate>Mon, 07 Nov 2022 00:35:00 +0000</pubDate>
+<media:content type="audio/mpeg" url="https://www.archive.org/download/fantastics_and_other_fancies_2211_librivox/fantasticsandotherfancies_35_hearn_64kb.mp3"/>
+</item>
+<item>
+<title>The Post-Office</title>
+<itunes:episode>36</itunes:episode>
+<!--<reader>file element=reader</reader> -->
+<link>https://librivox.org/fantastics-and-other-fancies-by-lafcadio-hearn/</link>
+<enclosure length="0" type="audio/mpeg" url="https://www.archive.org/download/fantastics_and_other_fancies_2211_librivox/fantasticsandotherfancies_36_hearn_64kb.mp3"/>
+<itunes:explicit>No</itunes:explicit>
+<itunes:block>No</itunes:block>
+<itunes:duration> </itunes:duration>
+<pubDate>Mon, 07 Nov 2022 00:36:00 +0000</pubDate>
+<media:content type="audio/mpeg" url="https://www.archive.org/download/fantastics_and_other_fancies_2211_librivox/fantasticsandotherfancies_36_hearn_64kb.mp3"/>
+</item>
+<!-- end file loop -->
+</channel>
+</rss>
